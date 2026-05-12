@@ -1,0 +1,37 @@
+/*-- scss:rules --*/
+/* Estilos para las cajas de texto (Cajas) */
+.caja-box {
+  border-left: 5px solid #2c3e50;
+  background-color: #cee3f8;
+  padding: 1.5em;
+  margin: 1.5em 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  font-size: 0.9em; /* Tamaño de letra ligeramente menor */
+  line-height: 1.6;
+  color: #333;
+
+  p {
+    margin-bottom: 1em;
+  }
+
+  p:last-child {
+    margin-bottom: 0;
+  }
+
+  /* El primer elemento fuerte suele ser el título (e.g. Caja 1.) */
+  strong:first-child {
+    color: #2c3e50;
+    display: inline-block;
+    margin-bottom: 0.5em;
+    font-size: 1.05em;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 2px;
+  }
+}
+
+/* Ajuste para tablas dentro de cajas */
+.caja-box table {
+  font-size: 0.95em;
+  margin-top: 1em;
+}
