@@ -1,0 +1,1159 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Rafael Fernández">
+<meta name="author" content="Luis Yamin">
+<meta name="author" content="Juan Carlos Reyes">
+<meta name="author" content="Angie Garcia">
+<meta name="author" content="Gustavo Fuentes">
+<meta name="author" content="Juan Echeverry">
+
+<title>Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar – Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./03-capitulo-3-evaluacion-probabilista-del-riesgo.html" rel="next">
+<link href="./01-capitulo-1-actualizacion-de-los-coeficientes-.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-fa08c554f781f21c83124871034685bc.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner h1,
+      .quarto-title-block .quarto-title-banner h2,
+      .quarto-title-block .quarto-title-banner h3,
+      .quarto-title-block .quarto-title-banner h4,
+      .quarto-title-block .quarto-title-banner h5,
+      .quarto-title-block .quarto-title-banner h6
+      {
+        color: #151550ff;
+      }
+
+      .quarto-title-block .quarto-title-banner {
+        color: #151550ff;
+background-image: url(images/banner_2021.png);
+background-size: cover;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+</head>
+
+<body class="nav-sidebar floating quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.html"><span class="chapter-title">Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar</span></a></li></ol></nav>
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-body">
+      <h1 class="title"><span class="chapter-title">Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar</span></h1>
+                      </div>
+  </div>
+    
+  
+  <div class="quarto-title-meta">
+
+      <div>
+      <div class="quarto-title-meta-heading">Authors</div>
+      <div class="quarto-title-meta-contents">
+               <p>Rafael Fernández </p>
+               <p>Luis Yamin </p>
+               <p>Juan Carlos Reyes </p>
+               <p>Angie Garcia </p>
+               <p>Gustavo Fuentes </p>
+               <p>Juan Echeverry </p>
+            </div>
+    </div>
+      
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021</a> 
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Presentación del libro</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./prelim-pagina-legal.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Página Legal</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./prelim-prologo.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Prólogo</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./prelim-lista-de-autores.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lista de autores</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./01-capitulo-1-actualizacion-de-los-coeficientes-.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./03-capitulo-3-evaluacion-probabilista-del-riesgo.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./04-capitulo-4-contribucion-de-la-geodesia-espaci.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./05-capitulo-5-nociones-performativas-del-reasent.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 5: Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./06-capitulo-6-animales-en-la-gestion-del-riesgo-.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 6: Animales en la gestión del riesgo de los desastres</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./07-capitulo-7-iniciativas-para-la-reduccion-del-.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./08-capitulo-8-comunicacion-del-riesgo-reflexione.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./09-capitulo-9-la-perspectiva-historica-en-la-ges.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 9: La perspectiva histórica en la gestión del riesgo de desastres: aplicación en Santiago de Cali, Colombia</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./10-capitulo-10-estudio-de-riesgo-por-movimientos.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 11: De la percepción de la amenaza a su cuantificación. Caso de estudio: desbordamiento del río Unete en Aguazul, Casanare, Colombia</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./12-capitulo-12-obras-costeras-y-clima-maritimo-c.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./13-capitulo-13-modelo-de-gestion-y-analisis-del-.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 13: Modelo de gestión y análisis del riesgo por erosión costera. Caso de estudio departamento de Córdoba</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./14-capitulo-14-gestion-del-riesgo-por-inundacion.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./15-post-lista-de-pares-revisores.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Lista de pares revisores</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./16-post-indice-tematico.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Índice temático</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#resumen" id="toc-resumen" class="nav-link active" data-scroll-target="#resumen">Resumen</a></li>
+  <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">INTRODUCCIÓN</a></li>
+  <li><a href="#metodología" id="toc-metodología" class="nav-link" data-scroll-target="#metodología">METODOLOGÍA</a>
+  <ul class="collapse">
+  <li><a href="#metodología-para-el-desarrollo-de-planes-de-mitigación-del-riesgo" id="toc-metodología-para-el-desarrollo-de-planes-de-mitigación-del-riesgo" class="nav-link" data-scroll-target="#metodología-para-el-desarrollo-de-planes-de-mitigación-del-riesgo">Metodología para el desarrollo de planes de mitigación del riesgo</a></li>
+  <li><a href="#evaluación-del-riesgo" id="toc-evaluación-del-riesgo" class="nav-link" data-scroll-target="#evaluación-del-riesgo">Evaluación del riesgo</a></li>
+  <li><a href="#alternativas-de-reforzamiento-estructural" id="toc-alternativas-de-reforzamiento-estructural" class="nav-link" data-scroll-target="#alternativas-de-reforzamiento-estructural">Alternativas de reforzamiento estructural</a></li>
+  <li><a href="#priorización-y-planes-de-mitigación-del-riesgo-sísmico-pmrs" id="toc-priorización-y-planes-de-mitigación-del-riesgo-sísmico-pmrs" class="nav-link" data-scroll-target="#priorización-y-planes-de-mitigación-del-riesgo-sísmico-pmrs">Priorización y Planes de Mitigación del Riesgo Sísmico (PMRS)</a></li>
+  </ul></li>
+  <li><a href="#tipologías-predominantes-en-el-sector" id="toc-tipologías-predominantes-en-el-sector" class="nav-link" data-scroll-target="#tipologías-predominantes-en-el-sector">TIPOLOGÍAS PREDOMINANTES EN EL SECTOR</a>
+  <ul class="collapse">
+  <li><a href="#tipologías-de-concreto-reforzado" id="toc-tipologías-de-concreto-reforzado" class="nav-link" data-scroll-target="#tipologías-de-concreto-reforzado">Tipologías de concreto reforzado</a></li>
+  <li><a href="#tipologías-de-mampostería" id="toc-tipologías-de-mampostería" class="nav-link" data-scroll-target="#tipologías-de-mampostería">Tipologías de mampostería</a></li>
+  </ul></li>
+  <li><a href="#casos-de-estudio" id="toc-casos-de-estudio" class="nav-link" data-scroll-target="#casos-de-estudio">CASOS DE ESTUDIO</a>
+  <ul class="collapse">
+  <li><a href="#cali-colombia" id="toc-cali-colombia" class="nav-link" data-scroll-target="#cali-colombia">Cali, Colombia</a></li>
+  <li><a href="#valle-de-aburrá-colombia" id="toc-valle-de-aburrá-colombia" class="nav-link" data-scroll-target="#valle-de-aburrá-colombia">Valle de Aburrá, Colombia</a></li>
+  </ul></li>
+  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">CONCLUSIONES</a></li>
+  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">AGRADECIMIENTOS</a></li>
+  <li><a href="#identificación-del-autor" id="toc-identificación-del-autor" class="nav-link" data-scroll-target="#identificación-del-autor">IDENTIFICACIÓN DEL AUTOR</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block" id="quarto-document-content">
+
+
+
+
+
+<p>1Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia</p>
+<p>*Autor de contacto: Rafael Fernández. Centro de Investigación en Materiales y Obras Civiles, Departamento de Ingeniería Civil y Ambiental, Universidad de los Andes, Bogotá, Colombia. Correo-e:</p>
+<section id="resumen" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="resumen">Resumen</h2>
+<p>El desarrollo de planes de mitigación del riesgo de estructuras del sector escolar es una prioridad para los gobiernos por la importancia del sector, la vulnerabilidad de sus ocupantes y la vulnerabilidad de sus edificaciones evidenciada en sismos recientes. El objetivo principal de este capítulo es presentar una metodología para el desarrollo de estos planes de mitigación. La metodología propuesta incluye la identificación de tipologías principales y la consolidación del portafolio de infraestructura expuesta, el análisis del riesgo de desastre y el planteamiento de planes para la reducción del riesgo. Se presentan las tipologías escolares comunes identificadas en diferentes países y dos casos de estudio desarrollados por los autores en Colombia. Finalmente, se discuten los desafíos más importantes tanto para el desarrollo de los planes como en su posible implementación. La metodología y los resultados presentados en este documento buscan sentar unas bases para la evaluación y el desarrollo de planes de mitigación del riesgo para la infraestructura escolar.</p>
+<p><strong>Palabras clave</strong></p>
+<p>Infraestructura escolar, mitigación, reforzamiento, riesgo, tipologías</p>
+<p><strong>Seismic Risk Mitigation for School Infrastructure</strong></p>
+</section>
+<section id="abstract" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The development of risk mitigation plans for school infrastructure is a priority for the governments due to the sector’s importance, the vulnerability of its occupants, and the vulnerability of the buildings identified in recent seismic events. The main objective of this chapter is to present a methodology for the development of these mitigation plans. The proposed methodology includes the identification of the main typologies and the consolidations of the school buildings portfolio, the disaster risk assessment, and the proposal of risk reduction plans. The most common school typologies are presented with two study cases developed by the authors in Colombia. Finally, the most critical challenges are discussed both for the development of the plans and their possible implementation. The methodology and the results presented in this document aims to establish the bases for risk reduction plans in school infrastructure.</p>
+<p><strong>Keywords</strong></p>
+<p>Mitigation, retrofitting, risk, school’s infrastructure, typologies</p>
+</section>
+<section id="introducción" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="introducción">INTRODUCCIÓN</h2>
+<p>El sector escolar es uno de los más vulnerables frente a eventos naturales en particular para eventos sísmicos. Esto se debe a la vulnerabilidad física de edificaciones antiguas y a las características de sus ocupantes [1]. Por otra parte, sus características arquitectónicas permiten que esta infraestructura se utilice como espacios de refugios para damnificados por eventos de desastre de gran magnitud. La alta vulnerabilidad de este tipo de infraestructura se ha evidenciado en eventos sísmicos recientes en los cuales se han visto colapsos parciales y totales de la infraestructura. En edificaciones de concreto reforzado se han evidenciado daños en diferentes territorios; en particular EERI ha identificado colapsos o daños graves en India, Indonesia, Perú, Turquía, Estados Unidos y Haití en edificaciones con sistemas de pórticos y muros [2]. Construcciones en muros de mampostería también han sufrido daños importantes como lo evidencia Chen et al.&nbsp;[3], en donde se identifican casos de daños y colapsos de edificaciones escolares en el sismo de Ghorka, Nepal en el 2015. En Latinoamérica se han presentado daños importantes en el sector. Por ejemplo, en México, en el sismo de Puebla del 2017 alrededor de 280 escuelas sufrieron daños que necesitaron reparaciones [4] y en Ecuador en el sismo de Muisne 2016 se registraron colapsos totales o parciales de escuelas en Manta, Pedernales y Portoviejo [5].</p>
+<p>Teniendo en cuenta esta problemática, se han desarrollado diferentes iniciativas para el reforzamiento y mejoramiento de la infraestructura escolar a nivel mundial. Una de las iniciativas más importantes es el Programa Global para Escuelas Seguras (GPSS por sus siglas en inglés) del Banco Mundial que ha desarrollado proyectos en Perú, Colombia, El Salvador, República Dominicana, Kirguistán y Grecia, entre otros. Por otro lado, la ONG Build Change tiene un programa de mejoramiento de infraestructura escolar denominado Escuelas Seguras en donde se han desarrollado proyectos en Indonesia, Filipinas y Nepal. Existen también iniciativas gubernamentales que buscan reducir el riesgo sísmico, un ejemplo de este tipo de iniciativas es <em>Cali Resiliente</em> que se enfoca en mejorar la infraestructura escolar mediante reforzamientos estructurales en la infraestructura escolar de la capital del Valle del Cauca en Colombia o el desarrollo del <em>Plan Metropolitano del Riesgo Sísmico</em> desarrollado por el Área Metropolitana del Valle de Aburrá en Medellín y sus municipios aledaños.</p>
+<p>Adicionalmente, existen estudios en la literatura que evalúan el riesgo sísmico en el sector escolar en diferentes países con una perspectiva macro para priorizar recursos y poder realizar estudios detallados y estrategias particulares de intervención. Valcárcel et al.&nbsp;[6] presenta un análisis simplificado riesgo probabilista a nivel Latinoamérica a partir de indicadores demográficos y referencias internacionales con el objetivo de priorizar los países cuyo riesgo sísmico sea alto en la infraestructura escolar. Otro ejemplo de este tipo de estudios es el desarrollado por Mora et al.&nbsp;[7] en donde se realiza un estudio similar al anterior para los diferentes municipios de Colombia.</p>
+<p>Por otro lado, también existen trabajos detallados como el desarrollado por Chrysostomou et al.&nbsp;[8] en el cual se presenta un estudio para Chipre mostrando cómo se desarrolló un programa a nivel nacional de reducción de riesgo en el sector escolar con un resultado positivo en el cual más del 90% de las edificaciones utilizadas en el sector se consideran seguras frente a sismos según las normativas nacionales. Jaimes &amp; Niño [9] presentan un estudio similar en México en donde analizan el portafolio de edificaciones escolares a partir de las fechas de construcción y su relación con los códigos de construcción sismorresistente nacionales. Por último, Samadian et al.&nbsp;[10] presenta un estudio de resiliencia en Irán en donde presentan los detalles de los modelos y resultados obtenidos para una edificación tipo en mampostería. Como se observa en los ejemplos anteriores, la importancia de la mitigación del riesgo y el aumento en la resiliencia del sector escolar es una de las prioridades de cada país, incluso en Irán se ha incluido la gestión de riesgo de desastres y emergencias en el currículo escolar con el objetivo que los estudiantes sean conscientes de la importancia de la resiliencia desde temprana edad [11].</p>
+<p>Teniendo en cuenta este contexto, el objetivo de este capítulo es presentar una metodología general para el análisis y desarrollo de planes de mitigación del riesgo en el sector escolar. En la Sección 2 se presentará la metodología propuesta para abordar el problema. La sección 3 describe las tipologías escolares más comunes encontradas en diferentes proyectos. La sección 4 presenta dos casos de estudio de la metodología indicada desarrollados en Colombia por los autores. Por último, las secciones 5 y 6 presentan las recomendaciones y trabajo futuro y los agradecimientos respectivamente.</p>
+</section>
+<section id="metodología" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="metodología">METODOLOGÍA</h2>
+<section id="metodología-para-el-desarrollo-de-planes-de-mitigación-del-riesgo" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="metodología-para-el-desarrollo-de-planes-de-mitigación-del-riesgo">Metodología para el desarrollo de planes de mitigación del riesgo</h3>
+<p>Con el fin de desarrollar una estrategia adecuada para la mitigación del riesgo de desastres es necesario realizar un análisis detallado de la situación actual. En primer lugar, se debe recolectar información para consolidar una base de datos de la infraestructura expuesta que represente adecuadamente la infraestructura de la zona de estudio. Esta base de datos debe contener al menos información en cada colegio del número de edificaciones, el número de pisos y aulas escolares en cada uno, número de estudiantes, año de construcción, material y sistema estructural, y nivel de diseño. Para esto se recomienda desarrollar un sistema taxonómico de identificación o utilizar uno existente como el desarrollado en el marco del Programa Global para Escuelas Seguras (GPSS por sus siglas en inglés) del Banco Mundial, en el cual participaron los autores [12]. En particular, el nivel de diseño es una variable difícil de obtener puesto que cada país tiene sus propias normativas y cada región sus técnicas constructivas. Se recomienda para esto asignar un nivel de diseño a partir de parámetros como el año de construcción, características estructurales, dimensiones, constructor y experiencias locales según la información disponible.</p>
+<p>Una vez se tiene esta base de datos, se debe realizar un análisis del riesgo en el estado actual. Se recomienda realizar un análisis probabilista del riesgo con el objetivo de tener en cuenta la incertidumbre y el riesgo en el proceso de toma de decisiones. Utilizando los resultados de este panorama general, se deben analizar los mecanismos de colapso y las vulnerabilidades de las principales tipologías del portafolio a partir de un análisis no lineal tridimensional con el fin de proponer medidas de reforzamiento estructural [13]. Estas medidas se deben diseñar a nivel macro con el objetivo que puedan ser aplicadas a gran escala. Una vez se tienen estas medidas identificadas, se debe realizar un análisis de riesgo en un estado “mitigado”. El análisis de este estado ideal de la infraestructura permite desarrollar planes de mitigación del riesgo que se ajusten a las limitaciones económicas y temporales de cada caso particular. Este análisis permite entonces identificar las edificaciones que mayor reducción del riesgo presentan y su priorización por diferentes criterios. La metodología general se presenta en la Figura 1. En los próximos numerales se resumirán algunas de las estrategias más comunes utilizadas en la práctica para el desarrollo de la evaluación del riesgo, la identificación de alternativas de reforzamiento estructural. Los casos de estudio presentados más adelante siguen la metodología indicada en este capítulo; sin embargo, se presentarán desde la descripción del modelo de exposición y no se detallará la fase de recolección de información por limitaciones en el alcance. Sin embargo, vale la pena aclarar, que en esta fase existen múltiples incertidumbres que deben tratarse adecuadamente para obtener resultados confiables.</p>
+<p><img src="media/img_7739e9ac.png" class="img-fluid"></p>
+<p><strong>Figura 1. </strong>Metodología para desarrollo de planes de mitigación del riesgo sísmico en el sector escolar.</p>
+</section>
+<section id="evaluación-del-riesgo" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="evaluación-del-riesgo">Evaluación del riesgo</h3>
+<p>Análisis de riesgo sísmico</p>
+<p>La aproximación utilizada para la evaluación del riesgo sísmico se basa en un catálogo de eventos estocásticos modelados a partir de la información de la sismicidad histórica de la zona de estudio. Esta evaluación sigue un enfoque prospectivo, anticipando eventos de ocurrencia y consecuencias factibles. El análisis contempla incertidumbres asociadas a la estimación de la magnitud y frecuencia en la amenaza, así como también las asociadas a la vulnerabilidad y distribución del portafolio de elementos expuestos. Para esto es necesario evaluar los siguientes componentes principales: la amenaza en términos probabilistas, la exposición que corresponde al portafolio de edificaciones escolares susceptibles de sufrir daño y la vulnerabilidad de estas. La Figura 2 presenta el esquema general del modelo probabilista de evaluación del riesgo. Más información sobre la metodología general de evaluación del riesgo sísmico se puede encontrar en Yamin et al.&nbsp;[14] y en Yang [15].</p>
+<p><img src="media/img_2d3817da.png" class="img-fluid"></p>
+<p><strong>Figura 2. </strong>Modelo probabilista del riesgo.</p>
+<p>Análisis de la amenaza sísmica</p>
+<p>El primer paso para el desarrollo de la evaluación del riesgo sísmico es el análisis de la amenaza probabilista. Este análisis permite estimar los niveles de aceleración a las que las edificaciones podrían verse sometidas durante un sismo. Para esto es necesario desarrollar un modelo de aceleración en roca [16] y un modelo de aceleración en superficie que tenga en cuenta la amplificación por suelos blandos [17]. El modelo de amenaza sísmica se representa mediante mapas de distribución de parámetros de intensidad sísmica como la aceleración máxima del terreno o las aceleraciones espectrales para diferentes periodos de vibración y amortiguamiento estructural. Cada uno de estos se evalúa para un conjunto completo de posibles eventos estocásticos que pueden llegar a ocurrir en la zona de influencia teniendo en cuenta los rangos de magnitudes posibles en las diferentes fuentes sísmicas y las distancias relativas entre estas. Cada evento se identifica con la frecuencia media anual de ocurrencia que se obtiene con base en el análisis de la frecuencia de eventos históricos. Para más detalles del procedimiento consultar las referencias [14–16].</p>
+<p>Exposición de edificaciones</p>
+<p>El modelo de exposición relaciona espacialmente las edificaciones del portafolio con sus características constructivas. El costo y el tiempo asociado para desarrollar el modelo de elementos expuesto varía según la información existente y la resolución definida. En la mayoría de los casos de estudio desarrollados por los autores se ha evidenciado una deficiencia en la información existente, por lo que ha sido necesario llevar a cabo visitas de campo y exploraciones a las escuelas con el fin de obtener datos mínimos. Estas campañas de campo pueden llegar a ser la parte más costosa y dispendiosa del proyecto en caso de que no se cuente con información. Con el fin que los resultados sean útiles para desarrollar el análisis de riesgo, se recomienda que el modelo tenga una resolución a nivel de edificación. Este modelo debe contar con la ubicación de las escuelas, la cantidad de edificaciones, el número de pisos de cada edificación, el material principal, el sistema estructural de resistencia sísmica y gravitacional, y el nivel de diseño sísmico. Este último parámetro se puede clasificar en edificaciones no ingenieriles y edificaciones ingenieriles con nivel de diseño bajo, medio y alto. La definición de cada nivel es particular de cada proyecto y cada país, a manera de ejemplo para el caso colombiano se pueden comparar con los niveles de diseño DMI, DMO y DES de la Norma Sismo Resistente Colombiana - NSR10 [18]. Este parámetro es uno de los más difíciles de asignar directamente por lo que se debe obtener a partir de correlaciones de otras variables como el año de construcción, el organismo constructor, dimensiones de elementos estructurales y presencia de elementos de detallamiento sísmico, entre otros.</p>
+<p>Para caracterizar estructuralmente las edificaciones se recomienda utilizar el sistema de clasificación taxonómica establecido en el marco de la Librería Global de Infraestructura Escolar (GLOSI por sus siglas en inglés) [12]. Este sistema de clasificación se diseñó específicamente para catalogar edificaciones escolares y tiene la flexibilidad de la cantidad de información a incluir. El proceso de asignación consiste en clasificar todas las edificaciones escolares mediante la caracterización de los parámetros principales, con estos identificar las edificaciones índice o arquetipo que son aquellas que dominan el portafolio y en estas edificaciones caracterizar los parámetros secundarios y los parámetros intrínsecos como se puede ver en la Figura 3. La cantidad de escuelas a analizar en cada nivel (parámetros principales, secundarios e intrínsecos) debe seleccionarse según las características y las limitaciones de cada proyecto asegurando que las muestras seleccionadas se puedan clasificar como muestras aleatorias representativas. Para más información de esta metodología consultar .</p>
+<p><img src="media/img_84e6ee4a.png" class="img-fluid"></p>
+<p><strong>Figura 3. </strong>Sistema de clasificación taxonómico de la Librería Global para Infraestructura Escolar. Adaptado de GLOSI [12].</p>
+<p>Con estos parámetros se debe asignar o generar una función de vulnerabilidad sísmica que represente las características estructurales de la edificación como se mostrará en el siguiente numeral. Teniendo en cuenta lo anterior, para el análisis de riesgo es necesario contar con una base de datos georreferenciada a nivel de edificación que contenga a lo sumo lo siguiente:</p>
+<p>Identificación.</p>
+<p>Localización.</p>
+<p>Valor de reposición.</p>
+<p>Función de vulnerabilidad.</p>
+<p>Número máximo de estudiantes.</p>
+<p>Vulnerabilidad sísmica</p>
+<p>La vulnerabilidad sísmica de las construcciones se representa mediante una función que relaciona el valor medio del daño y su varianza (expresado en porcentaje con respecto al valor de reposición del bien) con una medida de intensidad sísmica, como se observa en la Figura 4. La medida de intensidad se puede expresar como la aceleración máxima del terreno o la aceleración espectral para un periodo estructural específico según el comportamiento de la edificación que se evalúa. Utilizando estas curvas es posible cuantificar los daños en edificaciones específicas o en cualquier componente de infraestructura para escenarios sísmicos específicos.</p>
+<p><img src="media/img_9e3e6c4a.png" class="img-fluid"></p>
+<p><strong>Figura 4. </strong>Función de vulnerabilidad típica.</p>
+<p>En la literatura se pueden encontrar diferentes catálogos de funciones de vulnerabilidad de edificaciones. Entre las principales fuentes de información se encuentra el programa HAZUS el cual propone una metodología para desarrollar funciones de fragilidad para diferentes tipos de amenazas producida por el FEMA (Agencia Federal para el Manejo de Emergencias por sus siglas en inglés) desde el año 1997 [19]. Estas funciones de fragilidad se adaptaron y transformaron para el contexto latinoamericano mediante la asignación de pesos relativos para obtener una única función de vulnerabilidad en el marco del proyecto GAR13 [20]. Estos catálogos se realizaron para diferentes tipos de edificaciones, no necesariamente edificaciones escolares por lo que se debe tener especial cuidado al utilizarlos en este contexto. Teniendo en cuenta esto se recomienda generar funciones particulares para cada proyecto que tengan en cuenta las características constructivas de cada región. Existen diferentes guías metodológicas para la generación de funciones de vulnerabilidad. Entre estas se destacan la iniciativa para la evaluación de vulnerabilidad propuesta por el GEM (Modelo Global de Terremotos) [21], la metodología de generación de funciones propuesta por Yamin et al.&nbsp;[22] y el GLOSI del Banco Mundial [13] entre otros.</p>
+</section>
+<section id="alternativas-de-reforzamiento-estructural" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="alternativas-de-reforzamiento-estructural">Alternativas de reforzamiento estructural</h3>
+<p>Una vez se ha determinado la vulnerabilidad de cada edificación, es necesario identificar el mecanismo de colapso a partir de un análisis no lineal tridimensional como se indicó anteriormente. Esta identificación permite proponer alternativas de reforzamiento con el fin de reducir la vulnerabilidad. Existen varias limitaciones que deben tenerse en cuenta en este proceso, en particular el cumplimiento de las normativas nacionales que pueden ser más o menos exigentes según el país. Cada país tiene actualmente sus propias normativas que limitan los tipos de reforzamiento. En algunos casos las normas exigen llevar las edificaciones a niveles de desempeño equivalente al de edificaciones nuevas, esto hace que los reforzamientos en ciertos casos no sean costo-efectivos, por lo que se vuelve necesario analizar alternativas como la del reforzamiento incremental en donde la intervención se divide en fases con el fin de reducir la posibilidad de colapso en el menor tiempo y con el menor costo posible para proteger las vidas de los ocupantes [23].</p>
+<p>Las estrategias de mitigación se pueden dividir en estructurales y no estructurales. Las estructurales son aquellas en las que se intervienen directamente los elementos estructurales y se modifica el comportamiento y los mecanismos de colapso de la edificación. Las intervenciones estructurales pueden enfocarse en rigidizar las estructuras (muros de concreto, contrafuertes, diagonales de acero, etc.) o en darle ductilidad a las estructuras (confinamiento, recubrimiento, rigidización de diafragmas, etc.). Por otro lado, las medidas de mitigación no estructurales se enfocan en asegurar un comportamiento sísmico adecuado de elementos que presenten riesgo a la vida, entre estos están el aseguramiento de cielos rasos, tuberías, estanterías y sistema HVAC (siglas en inglés de Calefacción, Ventilación y Aire Acondicionado) entre otros. Costos aproximados de este tipo de intervenciones se pueden encontrar en Valcárcel et al.&nbsp;[6] sin embargo se recomienda realizar presupuesto detallados para cada proyecto. Con el objetivo de asegurar niveles de calidad en los reforzamientos se recomienda seguir normativas internacionales reconocidas, entre las cuales se desatacan las siguientes:</p>
+<p>ASCE 41-17 [24].</p>
+<p>FEMA E-74 [25].</p>
+<p>British Columbia Ministry of Education [26].</p>
+<p>FEMA 308 [27].</p>
+</section>
+<section id="priorización-y-planes-de-mitigación-del-riesgo-sísmico-pmrs" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="priorización-y-planes-de-mitigación-del-riesgo-sísmico-pmrs">Priorización y Planes de Mitigación del Riesgo Sísmico (PMRS)</h3>
+<p>Los planes de mitigación del riesgo deben desarrollarse a partir de los resultados de los análisis anteriores, pero también deben concertarse con las autoridades locales de cada proyecto. Es fundamental concertar estos planes con el objetivo que su aplicabilidad sea mayor. Los PMRS se deben formular siguiendo los siguientes objetivos, en orden de importancia:</p>
+<p>Reducir el riesgo de muerte o accidentes a la comunidad estudiantil.</p>
+<p>Reducir los daños en la infraestructura, contenidos, instalaciones y proteger la propiedad.</p>
+<p>Beneficiar la mayor cantidad de estudiantes.</p>
+<p>Reducir el tiempo de interrupción de los servicios escolares.</p>
+<p>Mejorar la calidad de la infraestructura.</p>
+<p>Las edificaciones se pueden dividir en tres grupos principales: edificaciones con riesgo alto de colapso, edificaciones con alto riesgo de sufrir daños, y edificaciones con buen comportamiento. En el primer grupo están las edificaciones que presentan niveles de comportamiento cercanos al colapso para periodos de retorno bajos, en el segundo grupo están las edificaciones que presentan niveles de comportamiento cercanos al colapso para el periodo de retorno de diseño; y en el último, las edificaciones que presentan buen comportamiento para el periodo de retorno de diseño. Dependiendo de las características estructurales de las edificaciones catalogadas en cada uno de los grupos se debe proponer el reemplazo de la edificación, el reforzamiento integral, un reforzamiento estructural menor, el reforzamiento de elementos no estructurales, o ningún reforzamiento. En ciertos casos es posible evaluar un reforzamiento incremental en donde la intervención inicial es menor con el objetivo de reducir el riesgo de muerte o accidentes a la comunidad estudiantil y en una segunda fase se busque reducir daños a la infraestructura y reducir el tiempo de interrupción de los servicios. Esta opción de reforzamiento incremental permite una alternativa a la distribución de recursos, adaptándose a un primer objetivo de reducción de fatalidades o accidentes en el corto y mediano plazo, y el cumplimiento de los demás criterios en segunda instancia, lo cual fortalece la visión de intervenciones en el sector a largo plazo, especialmente desde un punto de vista de políticas públicas para la reducción del riesgo.</p>
+<p>Una vez se tienen identificados los planes, debe realizarse una priorización de las edificaciones a intervenir con el objetivo de reducir la mayor cantidad del riesgo en el menor tiempo posible y con la menor cantidad de recursos. Para este análisis pueden utilizarse diferentes métricas como la Pérdida Máxima Esperada (PAE) o el Beneficio-Costo (B-C). Este último se ha utilizado ampliamente en la literatura en proyectos en el sector educativo para justificar las intervenciones [6,7,9,28–30]. Teniendo esto en cuenta, se utiliza una modificación al B-C con el objetivo de usarse como criterio de priorización y utilizar una métrica denominada Eficiencia-Costo (E-C) que relaciona la reducción del riesgo con la cantidad de estudiantes (matrícula), el número de estudiantes beneficiados, el costo del reforzamiento y el costo de oportunidad o interés para traer a valor presente las pérdidas [14]. Esta métrica puede entenderse como el B-C multiplicado por el número de estudiantes beneficiados. El objetivo de incluir este parámetro en la priorización es dar más importancia a las escuelas más densas, es decir aquellas que concentran más estudiantes en menores áreas, lo cual no se tiene en cuenta al considerar únicamente el criterio del B-C. Para el cálculo de la eficiencia-costo debe dividirse la reducción del riesgo por el costo de oportunidad o interés para obtener los beneficios en valor presente, dividirlo en el costo de la intervención y multiplicarlo por el número de estudiantes como se ve en la siguiente fórmula:</p>
+<p><span class="math inline">\(EC= PAEActual-PAEEstado Mitigado*No. de estudiantes beneficiadosCosto del reforzamiento*Costo de oportunidad\)</span> (1)</p>
+</section>
+</section>
+<section id="tipologías-predominantes-en-el-sector" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="tipologías-predominantes-en-el-sector">TIPOLOGÍAS PREDOMINANTES EN EL SECTOR</h2>
+<p>El primer paso para la reducción del riesgo en el sector es consolidar el portafolio de edificaciones. Por las características arquitectónicas de este tipo de edificaciones es común encontrar edificaciones cuyas características se repiten en diferentes países. En particular, se ha evidenciado que la mayor parte de estas edificaciones son de concreto reforzado o de mampostería [6]. En este capítulo se presentan algunas de estas tipologías comunes en el sector escolar. En primer lugar, se presentan las tipologías cuyo sistema estructural es principalmente de concreto reforzado y en después se presentan las tipologías de muros de mampostería.</p>
+<section id="tipologías-de-concreto-reforzado" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="tipologías-de-concreto-reforzado">Tipologías de concreto reforzado</h3>
+<p>Pórticos de concreto reforzado</p>
+<p>En este sistema, los muros divisorios no contribuyen a la resistencia lateral o vertical de la edificación. Las divisiones pueden ser ligeras o flexibles como el Drywall por lo que su efecto en el aumento de la rigidez sería despreciable. También se puede dar el caso que las divisiones sean pesadas y rígidas como muros de mampostería, pero estas deben estar dilatadas de la estructura mediante juntas flexibles. En la Figura 5 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones son usualmente de uno y dos pisos y su nivel de diseño es variable.</p>
+<p><img src="media/img_f2b27dad.png" class="img-fluid"></p>
+<p><strong>Figura 5. </strong>Ejemplos de pórticos de concreto reforzado resistente a momento. (<strong>A</strong>) Edificación escolar en Perú. (<strong>B</strong>) Edificación escolar en Colombia. (<strong>C</strong>) Edificación escolar en Colombia. (<strong>D</strong>) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.</p>
+<p>Pórticos de concreto reforzado con muros de mampostería</p>
+<p>En este sistema, los muros divisorios contribuyen a la resistencia lateral y en algunos casos vertical de la edificación. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil. Estas edificaciones tienen alta rigidez en el rango lineal sin embargo suelen tener poca ductilidad. En la Figura 6 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de uno y dos pisos y su nivel de diseño de bajo a medio.</p>
+<p><img src="media/img_782f91c5.png" class="img-fluid"></p>
+<p><strong>Figura 6. </strong>Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería integrados. (<strong>A</strong>) Edificación escolar en Nepal. (<strong>B</strong>) Edificación escolar en Colombia. (<strong>C</strong>) Edificación escolar en Colombia. (<strong>D</strong>) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.</p>
+<p>Pórticos de concreto reforzado con muros de mampostería generando columna corta</p>
+<p>En este sistema, los muros divisorios contribuyen a la resistencia lateral, pero presentan una deficiencia común denominada “columna corta”. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil, sin embargo, inducen a esfuerzos cortantes excesivos a la parte libre de la columna debido a la diferencia de rigideces [31]. Estas edificaciones presentan una alta vulnerabilidad por su comportamiento frágil [29]. Este tipo de edificaciones son muy comunes en el contexto de la infraestructura escolar como se verá más adelante. En la Figura 7 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de dos pisos y tener un nivel de diseño bajo a medio.</p>
+<p><img src="media/img_90b897c2.png" class="img-fluid"></p>
+<p><strong>Figura 7. </strong>Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería generando columna corta. (<strong>A</strong>) Edificación escolar en Perú. (<strong>B</strong>) Edificación escolar en El Salvador. (<strong>C</strong>) Edificación escolar en Colombia. (<strong>D</strong>) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.</p>
+</section>
+<section id="tipologías-de-mampostería" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="tipologías-de-mampostería">Tipologías de mampostería</h3>
+<p>Mampostería no reforzada</p>
+<p>Son edificaciones construidos con bloque de mampostería de diferentes calidades y materiales que comparten la característica de no tener ningún tipo de confinamiento ni vertical ni horizontal. En Latinoamérica es común encontrar este tipo de edificaciones con mampostería de arcilla, maciza o con perforaciones horizontales [32]. Este tipo de edificaciones presentan una alta vulnerabilidad sísmica y su comportamiento estructural se caracteriza por ser frágil. En sismos recientes se han presentado colapsos de este tipo de edificaciones [33]. En la Figura 8 se pueden identificar algunos ejemplos de este tipo de edificaciones, las cuales suelen ser de 1 piso y tener un nivel de diseño sísmico bajo.</p>
+<p><img src="media/img_9187cbf9.png" class="img-fluid"></p>
+<p><strong>Figura 8. </strong>Ejemplos de edificaciones de mampostería simple. (<strong>A</strong>) Edificación escolar en El Salvador. (<strong>B</strong>) Edificación escolar en Colombia. (<strong>C</strong>) Edificación escolar en Nepal. (<strong>D</strong>) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.</p>
+<p>Mampostería confinada</p>
+<p>Son edificaciones cuyo sistema de resistencia sísmica son muros de mampostería confinados por elementos de concreto reforzado vertical y horizontal. El nivel de confinamiento tanto vertical como horizontal es variable según el país y sus normativas de construcción sismo resistente. En Colombia se tiene que los elementos confinantes no deben estar separados a más de 4 metros y deben estar en las aberturas de puertas y ventanas [18]. Estas edificaciones presentan una mayor ductilidad que las de mampostería no reforzada. En ciertos casos se pueden presentar fallas fuera del plano en este tipo de edificaciones [34]. En la Figura 9 pueden identificarse ejemplos de este tipo de edificaciones, las cuales suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.</p>
+<p><img src="media/img_59c370d5.png" class="img-fluid"></p>
+<p><strong>Figura 9. </strong>Ejemplos de edificaciones de mampostería confinada. (<strong>A</strong>) Edificación escolar en Colombia. (<strong>B</strong>) Edificación escolar en Colombia. (<strong>C</strong>) Edificación escolar en El Salvador. (<strong>D</strong>) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.</p>
+<p>Mampostería reforzada</p>
+<p>El sistema de mampostería reforzada es un sistema de muros de mampostería con elementos de confinamiento interno. A diferencia del sistema de mampostería confinada, en este sistema los elementos de confinamiento son internos. Los bloques de mampostería son bloque de perforación vertical de arcilla o de concreto, usualmente de buena calidad. Este sistema se ha implementado ampliamente en países de Centroamérica como El Salvador, en donde se ha evidenciado un buen comportamiento sísmico [35]. En la Figura 10 pueden identificarse algunos ejemplos de este tipo de edificaciones. Suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.</p>
+<p><img src="media/img_34dad813.png" class="img-fluid"></p>
+<p><strong>Figura 10. </strong>Ejemplos de edificaciones de mampostería reforzada. (<strong>A</strong>) Edificación escolar en Colombia. (<strong>B</strong>) Edificación escolar en El Salvador. (<strong>C</strong>) Edificación escolar en El Salvador. (<strong>D</strong>) Edificación escolar en construcción en El Salvador. Fotos tomadas del GPSS y del archivo personal de los autores.</p>
+<div class="caja-box">
+<p><strong>Caja 1.</strong> Tipologías escolares en concreto reforzado y en mampostería Tipologías escolares principales en concreto reforzado: Pórticos de concreto reforzado. Pórticos de concreto reforzado con muros de mampostería. Pórticos de concreto reforzado con muros de mampostería generando columna corta. Tipologías escolares predominantes en mampostería: Mampostería no reforzada. Mampostería confinada. Mampostería reforzada.</p>
+</div>
+</section>
+</section>
+<section id="casos-de-estudio" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="casos-de-estudio">CASOS DE ESTUDIO</h2>
+<section id="cali-colombia" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="cali-colombia">Cali, Colombia</h3>
+<p>La Universidad de los Andes, en el marco del Programa Global de Escuelas Seguras (GPSS) del Banco Mundial, realizó el acompañamiento técnico a la Alcaldía de Cali con el objetivo de diseñar un plan de intervención a corto, mediano y largo plazo para reducir la vulnerabilidad de la infraestructura educativa del Municipio de Cali frente a amenazas naturales y cambio climático en el marco de la política de Mejoramiento de Ambientes Escolares del Municipio de Cali.</p>
+<p>En este proyecto los autores capacitaron a un grupo de ingenieros y arquitectos de la Alcaldía de Cali para realizar recolección de información de la infraestructura en todas las escuelas del municipio. A partir de la información recopilada, se compila una base de datos de infraestructura a nivel de edificación que incluye información del valor expuesto, la ocupación humana y la caracterización de su vulnerabilidad sísmica para todos los elementos del portafolio. La Figura 11 presenta la distribución espacial de 372 sedes educativas del municipio y su sistema estructural asociado.</p>
+<p><img src="media/img_91b48a3b.jpeg" class="img-fluid"></p>
+<p><strong>Figura 11. </strong>Distribución espacial del portafolio escolar de Cali. PCR corresponde a pórticos de concreto reforzado.</p>
+<p>Como resultado final del procesamiento de la información y los datos del levantamiento en campo, se obtienen resultados generales con el fin de caracterizar el modelo de exposición escolar del municipio de Cali. A continuación, se muestra el resumen de la información obtenida:</p>
+<p>Número total de sedes educativas: 373.</p>
+<p>Número total de edificaciones: 1,224.</p>
+<p>Ocupación total: 92,013.</p>
+<p>Área construida: 417,220 m2.</p>
+<p>Valoración total aproximada del portafolio: COP $900,000 millones.</p>
+<p>Área promedio por estudiante: 2.97 m2/estudiante.</p>
+<p>La distribución de las tipologías constructivas en la zona de estudio se presenta en la Figura 12. Se puede observar que la mayor parte de las edificaciones se clasifican en dos grandes grupos correspondientes a edificaciones de concreto reforzado y de mampostería. Las tipologías clasificadas como “Otros” son tipologías de madera, acero, tapia y prefabricados, estos no se presentan en detalle en este documento pues no son tipologías predominantes en el portafolio, para más información con respecto a esta consultar: [36].</p>
+<p><img src="media/img_53c16509.png" class="img-fluid"></p>
+<p><strong>Figura 12. </strong>Distribución de tipologías constructivas en Cali.</p>
+<p>Por otro lado, la Figura 13 presenta la distribución de los sistemas estructurales en la zona, los cuales representan un subgrupo de las tipologías constructivas predominantes identificadas. En el caso de las edificaciones de concreto reforzado, el portafolio se constituye principalmente por pórticos de concreto reforzado con muros de mampostería adosados y pórticos de concreto reforzado con muros de mampostería adosados susceptibles a falla por columna corta. Para el caso de edificaciones de mampostería, se el portafolio se constituye únicamente por edificaciones de mampostería simple y mampostería confinada.</p>
+<p><img src="media/img_675fa258.png" class="img-fluid"></p>
+<p><strong>Figura 13. </strong>Distribución de características estructurales en Cali. (<strong>A</strong>) Tipologías de concreto reforzado. (<strong>B</strong>) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.</p>
+<p>Adicionalmente, se incluye una revisión adicional de elementos estructurales que no hacen parte del sistema de resistencia sísmica, pero que ante un evento pueden ser un riesgo para la seguridad a la vida de los ocupantes, como se puede ver en la Figura 14. Para cada uno de los elementos mencionados, se define si éste existe o no, y su estado. A partir de estas calificaciones, se proponen unas intervenciones secundarias las cuales deben ser aplicadas progresivamente con el reforzamiento sísmico.</p>
+<p><img src="media/img_74921817.png" class="img-fluid"></p>
+<p><strong>Figura 14. </strong>Parámetros estructurales complementarios [36].</p>
+<p>Para el desarrollo del modelo probabilista de amenaza sísmica en la zona de estudio, se incluyen las fallas sísmicas con sus parámetros de sismicidad asociados, y la caracterización de los suelos de acuerdo con los resultados del Estudio de Microzonificación Sísmica de Santiago de Cali realizada en 2006. A partir de este modelo es posible obtener también mapas probabilistas de aceleración en superficie para diferentes periodos de retorno y diferentes periodos estructurales. En la Figura 15 se presentan las fuentes superficiales y corticales, un escenario del catálogo de eventos estocásticos y el mapa probabilista de aceleración del terreno para un periodo de retorno de 475 años.</p>
+<p><img src="media/img_440e260a.png" class="img-fluid"></p>
+<p><strong>Figura 15. </strong>Modelo de amenaza sísmica para Cali. (<strong>A</strong>) Fuentes profundas. (<strong>B</strong>) Fuentes superficiales. (<strong>C</strong>) Ejemplo de escenario del catálogo. (<strong>D</strong>) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes [36].</p>
+<p>Para el desarrollo del modelo de vulnerabilidad se realizaron modelaciones no lineales de las tipologías predominantes con las cuales se obtuvieron los parámetros de demanda sísmica mediante un análisis incremental dinámico. Las funciones de vulnerabilidad de las tipologías predominantes para un nivel de diseño bajo se presentan en la Figura 16. Estas funciones no son directamente comparables, dado que representan edificaciones con periodos estructurales diferentes, y por ende niveles de amenaza distintos. Sin embargo, permiten identificar el nivel de vulnerabilidad asociado a las tipologías analizadas.</p>
+<p><img src="media/img_fd98278e.png" class="img-fluid"></p>
+<p><strong>Figura 16. </strong>Ejemplo de funciones de vulnerabilidad utilizadas para la evaluación del riesgo del Cali. Figura adaptada de CIMOC-Uniandes [36].</p>
+<p>Con la información indicada anteriormente, se evaluó el desempeño y las perdidas esperadas ante un evento sísmico en un periodo de retorno dado. Los resultados del riesgo sísmico para el portafolio escolar del municipio en las condiciones actuales se muestran en Figura 17. En esta, se puede observar que las pérdidas máximas probables para un periodo de retorno de 500 años son del orden de $250,000 millones COP mientras que para un periodo de retorno de 1000 años son del orden de $300,000 millones COP. La magnitud de estos resultados demuestra la necesidad de realizar un reforzamiento estructural que permita reducir la magnitud de estas pérdidas.</p>
+<p><img src="media/img_07bb19e4.png" class="img-fluid"></p>
+<p><strong>Figura 17. </strong>Curva de pérdida máxima probable para el portafolio escolar en Cali.</p>
+<p>Además de las pérdidas económicas indicadas anteriormente, el reforzamiento estructural es necesario dada la alta vulnerabilidad de tipologías presentes en la zona de estudio, que un 54% de las edificaciones fueron construidas antes de 1986 año en el cual se hizo la primera norma de sismo resistencia en el país, y que de acuerdo con un análisis de desempeño sísmico realizado para un periodo de retorno de 475 años un 80% de las edificaciones quedan en prevención al colapso [37]. Por tal motivo, se realizaron las propuestas de reforzamientos estructurales y adecuaciones del portafolio escolar mediante una estrategia de intervención progresiva de las instituciones. Para esto se generaron los siguientes programas y estrategias de intervención con el fin de reducir el riesgo sísmico del portafolio escolar:</p>
+<p>Programa 1 - Demolición y construcción de aulas temporales: Se incluyen edificaciones con nivel de diseño sísmico pobre y sistemas estructurales precarios o no ingenieriles, cuyas intervenciones estructurales son muy invasivas, por lo que se recomienda la reconstrucción. Se busca proteger la vida y el riesgo de accidentes a los ocupantes con estos reemplazos.</p>
+<p>Programa 2 - Reforzamiento prioritario: Se incluyen edificaciones de pórticos de concreto reforzado y mampostería simple con nivel de diseño bajo cuyo reforzamiento sísmico es económicamente viable. Se busca proteger la vida y reducir el tiempo de interrupción del servicio.</p>
+<p>Programa 3 - Adecuaciones contingentes: Se incluyen edificaciones de pórticos de concreto reforzado, mampostería simple y mampostería confinada con nivel de diseño bajo o medio cuyo reforzamiento sísmico es menor. Se busca reducir el tiempo de interrupción del servicio y mejorar la infraestructura.</p>
+<p>Programa 4 - Mejoramiento y adecuaciones: Se incluyen las edificaciones con nivel de diseño sísmico medio o alto que cumplan con la norma, cuya intervención es principalmente en elementos no estructurales y adecuaciones. Se busca mejorar la infraestructura educativa.</p>
+<p>La Tabla 4 resume el número de edificaciones e inversión requerida para cada uno de los programas descritos para el portafolio. Como se puede identificar, se incluyen intervenciones en todo el portafolio, aunque en algunos casos se consideran intervenciones menores de adecuación y mejoramiento.</p>
+<p><strong>Tabla 4. </strong>Planes de mitigación del riesgo en Cali [36].</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Programa de intervención</th>
+<th>Programa de intervención</th>
+<th>Número de edificaciones</th>
+<th>Costo aproximado total de intervención (COP$ millones)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Programa 1</td>
+<td>Programa de demolición y aulas temporales</td>
+<td>313</td>
+<td>$220,000</td>
+</tr>
+<tr class="even">
+<td>Programa 2</td>
+<td>Programa de reforzamiento prioritario</td>
+<td>100</td>
+<td>$85,000</td>
+</tr>
+<tr class="odd">
+<td>Programa 3</td>
+<td>Programa de adecuaciones contingentes</td>
+<td>752</td>
+<td>$330,000</td>
+</tr>
+<tr class="even">
+<td>Programa 4</td>
+<td>Programa de mejoramiento, ampliaciones y reposición</td>
+<td>58</td>
+<td>$3,000</td>
+</tr>
+<tr class="odd">
+<td>Total</td>
+<td>Total</td>
+<td>1,223</td>
+<td>$638,000</td>
+</tr>
+</tbody>
+</table>
+<p>Los resultados del riesgo sísmico para el portafolio escolar del municipio luego de aplicar el reforzamiento planteado se muestran en Figura 18. Se puede observar que para un periodo de retorno de 500 años se presenta una reducción del riesgo de más del 50%. Es importante resaltar que estas intervenciones no aseguran un nivel de riesgo cero, sin embargo, reducen significativamente la susceptibilidad de daño y la probabilidad de heridos. Este riesgo residual puede ser gestionado mediante cobertura financieras, sistema de alerta temprana y planes de emergencias entre otros.</p>
+<p><img src="media/img_bf6a2a52.png" class="img-fluid"></p>
+<p><strong>Figura 18. </strong>Curva de pérdida máxima probable para el portafolio escolar en el estado actual vs.&nbsp;estado reforzado en Cali</p>
+<p>Por último, con el objetivo de priorizar los recursos se utilizó el criterio de eficiencia costo indicado en secciones anteriores. A partir de éste es posible identificar el orden óptimo de intervención de las escuelas con el objetivo de maximizar el número de estudiantes beneficiados como se presenta en la Figura 19.</p>
+<p><img src="media/img_886494ff.png" class="img-fluid"></p>
+<p><strong>Figura 19. </strong>Priorización de intervenciones por programas en Cali.</p>
+</section>
+<section id="valle-de-aburrá-colombia" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="valle-de-aburrá-colombia">Valle de Aburrá, Colombia</h3>
+<p>Mediante el convenio de asociación 1108 de 2016 entre la Universidad de los Andes y el Área Metropolitana del Valle de Aburra (AMVA) se realizó el estudio de la vulnerabilidad y riesgo sísmico de las edificaciones del sector escolar en los diez municipios del Valle de Aburrá. El objetivo principal fue identificar las intervenciones estructurales y no estructurales requeridas en cada una de estas edificaciones, y con base en esto diseñar un Plan de Mitigación del Riesgo Sísmico como parte del Plan Metropolitano del Riesgo Sísmico desarrollado por el AMVA. El plan incluía, entre otras cosas, las propuestas preliminares de intervención, la información básica para la eventual contratación de las obras identificadas, el presupuesto aproximado requerido y una programación tentativa de actividades para la contratación y ejecución de las obras.</p>
+<p>En este proyecto, con el fin de seleccionar las edificaciones de interés se realizó una depuración de las bases de datos oficiales proporcionadas por las entidades gubernamentales correspondientes, tales como las secretarías de educación de los diferentes municipios y el AMVA. A partir de esto se obtuvo una base de datos con los colegios y escuelas públicas y privadas en zonas urbanas de niveles de educación básica primaria, básica secundaria, y educación media. Dentro de la información recopilada se encuentran los registros oficiales del número de estudiantes matriculados, el tipo de servicio (público y privado), así como los niveles de educación impartida. A partir de la información recopilada en registros oficiales fue posible realizar una caracterización general del sector para obtener estadísticas de las edificaciones expuestas, identificando que el inventario de centros educativos se conforma por un total de 460 colegios públicos y 227 colegios privados, para un total de 687 sedes educativas municipales.</p>
+<p>En este estudio se consideró únicamente una muestra de 200 escuelas públicas que fueron inspeccionadas. Se seleccionaron únicamente escuelas públicas dado que se enfoca a la elaboración de planes de mitigación a cargo de los gobiernos nacionales y locales. En la Figura 20 se presenta la distribución espacial de las instituciones educativas del Valle de Aburrá.</p>
+<p><img src="media/img_22bb0430.jpeg" class="img-fluid"></p>
+<p><strong>Figura 20. </strong>Distribución de instituciones educativas en los municipios del Valle de Aburrá.</p>
+<p>Se realizaron visitas de campo con el objetivo de identificar el sistema estructural de las instituciones educativas públicas ubicadas en las zonas urbanas de los municipios del Valle de Aburrá e identificar las tipologías constructivas dominantes. A continuación, se muestra el resumen de la información obtenida para la muestra de escuelas públicas:</p>
+<p>Número total de sedes educativas: 200.</p>
+<p>Número total de edificaciones: 883.</p>
+<p>Ocupación total: 142,778.</p>
+<p>Área construida: 669,630 m2.</p>
+<p>Valoración total aproximada del portafolio: COP $1,625,000 millones.</p>
+<p>Área promedio por estudiante: 4.69 m2/estudiante.</p>
+<p>En la Figura 21 presenta la distribución de las tipologías constructivas identificadas en las inspecciones visuales, donde se observa que los sistemas dominantes son las edificaciones construidas en concreto reforzado y en mampostería.</p>
+<p><img src="media/img_d7e56b87.png" class="img-fluid"></p>
+<p><strong>Figura 21. </strong>Distribución de tipologías constructivas identificadas en campo en el Valle de Aburrá.</p>
+<p>Además, se observa que el mayor porcentaje de estructuras son construidas en pórticos de concreto reforzado con muros de mampostería, pórticos de concreto reforzado con muros de mampostería que generan columna corta y edificaciones de mampostería no reforzada, donde este último caso representa un porcentaje importante de las edificaciones del portafolio del sector educativo. La Figura 22 presenta la distribución relativa de las tipologías constructivas.</p>
+<p><img src="media/img_9ea824f1.png" class="img-fluid"></p>
+<p><strong>Figura 22. </strong>Distribución de sistemas estructurales en el Valle de Aburrá. (<strong>A</strong>) Tipologías de concreto reforzado. (<strong>B</strong>) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.</p>
+<p>En cuanto a las condiciones desfavorables observadas en las edificaciones durante el levantamiento en campo, se encontró que las edificaciones visitadas presentaban agrietamientos, asentamientos, baja calidad de materiales, deflexiones, entre otras. En la Figura 23 se presenta un registro fotográfico representativo de las condiciones desfavorables observadas.</p>
+<p><img src="media/img_95c027ee.png" class="img-fluid"></p>
+<p><strong>Figura 23. </strong>Condiciones desfavorables observadas en algunas edificaciones en el Valle de Aburrá. (<strong>A</strong>) Agrietamiento de muros. (<strong>B</strong>) Pérdida de concreto de recubrimiento. (<strong>C</strong>) Deficiencias constructivas. (<strong>D</strong>) Deficiencias de diseño.</p>
+<p>El siguiente paso fue el desarrollo del modelo probabilista de amenaza sísmica en la zona del Valle de Aburrá. Para esto, se identificaron las fuentes sísmicas de la zona de estudio a partir de los resultados indicados en el estudio de Armonización de la microzonificación sísmica de los municipios del Valle de Aburrá [38]. A partir de las fuentes sísmicas, se desarrolló un catálogo estocástico de eventos para la evaluación probabilista del riesgo y se desarrollaron mapas probabilistas para diferentes periodos de retorno y diferentes periodos estructurales. En la Figura 24 se presentan las fuentes sísmicas superficiales y corticales definidas, así como un escenario del catálogo y el mapa probabilista de aceleración del terreno para un periodo de retorno de 475 años.</p>
+<p><img src="media/img_3e259ffa.png" class="img-fluid"></p>
+<p><strong>Figura 24. </strong>Modelo de amenaza sísmica para el Valle de Aburrá. (<strong>A</strong>) Fuentes profundas (modelo nacional). (<strong>B</strong>) Fuentes superficiales. (<strong>C</strong>) Ejemplo de escenario del catálogo. (<strong>D</strong>) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes [38].</p>
+<p>Las funciones de vulnerabilidad de las tipologías predominantes fueron desarrolladas de acuerdo con la metodología descrita en la sección 2.2.4, y se presentan en la Figura 25. Estas funciones no son directamente comparables, dado que representan edificaciones con periodos estructurales diferentes, y por ende niveles de amenaza distintos. Sin embargo, permiten identificar el nivel de vulnerabilidad asociado a las tipologías analizadas.</p>
+<p><img src="media/img_b8e874f3.png" class="img-fluid"></p>
+<p><strong>Figura 25. </strong>Ejemplo de funciones de vulnerabilidad utilizadas para la evaluación del riesgo del Valle de Aburrá. Figura adaptada de CIMOC-Uniandes [38].</p>
+<p>Posteriormente se evaluaron las pérdidas probables esperadas ante un evento sísmico en un periodo de retorno dado. Los resultados del riesgo sísmico para el portafolio escolar del municipio en las condiciones actuales se muestran en Figura 26. En esta se observa que para un periodo de retorno de 500 años se esperan pérdidas máximas probables del orden de $450,000 millones COP mientras que para un periodo de retorno de 1,000 años se esperan pérdidas del orden de $600,000 millones COP. Al igual que en el caso de estudio anterior, se establece que es necesario realizar un programa de reforzamiento estructural que reduzca la magnitud de las pérdidas.</p>
+<p><img src="media/img_f5870e09.png" class="img-fluid"></p>
+<p><strong>Figura 26. </strong>Curva de pérdida máxima probable para el portafolio escolar en el Valle de Aburrá.</p>
+<p>Adicional a lo anterior, el reforzamiento estructural es necesario dada la necesidad de brindar la total seguridad a los estudiantes y prevenir que se vea afectada la vida de cada uno de ellos. Por tal motivo, se realizaron reforzamientos estructurales del portafolio escolar con una estrategia de intervención progresiva de las instituciones. Por lo tanto, se plantearon las siguientes estrategias de intervención, basadas en las agrupaciones indicadas anteriormente:</p>
+<p>Programa 1 – Sustitución de edificaciones de alto riesgo de colapso.</p>
+<p>Programa 2 – Reforzamiento integral de edificaciones con bajo potencial de daño.</p>
+<p>Programa 3 – Reforzamiento contingente especial de edificaciones con alto riesgo de sufrir daños.</p>
+<p>Programa 4 – Reforzamiento integral de edificaciones con alto riesgo de sufrir daños.</p>
+<p>Además, para cada una de las tipologías de edificaciones que presentan niveles medios o altos de vulnerabilidad se proponen esquemas y opciones generales de reforzamiento estructural que permitan la reducción considerable de la vulnerabilidad sísmica. A manera de ejemplo, se presentan alternativas de reforzamiento de edificaciones de concreto reforzado que presenten columna corta y de mampostería simple en la Figura 27. Estas alternativas de reforzamiento buscan eliminar el problema de columna corta y darle rigidez a la estructura para el caso del ejemplo de concreto y de darle ductilidad a la edificación en el caos de mampostería simple. Este tipo de soluciones se desarrollaron para cada una de las tipologías predominantes, para mayor información consultar [36].</p>
+<p><img src="media/img_7caea8ee.png" class="img-fluid"></p>
+<p><strong>Figura 27. </strong>Esquemas generales de reforzamiento estructural. (<strong>A</strong>) Reforzamiento de pórticos de concreto. (<strong>B</strong>) Reforzamiento de edificaciones de mampostería [39].</p>
+<p>La Tabla 5, resume el número de edificaciones e inversión requerida para cada uno de los programas descritos para el portafolio.</p>
+<p><strong>Tabla 5. </strong>Planes de mitigación del riesgo en el Área Metropolitana del Valle de Aburrá [39].</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Programa de intervención</th>
+<th>Programa de intervención</th>
+<th>Número de edificaciones</th>
+<th>Costo aproximado de intervención (COP$ millones)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Programa 1</td>
+<td>Sustitución de edificaciones de alto riesgo de colapso</td>
+<td>162</td>
+<td>350,000</td>
+</tr>
+<tr class="even">
+<td>Programa 2</td>
+<td>Reforzamiento integral de edificaciones con bajo potencial de daño</td>
+<td>86</td>
+<td>30,000</td>
+</tr>
+<tr class="odd">
+<td>Programa 3</td>
+<td>Reforzamiento contingente especial de edificaciones con alto potencial de daño</td>
+<td>238</td>
+<td>70,000</td>
+</tr>
+<tr class="even">
+<td>Programa 4</td>
+<td>Reforzamiento integral de edificaciones con alto potencial de daño</td>
+<td>333</td>
+<td>200,000</td>
+</tr>
+<tr class="odd">
+<td>Total</td>
+<td>Total</td>
+<td>819</td>
+<td>650,000</td>
+</tr>
+</tbody>
+</table>
+<p>Teniendo en cuenta las estrategias de mitigación del riesgo y los reforzamientos estructurales implementados en cada una de las tipologías constructivas, en la Figura 28 se presentan los resultados del riesgo sísmico para el portafolio escolar del municipio. Se puede identificar que la reducción del riesgo en este caso es mayor a la reducción identificada para el caso de Cali, bajando las pérdidas para un periodo de retorno de 1,000 años alrededor del 20% de las pérdidas en el estado actual.</p>
+<p><img src="media/img_89c98e98.png" class="img-fluid"></p>
+<p><strong>Figura 28. </strong>Curva de pérdida máxima probable para el portafolio escolar en el estado actual vs.&nbsp;estado reforzado en el Valle de Aburrá.</p>
+<p>Por último, con el objetivo de priorizar los recursos se utilizó el criterio de eficiencia costo indicado anteriormente. A partir de éste es posible ordenar las intervenciones con el objetivo de maximizar el número de estudiantes beneficiados. En la Figura 29 se presenta la reducción de las Pérdidas Anuales esperadas si se sigue el criterio de priorización de eficiencia. En esta gráfica se observa que, a diferencia del caso de Cali, se tiene una reducción mayor para las primeras escuelas mostrando que el riesgo se concentra en unas tipologías y no se distribuye en todo el portafolio. Esto permite que los recursos se utilicen de forma eficiente, reduciendo la mayor cantidad de riesgo para las limitaciones de recursos económicos existentes.</p>
+<p><img src="media/img_408fd3c0.png" class="img-fluid"></p>
+<p><strong>Figura 29. </strong>Priorización de intervenciones por programas en el Valle de Aburrá.</p>
+</section>
+</section>
+<section id="conclusiones" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="conclusiones">CONCLUSIONES</h2>
+<p>Existen diferentes metodologías para el desarrollo de planes de mitigación del riesgo en el sector escolar. Para esto el primer paso es desarrollar una base de datos con información suficiente para caracterizar el portafolio de infraestructura expuesta. Este paso es uno de los más importantes pues su resolución y calidad determinarán la resolución y la calidad del plan de mitigación del riesgo. Se han identificado diferentes tipologías de concreto reforzado y mampostería en diferentes partes del mundo con deficiencias constructivas y estructurales similares. Entre estas se destacan las edificaciones de pórticos de concreto reforzado, de pórticos de concreto reforzado con muros de mampostería y pórticos de concreto reforzado con muros de mampostería generando columna corta. En las edificaciones de muros de mampostería se destacan las edificaciones de mampostería simple, mampostería confinada y mampostería reforzada. La documentación de estas deficiencias y también de técnicas de reforzamiento permite sentar las bases para futuros proyectos en los cuales se analicen edificaciones similares.</p>
+<p>Una vez se identifican el portafolio y las tipologías principales se debe desarrollar una evaluación del riesgo sísmico en el estado actual y a partir de este diseñar un sistema de reforzamiento sísmico para las tipologías vulnerables más relevantes o representativas. Una vez se tienen identificadas estas medidas se debe evaluar el riesgo en un escenario mitigado y a partir de esto diseñar planes de mitigación del riesgo ajustados a las limitaciones de cada caso de estudio. En este documento se presentan dos casos de estudio en Colombia, el primero en Cali y el segundo en el Valle de Aburrá. Se puede identificar que la reducción del riesgo para las estrategias de mitigación del Cali lleva a una reducción menor que el caso del Valle de Aburrá, reduciendo el riesgo en el primer caso al 50% del riesgo original y en el segundo al 20%. Así mismo, es posible identificar a partir de las gráficas de priorización que el riesgo en el portafolio de Cali se distribuye en todo el portafolio mientras que en el caso del Valle de Aburrá se concentra en alrededor de la mitad de las escuelas. Como se puedo identificar, cada caso presentado tiene sus particularidades sin embargo es posible identificar que el desarrollo comparte elementos comunes, en particular deficiencias en las tipologías constructivas y medidas de reforzamiento aplicables.</p>
+<p>Existe una gran cantidad de trabajo por desarrollar en proyectos similares a los casos de estudio presentados. Como se puedo evidenciar, existen limitaciones de esta metodología con respecto a incertidumbres en los modelos de amenaza, vulnerabilidad y exposición que deben ser estudiados a mayor profundidad. Por otro lado, es necesario ampliar el espectro de amenazas e incluir otro tipo de eventos, entre ellos eventos de carácter hidrometeorológico como los huracanes y las inundaciones. Adicionalmente es necesario entender las métricas de riesgo y definir unos parámetros indicativos con el objetivo limitar posibles errores en los procedimientos. Por último, es necesario identificar y evaluar la vulnerabilidad de tipologías vulnerables menos recurrentes como las de acero o madera con el objetivo de desarrollar planes a menor escala.</p>
+<p>Los resultados de los casos de estudio presentados como ejemplo son el punto de partida para la definición concreta de planes concertados con las autoridades locales y/o nacionales para su implementación. A partir de estos, y basados en un presupuesto disponible, es posible definir y listar en orden de importancia o relevancia, las intervenciones que se deberán priorizar para maximizar la reducción del riesgo con los recursos limitados. Adicionalmente, se deberán considerar factores como procesos constructivos que puedan implementarse a mayor escala, esquemas de contratación según especialidad o tipo de intervención, tipificación de las intervenciones buscando alcanzar un nivel de reducción de riesgo definido, pero remitiendo la adaptabilidad a las condiciones particulares de cada edificación, entre otros.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>PUNTOS CLAVE Las edificaciones de pórticos de concreto, pórticos de concreto con muros de mampostería y pórticos de concreto con muros de mampostería generando columna corta son las tipologías escolares predominantes de concreto reforzado. Las edificaciones de muros de mampostería no reforzada, mampostería confinada y mampostería reforzada son las tipologías escolares predominantes de mampostería. Se debe analizar el estado de la infraestructura actual mediante un análisis de riesgo, incluyendo los módulos de amenaza, exposición y vulnerabilidad. Se recomienda que el modelo de exposición sea a nivel de edificación. Cada elemento del modelo debe contar con información estructural suficiente para caracterizar su comportamiento estructural. Se deben identificar los mecanismos de colapso de las edificaciones y generar sistemas de reforzamiento que sean aplicables a gran escala en edificaciones con comportamiento estructural similar. Se deben plantear estrategias de intervención particulares para las tipologías que incluyan el reemplazo de las edificaciones, reforzamientos integrales, reforzamientos incrementales, reforzamientos en elementos no estructurales o adecuaciones menores. Las intervenciones deben ser priorizadas utilizando criterios adecuados como la eficiencia costo con el objetivo de beneficiar la mayor cantidad de estudiantes reduciendo el mayor riesgo posible.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<table class="caption-top">
+<colgroup>
+<col style="width: 100%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>RECOMENDACIÓNES PARA TOMAR DECISIONES El modelo de exposición determina la calidad de los planes de mitigación, es necesario que el modelo tenga una resolución mínima a nivel de escuela y una resolución ideal a nivel de edificación. La evaluación del riesgo sísmico en el estado actual y mitigado deben evaluarse utilizando la misma metodología, modelos de amenaza y modelos de exposición con el objetivo que sean comparables. La participación de entidades gubernamentales en el desarrollo del plan de mitigación es esencial. Un adecuado entendimiento del componente técnico e identificación anticipada de limitaciones permitirán una implementación exitosa del plan. Se debe tener en cuenta que los ciclos de gobierno particulares pueden afectar el desarrollo y la implementación de los planes diseñados.</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<p><strong>CONFLICTO DE INTERESES</strong></p>
+<p>Los autores no declaran conflicto de intereses.</p>
+</section>
+<section id="agradecimientos" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<p>Los autores agradecen en primer lugar al Banco Mundial y en particular al equipo de trabajo del Programa Global de Escuelas Seguras (GPSS) por impulsar iniciativas de reducción del riesgo en el sector escolar. Así mismo, agradecen a la Alcaldía de Santiago de Cali por el desarrollo de la Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali, y al Área Metropolitana del Valle de Aburrá por el desarrollo conjunto del Convenio de Asociación 1108 del 2016. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Materiales y Obras Civiles de la Universidad de los Andes que participaron en el desarrollo de los proyectos mencionados anteriormente.</p>
+</section>
+<section id="identificación-del-autor" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="identificación-del-autor">IDENTIFICACIÓN DEL AUTOR</h2>
+<p>Rafael Fernández</p>
+<p>Luis Yamin</p>
+<p>Juan Carlos Reyes</p>
+<p>Angie García</p>
+<p>Gustavo Fuentes</p>
+<p>Juan Echeverry</p>
+<p><strong>BIBLIOGRÁFIA</strong></p>
+<p>ICC (International Code Council). (2017). <em>2018 International Building Code</em>. International Code Council, Incorporated.</p>
+<p>EERI (Earthquake Engineering Research Institute). (2019). <em>Concrete Buildings Damaged in Earthquakes</em>. Recuperado de</p>
+<p>Chen, H., Xie, Q., Lan, R., Li, Z., Xu , C., &amp; Yu, S. (2017). Seismic damage to schools subjected to Nepal earthquakes, 2015. <em>Natural Hazards</em>, 88(1), 247–84.</p>
+<p>GEER. (2017). Geotechnical engineering reconnaissance of the 19 September 2017 mw 7.1 Puebla-Mexico City earthquake (September). <em>Geotechnical Extreme Events Reconnaissance Association</em>.</p>
+<p>GEER. (2016). GEER-ATC earthquake reconnaissance April 16th 2016, Muisne, Ecuador. <em>Geotechnical Extreme Events reconnaissance Association Report</em> GEER-049. 604. Recuperado de</p>
+<p>Valcárcel, J.A., Mora, M.G., Cardona, O.D., Pujades, L.G., Barbat, A.H., &amp; Bernal, G.A. (2013) Methodology and applications for the benefit cost analysis of the seismic risk reduction in building portfolios at broadscale. <em>Natural Hazards</em>, 69(1), 845–68.</p>
+<p>Mora. M.G., Valcárcel, J. A., Cardona, O.D., Pujades, L. G., Barbat, A. H., &amp; Bernal, G. A. (2015) Prioritizing interventions to reduce seismic vulnerability in school facilities in Colombia. <em>Earthquake Spectra</em>, 31(4), 2535–52.</p>
+<p>Chrysostomou, C. Z., Kyriakides, N., Papanikolaou. V. K., Kappos, A. J., Dimitrakopoulos, E. G., &amp; Giouvanidis, A. I. (2015). Vulnerability assessment and feasibility analysis of seismic strengthening of school buildings. <em>Bulletin of Earthquake Engineering</em>, 13, 3809–40.</p>
+<p>Jaimes, M. A., &amp; Niño, M. (2017) Cost-benefit analysis to assess seismic mitigation options in Mexican public-school buildings. <em>Bulletin of Earthquake Engineering</em>, 15(9), 3919–42.</p>
+<p>Samadian, D., Ghafory-Ashtiany, M., Naderpour, H., &amp; Eghbali, M. (2019). Seismic resilience evaluation based on vulnerability curves for existing and retrofitted typical RC school buildings. <em>Soil Dynamics and Earthquake Engineering</em>, 127, 105844.</p>
+<p>Amini Hosseini, K., &amp; Izadkhah, Y.O. (2020). From “Earthquake and safety” school drills to “safe school-resilient communities”: A continuous attempt for promoting community-based disaster risk management in Iran. <em>International Journal of Disaster Risk Reduction</em>, 45,101512.</p>
+<p>World Bank, Universidad de los Andes, UCL. (2019). <em>Global Library of School Infrastructure - Taxonomy Guide. Global Program for Safer Schools</em>. Recuperado de</p>
+<p>World Bank, Universidad de los Andes, UCL. (2019). <em>Global Library for School Infrastructure - Fragility and Vulnerability Assessment Guide. Global Program for Safer Schools</em>. Recuperado de</p>
+<p>Yamin, L., Ghesquiere, F., Cardona, O., &amp; Ordaz, M. (2013). <em>Modelación probabilista para la gestión del riesgo de desastre, El caso de Bogotá, Colombia</em>. Banco Mundial, Universidad de los Andes.</p>
+<p>Yang, T. Y. (2013). Assessing seismic risks for new and existing buildings using performance-based earthquake engineering (PBEE) methodology. <em>Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems</em>, 307–33.</p>
+<p>Baker, J. W. (2013). <em>Introduction to Probabilistic Seismic Hazard Analysis</em>. White Paper version 201.</p>
+<p>Yamin. L. E, Reyes, J. C, Rueda, R., Prada, E., Rincón, R., Herrera, C., et al.&nbsp;(2018). Practical seismic microzonation in complex geological environments. <em>Soil Dynamics and Earthquake Engineering</em>, 114, 480–94.</p>
+<p>AIS (Asociación Colombiana de Ingeniería Sísmica). (2010). <em>Norma de construcción Sismo Resistente - NSR10</em>. 530–827. Bogotá: Asociación Colombiana de Ingeniería Sísmica</p>
+<p>FEMA (Federal Emergency Management Agency). (2017). <em>Hazus: FEMA’s Methodology for Estimating Potential Losses from Disasters</em>. Recuperado de https://www.fema.gov/hazus-mh-user-technical-manuals</p>
+<p>Yamin, L. E., Hurtado, A. I, Barbat, A.H., &amp; Cardona, O.D. (2014). Seismic and wind vulnerability assessment for the GAR-13 global risk assessment. <em>International Journal of Disaster Risk Reduction</em>, 10(PB), 452–60.</p>
+<p>D’Ayala, D., Meslem, A., Vamvatsikos, D., Porter, K., Rossetto, T., Crowley, H., et al.&nbsp;(2013). Guidelines for Analytical Vulnerability Assessment - Low/Mid-Rise. <em>Global Earthquake Model Technical Report.</em></p>
+<p>Yamin, L.E., Hurtado, A., Rincon, R., Dorado, J. F., &amp; Reyes, J. C. (2017) Probabilistic seismic vulnerability assessment of buildings in terms of economic losses. <em>Engineering Structures</em>, 138, 30 8–23.</p>
+<p>Aroquipa, H., Rincón, R., &amp; Fernandez, R. (2017). Evaluación de alternativas de reforzamiento sísmico incremental para edificaciones escolares características en el Perú. En* VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla, Colombia.</p>
+<p>American Society of Civil Engineers, Structural Engineering Institute. (2013<em>). Seismic evaluation and retrofit of existing buildings</em> (41-13). 1275 p.&nbsp;</p>
+<p>FEMA (Federal Emergency Management Agency) &amp; ATC (Applied Technology Council). (2012). <em>Reducing the risks of nonstructural earthquake damage – A practical guide.</em> FEMA. 885 p.</p>
+<p>British Columbia University. (2017). <em>The Seismic Retrofit Guidelines SGR-3</em>.</p>
+<p>ATC (Applied Technology Council). (1998). <em>Repair of Earthquake Damaged Concrete and Masonry Wall buildings.</em> Washington, D.C.: U.S. Dept. of Homeland Security, Federal Emergency Management Agency.</p>
+<p>Rincón, R., Yamin, L., &amp; Becerra, A. (2017). Seismic Risk Assessment of Public Schools and Prioritization Strategy for Risk Mitigation. En <em>16th World Conference on Earthquake</em>. Santiago Chile.</p>
+<p>Fernández, R. I., Rincón. R., &amp; Yamin, L. E. (2019). Incertidumbre en el Beneficio Obtenido para Opciones de Reforzamiento Sísmico. En <em>IX Congreso Nacional de Ingeniería Sísmica</em>. Cali, Colombia.</p>
+<p>Mechler, R. (2016). Reviewing estimates of the economic efficiency of disaster risk management: opportunities and limitations of using risk-based cost–benefit analysis. <em>Natural Hazards</em>, 81(3), 2121–47.</p>
+<p>Guevara, L. T., &amp; García, L. E. (2005). The captive- and short-column effects. <em>Earthquake Spectra</em>, 21(1), 141–60.</p>
+<p>Villar-Vega, M., Silva, V., Crowley, H., Yepes, C., Tarque, N., Acevedo, A. B., … María, H. S. (2017). Development of a Fragility Model for the Residential Building Stock in South America. <em>Earthquake Spectra</em>, 33(2), 581–604.</p>
+<p>Adhikari, R. K., D’Ayala, D., Ferreira, C. F., &amp; Famirez, F. (2018). Structural classification system for load bearing masonry school buildings. En <em>16th European Conference on Earthquake Engineering</em>. 1–12.</p>
+<p>Fuentes, G. A., Garcia, A, Yamin, L. E, Reyes, J. C. (2019). Funciones de fragilidad para muros de mampostería confinada ante cargas fuera del plano. En <em>IX Congreso Nacional de Ingeniería Sísmica</em>. Cali, Colombia.</p>
+<p>World Bank, Universidad de los Andes, UCL. (2018). <em>Información Técnica para el Plan de Mitigación del Riesgo Sísmico de las Edificaciones Escolares en El Salvador</em>. Bogotá: Universidad de los Andes.</p>
+<p>CIMOC &amp; Universidad de los Andes. (2019). <em>GPSS Informe técnico Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali Plan Piloto 2019</em>. Bogotá: Universidad de los Andes.</p>
+<p>Yamin, L. E., Garcia, A., Fuentes, G. A., Lopez, C., &amp; Velez, L. (2019). Seismic performance assessment of representative school buildings. En <em>IX Congreso Nacional de Ingeniería Sísmica</em>.</p>
+<p>AMVA &amp; Universidad de los Andes. (2017). Aunar Esfuerzos para la Armonización de la Microzonificación Sísmica de los Municipios del Valle de Aburrá, al Reglamento NSR-10 e Inclusión de los Cinco Corregimientos del Municipio de Medellín. Convenio marco de asociación 168 de 2015, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.</p>
+<p>AMVA &amp; Universidad de los Andes. (2018). Aunar esfuerzos para el desarrollo de los estudios de riesgo sísmico del Valle de Aburrá, continuación del Sistema de Información Sísmico del Valle de Aburrá, y la elaboración y formación de la metodología para la evaluación de edificaciones después de un sismo. Bogotá: Convenio de asociación 1108 de 2016, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.</p>
+<p><strong>3</strong></p>
+
+
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./01-capitulo-1-actualizacion-de-los-coeficientes-.html" class="pagination-link" aria-label="Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./03-capitulo-3-evaluacion-probabilista-del-riesgo.html" class="pagination-link" aria-label="Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia">
+        <span class="nav-page-text"><span class="chapter-title">Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+
+</body></html>
