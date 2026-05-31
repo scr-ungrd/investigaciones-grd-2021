@@ -6,6 +6,7 @@ book:
   title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021"
   chapters:
     - index.qmd
+    - prelim-presentacion.qmd
     - prelim-pagina-legal.qmd
     - prelim-prologo.qmd
     - prelim-lista-de-autores.qmd

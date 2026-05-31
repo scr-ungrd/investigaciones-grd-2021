@@ -2,31 +2,173 @@
 title-block-banner-color: "#151550ff"
 ---
 
-# Presentación del libro {.unnumbered}
+# Inicio {.unnumbered}
 
-:::: {.columns}
-
-::: {.column width="60%"}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet tempor ex. Curabitur at dui aliquam, luctus velit et, mollis lacus. Etiam eget nibh semper, tincidunt velit sit amet, vehicula nibh. Quisque efficitur tortor at tincidunt dapibus. Proin risus nisl, blandit et iaculis ac, congue id felis. Nullam eu eleifend mi. Nullam neque quam, iaculis eu condimentum at, placerat ut turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mollis enim eu eros commodo, id suscipit ex molestie. Phasellus quam massa, aliquet eu ultricies vel, lacinia vitae odio. Donec id lorem ut leo imperdiet aliquam vitae sed ipsum. Proin posuere lectus ex, non ornare ante consectetur sit amet. Pellentesque molestie metus in purus tempus, et efficitur urna placerat. Vivamus et mattis ligula. Morbi tincidunt sem sed nunc imperdiet vulputate. Nunc leo justo, vehicula a ex ac, molestie efficitur sem.
-
-Curabitur condimentum tincidunt ultricies. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Quisque in quam a erat blandit bibendum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean non euismod dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tempor fermentum elit id tristique. Nam maximus sed magna nec porttitor. Praesent ullamcorper justo at est placerat, eu tincidunt eros iaculis.
-
-Quisque ullamcorper, orci eget consectetur mattis, erat dui tincidunt massa, id feugiat orci sapien ac ipsum. Phasellus lacus justo, hendrerit ut pellentesque id, venenatis mollis magna. Proin auctor leo sit amet nibh rhoncus, in finibus purus feugiat. In hac habitasse platea dictumst. Integer efficitur leo ut urna placerat volutpat. Suspendisse potenti. Nullam nec urna nunc.
-
-Phasellus id varius odio. Donec et sem dolor. Mauris vitae aliquam tellus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam mollis placerat lectus, vel placerat nibh consectetur id. Nulla sed tellus fringilla quam porta interdum. Cras nec sagittis quam, vel porttitor erat. Nam neque sapien, lobortis at lorem sit amet, efficitur bibendum justo. Donec vel dignissim massa, et blandit massa. Quisque sodales dapibus nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur neque sapien, commodo quis sollicitudin et, scelerisque in sapien. Nam venenatis accumsan iaculis. In sed leo non sapien rhoncus mollis et a nunc. Sed accumsan pharetra tincidunt.
-
-Mauris pretium turpis sed velit dignissim, vitae dictum sapien tristique. Donec leo metus, lacinia sit amet metus et, pretium aliquam tortor. Ut sem leo, porttitor vitae odio eget, faucibus euismod lectus. Mauris laoreet nibh eget sagittis consequat. Donec sollicitudin luctus malesuada. Integer sed urna ut metus commodo viverra quis eget purus. Mauris sodales sollicitudin lectus vitae lacinia. Nunc sit amet sapien nec tortor ornare auctor a at ex.
-
-Donec vel tincidunt elit, vitae posuere ligula. Morbi sed varius purus, eget porta magna. Nulla non mauris vitae velit vehicula elementum in sit amet neque. Phasellus fringilla tortor sit amet diam consequat consequat. Pellentesque accumsan turpis eu dui tincidunt, vitae vulputate lorem pellentesque. Nullam cursus metus pulvinar nunc feugiat, et commodo lorem commodo. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam a efficitur ipsum. Quisque urna neque, laoreet eget magna non, tincidunt aliquam velit. Vestibulum vulputate quam in erat dictum dignissim. Curabitur lacus massa, scelerisque ac sodales non, congue vitae erat.
-
-Aenean venenatis maximus orci at blandit. Phasellus ligula magna, condimentum ut diam dapibus, mattis cursus libero. Quisque tempor dolor ut magna viverra egestas eget aliquam tellus. Nullam vel diam ultricies, ornare diam auctor, placerat mauris. Sed porttitor nulla non ipsum condimentum, non tristique augue interdum. Etiam lobortis laoreet laoreet. Duis cursus dui in libero vulputate, ut blandit lacus ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sit amet tempor ex. Curabitur at dui aliquam, luctus velit et, mollis lacus. Etiam eget nibh semper, tincidunt velit sit amet, vehicula nibh. Quisque efficitur tortor at tincidunt dapibus. Proin risus nisl, blandit et iaculis ac, congue id felis. Nullam eu eleifend mi. Nullam neque quam, iaculis eu condimentum at, placerat ut turpis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean mollis enim eu eros commodo, id suscipit ex molestie. Phasellus quam massa, aliquet eu ultricies vel, lacinia vitae odio. Donec id lorem ut leo imperdiet aliquam vitae sed ipsum. Proin posuere lectus ex, non ornare ante consectetur sit amet. Pellentesque molestie metus in purus tempus, et efficitur urna placerat. Vivamus et mattis ligula. Morbi tincidunt sem sed nunc imperdiet vulputate. Nunc leo justo, vehicula a ex ac, molestie efficitur sem.
-
+::::::::::::::::::::::::::::::::: {layout-ncol="2"}
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22](01-capitulo-1-actualizacion-de-los-coeficientes-.html)**
 :::
 
-::: {.column width="40%"}
-![](images/libro-2021-portada.png){fig-align="center" width="80%"}
+::: card-body
+![](media/img_ed30ac97.png){fig-align="left" width="250"}
+
+**Autores:** Gabriel Bernal, Omar Darío Cardona
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.html)**
 :::
 
-::::
+::: card-body
+![](media/img_7739e9ac.png){fig-align="left" width="250"}
+
+**Autores:** Rafael Fernández, Luis Yamin, Juan Carlos Reyes, Angie Garcia, Gustavo Fuentes, Juan Echeverry
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia](03-capitulo-3-evaluacion-probabilista-del-riesgo.html)**
+:::
+
+::: card-body
+![](media/img_47157221.png){fig-align="left" width="250"}
+
+**Autores:** Omar Darío Cardona, Gabriel Bernal, María Alejandra Escovar
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio](04-capitulo-4-contribucion-de-la-geodesia-espaci.html)**
+:::
+
+::: card-body
+![](media/img_9cb406e3.jpeg){fig-align="left" width="250"}
+
+**Autores:** Héctor Mora-Páez, Fredy Díaz Mila, Takeshi Sagiya, Leidy Giraldo Londoño, Yuli Corchuelo Cuervo
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 5: Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad](05-capitulo-5-nociones-performativas-del-reasent.html)**
+:::
+
+::: card-body
+![](media/img_41dd66ec.png){fig-align="left" width="250"}
+
+**Autores:** William Oswaldo Gaviria Gutiérrez, Viviana Ramírez Loaiza, Lina Andrea Zambrano Hernández
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 6: Animales en la gestión del riesgo de los desastres](06-capitulo-6-animales-en-la-gestion-del-riesgo-.html)**
+:::
+
+::: card-body
+**Autores:** Diego Hernández Pulido, Nicolás Hernández Gallo, Leonardo Arias Bernal, Rodrigo Forero Carrillo, Gonzalo Jiménez Alonso
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria](07-capitulo-7-iniciativas-para-la-reduccion-del-.html)**
+:::
+
+::: card-body
+![](media/img_fa875e6a.png){fig-align="left" width="250"}
+
+**Autores:** Víctor Leonardo López Jiménez
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca](08-capitulo-8-comunicacion-del-riesgo-reflexione.html)**
+:::
+
+::: card-body
+![](media/img_ae011ec3.jpeg){fig-align="left" width="250"}
+
+**Autores:** Javier Thomas, Julio Rubio
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 9: La perspectiva histórica en la gestión del riesgo de desastres: aplicación en Santiago de Cali, Colombia](09-capitulo-9-la-perspectiva-historica-en-la-ges.html)**
+:::
+
+::: card-body
+![](media/img_2c2d9f20.png){fig-align="left" width="250"}
+
+**Autores:** Nathalie García-Millán, Jorge A. Vélez-Correa, Karen A. Sánchez-Estupiñán
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas](10-capitulo-10-estudio-de-riesgo-por-movimientos.html)**
+:::
+
+::: card-body
+![](media/img_873d26d6.png){fig-align="left" width="250"}
+
+**Autores:** Cesar Augusto Hidalgo M., Johnny Alexander Vega G.
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 11: De la percepción de la amenaza a su cuantificación. Caso de estudio: desbordamiento del río Unete en Aguazul, Casanare, Colombia](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.html)**
+:::
+
+::: card-body
+![](media/img_5c2264a1.jpeg){fig-align="left" width="250"}
+
+**Autores:** Rafael Muñoz Quintero, Daniela Jácome Hernández, Alejandro Franco Rojas, Alexander Padilla González
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano](12-capitulo-12-obras-costeras-y-clima-maritimo-c.html)**
+:::
+
+::: card-body
+![](media/img_6db5766d.jpeg){fig-align="left" width="250"}
+
+**Autores:** Serguei Lonin, Julio Monroy
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 13: Modelo de gestión y análisis del riesgo por erosión costera. Caso de estudio departamento de Córdoba](13-capitulo-13-modelo-de-gestion-y-analisis-del-.html)**
+:::
+
+::: card-body
+![](media/img_487c95c7.jpeg){fig-align="left" width="250"}
+
+**Autores:** Oswaldo Coca-Domínguez, Constanza Ricaurte-Villota, David Fernando Morales Giraldo
+:::
+:::::
+
+::::: card
+::: {.card-header .bg-white}
+**[Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)](14-capitulo-14-gestion-del-riesgo-por-inundacion.html)**
+:::
+
+::: card-body
+![](media/img_7adf8497.jpeg){fig-align="left" width="250"}
+
+**Autores:** Paula Andrea Villegas González, Nelson Obregón Neira
+:::
+:::::
+
+:::::::::::::::::::::::::::::::::
