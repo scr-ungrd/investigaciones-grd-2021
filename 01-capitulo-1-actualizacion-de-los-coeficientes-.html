@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Gabriel Bernal">
-<meta name="author" content="Omar Darío Cardona">
+<meta name="author" content="Gabriel Bernal 1,3">
+<meta name="author" content="Omar Darío Cardona 2,3">
 
 <title>Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22 – Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021</title>
 <style>
@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c62bef599b4916bd8abd7e2c0a388ead.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-48abc47ddc2cbc14860ddec9e9fdb395.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -61,17 +61,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 <style>
@@ -123,6 +123,7 @@ window.Quarto = {
 };
 </script>
 
+<link rel="stylesheet" href="custom.css">
 </head>
 
 <body class="nav-sidebar floating quarto-light">
@@ -131,13 +132,13 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./01-capitulo-1-actualizacion-de-los-coeficientes-.html"><span class="chapter-title">Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Buscar" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -151,17 +152,31 @@ window.Quarto = {
                       </div>
   </div>
     
-  
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Autores/as</div>
+    <div class="quarto-title-meta-heading">Afiliaciones</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author">Gabriel Bernal <sup>1,3</sup> <a href="https://orcid.org/true" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <sup>1</sup>Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia; <sup>3</sup>INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Omar Darío Cardona <sup>2,3</sup> <a href="https://orcid.org/true" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <sup>2</sup>Instituto de Estudios Ambientales. Universidad Nacional de Colombia, Sede Manizales, Colombia; <sup>3</sup>INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia
+            </p>
+        </div>
+    </div>
+
   <div class="quarto-title-meta">
 
-      <div>
-      <div class="quarto-title-meta-heading">Authors</div>
-      <div class="quarto-title-meta-contents">
-               <p>Gabriel Bernal </p>
-               <p>Omar Darío Cardona </p>
-            </div>
-    </div>
-      
+        
     
       
     </div>
@@ -177,7 +192,7 @@ window.Quarto = {
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Buscar"></div>
         </div>
         </div>
     <div class="sidebar-menu-container"> 
@@ -301,37 +316,37 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
   <li><a href="#resumen" id="toc-resumen" class="nav-link active" data-scroll-target="#resumen">Resumen</a></li>
   <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">INTRODUCCIÓN</a></li>
-  <li><a href="#movimientos-sísmicos-de-diseño" id="toc-movimientos-sísmicos-de-diseño" class="nav-link" data-scroll-target="#movimientos-sísmicos-de-diseño">MOVIMIENTOS SÍSMICOS DE DISEÑO</a></li>
-  <li><a href="#un-nuevo-enfoque" id="toc-un-nuevo-enfoque" class="nav-link" data-scroll-target="#un-nuevo-enfoque">UN “NUEVO” ENFOQUE</a>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">1.1 INTRODUCCIÓN</a></li>
+  <li><a href="#movimientos-sísmicos-de-diseño" id="toc-movimientos-sísmicos-de-diseño" class="nav-link" data-scroll-target="#movimientos-sísmicos-de-diseño">1.2 MOVIMIENTOS SÍSMICOS DE DISEÑO</a></li>
+  <li><a href="#un-nuevo-enfoque" id="toc-un-nuevo-enfoque" class="nav-link" data-scroll-target="#un-nuevo-enfoque">1.3 UN “NUEVO” ENFOQUE</a>
   <ul class="collapse">
-  <li><a href="#costo-inicial" id="toc-costo-inicial" class="nav-link" data-scroll-target="#costo-inicial">Costo inicial</a></li>
-  <li><a href="#costo-de-pérdidas-futuras" id="toc-costo-de-pérdidas-futuras" class="nav-link" data-scroll-target="#costo-de-pérdidas-futuras">Costo de pérdidas futuras</a></li>
+  <li><a href="#costo-inicial" id="toc-costo-inicial" class="nav-link" data-scroll-target="#costo-inicial">1.3.1 Costo inicial</a></li>
+  <li><a href="#costo-de-pérdidas-futuras" id="toc-costo-de-pérdidas-futuras" class="nav-link" data-scroll-target="#costo-de-pérdidas-futuras">1.3.2 Costo de pérdidas futuras</a></li>
   </ul></li>
-  <li><a href="#coeficientes-óptimos" id="toc-coeficientes-óptimos" class="nav-link" data-scroll-target="#coeficientes-óptimos">COEFICIENTES ÓPTIMOS</a></li>
-  <li><a href="#espectros-de-diseño" id="toc-espectros-de-diseño" class="nav-link" data-scroll-target="#espectros-de-diseño">ESPECTROS DE DISEÑO</a>
+  <li><a href="#coeficientes-óptimos" id="toc-coeficientes-óptimos" class="nav-link" data-scroll-target="#coeficientes-óptimos">1.4 COEFICIENTES ÓPTIMOS</a></li>
+  <li><a href="#espectros-de-diseño" id="toc-espectros-de-diseño" class="nav-link" data-scroll-target="#espectros-de-diseño">1.5 ESPECTROS DE DISEÑO</a>
   <ul class="collapse">
-  <li><a href="#coeficiente-sms" id="toc-coeficiente-sms" class="nav-link" data-scroll-target="#coeficiente-sms">Coeficiente SMS</a></li>
-  <li><a href="#coeficiente-sm1" id="toc-coeficiente-sm1" class="nav-link" data-scroll-target="#coeficiente-sm1">Coeficiente SM1</a></li>
-  <li><a href="#espectros-mínimos" id="toc-espectros-mínimos" class="nav-link" data-scroll-target="#espectros-mínimos">Espectros mínimos</a></li>
-  <li><a href="#parámetro-tl" id="toc-parámetro-tl" class="nav-link" data-scroll-target="#parámetro-tl">Parámetro TL</a></li>
+  <li><a href="#coeficiente-sms" id="toc-coeficiente-sms" class="nav-link" data-scroll-target="#coeficiente-sms">1.5.1 Coeficiente SMS</a></li>
+  <li><a href="#coeficiente-sm1" id="toc-coeficiente-sm1" class="nav-link" data-scroll-target="#coeficiente-sm1">1.5.2 Coeficiente SM1</a></li>
+  <li><a href="#espectros-mínimos" id="toc-espectros-mínimos" class="nav-link" data-scroll-target="#espectros-mínimos">1.5.3 Espectros mínimos</a></li>
+  <li><a href="#parámetro-tl" id="toc-parámetro-tl" class="nav-link" data-scroll-target="#parámetro-tl">1.5.4 Parámetro TL</a></li>
   </ul></li>
-  <li><a href="#espectros-propuestos-y-comparación-con-la-nsr-10" id="toc-espectros-propuestos-y-comparación-con-la-nsr-10" class="nav-link" data-scroll-target="#espectros-propuestos-y-comparación-con-la-nsr-10">ESPECTROS PROPUESTOS Y COMPARACIÓN CON LA NSR-10</a></li>
-  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">CONCLUSIONES</a></li>
-  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos">MATERIALES Y MÉTODOS</a>
+  <li><a href="#espectros-propuestos-y-comparación-con-la-nsr-10" id="toc-espectros-propuestos-y-comparación-con-la-nsr-10" class="nav-link" data-scroll-target="#espectros-propuestos-y-comparación-con-la-nsr-10">1.6 ESPECTROS PROPUESTOS Y COMPARACIÓN CON LA NSR-10</a></li>
+  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">1.7 CONCLUSIONES</a></li>
+  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos">1.8 MATERIALES Y MÉTODOS</a>
   <ul class="collapse">
-  <li><a href="#risk-targeted-ground-motion-rtgm" id="toc-risk-targeted-ground-motion-rtgm" class="nav-link" data-scroll-target="#risk-targeted-ground-motion-rtgm">Risk Targeted Ground Motion (RTGM)</a></li>
-  <li><a href="#método-de-los-coeficientes-óptimos" id="toc-método-de-los-coeficientes-óptimos" class="nav-link" data-scroll-target="#método-de-los-coeficientes-óptimos">Método de los coeficientes óptimos</a></li>
+  <li><a href="#risk-targeted-ground-motion-rtgm" id="toc-risk-targeted-ground-motion-rtgm" class="nav-link" data-scroll-target="#risk-targeted-ground-motion-rtgm">1.8.1 Risk Targeted Ground Motion (RTGM)</a></li>
+  <li><a href="#método-de-los-coeficientes-óptimos" id="toc-método-de-los-coeficientes-óptimos" class="nav-link" data-scroll-target="#método-de-los-coeficientes-óptimos">1.8.2 Método de los coeficientes óptimos</a></li>
   </ul></li>
-  <li><a href="#anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento" id="toc-anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento" class="nav-link" data-scroll-target="#anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento">ANEXO 1: ESPECTROS DE DISEÑO PROPUESTOS PARA CAPITALES DE DEPARTAMENTO</a></li>
-  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">AGRADECIMIENTOS</a></li>
-  <li><a href="#identificación-del-autor" id="toc-identificación-del-autor" class="nav-link" data-scroll-target="#identificación-del-autor">IDENTIFICACIÓN DEL AUTOR</a></li>
-  <li><a href="#bibliográfia" id="toc-bibliográfia" class="nav-link" data-scroll-target="#bibliográfia">BIBLIOGRÁFIA</a></li>
+  <li><a href="#anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento" id="toc-anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento" class="nav-link" data-scroll-target="#anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento">1.9 ANEXO 1: ESPECTROS DE DISEÑO PROPUESTOS PARA CAPITALES DE DEPARTAMENTO</a></li>
+  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">1.10 AGRADECIMIENTOS</a></li>
+  <li><a href="#identificación-del-autor" id="toc-identificación-del-autor" class="nav-link" data-scroll-target="#identificación-del-autor">1.11 IDENTIFICACIÓN DEL AUTOR</a></li>
+  <li><a href="#bibliográfia" id="toc-bibliográfia" class="nav-link" data-scroll-target="#bibliográfia">1.12 BIBLIOGRÁFIA</a></li>
   </ul>
 </nav>
     </div>
@@ -342,10 +357,6 @@ window.Quarto = {
 
 
 
-<p>1Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia</p>
-<p>2Instituto de Estudios Ambientales. Universidad Nacional de Colombia, Sede Manizales, Colombia</p>
-<p>3INGENIAR Investigación y Consultoría en Ingeniería para Análisis del Riesgo, Bogotá, Colombia</p>
-<p>*Autor de contacto: Gabriel Bernal. Departamento de Ingeniería Civil y Agrícola. Universidad Nacional de Colombia, Sede Bogotá, Colombia. Correo-e:</p>
 <section id="resumen" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="resumen">Resumen</h2>
 <p>Se presenta la propuesta de coeficientes sísmicos de diseño desarrollada desde el comité AIS-300 para la actualización de la Norma Colombiana de Construcción Sismo Resistente NSR. Esta propuesta aborda los conceptos de coeficientes óptimos de diseño que han sido la base metodológica para los movimientos de diseño en países como México, alejándose de la metodología usada en los Estados Unidos conocida como Risk Targeted Ground Motion (RTGM). Se detallan los criterios empleados en la aplicación del modelo de optimización de costos totales, con el fin de determinar espectros de diseño desligados de algún periodo de retorno. Se incluye una comparación de las nuevas formas espectrales con las actualmente vigentes dadas por la NSR 10.</p>
@@ -359,17 +370,27 @@ window.Quarto = {
 <p><strong>Keywords</strong></p>
 <p>Seismic design coefficients, total cost optimization, Risk Targeted Ground Motion, seismic hazard, design spectra, NSR 22</p>
 </section>
-<section id="introducción" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="introducción">INTRODUCCIÓN</h2>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">1.1 INTRODUCCIÓN</h2>
 <p>La Ley 400 de 1997 marca un hito en la historia del país al establecer el marco normativo que provee las exigencias mínimas para el diseño de edificaciones nuevas en Colombia. La Norma Colombiana de Construcción Sismo Resistente, NSR, está circunscrita en dicha ley y sus decretos reglamentarios, estableciendo las condiciones para la práctica de la ingeniería estructural en Colombia. Esta norma fue actualizada en el 2010 en diversos aspectos de la ingeniería estructural y sísmica, incluyendo la evaluación de la amenaza sísmica a nivel nacional y los coeficientes de diseño. En este momento, la Asociación Colombiana de Ingeniería Sísmica (AIS) se encuentra actualizando de nuevo la norma, buscando incorporarle elementos más modernos y ajustados al estado del conocimiento. Como parte de dicha actualización, el comité AIS-300, encargado de la Amenaza Sísmica Normativa dentro de la AIS, realizó una propuesta de coeficientes sísmicos de diseño que deberá ser estudiada por la Comisión Asesora del Régimen de construcciones Sismo Resistentes, creada por la Ley 400 de 1997, y máximo ente encargado de tomar las decisiones acerca de la sismo resistencia de edificaciones en el país. Este documento presenta los resultados del proceso de actualización de los coeficientes de diseño sismo resistente, basados en la evaluación probabilista de la amenaza sísmica de Colombia y en nuevos procedimientos para definir los movimientos de diseño.</p>
 </section>
-<section id="movimientos-sísmicos-de-diseño" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="movimientos-sísmicos-de-diseño">MOVIMIENTOS SÍSMICOS DE DISEÑO</h2>
+<section id="movimientos-sísmicos-de-diseño" class="level2">
+<h2 class="anchored" data-anchor-id="movimientos-sísmicos-de-diseño">1.2 MOVIMIENTOS SÍSMICOS DE DISEÑO</h2>
 <p>Para la actualización de la norma sismo resistente de edificaciones NSR 22 se plantea el uso de las formas espectrales de los códigos ASCE 7 - 10 y 16 [1], las cuales se establecen en función de dos parámetros: *S**DS* (aceleración espectral de diseño en periodo corto, 0.2 seg) y *S**D1* (espectral de diseño para un periodo de 1 segundo). La forma espectral se presenta en la Figura 1.</p>
 <p><img src="media/img_ed30ac97.png" class="img-fluid"></p>
 <p><strong>Figura 1.</strong> Espectro de aceleraciones según ASCE 7 - 10/16. Tomado de ASCE 7 - 16.</p>
-<div class="caja-box">
-<p><strong>Caja 1.</strong> Características de los movimientos sísmicos de diseño Los movimientos sísmicos para el diseño estructural se representan por medio de Espectros de Diseño, los cuales indican los valores mínimos requeridos de aceleración espectral según diferentes periodos de vibración de estructuras. A lo largo de muchos años la ingeniería estructural ha desarrollado los métodos necesarios para operar con este tipo de descripción del movimiento fuerte dentro de los procesos de diseño y verificación de una estructura. Lo que conocemos como espectro de respuesta no es más que la colección de valores máximos de movimiento (respuesta estructural) de osciladores de un grado de libertad con periodo fundamental variable (cubriendo un rango relevante y representativo), ante un mismo movimiento sísmico en la base. Los espectros de respuesta, entre muchas otras propiedades interesantes, exhiben un comportamiento como el ilustrado en la Figura. Se presenta un espectro de velocidad para el acelerograma registrado en la estación Bocatoma durante el sismo de Armenia (Eje Cafetero) del 25 de enero de 1999. Espectro de velocidad del registro Bocatoma del sismo del Eje Cafetero (Colombia) del 25/01/1999 Nótese que, al dibujar los espectros de velocidad en escala logarítmica, es posible encontrar rangos de periodos en donde los valores calculados de respuesta estructural no varían significativamente unos con otros. En particular se revelan tres zonas en el espectro: una de aceleración aproximadamente constante, otra de velocidad aproximadamente constante y una tercera de desplazamiento aproximadamente constante. Las formas espectrales de diseño, similares a la línea negra presentada en la Figura, buscan aproximar lo mejor posible la forma y características de los espectros de respuesta.</p>
+<div id="box1" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 1. Características de los movimientos sísmicos de diseño Los movimientos sísmicos para el diseño estructural se representan por medio de Espectros de Diseño, los cuales indican los valores mínimos requeridos de aceleración espectral según diferentes periodos de vibración de estructuras. A lo largo de muchos años la ingeniería estructural ha desarrollado los métodos necesarios para operar con este tipo de descripción del movimiento fuerte dentro de los procesos de diseño y verificación de una estructura.
+</h2>
+<p>Lo que conocemos como espectro de respuesta no es más que la colección de valores máximos de movimiento (respuesta estructural) de osciladores de un grado de libertad con periodo fundamental variable (cubriendo un rango relevante y representativo), ante un mismo movimiento sísmico en la base. Los espectros de respuesta, entre muchas otras propiedades interesantes, exhiben un comportamiento como el ilustrado en la Figura. Se presenta un espectro de velocidad para el acelerograma registrado en la estación Bocatoma durante el sismo de Armenia (Eje Cafetero) del 25 de enero de 1999. Espectro de velocidad del registro Bocatoma del sismo del Eje Cafetero (Colombia) del 25/01/1999 Nótese que, al dibujar los espectros de velocidad en escala logarítmica, es posible encontrar rangos de periodos en donde los valores calculados de respuesta estructural no varían significativamente unos con otros. En particular se revelan tres zonas en el espectro: una de aceleración aproximadamente constante, otra de velocidad aproximadamente constante y una tercera de desplazamiento aproximadamente constante. Las formas espectrales de diseño, similares a la línea negra presentada en la Figura, buscan aproximar lo mejor posible la forma y características de los espectros de respuesta.</p>
+</div>
+</div>
 </div>
 <p>Según el reglamento ASCE 7, los coeficientes de diseño se obtienen de los coeficientes SMS y SM1, llamados el sismo máximo considerado, de la siguiente manera.</p>
 <table class="caption-top">
@@ -391,24 +412,34 @@ window.Quarto = {
 <p><img src="media/img_2860b0be.png" class="img-fluid"></p>
 <p><strong>Figura 2. </strong>Espectro de diseño y espectro de amenaza uniforme. Se indican los periodos de retorno reales de las aceleraciones espectrales de diseño.</p>
 <p>Cabe anotar que en este trabajo se mantienen siempre los coeficientes de sitio, asociados a la respuesta del suelo, en un valor constante igual a 1. La respuesta de sitio es materia de investigación profunda y de reflexión también para la actualización de la NSR 22, pero excede el alcance de este trabajo.</p>
-<div class="caja-box">
-<p><strong>Caja 2.</strong> Efecto del suelo Los depósitos de suelo blando modifican en amplitud y contenido frecuencial el movimiento sísmico, como resultado del tránsito de las ondas sísmicas por los materiales geotécnicos, los cuales exhiben un comportamiento fuertemente no lineal, aumentando los amortiguamientos totales y degradando su módulo de rigidez a medida que son sometidos a mayores deformaciones cortantes. Este comportamiento tiende a modificar radicalmente la forma de los espectros de respuesta a nivel de la superficie del terreno (o a nivel de la cimentación de las estructuras), en comparación con el movimiento en la base del depósito. Este comportamiento se ilustra a continuación a partir de la respuesta sísmica de un perfil conformado totalmente por materiales aluviales, granulares, de profundidad intermedia (30 metros) y rigidez intermedia (Vs30 = 530 m/s). Este perfil es de tipo C según la clasificación NHERP, misma usada en el NSR-10. La Figura presenta la relación de amplificación de aceleraciones espectrales (superficie/ roca) ante un acelerograma hipotético incidente en la base. Relación de amplificación de las aceleraciones espectrales El comportamiento de la relación de amplificación típicamente es el presentado en la Figura. Nótese que es posible identificar tres zonas principales: una de periodos muy cortos (o zona de comportamiento rígido), otra de periodo corto y otra de periodo largo, para las cuales es posible establecer valores de amplificación en términos de un único parámetro representativo. Estos parámetros son los mismos que se emplean en la formulación de las formas espectrales de la NSR 10 (Fa y Fv), despreciando la zona de comportamiento rígido, en donde prácticamente no es posible encontrar ninguna estructura convencional.</p>
+<div id="box2" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 2. Efecto del suelo Los depósitos de suelo blando modifican en amplitud y contenido frecuencial el movimiento sísmico, como resultado del tránsito de las ondas sísmicas por los materiales geotécnicos, los cuales exhiben un comportamiento fuertemente no lineal, aumentando los amortiguamientos totales y degradando su módulo de rigidez a medida que son sometidos a mayores deformaciones cortantes. Este comportamiento tiende a modificar radicalmente la forma de los espectros de respuesta a nivel de la superficie del terreno (o a nivel de la cimentación de las estructuras), en comparación con el movimiento en la base del depósito.
+</h2>
+<p>Este comportamiento se ilustra a continuación a partir de la respuesta sísmica de un perfil conformado totalmente por materiales aluviales, granulares, de profundidad intermedia (30 metros) y rigidez intermedia (Vs30 = 530 m/s). Este perfil es de tipo C según la clasificación NHERP, misma usada en el NSR-10. La Figura presenta la relación de amplificación de aceleraciones espectrales (superficie/ roca) ante un acelerograma hipotético incidente en la base. Relación de amplificación de las aceleraciones espectrales El comportamiento de la relación de amplificación típicamente es el presentado en la Figura. Nótese que es posible identificar tres zonas principales: una de periodos muy cortos (o zona de comportamiento rígido), otra de periodo corto y otra de periodo largo, para las cuales es posible establecer valores de amplificación en términos de un único parámetro representativo. Estos parámetros son los mismos que se emplean en la formulación de las formas espectrales de la NSR 10 (Fa y Fv), despreciando la zona de comportamiento rígido, en donde prácticamente no es posible encontrar ninguna estructura convencional.</p>
+</div>
+</div>
 </div>
 </section>
-<section id="un-nuevo-enfoque" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="un-nuevo-enfoque">UN “NUEVO” ENFOQUE</h2>
+<section id="un-nuevo-enfoque" class="level2">
+<h2 class="anchored" data-anchor-id="un-nuevo-enfoque">1.3 UN “NUEVO” ENFOQUE</h2>
 <p>En vista tanto de las deficiencias como ventajas de la RTGM, se propone un enfoque diferente para la definición de los coeficientes sísmicos de diseño. Este enfoque se basa en la cuantificación de coeficientes <em>óptimos</em> de diseño, lo cual no es realmente un nuevo enfoque, no solo por haber sido ya empleado en otros códigos de construcción sismo resistente (como en el caso de México), sino porque su definición es tan antigua como la de la evaluación probabilista de la amenaza sísmica. En palabras de Luis Esteva, los coeficientes óptimos “son los que han de minimizar la suma de los costos asociados a la decisión de haber usado ese valor en el diseño de la edificación” [3]. El padre de la evaluación probabilista nos ofrecía esta definición al mismo tiempo que planteaba su famosa ecuación para el cálculo de las tasas de excedencia de movimiento fuerte (de donde se obtienen los periodos de retorno, tan arraigados en nuestra concepción de seguridad en los diseños estructurales). Su maestro, Emilio Rosenblueth, lo definiría de la siguiente manera: “un diseño es óptimo si minimiza los costos iniciales de construcción y el valor presente neto de las pérdidas futuras debido a terremotos” [4]. No es extraño entonces que estos conceptos hayan sido llevados a la práctica en México desde hace ya varios años.</p>
 <p>Siguiendo la definición de Rosenblueth, los coeficientes óptimos de diseño se obtienen de minimizar la suma de costos iniciales de construcción, y costos futuros asociados a las pérdidas que causarán los terremotos. Esto significa que el periodo de retorno de estos coeficientes no solo no participa en su definición, sino que cambiará de sitio a sitio. La Figura 3 muestra esta situación para dos sitios diferentes en un territorio, uno de baja y otro de alta sismicidad. El costo inicial (CI) se asume igual en ambas ubicaciones. Nótese que los costos se presentan como función del valor del coeficiente de diseño <em>c</em>, es decir que entre mayores son las exigencias, mayor es el costo inicial. Ahora bien, las curvas de costos futuros (CFL) exhiben comportamientos diferentes dependiendo del nivel de sismicidad del sitio, pero siendo ambas decrecientes con respecto a <em>c</em>, indicando que entre mayor sea la exigencia de diseño, se espera que las pérdidas futuras sean menores. La función de costo total (CT) viene de la suma de las anteriores (CT = CI+CFL). Esta función no es totalmente creciente o decreciente con respecto a <em>c</em>, presentando un claro valor mínimo en el cual, puede afirmarse, se encuentra el valor óptimo del coeficiente <em>c</em>, es decir, el que implica los menores costos totales.</p>
 <p><img src="media/img_6c79766f.png" class="img-fluid"></p>
 <p><strong>Figura 3. </strong>Ilustración de la definición de coeficientes óptimos de diseño.</p>
-<section id="costo-inicial" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="costo-inicial">Costo inicial</h3>
+<section id="costo-inicial" class="level3">
+<h3 class="anchored" data-anchor-id="costo-inicial">1.3.1 Costo inicial</h3>
 <p>El costo inicial es un indicador del valor económico de la edificación y su variación a medida que la exigencia de diseño aumenta. Nótese que este modelo no pretende ser de características financieras, sino simplemente indicativo, por lo cual no es necesario, ni correcto, intentar incorporar aspectos como la depreciación del inmueble construido.</p>
 <p>El costo inicial se compone de un costo por resistencia lateral gratuita y un costo por resistencia adicional a la gratuita. La resistencia lateral gratuita es aquella resistencia lateral que tiene una estructura que ha sido diseñada exclusivamente para soportar cargas verticales. Es decir, en cualquier configuración estructural, dado que se soportan cargas verticales, se tiene algún nivel de resistencia lateral que es inherente a la estructura, así no se haya concebido como objetivo de diseño.</p>
 <p>Toda resistencia adicional que se provea a la estructura implica un costo adicional a la resistencia gratuita. Este costo es creciente con respecto a la exigencia de diseño, de un modo que se ha visto es ligeramente no lineal. Salgado et al.&nbsp;[5] Proponen un modelo de costos iniciales para las edificaciones en Colombia, que hemos adoptado para el desarrollo de este trabajo.</p>
 </section>
-<section id="costo-de-pérdidas-futuras" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="costo-de-pérdidas-futuras">Costo de pérdidas futuras</h3>
+<section id="costo-de-pérdidas-futuras" class="level3">
+<h3 class="anchored">1.3.2 Costo de pérdidas futuras</h3>
 <p>El costo de las pérdidas futuras se determina en función del costo inicial de la estructura, la tasa de excedencia del coeficiente de diseño, que mide cuantas veces en promedio en el futuro se excederá el nivel de diseño, y un factor de impacto que permite incorporar efectos indirectos asociados a las pérdidas causadas por los temblores. Este factor de impacto es de especial interés en este trabajo, pues permite incorporar de forma más o menos directa las condiciones de contexto que facilitan que se exacerbe el impacto asociado a la ocurrencia de un terremoto, en términos de la fragilidad social y falta de resiliencia en que ocurre dicha pérdida.</p>
 <p>La tasa de excedencia del movimiento fuerte mide el número de veces en un año que se espera se exceda, en promedio, un valor determinado. Este parámetro se obtiene mediante una evaluación clásica de la amenaza sísmica, cuyo principal resultado son precisamente las curvas de amenaza (o curvas de tasa de excedencia) en múltiples ubicaciones de cálculo dentro del país. El modelo de amenaza sísmica de Colombia corresponde a la última versión del proyecto ASLAC (Salgado et al.&nbsp;[6]), el cual es un modelo regional de América Latina y El Caribe, desarrollado con el objetivo de proveer a la región de un modelo continuo de amenaza, con el mayor nivel de detalle posible en cada territorio y siguiendo técnicas del estado del arte en ingeniería sísmica. La Figura 4 muestra como ejemplo los mapas de amenaza uniforme para Colombia de 475 años de periodo de retorno, para aceleración máxima del terreno y aceleración espectral para 0.5 segundos.</p>
 <table class="caption-top">
@@ -422,14 +453,24 @@ window.Quarto = {
 <p><img src="media/img_c74bc381.png" class="img-fluid"></p>
 <p><strong>Figura 5. </strong>Valor del factor de impacto a nivel municipal. Los municipios con factor de impacto igual a 5 son: Bogotá D.C., Medellín, Cali, Bucaramanga, Barranquilla y Cartagena. Los municipios con factor de impacto igual a 7 son: Manizales, Pereira, Armenia y Popayán.</p>
 <p>Los valores mostrados en el mapa de la Figura 5 fueron definidos en base a la experiencia de los autores con el fin de revelar el impacto asociado a la ocurrencia de los temblores, y se consideran apropiados y suficientes para los fines de este trabajo. Mayor profundización en su definición será objeto de investigaciones posteriores.</p>
-<div class="caja-box">
-<p><strong>Caja 3.</strong> Nuevo modelo de amenaza sísmica de Colombia Como parte del proyecto ASLAC (Amenaza Sísmica de América Latina y El Caribe), se desarrolló un modelo detallado de amenaza sísmica para el territorio colombiano. Los detalles de este modelo pueden consultarse en Salgado et.al. 2017. Este nuevo modelo se conforma por 53 fuentes sismogénicas, 26 de ellas corticales, 5 de subducción de interfaz, 20 de subducción intraplaca, una fuente especial para el nido de sismicidad de Bucaramanga y una fuente de background para la sismicidad dispersa del norte colombiano. Mapa con la ubicación de los 53 polígonos de fuentes sismogénicas Se hizo uso de modelos de movimiento fuerte (GMPM) híbridos, mediante la combinación de los siguientes modelos individuales. Se incluye en todos los casos el modelo de atenuación de Bernal 2014 (actualizado en 2019) como modelo generado en base a observaciones en el territorio nacional. GMPM usados en la modelación de la amenaza sísmica El cálculo de la amenaza sísmica se desarrolló en el programa R-CRISIS, uno de los más usados a nivel internacional.</p>
+<div id="box3" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="costo-de-pérdidas-futuras">
+Caja 3. Nuevo modelo de amenaza sísmica de Colombia Como parte del proyecto ASLAC (Amenaza Sísmica de América Latina y El Caribe), se desarrolló un modelo detallado de amenaza sísmica para el territorio colombiano. Los detalles de este modelo pueden consultarse en Salgado et.al. 2017.
+</h2>
+<p>Este nuevo modelo se conforma por 53 fuentes sismogénicas, 26 de ellas corticales, 5 de subducción de interfaz, 20 de subducción intraplaca, una fuente especial para el nido de sismicidad de Bucaramanga y una fuente de background para la sismicidad dispersa del norte colombiano. Mapa con la ubicación de los 53 polígonos de fuentes sismogénicas Se hizo uso de modelos de movimiento fuerte (GMPM) híbridos, mediante la combinación de los siguientes modelos individuales. Se incluye en todos los casos el modelo de atenuación de Bernal 2014 (actualizado en 2019) como modelo generado en base a observaciones en el territorio nacional. GMPM usados en la modelación de la amenaza sísmica El cálculo de la amenaza sísmica se desarrolló en el programa R-CRISIS, uno de los más usados a nivel internacional.</p>
+</div>
+</div>
 </div>
 <div class="line-block">— | — |</div>
 </section>
 </section>
-<section id="coeficientes-óptimos" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="coeficientes-óptimos">COEFICIENTES ÓPTIMOS</h2>
+<section id="coeficientes-óptimos" class="level2">
+<h2 class="anchored" data-anchor-id="coeficientes-óptimos">1.4 COEFICIENTES ÓPTIMOS</h2>
 <p>Usando el software R-CRISIS [7], mismo usado en la evaluación de la amenaza sísmica del país y del proyecto ASLAC, se aplicó la metodología presentada anteriormente, buscando encontrar los coeficientes óptimos de diseño para diferentes aceleraciones espectrales. Como ejemplo, la Figura 6 muestra los espectros de aceleraciones óptimas para Bogotá y Cúcuta, a nivel de roca firme. Se marcan en la imagen los valores de aceleración en 0.2 y 1 segundos (correspondientes a SDS y SD1 respectivamente). Se muestra también los periodos de retorno de las aceleraciones espectrales. Nótese como los menores periodos de retorno se asocian a periodos bajos (cercanos a 0.2 segundos), punto desde el cual el periodo de retorno es creciente con el periodo estructural.</p>
 <table class="caption-top table">
 <tbody>
@@ -446,15 +487,25 @@ window.Quarto = {
 <p><strong>Figura 7.</strong> Periodos de retorno óptimos para aceleración espectral de 0.2 segundos.</p>
 <p><img src="media/img_da584018.png" class="img-fluid"></p>
 <p><strong>Figura 8.</strong> Periodos de retorno óptimos para aceleración espectral de 1 segundo (derecha).</p>
-<div class="caja-box">
-<p><strong>Caja 4.</strong> R-CRISIS R-CRISIS (Ordaz et al.&nbsp;2018) es una herramienta versátil para realizar el análisis probabilista de amenaza sísmica (PSHA). Desde su primera versión, desarrollada en 1998, R-CRISIS ha sido utilizado en diferentes proyectos de evaluación de amenaza sísmica alrededor del mundo. Las evaluaciones probabilistas realizada con R-CRISIS se ajustan en su totalidad a los resultados considerados válidos en la más reciente edición del proyecto PEER para validación de software para cálculos sísmicos. R-CRISIS está actualmente avalado para usarse en evaluaciones de amenaza sísmica de instalaciones nucleares en Europa. En Aguilar-Meléndez et al.&nbsp;(2017) se puede encontrar una completa revisión de R-CRISIS. R-CRISIS admite la definición de fuentes sísmicas de diversos tipos, desde puntos y líneas, hasta complejas estructuras tridimensionales, que se combinan con una importante variedad de modelos de sismicidad. R-CRISIS facilita el uso de diferentes modelos de atenuación (GMPM), incorporando actualmente más de 60 modelos diferentes. R-CRISIS permite calcular: Mapas de amenaza, espectros de amenaza uniforme, desagregación M-R, desagregación M-R-Epsilon, escenarios sísmicos/mapas de movimiento sísmico y conjunto de eventos (archivo CAPRA ame), entro otros resultados. Pantalla principal de R-CRISIS Manuales de usuario y referencia técnica, bases documentales, tutoriales y otros recursos pueden ser consultados en www.r-crisis.com</p>
+<div id="box4" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 4. R-CRISIS R-CRISIS (Ordaz et al.&nbsp;2018) es una herramienta versátil para realizar el análisis probabilista de amenaza sísmica (PSHA). Desde su primera versión, desarrollada en 1998, R-CRISIS ha sido utilizado en diferentes proyectos de evaluación de amenaza sísmica alrededor del mundo. Las evaluaciones probabilistas realizada con R-CRISIS se ajustan en su totalidad a los resultados considerados válidos en la más reciente edición del proyecto PEER para validación de software para cálculos sísmicos. R-CRISIS está actualmente avalado para usarse en evaluaciones de amenaza sísmica de instalaciones nucleares en Europa. En Aguilar-Meléndez et al.&nbsp;(2017) se puede encontrar una completa revisión de R-CRISIS.
+</h2>
+<p>R-CRISIS admite la definición de fuentes sísmicas de diversos tipos, desde puntos y líneas, hasta complejas estructuras tridimensionales, que se combinan con una importante variedad de modelos de sismicidad. R-CRISIS facilita el uso de diferentes modelos de atenuación (GMPM), incorporando actualmente más de 60 modelos diferentes. R-CRISIS permite calcular: Mapas de amenaza, espectros de amenaza uniforme, desagregación M-R, desagregación M-R-Epsilon, escenarios sísmicos/mapas de movimiento sísmico y conjunto de eventos (archivo CAPRA ame), entro otros resultados. Pantalla principal de R-CRISIS Manuales de usuario y referencia técnica, bases documentales, tutoriales y otros recursos pueden ser consultados en www.r-crisis.com</p>
+</div>
+</div>
 </div>
 </section>
-<section id="espectros-de-diseño" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="espectros-de-diseño">ESPECTROS DE DISEÑO</h2>
+<section id="espectros-de-diseño" class="level2">
+<h2 class="anchored" data-anchor-id="espectros-de-diseño">1.5 ESPECTROS DE DISEÑO</h2>
 <p>De acuerdo con la especificación del ASCE 7 -10/16, los coeficientes de diseño se obtienen a partir de los coeficientes del sismo máximo considerado. Los coeficientes óptimos calculados y presentados anteriormente son para diseño estructural, por lo cual es necesario, buscando la adopción del reglamento ASCE, encontrar los coeficientes SSM y SS1 que deriven en los coeficientes de diseño óptimos encontrados. Estos coeficientes se encuentran usando la Ecuación 1. Sus respectivos periodos de retorno deben determinarse en las curvas de amenaza correspondientes a cada aceleración espectral (0.2 y 1 segundos).</p>
-<section id="coeficiente-sms" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="coeficiente-sms">Coeficiente SMS</h3>
+<section id="coeficiente-sms" class="level3">
+<h3 class="anchored" data-anchor-id="coeficiente-sms">1.5.1 Coeficiente SMS</h3>
 <p>Este coeficiente corresponde a la aceleración espectral de 0.2 segundos del sismo máximo considerado según la especificación del ASCE 7 – 10/16. Este coeficiente determina la altura de la meseta en el espectro de aceleraciones, por lo cual es el que controla los diseños estructurales de edificaciones de altura intermedia. Las bajas alturas (1 y 2 pisos) se diseñan en Colombia haciendo uso del Título E de la NSR, en el cual no participan los espectros de diseño. Las características de las edificaciones de altura intermedia se ligan fuertemente al nivel socioeconómico de la región, es decir, que se reconoce la incidencia del factor de impacto en determinar las aceleraciones óptimas. Esta incidencia pudo ser verificada al analizar los valores de aceleración óptima espectral de 0.2 segundos en las cabeceras municipales, los cuales presentan periodos de retorno muy similares entre sí, para un mismo nivel o factor de impacto. Se definieron tres niveles de desarrollo, según las clasificaciones dadas en el mapa de la Figura 5, estableciendo los periodos de retorno como el promedio de los municipios de una misma clasificación, como se indica en la Tabla 1.</p>
 <p><strong>Tabla 1.</strong> Periodos de retorno del parámetro SMS según el nivel de desarrollo (Código de colores según el mapa de la Figura 5)</p>
 <table class="caption-top table">
@@ -484,8 +535,8 @@ window.Quarto = {
 </tbody>
 </table>
 </section>
-<section id="coeficiente-sm1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="coeficiente-sm1">Coeficiente SM1</h3>
+<section id="coeficiente-sm1" class="level3">
+<h3 class="anchored" data-anchor-id="coeficiente-sm1">1.5.2 Coeficiente SM1</h3>
 <p>Este coeficiente corresponde a la aceleración espectral de 1 segundo del sismo máximo considerado según la especificación del ASCE 7 – 10/16. Esto significa que el diseño de edificaciones de gran altura estará principalmente dominado por este parámetro. Estas edificaciones típicamente se diseñan con ingeniería de mayor sofisticación, usando métodos más rigurosos y exigentes. Si bien este puede no ser el caso siempre, se espera aquella que en líneas generales se de un tratamiento especial a edificaciones de esta característica. Por esta razón, no se buscó vincular su periodo de retorno directamente al nivel de desarrollo, sino a la ubicación geográfica, tal y como se muestra en el mapa de la Figura 8. A partir de este mapa de periodos de retorno óptimos, se propone una zonificación de la amenaza sísmica del país (Fig. 9) que determina el periodo de retorno del parámetro SM1, así como el nivel de disipación de energía mínimo requerido en cada zona, es decir, reemplazaría el mapa de zonas de amenaza actualmente vigente. Este nuevo mapa, define 5 zonas de amenaza: Alta 1, Alta 2, Intermedia, Baja 1 (Norte), Baja 2 (Llanos).</p>
 <p><img src="media/img_a70779bc.png" class="img-fluid"></p>
 <p><strong>Figura 9. </strong>Nuevo mapa de zonificación sísmica propuesto.</p>
@@ -518,8 +569,8 @@ window.Quarto = {
 </tbody>
 </table>
 </section>
-<section id="espectros-mínimos" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="espectros-mínimos">Espectros mínimos</h3>
+<section id="espectros-mínimos" class="level3">
+<h3 class="anchored" data-anchor-id="espectros-mínimos">1.5.3 Espectros mínimos</h3>
 <p>Para las zonas de amenaza baja (Norte y Llanos), se definieron espectros mínimos buscando que estos coincidan con los actuales espectros de diseño dados por la NSR 10 en estas regiones del país. Esta condición, si bien es arbitraria, implica aceleraciones espectrales de más de 5000 años de periodo de retorno en todos los casos, manteniendo además el mismo nivel de seguridad que el actualmente exigido. Los coeficientes SMS y SM1 para las zonas bajas se presentan en la Tabla 3.</p>
 <p><strong>Tabla 3. </strong>Coeficientes SMS y SM1 para zonas de amenaza baja. Valores dados como fracción de g.</p>
 <table class="caption-top table">
@@ -544,13 +595,13 @@ window.Quarto = {
 </tbody>
 </table>
 </section>
-<section id="parámetro-tl" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="parámetro-tl">Parámetro TL</h3>
+<section id="parámetro-tl" class="level3">
+<h3 class="anchored" data-anchor-id="parámetro-tl">1.5.4 Parámetro TL</h3>
 <p>El parámetro TL (Fig. 1) define el punto a partir del cual las aceleraciones espectrales decrecen con el inverso del periodo al cuadrado. Esta formulación permite controlar los desplazamientos espectrales en la zona de periodos largos. En este trabajo no se incluye una evaluación de los valores para TL, sin embargo, cabe mencionar que este parámetro estará principalmente controlado por la cercanía a fuentes sismogénicas importantes (campo cercano). En principio, TL se mantiene en su definición actual (la dada por la NSR 10) como <span class="math inline">\(TL = 2.4∙FV\)</span> , siendo FV el parámetro de amplificación del suelo en la zona de velocidades constantes. No obstante, en condición de campo cercano (i.e.&nbsp;a menos de 10 km de un lineamiento de falla activa) se requiere de la definición de este parámetro por medio de un estudio de amenaza local que considere el campo cercano.</p>
 </section>
 </section>
-<section id="espectros-propuestos-y-comparación-con-la-nsr-10" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="espectros-propuestos-y-comparación-con-la-nsr-10">ESPECTROS PROPUESTOS Y COMPARACIÓN CON LA NSR-10</h2>
+<section id="espectros-propuestos-y-comparación-con-la-nsr-10" class="level2">
+<h2 class="anchored" data-anchor-id="espectros-propuestos-y-comparación-con-la-nsr-10">1.6 ESPECTROS PROPUESTOS Y COMPARACIÓN CON LA NSR-10</h2>
 <p>A continuación, se presentan los espectros de diseño propuestos en comparación con los correspondientes dados por la NSR-10, para Bogotá, Medellín y Cali. Los espectros propuestos para todas las capitales de departamento se incluyen en el Anexo 1. Sobre los espectros propuestos se indican los periodos de retorno de las aceleraciones en diferentes puntos, con el objetivo de hacer énfasis en que no se trata de espectros de diseño asociados a un periodo de retorno. Se indica también la zona de amenaza, y los parámetros de las formas espectrales, tanto de la NSR-10 como los nuevos propuestos.</p>
 <p><img src="media/img_7c4bb73a.png" class="img-fluid"></p>
 <p><strong>Figura 10.</strong> Comparación de espectros de diseño de NSR-10 y propuestos para Bogotá.</p>
@@ -559,8 +610,8 @@ window.Quarto = {
 <p><img src="media/img_50190aa1.png" class="img-fluid"></p>
 <p><strong>Figura 12. </strong>Comparación de espectros de diseño de NSR-10 y propuestos para Cali.</p>
 </section>
-<section id="conclusiones" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="conclusiones">CONCLUSIONES</h2>
+<section id="conclusiones" class="level2">
+<h2 class="anchored" data-anchor-id="conclusiones">1.7 CONCLUSIONES</h2>
 <p>El diseño sismo resistente es una de las acciones de gestión del riesgo sísmico más efectivas, pues implica en esencia la reducción de la vulnerabilidad de las edificaciones futuras y, por lo tanto, del riesgo sísmico que afronta la sociedad. Esto es por lo que se requiere de una apropiada definición de los espectros de diseño sismo resistente, que permitan garantizar niveles de seguridad apropiados.</p>
 <p>Las diferencias observadas entre las formas espectrales de la NSR-10, actualmente en vigencia, y las nuevas propuestas se deben a los múltiples avances en la ingeniería sísmica en el país, que han llevado a la definición de nuevas y mejores metodologías tanto para el cálculo de la amenaza sísmica como para la definición de los movimientos de diseño.</p>
 <p>La manera de definir los espectros de diseño es única en el mundo, constituyendo una propuesta metodológica que lleva un paso más allá aquellas existentes y aplicadas en el pasado, como con la que se definen los coeficientes de diseño estructural en México, permitiendo su articulación con las normativas ASCE 7-10/16 como base rectora de los requisitos mínimos del diseño sismo resistente.</p>
@@ -578,10 +629,10 @@ window.Quarto = {
 </tbody>
 </table>
 </section>
-<section id="materiales-y-métodos" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="materiales-y-métodos">MATERIALES Y MÉTODOS</h2>
-<section id="risk-targeted-ground-motion-rtgm" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="risk-targeted-ground-motion-rtgm">Risk Targeted Ground Motion (RTGM)</h3>
+<section id="materiales-y-métodos" class="level2">
+<h2 class="anchored" data-anchor-id="materiales-y-métodos">1.8 MATERIALES Y MÉTODOS</h2>
+<section id="risk-targeted-ground-motion-rtgm" class="level3">
+<h3 class="anchored" data-anchor-id="risk-targeted-ground-motion-rtgm">1.8.1 Risk Targeted Ground Motion (RTGM)</h3>
 <p>La RTGM, como la define el USGS para ser usada en el ASCE 7-16, se basa en la siguiente ecuación:</p>
 <table class="caption-top">
 <thead>
@@ -637,8 +688,8 @@ window.Quarto = {
 </table>
 <p><strong>Figura 14.</strong> Ilustración del proceso iterativo para construir la RTGM.</p>
 </section>
-<section id="método-de-los-coeficientes-óptimos" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="método-de-los-coeficientes-óptimos">Método de los coeficientes óptimos</h3>
+<section id="método-de-los-coeficientes-óptimos" class="level3">
+<h3 class="anchored" data-anchor-id="método-de-los-coeficientes-óptimos">1.8.2 Método de los coeficientes óptimos</h3>
 <p>El método de los coeficientes de diseño óptimos se basa en la minimización del costo total asociado a una estructura. Este costo total se define como el costo inicial por la construcción de la estructura, y el costo de las pérdidas futuras, en función de las pérdidas que los futuros terremotos causarán sobre el inmueble. Esta definición puede expresarse mediante la siguiente ecuación:</p>
 <table class="caption-top">
 <thead>
@@ -683,8 +734,8 @@ window.Quarto = {
 <p>Los costos estimados de esta manera, tanto iniciales como futuros, son indicadores que permiten establecer una relación de beneficio-costo para el propósito de determinar coeficientes de diseño. No deben ser vistos como una valoración exacta sino como una aproximación gruesa que permite estimar niveles óptimos de diseño. Son aproximaciones suficientes para estos fines, considerando que tanto lo costos iniciales como las pérdidas futuras serán en realidad función del resultado de diseño. En particular el coeficiente de impacto SL es difícil de estimar analíticamente. Los autores han seleccionado arbitrariamente los valores que, según su experiencia, reflejan apropiadamente condiciones intangibles de falta de resiliencia y fragilidad social que inevitablemente exacerban los efectos negativos netamente estructurales de la ocurrencia de los temblores.</p>
 </section>
 </section>
-<section id="anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento">ANEXO 1: ESPECTROS DE DISEÑO PROPUESTOS PARA CAPITALES DE DEPARTAMENTO</h2>
+<section id="anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento" class="level2">
+<h2 class="anchored" data-anchor-id="anexo-1-espectros-de-diseño-propuestos-para-capitales-de-departamento">1.9 ANEXO 1: ESPECTROS DE DISEÑO PROPUESTOS PARA CAPITALES DE DEPARTAMENTO</h2>
 <p>En este Anexo se presentan los espectros de diseño propuestos para todas las capitales de departamento en Colombia, comparados con los espectros actualmente vigentes en la NSR-10. Se listan las ciudades en orden alfabético. Las fichas presentadas contienen los valores de los coeficientes de diseño, zona de amenaza sísmica y periodos de retorno de las aceleraciones de diseño propuestas.</p>
 <p><img src="media/img_2d7006b5.png" class="img-fluid"></p>
 <p><img src="media/img_779fd339.png" class="img-fluid"></p>
@@ -718,17 +769,17 @@ window.Quarto = {
 <p><strong>CONFLICTO DE INTERESES</strong></p>
 <p>Los autores no declaran conflicto de intereses</p>
 </section>
-<section id="agradecimientos" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<section id="agradecimientos" class="level2">
+<h2 class="anchored" data-anchor-id="agradecimientos">1.10 AGRADECIMIENTOS</h2>
 <p>Se agradece a los ingenieros Eduardo Castell (presidente AIS), Luis Enrique García (expresidente AIS) y Carlos Eduardo Bernal (Expresidente AIS), así como a los miembros del comité AIS-300, por sus valiosas contribuciones y discusiones durante el desarrollo de este trabajo.</p>
 </section>
-<section id="identificación-del-autor" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="identificación-del-autor">IDENTIFICACIÓN DEL AUTOR</h2>
+<section id="identificación-del-autor" class="level2">
+<h2 class="anchored" data-anchor-id="identificación-del-autor">1.11 IDENTIFICACIÓN DEL AUTOR</h2>
 <p>Gabriel Bernal</p>
 <p>Omar Darío Cardona</p>
 </section>
-<section id="bibliográfia" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="bibliográfia">BIBLIOGRÁFIA</h2>
+<section id="bibliográfia" class="level2">
+<h2 class="anchored" data-anchor-id="bibliográfia">1.12 BIBLIOGRÁFIA</h2>
 <p>American Society of Civil Engineers. <em>Minimum Design Loads for Buildings and Other Structures</em>. ASCE 7 - 10/16.</p>
 <p>Luco, N., Ellingwood, B., Hamburger, R.O., Hooper, J.D., Kimball, J.K, and Kircher, C. (2007). Risk-targeted versus current seismic design maps for the conterminous United States. <em>SEAOC 2007 Convention Proceedings</em>.</p>
 <p>Esteva, L. (1967). Criterios para la construcción de espectros para diseño sísmico. <em>Tercer Simposio Panamericano de Estructuras.</em> Universidad Central de Venezuela. Caracas.</p>
@@ -768,12 +819,12 @@ window.Quarto = {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

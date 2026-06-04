@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Cesar Augusto Hidalgo M.">
-<meta name="author" content="Johnny Alexander Vega G.">
+<meta name="author" content="Cesar Augusto Hidalgo M. 1,2">
+<meta name="author" content="Johnny Alexander Vega G. 1,2">
 
 <title>Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas – Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021</title>
 <style>
@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c62bef599b4916bd8abd7e2c0a388ead.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-48abc47ddc2cbc14860ddec9e9fdb395.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -61,17 +61,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 <style>
@@ -123,6 +123,7 @@ window.Quarto = {
 };
 </script>
 
+<link rel="stylesheet" href="custom.css">
 </head>
 
 <body class="nav-sidebar floating quarto-light">
@@ -131,13 +132,13 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./10-capitulo-10-estudio-de-riesgo-por-movimientos.html"><span class="chapter-title">Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Buscar" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -151,17 +152,31 @@ window.Quarto = {
                       </div>
   </div>
     
-  
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Autores/as</div>
+    <div class="quarto-title-meta-heading">Afiliación</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author">Cesar Augusto Hidalgo M. <sup>1,2</sup> <a href="https://orcid.org/true" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <sup>1</sup>Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia; <sup>2</sup>Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Johnny Alexander Vega G. <sup>1,2</sup> <a href="https://orcid.org/true" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <sup>1</sup>Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia; <sup>2</sup>Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia
+            </p>
+        </div>
+    </div>
+
   <div class="quarto-title-meta">
 
-      <div>
-      <div class="quarto-title-meta-heading">Authors</div>
-      <div class="quarto-title-meta-contents">
-               <p>Cesar Augusto Hidalgo M. </p>
-               <p>Johnny Alexander Vega G. </p>
-            </div>
-    </div>
-      
+        
     
       
     </div>
@@ -177,7 +192,7 @@ window.Quarto = {
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Buscar"></div>
         </div>
         </div>
     <div class="sidebar-menu-container"> 
@@ -301,36 +316,36 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
   <li><a href="#resumen" id="toc-resumen" class="nav-link active" data-scroll-target="#resumen">Resumen</a></li>
   <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">INTRODUCCIÓN</a></li>
-  <li><a href="#resultados-de-los-modelos-de-estimación" id="toc-resultados-de-los-modelos-de-estimación" class="nav-link" data-scroll-target="#resultados-de-los-modelos-de-estimación">RESULTADOS DE LOS MODELOS DE ESTIMACIÓN</a>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">10.1 INTRODUCCIÓN</a></li>
+  <li><a href="#resultados-de-los-modelos-de-estimación" id="toc-resultados-de-los-modelos-de-estimación" class="nav-link" data-scroll-target="#resultados-de-los-modelos-de-estimación">10.2 RESULTADOS DE LOS MODELOS DE ESTIMACIÓN</a>
   <ul class="collapse">
-  <li><a href="#amenaza" id="toc-amenaza" class="nav-link" data-scroll-target="#amenaza">Amenaza</a></li>
-  <li><a href="#vulnerabilidad" id="toc-vulnerabilidad" class="nav-link" data-scroll-target="#vulnerabilidad">Vulnerabilidad</a></li>
+  <li><a href="#amenaza" id="toc-amenaza" class="nav-link" data-scroll-target="#amenaza">10.2.1 Amenaza</a></li>
+  <li><a href="#vulnerabilidad" id="toc-vulnerabilidad" class="nav-link" data-scroll-target="#vulnerabilidad">10.2.2 Vulnerabilidad</a></li>
   </ul></li>
-  <li><a href="#discusión" id="toc-discusión" class="nav-link" data-scroll-target="#discusión">DISCUSIÓN</a>
+  <li><a href="#discusión" id="toc-discusión" class="nav-link" data-scroll-target="#discusión">10.3 DISCUSIÓN</a>
   <ul class="collapse">
-  <li><a href="#factor-de-seguridad" id="toc-factor-de-seguridad" class="nav-link" data-scroll-target="#factor-de-seguridad">Factor de seguridad</a></li>
-  <li><a href="#probabilidad-de-falla" id="toc-probabilidad-de-falla" class="nav-link" data-scroll-target="#probabilidad-de-falla">Probabilidad de falla</a></li>
-  <li><a href="#vulnerabilidad-1" id="toc-vulnerabilidad-1" class="nav-link" data-scroll-target="#vulnerabilidad-1">Vulnerabilidad</a></li>
-  <li><a href="#riesgo" id="toc-riesgo" class="nav-link" data-scroll-target="#riesgo">Riesgo</a></li>
+  <li><a href="#factor-de-seguridad" id="toc-factor-de-seguridad" class="nav-link" data-scroll-target="#factor-de-seguridad">10.3.1 Factor de seguridad</a></li>
+  <li><a href="#probabilidad-de-falla" id="toc-probabilidad-de-falla" class="nav-link" data-scroll-target="#probabilidad-de-falla">10.3.2 Probabilidad de falla</a></li>
+  <li><a href="#vulnerabilidad-1" id="toc-vulnerabilidad-1" class="nav-link" data-scroll-target="#vulnerabilidad-1">10.3.3 Vulnerabilidad</a></li>
+  <li><a href="#riesgo" id="toc-riesgo" class="nav-link" data-scroll-target="#riesgo">10.3.4 Riesgo</a></li>
   </ul></li>
-  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">CONCLUSIONES</a></li>
-  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos">MATERIALES Y MÉTODOS</a>
+  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">10.4 CONCLUSIONES</a></li>
+  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos">10.5 MATERIALES Y MÉTODOS</a>
   <ul class="collapse">
-  <li><a href="#amenaza-1" id="toc-amenaza-1" class="nav-link" data-scroll-target="#amenaza-1">Amenaza</a></li>
-  <li><a href="#vulnerabilidad-2" id="toc-vulnerabilidad-2" class="nav-link" data-scroll-target="#vulnerabilidad-2">Vulnerabilidad</a></li>
-  <li><a href="#costos-de-los-elementos-expuestos" id="toc-costos-de-los-elementos-expuestos" class="nav-link" data-scroll-target="#costos-de-los-elementos-expuestos">Costos de los elementos expuestos</a></li>
-  <li><a href="#riesgo-1" id="toc-riesgo-1" class="nav-link" data-scroll-target="#riesgo-1">Riesgo</a></li>
+  <li><a href="#amenaza-1" id="toc-amenaza-1" class="nav-link" data-scroll-target="#amenaza-1">10.5.1 Amenaza</a></li>
+  <li><a href="#vulnerabilidad-2" id="toc-vulnerabilidad-2" class="nav-link" data-scroll-target="#vulnerabilidad-2">10.5.2 Vulnerabilidad</a></li>
+  <li><a href="#costos-de-los-elementos-expuestos" id="toc-costos-de-los-elementos-expuestos" class="nav-link" data-scroll-target="#costos-de-los-elementos-expuestos">10.5.3 Costos de los elementos expuestos</a></li>
+  <li><a href="#riesgo-1" id="toc-riesgo-1" class="nav-link" data-scroll-target="#riesgo-1">10.5.4 Riesgo</a></li>
   </ul></li>
-  <li><a href="#caso-de-aplicación" id="toc-caso-de-aplicación" class="nav-link" data-scroll-target="#caso-de-aplicación">CASO DE APLICACIÓN</a></li>
-  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">AGRADECIMIENTOS</a></li>
-  <li><a href="#identificación-del-autor" id="toc-identificación-del-autor" class="nav-link" data-scroll-target="#identificación-del-autor">IDENTIFICACIÓN DEL AUTOR</a></li>
-  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
+  <li><a href="#caso-de-aplicación" id="toc-caso-de-aplicación" class="nav-link" data-scroll-target="#caso-de-aplicación">10.6 CASO DE APLICACIÓN</a></li>
+  <li><a href="#agradecimientos" id="toc-agradecimientos" class="nav-link" data-scroll-target="#agradecimientos">10.7 AGRADECIMIENTOS</a></li>
+  <li><a href="#identificación-del-autor" id="toc-identificación-del-autor" class="nav-link" data-scroll-target="#identificación-del-autor">10.8 IDENTIFICACIÓN DEL AUTOR</a></li>
+  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">10.9 BIBLIOGRAFÍA</a></li>
   </ul>
 </nav>
     </div>
@@ -341,9 +356,6 @@ window.Quarto = {
 
 
 
-<p>1Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia</p>
-<p>2 Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia</p>
-<p>*Autor de contacto: Cesar Augusto Hidalgo M. Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín. Carrera 87 N° 30 – 65, Medellín, Colombia. Correo-e</p>
 <section id="resumen" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="resumen">Resumen</h2>
 <p>Los movimientos en masa se consideran uno de los peligros naturales que causan mundialmente mayor cantidad de pérdidas. En países como Colombia, los movimientos en masa que causan el mayor número de muertes y pérdidas económicas se relacionan con avenidas torrenciales causadas por movimientos en masa en cuencas. Este capítulo presenta una metodología para evaluar el riesgo asociado con movimientos en masa en cuencas abastecedoras. La amenaza se evalúa considerando métodos probabilistas que incluyen los efectos de la lluvia y los sismos. Además, este estudio evalúa la probabilidad de que una masa deslizante llegue a los lechos de los ríos y la probabilidad de obstrucción en sus cauces. Por otro lado, la vulnerabilidad se estima utilizando curvas de daño basadas en la altura de obstrucción de los cauces. Finalmente, el riesgo se estima como la probabilidad de que ocurran pérdidas económicas a lo largo del lecho del río. Esta metodología se basa en métodos de probabilidad, como el método de primer orden segundo momento (FOSM) y el método de estimaciones puntuales (MEP), y se ha aplicado en la cuenca del río San Juan, en el suroeste Antioqueño, donde las condiciones morfodinámicas e hidrometeorológicas han generado desastres que han causado daños a la infraestructura y población con pérdidas económicas significativas. Los resultados evidencian alta coincidencia de zonas afectadas con movimientos en masa de acuerdo al inventario de eventos en la zona, con áreas de alta probabilidad de falla predichas por el modelo, indicando su coherencia para identificar zonas a estudiar con mayor detalle. En conclusión, las pérdidas directas estimadas en la cuenca de la zona de estudio, sin considerar edificaciones, serían del orden de $3,782 millones de pesos colombianos, valor que sirve de referencia para evaluaciones más detalladas y la toma de decisiones para la gestión del riesgo.</p>
@@ -357,8 +369,8 @@ window.Quarto = {
 <p><strong>Keywords</strong></p>
 <p>Hazard, landslide, mass movement, risk, vulnerability, water supply basins</p>
 </section>
-<section id="introducción" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="introducción">INTRODUCCIÓN</h2>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">10.1 INTRODUCCIÓN</h2>
 <p>Debido a los altos niveles de afectación de los movimientos en masa, a nivel mundial se ha generado una gran dinámica en el estudio de los fenómenos asociados en procura de entender los aspectos físicos [1-6] y económicos [7-11] relacionados con los movimientos en masa. En particular, se ha identificado la ocurrencia de procesos complejos en los cuales de movimientos en masa de suelo obstruyen corrientes de agua relativamente pequeños formando represamientos que al romperse generan avenidas torrenciales que terminan generando una gran afectación a las comunidades asentadas en las riberas y una gran afectación a la infraestructura.</p>
 <p>El suroeste antioqueño, y en particular las cuencas de esta subregión, son frecuentemente afectadas por movimientos en masa, los cuales han causado numerosas pérdidas de vidas, heridos, damnificados y cuantiosas pérdidas económicas. Muchos de ellos asociados a cuencas hidrográficas abastecedoras de acueductos como el río Tapartó, la quebrada La Liboriana y el cerro Las Nubes, por citar algunos de los más emblemáticos. Una fuente abastecedora, se entiende como una corriente de agua que se utiliza para el suministro de agua potable, riego de cultivos o para actividades industriales. Entendiendo que la estimación y evaluación del riesgo por movimientos en masa y su afectación a las fuentes de abastecimiento de agua es un problema complejo, en el marco del proyecto Piragua de la Corporación Autónoma Regional del Centro de Antioquia-Corantioquia, la Universidad de Medellín ha desarrollado una metodología para la evaluación de riesgos por movimientos en masa en fuentes hídricas abastecedoras de agua potable.</p>
 <p>En este capítulo se presenta la metodología aplicada a un caso de estudio en la cuenca del río San Juan. En primer lugar, se presenta una evaluación de la información disponible para la elaboración de un inventario de movimientos en masa (Fig. 1). Segundo, se presenta la evaluación de amenaza por movimientos en masa detonados por sismos y lluvia a escala regional, se presentan los materiales usados y los resultados obtenidos; por último, se presenta el análisis de riesgo, y finalmente se presentan conclusiones y recomendaciones para futuros trabajos.</p>
@@ -543,20 +555,30 @@ window.Quarto = {
 <p><img src="media/img_b7c4546c.png" class="img-fluid"></p>
 <p><strong>Figura 2</strong>. Registros de movimientos en masa para el departamento de Antioquia (Desinventar) (<strong>A</strong>). Distribución mensual de los movimientos en masa en Antioquia (<strong>B</strong>). Distribución de movimientos en masa en Antioquia por regiones (excluyendo el Valle de Aburrá) (<strong>C</strong>). Distribución mensual de movimientos en masa en el Suroeste (<strong>D</strong>). Movimientos en masa por municipios del Suroeste (<strong>E</strong>).</p>
 </section>
-<section id="resultados-de-los-modelos-de-estimación" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="resultados-de-los-modelos-de-estimación">RESULTADOS DE LOS MODELOS DE ESTIMACIÓN</h2>
-<section id="amenaza" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="amenaza">Amenaza</h3>
+<section id="resultados-de-los-modelos-de-estimación" class="level2">
+<h2 class="anchored" data-anchor-id="resultados-de-los-modelos-de-estimación">10.2 RESULTADOS DE LOS MODELOS DE ESTIMACIÓN</h2>
+<section id="amenaza" class="level3">
+<h3 class="anchored">10.2.1 Amenaza</h3>
 <p>Se aplicó la metodología mostrada en la Figura 6 y descrita en la Sección 6, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de <em>H</em> = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.</p>
-<div class="caja-box">
-<p><strong>Caja 1.</strong> Teoría del equilibro límite Los movimientos en masa superficiales en las laderas boscosas generalmente involucran horizontes superficiales del suelo y pueden modelarse como un volumen rígido de tierra delgada que se desliza sobre una superficie de corte plana. Por lo tanto, la estabilidad de la pendiente puede evaluarse esquemáticamente aplicando la teoría del equilibrio límite. Esto significa que se establece una relación entre la resistencia al corte de un material disponible para resistir la falla y alguna condición de las fuerzas de corte que están presentes para causar la falla. La teoría de la falla de Mohr-Coulomb establece que, si bien la falla es esencialmente por corte, el esfuerzo crítico de corte es una función del esfuerzo normal como una combinación de la cohesión y la resistencia a la fricción que actúa sobre una superficie potencial de falla. Esta relación se expresa comúnmente en la forma de un “Factor de seguridad (FS)”, un indicador global que permite medir el grado de estabilidad del terreno. El factor se expresa por la relación de la resistencia al cizallamiento del suelo (fuerzas estabilizadoras que actúan sobre el terreno) con respecto las solicitaciones que tienden al movimiento (fuerzas desestabilizadoras). La naturaleza de la relación definitoria de los cálculos del FS significan que las situaciones inestables se representan por un número entre 0 y 1, mientras que las consideraciones estables se representan por un número entre 1 e infinito. Este indicador de estabilidad de la pendiente se representa mediante la siguiente ecuación: Dónde: Ah es la aceleración horizontal del suelo dada como fracción de la gravedad g, H es el espesor de la zona de falla [m], Hw es la altura medida desde el nivel freático hasta la superficie de agua [m], c es la cohesión del suelo [kPa], φ es el ángulo de fricción interna del suelo [°], γ es el peso unitario del suelo en condición húmeda [kN/m3], y γw es el peso unitario del agua [kN/m3]. En este estudio, el factor de seguridad se evalúa en dos condiciones de saturación del suelo (húmedo y saturado) bajo dos escenarios (estático y sísmico), obteniendo así, el factor de seguridad húmedo estático (FSHE), saturado estático (FSSE), húmedo sísmico (FSHS) y saturado sísmico (FSSS).</p>
+<div id="box1" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="amenaza">
+Caja 1. Teoría del equilibro límite
+</h2>
+<p>Los movimientos en masa superficiales en las laderas boscosas generalmente involucran horizontes superficiales del suelo y pueden modelarse como un volumen rígido de tierra delgada que se desliza sobre una superficie de corte plana. Por lo tanto, la estabilidad de la pendiente puede evaluarse esquemáticamente aplicando la teoría del equilibrio límite. Esto significa que se establece una relación entre la resistencia al corte de un material disponible para resistir la falla y alguna condición de las fuerzas de corte que están presentes para causar la falla. La teoría de la falla de Mohr-Coulomb establece que, si bien la falla es esencialmente por corte, el esfuerzo crítico de corte es una función del esfuerzo normal como una combinación de la cohesión y la resistencia a la fricción que actúa sobre una superficie potencial de falla. Esta relación se expresa comúnmente en la forma de un “Factor de seguridad (FS)”, un indicador global que permite medir el grado de estabilidad del terreno. El factor se expresa por la relación de la resistencia al cizallamiento del suelo (fuerzas estabilizadoras que actúan sobre el terreno) con respecto las solicitaciones que tienden al movimiento (fuerzas desestabilizadoras). La naturaleza de la relación definitoria de los cálculos del FS significan que las situaciones inestables se representan por un número entre 0 y 1, mientras que las consideraciones estables se representan por un número entre 1 e infinito. Este indicador de estabilidad de la pendiente se representa mediante la siguiente ecuación: Dónde: Ah es la aceleración horizontal del suelo dada como fracción de la gravedad g, H es el espesor de la zona de falla [m], Hw es la altura medida desde el nivel freático hasta la superficie de agua [m], c es la cohesión del suelo [kPa], φ es el ángulo de fricción interna del suelo [°], γ es el peso unitario del suelo en condición húmeda [kN/m3], y γw es el peso unitario del agua [kN/m3]. En este estudio, el factor de seguridad se evalúa en dos condiciones de saturación del suelo (húmedo y saturado) bajo dos escenarios (estático y sísmico), obteniendo así, el factor de seguridad húmedo estático (FSHE), saturado estático (FSSE), húmedo sísmico (FSHS) y saturado sísmico (FSSS).</p>
+</div>
+</div>
 </div>
 <p>En el proceso de estimación de la amenaza, se calculan los factores de seguridad considerando dos escenarios de condiciones de humedad del suelo. El primer caso, corresponde a un escenario estático, es decir, sin la inclusión de un detonante del movimiento en masa por condición sísmica. El segundo caso, corresponde a un escenario que considera la inclusión de un movimiento sísmico, por medio de un coeficiente de aceleración horizontal del suelo (*A<strong>h<em>) de 0.2&nbsp;</em>g<em>. Ambos casos fueron evaluados para condiciones de humedad natural del suelo (</em>H</strong>w <strong>= 0<em>) y una eventual condición de saturación total por efecto de la lluvia (</em>H</strong>w **= H<em>). En la Figura se presentan los resultados de factores de seguridad en condición saturada estática y en la Figura 4A la probabilidad de total de falla (</em>PTF*).</p>
 <p><img src="media/img_c0ca8446.png" class="img-fluid"></p>
 <p><strong>Figura 3.</strong> Resultados del factor de seguridad (<em>FS</em>) en condición saturada estática para la cuenca del río San Juan (<strong>A</strong>). Se hace un zoom sobre la quebrada La Liboriana para presentar y detallar los resultados del factor de seguridad en condición húmeda estática (<em>FSHE</em>) (<strong>B</strong>) y en condición saturada estática (<em>FSSE</em>) (<strong>C</strong>).</p>
 </section>
-<section id="vulnerabilidad" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="vulnerabilidad">Vulnerabilidad</h3>
+<section id="vulnerabilidad" class="level3">
+<h3 class="anchored" data-anchor-id="vulnerabilidad">10.2.2 Vulnerabilidad</h3>
 <p>Se realizó el análisis de vulnerabilidad física calculando para esto la intensidad de acuerdo con las Ecuaciones 6 y 7. Analizando la intensidad de afectación de los cauces en una zona de 100 m a lado y lado de los mismos, se obtiene un valor promedio de 0.052 (grado de afectación del 5.2%) en las corrientes principales de la zona de estudio. Como ejemplo, en la Figura 4B se muestran los resultados de vulnerabilidad obtenidos para la quebrada La Liboriana.</p>
 <p>3.3 Riesgo</p>
 <p>Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se estimó el riesgo en los cauces en una zona de 100 m a cada lado. Se realizó el análisis de riesgo calculando las perdidas probables de acuerdo con las ecuaciones 9 y 10. Como ejemplo, en la Figura se muestran los resultados de pérdidas estimadas obtenidos para la quebrada La Liboriana.</p>
@@ -564,10 +586,10 @@ window.Quarto = {
 <p><strong>Figura 4.</strong> Resultados de probabilidad total de falla en la cuenca del río San Juan (<strong>A</strong>). Vulnerabilidad (en término de “Intensidad”) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (<strong>B</strong>). Riesgo anual ($) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (<strong>C</strong>).</p>
 </section>
 </section>
-<section id="discusión" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="discusión">DISCUSIÓN</h2>
-<section id="factor-de-seguridad" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="factor-de-seguridad">Factor de seguridad</h3>
+<section id="discusión" class="level2">
+<h2 class="anchored" data-anchor-id="discusión">10.3 DISCUSIÓN</h2>
+<section id="factor-de-seguridad" class="level3">
+<h3 class="anchored" data-anchor-id="factor-de-seguridad">10.3.1 Factor de seguridad</h3>
 <p>Se consideraron como zonas críticas de estabilidad, aquellas celdas con un valor de factor de seguridad (<em>FS)</em> &lt; 1.1, obteniendo los resultados mostrados en la Tabla .</p>
 <p><strong>Tabla 3.</strong> Comparativo celdas críticas de estabilidad del terreno en la cuenca de estudio.</p>
 <table class="caption-top table">
@@ -616,8 +638,8 @@ window.Quarto = {
 <p>Adicionalmente, el área bajo la curva ROC (area under curve, AUC) se puede usar como una métrica para cuantificar el rendimiento general de un modelo, de modo que cuanto mayor sea esta área, mejor será el rendimiento del mismo. Para clasificar la precisión, se consideró la clasificación propuesta por Hosmer y Lemeshow, citada por [32]: 0.9 –1.0 (excelente), 0.8 – 0.9 (bueno), 0.7 – 0.8 (regular), 0.6 – 0.7 (pobre), y 0.5 – 0.6 (falla). El área bajo la curva ROC obtenida para el umbral <em>FSSE</em> usado es de 0.61, lo que significa que la tasa de éxito general de la evaluación de amenaza por movimientos en masa con el modelo propuesto es del 61%, de manera que el rendimiento del modelo se considera pobre ya que se acerca a una predicción que tiende a la aleatoriedad [33], y valores cercanos a 0.5 reflejan modelos neutrales [34]. En este contexto es pertinente considerar que la incertidumbre de varios parámetros involucrados durante el proceso de cálculo del factor de seguridad, tienen una alta incidencia en la tasa de éxito predictivo del modelo físico propuesto, más aún cuando varios de los parámetros involucrados se obtuvieron de información secundaria.</p>
 <p>Es importante destacar que tanto en el enfoque de validación por correlación espacial efectuado inicialmente como en el análisis de área bajo la curva ROC, se obtuvo un resultado promedio del orden de 68% de correspondencia para un valor umbral de <em>FSSE</em> de 1.1, que quizá en las condiciones de alta variabilidad espacial de los parámetros geomecánicos, no sea el valor umbral más apropiado para determinar rigurosamente la estabilidad del terreno. En este sentido, y para analizar la sensibilidad de este valor umbral, se recalcularon las tasas ROC para un umbral de <em>FSSE</em> &lt; 1.25, valor referenciado por la norma NSR-10 para taludes en condiciones de saturación normal del suelo por efecto de las lluvias, obteniendo un <em>TPR</em> de 75% y un <em>FPR</em> de 58%, lo refleja un incremento en la capacidad de predicción del modelo propuesto.</p>
 </section>
-<section id="probabilidad-de-falla" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="probabilidad-de-falla">Probabilidad de falla</h3>
+<section id="probabilidad-de-falla" class="level3">
+<h3 class="anchored" data-anchor-id="probabilidad-de-falla">10.3.2 Probabilidad de falla</h3>
 <p>Se calculó la probabilidad de falla (PF) considerando las dos metodologías de evaluación de la probabilidad de saturación del suelo (*P**s*), es decir, mediante el establecimiento de umbrales de lluvia a partir de los registros de la base datos de lluvia censados a partir de satélite CHIRPS, y mediante la evaluación del avance del frente húmedo a partir curvas de saturación del suelo.</p>
 <p>De acuerdo con los resultados obtenidos para la probabilidad de saturación del suelo, según la metodología de umbral de lluvia se obtuvieron valores interpolados por el método de Kriging, que oscilan entre 36% y 75%, mientras que, según la metodología del avance del frente húmedo, se obtuvieron valores discretos del 83% y 93% según el tipo de suelo generado en función de las unidades geológicas de la zona de estudio. Sin embargo, es preciso destacar que, pese a las variaciones en los resultados de la *P**s* del suelo, los valores de probabilidad total de falla (<em>PTF</em>) obtenidos por ambas metodologías presentan un 99.96% de correlación.</p>
 <p>Vale resaltar que, tanto las zonas de <em>FSSE</em> &lt; 1.1 como de <em>PTF</em> &gt; 50%, se presentan en mayor porcentaje en zonas de fuertes pendientes (&gt; 30°) en zonas de cobertura vegetal tipo bosque de alta montaña, aproximadamente en el 4% del área de la cuenca de estudio, y en una combinación de zonas de pastos y cultivos con fuertes pendientes, que cubren más del 7%.</p>
@@ -683,19 +705,19 @@ window.Quarto = {
 </tbody>
 </table>
 </section>
-<section id="vulnerabilidad-1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="vulnerabilidad-1">Vulnerabilidad</h3>
+<section id="vulnerabilidad-1" class="level3">
+<h3 class="anchored" data-anchor-id="vulnerabilidad-1">10.3.3 Vulnerabilidad</h3>
 <p>Aplicando el procedimiento descrito en el Capítulo 6.2, se estimó la vulnerabilidad de la quebrada. Los valores más altos de vulnerabilidad (&gt; 0.06) corresponden a zonas escarpadas de alta montaña con pendientes que superan los 30° en las riberas de los cauces, los cuales se presentan generalmente en la parte alta de las sub cuencas que conforman la cuenca del río San Juan. Esto implica que la masa deslizante proveniente de un movimiento en masa puede generar una mayor obstrucción en los cauces debido a la geomorfología encañonada de las corrientes de agua en estas zonas.</p>
 <p>De acuerdo a los resultados obtenidos, se debe prestar especial atención en la parte alta de las quebradas La Liboriana y el río Barroso en el municipio de Salgar; Santa Rosa, La Linda y Sucre en el Municipio de Ciudad Bolívar; quebrada San Antonio, Guadalejo y río Pedral en el municipio de Betania; quebradas Santa Rita, El Silencio, Santa Bárbara, ríos Chaparrala y San Agustín en el municipio de Andes; parte baja del río Dojurgo en el municipio de Jardín, y del río San Juan en la jurisdicción de los municipio de Salgar, Ciudad Bolívar y Pueblorrico.</p>
 </section>
-<section id="riesgo" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="riesgo">Riesgo</h3>
+<section id="riesgo" class="level3">
+<h3 class="anchored" data-anchor-id="riesgo">10.3.4 Riesgo</h3>
 <p>Con respecto al riesgo anual asociado a un periodo de retorno de 20 años para la lluvia detonante de los movimientos en masa, se obtiene un valor promedio de $58,990 y un valor total de $3,782,883,043 en potenciales pérdidas económicas directas por efecto de obstrucciones de los principales cauces de la cuenca de estudio. A esto, se le debe tener en cuenta adicionalmente, los costos indirectos y el impacto social generado por los potenciales desabastecimientos hídricos parciales o totales de las comunidades aledañas.</p>
 <p>Los resultados indican que los valores más altos de riesgo corresponden a zonas con alta probabilidad de ocurrencia de un movimiento en masa en zonas de riberas escarpadas cerca de las corrientes de agua, las cuales poseen una cobertura vegetal tipo mosaico de cultivos, es decir, tierras productivas con alto valor comercial, en especial zonas cafeteras dentro de las cuencas de los Municipio de Andes, Ciudad Bolívar, Betania, Salgar y Jardín.</p>
 </section>
 </section>
-<section id="conclusiones" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="conclusiones">CONCLUSIONES</h2>
+<section id="conclusiones" class="level2">
+<h2 class="anchored" data-anchor-id="conclusiones">10.4 CONCLUSIONES</h2>
 <p>Se realizó un análisis de ocurrencia de movimientos en masa en Antioquia usando la base de datos de Desinventar sin incluir el Valle de Aburrá, a partir del cual se ha identificado que la subregión de mayor afectación es el suroeste, en especial los municipios como Andes y Támesis. Igualmente, se identifica que los movimientos en masa se presentan más frecuentemente en los trimestres abril-junio y septiembre-noviembre meses que corresponden a las temporadas lluviosas de la región. Con base en los registros existentes es difícil identificar si todos los municipios tienen la misma calidad en la información. Con base en lo anterior se seleccionó la cuenca del rio San Juan como el caso de estudio para la metodología de evaluación de riesgo en cuencas abastecedoras. Es de anotar que la información de movimientos en masa en general es incompleta en cuanto a ubicación, tipología del movimiento y sus consecuencias. Por lo anterior es recomendable que se propenda por mejorar el sistema de recolección y gestión de esta información en el departamento. Una alternativa para mejorar esto registros, es usar imágenes de satélite de alta resolución espacial y temporal y herramientas informáticas que competen a la rama de la geomática como los Sistemas de Información Geográfica (SIG).</p>
 <p>Se presenta una metodología para evaluación de riesgo por movimientos en masa detonados por sismo y lluvias en cuencas abastecedoras. El módulo de amenaza ha mostrado la capacidad de identificar zonas inestables, usando para esto información secundaria. Con base en esto se evaluó la amenaza en la cuenca y se identificaron las zonas de mayor amenaza, se compararon las zonas de mayor amenaza con las áreas afectadas por movimientos en masa en la cuenca de la quebrada La Liboriana, evidenciándose una alta coincidencia de zonas afectadas con movimientos en masa, con áreas de alta probabilidad de falla, lo cual indica que el modelo es robusto para identificar zonas a ser estudiadas con mayor detalle.</p>
 <p>La evaluación de vulnerabilidad muestra que en general la zona de La Liboriana presenta una vulnerabilidad entre baja y media, sin embargo, se debe tener en cuenta que no se ha considerado el efecto acumulativo de eventos con diferentes periodos de retorno. También es importante determinar curvas de daño a partir de registros de movimientos en masa en diferentes lugares y épocas. Esto debe incluir pérdidas directas e indirectas.</p>
@@ -726,27 +748,47 @@ window.Quarto = {
 </tbody>
 </table>
 </section>
-<section id="materiales-y-métodos" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="materiales-y-métodos">MATERIALES Y MÉTODOS</h2>
+<section id="materiales-y-métodos" class="level2">
+<h2 class="anchored" data-anchor-id="materiales-y-métodos">10.5 MATERIALES Y MÉTODOS</h2>
 <p>Se planteó una metodología que permite el cálculo del riesgo definido mediante la ecuación general:</p>
 <p><span class="math inline">\(R=P[T]×P[C/T]×u(C)\)</span> (1)</p>
 <p>donde <em>R</em> es el riesgo, <em>P[T]</em> es la amenaza entendida como la probabilidad de que ocurra un evento amenazante, <em>P[C|T]</em> es la vulnerabilidad (<em>V</em>) entendida como la probabilidad condicional de que se produzcan daños considerando que ya ocurrió una falla y <em>u(C)</em> es el costo de las consecuencias. Para el caso de los movimientos en masa, la <em>P[T]</em> se entenderá como la probabilidad de falla, es decir la probabilidad de que un talud falle, que este caso corresponde a la <em>PTF</em>. Aunque la falla se podría dar solo por efecto de la gravedad, lo más común es que la falla sea desencadenada por un agente detonante como los sismos o la lluvia. La Figura muestra esquemáticamente el modelo propuesto.</p>
-<div class="caja-box">
-<p><strong>Caja 2.</strong> Definiciones Cuantitativamente, se puede definir el riesgo como la probabilidad de que se presente una pérdida o un daño del elemento expuesto cuando se presenta un evento con una intensidad mayor que la intensidad considerada como límite en el análisis. De acuerdo con la Sociedad Internacional de Mecánica de Suelos e Ingeniería Geotécnica (ISSMGE, por su sigla en inglés, 2004), riesgo es la probabilidad y severidad de un efecto adverso para la vida, la salud, la propiedad o el medio ambiente. También puede definirse de forma cuantitativa, como la probabilidad de que un evento adverso ocurra multiplicada por las consecuencias de la ocurrencia del evento. La amenaza, es la probabilidad de que se presente un evento con una intensidad mayor o igual que la considerada en el proceso de análisis. De acuerdo con la Sociedad Internacional de Mecánica de Suelos e Ingeniería Geotécnica (ISSMGE, 2004), la probabilidad de que un particular peligro ocurra dentro de un determinado período de tiempo. La vulnerabilidad es la predisposición de un elemento a sufrir daños o afectarse debido a la ocurrencia de un evento de cierta intensidad. Según la ISSMGE, la vulnerabilidad se define como el nivel de perdidas esperadas en un elemento o sistema en relación a una amenaza especificada. La vulnerabilidad depende de la exposición a la amenaza, la propensión del elemento expuesto a sufrir daños, de las consecuencias de los daños y de los posibles costos de los daños y las consecuencias.</p>
+<div id="box2" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 2. Definiciones Cuantitativamente, se puede definir el riesgo como la probabilidad de que se presente una pérdida o un daño del elemento expuesto cuando se presenta un evento con una intensidad mayor que la intensidad considerada como límite en el análisis.
+</h2>
+<p>De acuerdo con la Sociedad Internacional de Mecánica de Suelos e Ingeniería Geotécnica (ISSMGE, por su sigla en inglés, 2004), riesgo es la probabilidad y severidad de un efecto adverso para la vida, la salud, la propiedad o el medio ambiente. También puede definirse de forma cuantitativa, como la probabilidad de que un evento adverso ocurra multiplicada por las consecuencias de la ocurrencia del evento. La amenaza, es la probabilidad de que se presente un evento con una intensidad mayor o igual que la considerada en el proceso de análisis. De acuerdo con la Sociedad Internacional de Mecánica de Suelos e Ingeniería Geotécnica (ISSMGE, 2004), la probabilidad de que un particular peligro ocurra dentro de un determinado período de tiempo. La vulnerabilidad es la predisposición de un elemento a sufrir daños o afectarse debido a la ocurrencia de un evento de cierta intensidad. Según la ISSMGE, la vulnerabilidad se define como el nivel de perdidas esperadas en un elemento o sistema en relación a una amenaza especificada. La vulnerabilidad depende de la exposición a la amenaza, la propensión del elemento expuesto a sufrir daños, de las consecuencias de los daños y de los posibles costos de los daños y las consecuencias.</p>
+</div>
+</div>
 </div>
 <p><img src="media/img_42bfd6d2.png" class="img-fluid"></p>
 <p><strong>Figura 5. </strong>Presentación esquemática del modelo de análisis de riesgo.</p>
 <p>Como se observa en la Figura , la determinación de la amenaza se hace considerando la saturación del suelo y el efecto de los sismos, y la vulnerabilidad considera la exposición y las consecuencias de la falla.</p>
-<section id="amenaza-1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="amenaza-1">Amenaza</h3>
+<section id="amenaza-1" class="level3">
+<h3 class="anchored">10.5.1 Amenaza</h3>
 <p>El modelo de estimación de la amenaza fue implementado usando el software EPADYM, desarrollado por el Grupo de Investigación en Ingeniería Civil (GICI) de la Universidad de Medellín, y que calcula el índice de confiabilidad, la probabilidad de falla y el factor de seguridad del terreno bajo condiciones sísmicas y estáticas.</p>
 <p>La metodología implementada para la estimación de la amenaza [6] y [27] se basa en el método FOSM. Esta metodología, que se muestra gráficamente en la Figura , permite calcular la probabilidad de falla del terreno (PTF) de acuerdo con teorema de probabilidad total por medio de la ecuación:</p>
 <p><span class="math inline">\(PT=PTF=Pfs×Ps+Pfns×(1-Ps)\)</span> (2)</p>
 <p>Donde *P**fs* es la probabilidad de falla del talud debido a la acción de un sismo en condición de saturación de suelos, *P**fns* es la probabilidad de falla en condición no saturada, *P**s* es la probabilidad marginal de que el suelo este saturado y (1 - *P**s*) representa la probabilidad marginal de que el suelo no esté saturado. La probabilidad de falla de los taludes las condiciones saturada y no saturada pueden ser calculadas independientemente, pero la determinación de la probabilidad que el suelo este saturado es difícil debido a la complejidad del fenómeno de variación de las condiciones del contenido de agua en el suelo. Una descripción detallada del modelo para la evaluación de probabilidad de falla se puede consultar en [35].</p>
 <p><img src="media/img_c7828477.png" class="img-fluid"></p>
 <p><strong>Figura 6. </strong>Esquema de la metodología adoptada para la evaluación de la amenaza.</p>
-<div class="caja-box">
-<p><strong>Caja 3.</strong> Datos estadísticos de las propiedades del suelo En análisis probabilistas es necesario disponer de información de las distribuciones de probabilidad de las variables, sin embargo, diversos estudios han mostrado que cuando no se dispone de un número suficiente de datos se pueden obtener buenas estimativas conociendo la media del parámetro y utilizando valores típicos del coeficiente de variación (desviación estándar sobre la media), que han mostrado tener poca sensibilidad temporal y espacial. En la siguiente tabla se presentan rangos típicos de coeficientes de variación de parámetros geotécnicos de interés para análisis de estabilidad de taludes medidos en suelos del Valle de Aburra. Con base en estos datos, se hizo la estimativa de los CV usados en la evaluación de amenaza en este trabajo. Resultados de ensayos de corte directo [24]</p>
+<div id="box3" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="amenaza-1">
+Caja 3. Datos estadísticos de las propiedades del suelo En análisis probabilistas es necesario disponer de información de las distribuciones de probabilidad de las variables, sin embargo, diversos estudios han mostrado que cuando no se dispone de un número suficiente de datos se pueden obtener buenas estimativas conociendo la media del parámetro y utilizando valores típicos del coeficiente de variación (desviación estándar sobre la media), que han mostrado tener poca sensibilidad temporal y espacial.
+</h2>
+<p>En la siguiente tabla se presentan rangos típicos de coeficientes de variación de parámetros geotécnicos de interés para análisis de estabilidad de taludes medidos en suelos del Valle de Aburra. Con base en estos datos, se hizo la estimativa de los CV usados en la evaluación de amenaza en este trabajo. Resultados de ensayos de corte directo [24]</p>
+</div>
+</div>
 </div>
 <div class="line-block">— | — |</div>
 <p>El cálculo de la probabilidad de saturación se efectuó usando la metodología descrita por [35] usando de precipitación diaria de la base de datos CHIRPS entre el año 1951 y 1996. Los registros se organizaron con ventanas móviles de lluvia acumulada de 15 y 3 días para cada fecha. Igualmente, para cada fecha se calculó la lluvia de 3 días usando la ecuación del umbral de falla de la Ecuación 4. La comparación de los valores reales con los valores estimados se realizó usando la Ecuación 3. Con el fin de establecer la probabilidad de excedencia del umbral, se determinó el número de veces que se excedió el umbral durante el tiempo de registros y luego este número de ocurrencias se dividió por el número total de registros. Con base en los análisis realizados, se estima que las precipitaciones que superan el umbral de falla, tienen un periodo de recurrencia de 20 años. La Figura esquematiza el proceso seguido aquí.</p>
@@ -755,8 +797,8 @@ window.Quarto = {
 <p><span class="math inline">\(R3=75-0.5R15\)</span> (4)</p>
 <p>Donde R15 es la lluvia acumulada precedente de 15 días y R3 la lluvia acumulada antecedente de 3 días.</p>
 </section>
-<section id="vulnerabilidad-2" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="vulnerabilidad-2">Vulnerabilidad</h3>
+<section id="vulnerabilidad-2" class="level3">
+<h3 class="anchored" data-anchor-id="vulnerabilidad-2">10.5.2 Vulnerabilidad</h3>
 <p>La vulnerabilidad (<em>V</em>) de un elemento puede ser entendida como la probabilidad de daño que ésta presenta cuando se somete al efecto particular de un fenómeno natural o antropogénico potencialmente dañino, pero en este caso se asocia a un movimiento en masa. Cuantitativamente se puede establecer como una función de la intensidad (<em>I</em>) de un movimiento en masa y de la fragilidad (<em>S</em>) de los elementos expuestos a tal movimiento, es decir:</p>
 <p><span class="math inline">\(V=f(I,S)\)</span> (5)</p>
 <p>La intensidad se asocia al potencial destructivo de la masa de suelo que se desliza, la cual se influencia directamente por factores como la velocidad de la masa deslizante de suelo, volumen, energía cinética, energía cinemática, área de afectación, etc. La evaluación de este parámetro se encuentra ligada a la magnitud (volumen) de la masa potencialmente inestable y a su distancia de viaje, la cual depende de la configuración geométrica de la ladera.</p>
@@ -774,8 +816,8 @@ window.Quarto = {
 <p><img src="media/img_b5d4eb6b.jpeg" class="img-fluid"></p>
 <p><strong>Figura 9. </strong>Ejemplo de curva de daño para la afectación de una quebrada.</p>
 </section>
-<section id="costos-de-los-elementos-expuestos" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="costos-de-los-elementos-expuestos">Costos de los elementos expuestos</h3>
+<section id="costos-de-los-elementos-expuestos" class="level3">
+<h3 class="anchored" data-anchor-id="costos-de-los-elementos-expuestos">10.5.3 Costos de los elementos expuestos</h3>
 <p>La afectación a la corriente debido a la obstrucción se puede considerar de varias formas:</p>
 <p>Interrupción de los acueductos y otros suministros que se obtienen aguas abajo de la obstrucción.</p>
 <p>Afectación al ecosistema acuático.</p>
@@ -791,8 +833,8 @@ window.Quarto = {
 <p><span class="math inline">\(Ccelda=Cvias+Czv+Cconst\)</span> (8)</p>
 <p>Donde *C**celda* es el costo total de la celda (<span class="math inline">\(), *C**vias* es el costo de las vías (\)</span>) que se obtiene como el costo de las vías por el área de vías en la celda, *C**zv* es el costo de las zonas verdes que se obtiene como el costo de las zonas verdes por el área de zonas verdes en la celda (<span class="math inline">\() y *C**const* es el costo de las construcciones (\)</span>).</p>
 </section>
-<section id="riesgo-1" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="riesgo-1">Riesgo</h3>
+<section id="riesgo-1" class="level3">
+<h3 class="anchored" data-anchor-id="riesgo-1">10.5.4 Riesgo</h3>
 <p>El riesgo se calcula en términos de las pérdidas económicas que pueden ser generadas en la corriente de agua debido a los movimientos en masa, de acuerdo a la ecuación:</p>
 <p><span class="math inline">\(R=TPF × I ×Ccelda\)</span> (9)</p>
 <p>Se estimó el riesgo en cada celda localizada sobre la corriente de agua en las condiciones actuales. En la Figura 10 se presenta la forma de cálculo de un índice de riesgo (<em>R</em>), obtenido como el producto de la probabilidad anual de falla (<em>PAF</em>), y la pérdida económica potencial (<em>PEP</em>) derivada de la vulnerabilidad de un cauce en términos de la intensidad y de la valoración económica del tipo de cobertura vegetal.</p>
@@ -801,11 +843,21 @@ window.Quarto = {
 <p><strong>Figura 10.</strong> Esquema metodología adoptada para la evaluación del riesgo</p>
 </section>
 </section>
-<section id="caso-de-aplicación" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="caso-de-aplicación">CASO DE APLICACIÓN</h2>
+<section id="caso-de-aplicación" class="level2">
+<h2 class="anchored" data-anchor-id="caso-de-aplicación">10.6 CASO DE APLICACIÓN</h2>
 <p>Para el desarrollo y explicación de la metodología propuesta, se tomó como caso de estudio la cuenca del río San Juan. Esta cuenca presenta unas condiciones geomorfológicas, geológicas y climáticas que la hacen particularmente susceptible a movimientos en masa, como lo demuestra la información existente en las bases de datos. En específico, las corrientes de agua han causado grandes avenidas torrenciales, que a su vez han estado ligadas a la ocurrencia previa de movimientos en masa debidos a las lluvias. Debido a la complejidad de cada proceso, la amenaza por movimiento en masa se determinó para la totalidad de la cuenca, mientras que la vulnerabilidad y el riesgo se determinaron en la subcuenca de la quebrada La Liboriana en jurisdicción del municipio de Salgar, la cual se encuentra bien documentada y facilitó el proceso de validación de los resultados obtenidos con el modelo propuesto.</p>
-<div class="caja-box">
-<p><strong>Caja 4.</strong> Cuenca río San Juan La cuenca del rio San Juan se localiza en la vertiente oriental de la cordillera occidental de los Andes colombianos. El relieve es montañoso con pendientes fuertes. Abarca tierras en las márgenes del Río Cauca y es la más cafetera del departamento de Antioquia. También existen cultivos de caña de azúcar, frutales, plátano y algunas áreas se dedican a la ganadería. La cuenca del Río San Juan se extiende desde el nacimiento del rio en el nudo Paramillo (3000 m.s.n.m) y la desembocadura en el Río Cauca (1000 m.s.n.m) [37].</p>
+<div id="box4" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 4. Cuenca río San Juan La cuenca del rio San Juan se localiza en la vertiente oriental de la cordillera occidental de los Andes colombianos.
+</h2>
+<p>El relieve es montañoso con pendientes fuertes. Abarca tierras en las márgenes del Río Cauca y es la más cafetera del departamento de Antioquia. También existen cultivos de caña de azúcar, frutales, plátano y algunas áreas se dedican a la ganadería. La cuenca del Río San Juan se extiende desde el nacimiento del rio en el nudo Paramillo (3000 m.s.n.m) y la desembocadura en el Río Cauca (1000 m.s.n.m) [37].</p>
+</div>
+</div>
 </div>
 <p><img src="media/img_1f5ca9ae.png" class="img-fluid"></p>
 <p><strong>Figura 11. </strong>Localización del área en estudio (Cuenca río San Juan).</p>
@@ -821,17 +873,17 @@ window.Quarto = {
 <p><strong>CONFLICTO DE INTERESES</strong></p>
 <p>Los autores no declaran conflicto de intereses</p>
 </section>
-<section id="agradecimientos" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="agradecimientos">AGRADECIMIENTOS</h2>
+<section id="agradecimientos" class="level2">
+<h2 class="anchored" data-anchor-id="agradecimientos">10.7 AGRADECIMIENTOS</h2>
 <p>Los autores agradecen a la Universidad de Medellín y a Corantioquia por el apoyo en la realización de la investigación que dio pie a este estudio.</p>
 </section>
-<section id="identificación-del-autor" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="identificación-del-autor">IDENTIFICACIÓN DEL AUTOR</h2>
+<section id="identificación-del-autor" class="level2">
+<h2 class="anchored" data-anchor-id="identificación-del-autor">10.8 IDENTIFICACIÓN DEL AUTOR</h2>
 <p>Cesar Hidalgo</p>
 <p>Johnny Vega</p>
 </section>
-<section id="bibliografía" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="bibliografía">BIBLIOGRAFÍA</h2>
+<section id="bibliografía" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografía">10.9 BIBLIOGRAFÍA</h2>
 <p>Jibson, R. W., Harp, E. L., &amp; Michael, J. A. (1998). A method for producing digital probabilistic seismic landslide hazard maps. <em>Engineering Geology</em>, 58, 271-289.</p>
 <p>Jaiswal, P., &amp; Van Westen, C. J. (2009). Estimating temporal probability for landslide initiation along transportation routes based on rainfall thresholds. <em>Geomorphology</em>, 112, 96-105.</p>
 <p>Jaiswal, P., Van Westen, C., &amp; Jetten, V. (2010). Quantitative landslide hazard assessment along a transportation corridor in southern India. <em>Engineering Geology</em>, 116, 236-250.</p>
@@ -900,12 +952,12 @@ window.Quarto = {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",

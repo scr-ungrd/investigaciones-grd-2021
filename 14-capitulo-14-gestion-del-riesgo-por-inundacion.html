@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Paula Andrea Villegas González">
-<meta name="author" content="Nelson Obregón Neira">
+<meta name="author" content="Paula Andrea Villegas González 1">
+<meta name="author" content="Nelson Obregón Neira 1">
 
 <title>Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia) – Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021</title>
 <style>
@@ -46,7 +46,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c62bef599b4916bd8abd7e2c0a388ead.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-48abc47ddc2cbc14860ddec9e9fdb395.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -61,17 +61,17 @@ ul.task-list li input[type="checkbox"] {
   ],
   "show-item-context": false,
   "language": {
-    "search-no-results-text": "No results",
-    "search-matching-documents-text": "matching documents",
-    "search-copy-link-title": "Copy link to search",
-    "search-hide-matches-text": "Hide additional matches",
-    "search-more-match-text": "more match in this document",
-    "search-more-matches-text": "more matches in this document",
-    "search-clear-button-title": "Clear",
+    "search-no-results-text": "No se han encontrado resultados",
+    "search-matching-documents-text": "documentos encontrados",
+    "search-copy-link-title": "Copiar el enlace en la búsqueda",
+    "search-hide-matches-text": "Ocultar resultados adicionales",
+    "search-more-match-text": "resultado adicional en este documento",
+    "search-more-matches-text": "resultados adicionales en este documento",
+    "search-clear-button-title": "Borrar",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-detached-cancel-button-title": "Cancelar",
+    "search-submit-button-title": "Enviar",
+    "search-label": "Buscar"
   }
 }</script>
 <style>
@@ -123,6 +123,7 @@ window.Quarto = {
 };
 </script>
 
+<link rel="stylesheet" href="custom.css">
 </head>
 
 <body class="nav-sidebar floating quarto-light">
@@ -131,13 +132,13 @@ window.Quarto = {
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./14-capitulo-14-gestion-del-riesgo-por-inundacion.html"><span class="chapter-title">Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Alternar barra lateral" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Buscar" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -151,17 +152,31 @@ window.Quarto = {
                       </div>
   </div>
     
-  
+  <div class="quarto-title-meta-author">
+    <div class="quarto-title-meta-heading">Autores/as</div>
+    <div class="quarto-title-meta-heading">Afiliación</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author">Paula Andrea Villegas González <sup>1</sup> <a href="https://orcid.org/true" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <sup>1</sup>Instituto Geofísico, Pontificia Universidad Javeriana, Bogotá, Colombia
+            </p>
+        </div>
+      <div class="quarto-title-meta-contents">
+      <p class="author">Nelson Obregón Neira <sup>1</sup> <a href="https://orcid.org/true" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              <sup>1</sup>Instituto Geofísico, Pontificia Universidad Javeriana, Bogotá, Colombia
+            </p>
+        </div>
+    </div>
+
   <div class="quarto-title-meta">
 
-      <div>
-      <div class="quarto-title-meta-heading">Authors</div>
-      <div class="quarto-title-meta-contents">
-               <p>Paula Andrea Villegas González </p>
-               <p>Nelson Obregón Neira </p>
-            </div>
-    </div>
-      
+        
     
       
     </div>
@@ -177,7 +192,7 @@ window.Quarto = {
       </div>
         <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
-        <div id="quarto-search" class="" title="Search"></div>
+        <div id="quarto-search" class="" title="Buscar"></div>
         </div>
         </div>
     <div class="sidebar-menu-container"> 
@@ -301,27 +316,27 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
+    <h2 id="toc-title">Tabla de contenidos</h2>
    
   <ul>
   <li><a href="#resumen" id="toc-resumen" class="nav-link active" data-scroll-target="#resumen">Resumen</a></li>
   <li><a href="#abstract" id="toc-abstract" class="nav-link" data-scroll-target="#abstract">Abstract</a></li>
-  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">INTRODUCCIÓN</a></li>
-  <li><a href="#zona-de-estudio" id="toc-zona-de-estudio" class="nav-link" data-scroll-target="#zona-de-estudio">ZONA DE ESTUDIO</a></li>
-  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos">MATERIALES Y MÉTODOS</a>
+  <li><a href="#introducción" id="toc-introducción" class="nav-link" data-scroll-target="#introducción">14.1 INTRODUCCIÓN</a></li>
+  <li><a href="#zona-de-estudio" id="toc-zona-de-estudio" class="nav-link" data-scroll-target="#zona-de-estudio">14.2 ZONA DE ESTUDIO</a></li>
+  <li><a href="#materiales-y-métodos" id="toc-materiales-y-métodos" class="nav-link" data-scroll-target="#materiales-y-métodos">14.3 MATERIALES Y MÉTODOS</a>
   <ul class="collapse">
-  <li><a href="#modelos-usados-en-el-diseño" id="toc-modelos-usados-en-el-diseño" class="nav-link" data-scroll-target="#modelos-usados-en-el-diseño">Modelos usados en el diseño</a></li>
-  <li><a href="#propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos" id="toc-propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos" class="nav-link" data-scroll-target="#propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos">Propuesta de un metamodelo de modelos integrados para el desarrollo de artefactos participativos</a></li>
+  <li><a href="#modelos-usados-en-el-diseño" id="toc-modelos-usados-en-el-diseño" class="nav-link" data-scroll-target="#modelos-usados-en-el-diseño">14.3.1 Modelos usados en el diseño</a></li>
+  <li><a href="#propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos" id="toc-propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos" class="nav-link" data-scroll-target="#propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos">14.3.2 Propuesta de un metamodelo de modelos integrados para el desarrollo de artefactos participativos</a></li>
   </ul></li>
-  <li><a href="#resultados" id="toc-resultados" class="nav-link" data-scroll-target="#resultados">RESULTADOS</a>
+  <li><a href="#resultados" id="toc-resultados" class="nav-link" data-scroll-target="#resultados">14.4 RESULTADOS</a>
   <ul class="collapse">
-  <li><a href="#mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25" id="toc-mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25" class="nav-link" data-scroll-target="#mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25">MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua [25]</a></li>
-  <li><a href="#mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos" id="toc-mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos" class="nav-link" data-scroll-target="#mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos">MOJANACOOP: Modelo Organizacional Jerárquico de Agentes Naturales del Agua Cooperativos</a></li>
-  <li><a href="#mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real" id="toc-mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real" class="nav-link" data-scroll-target="#mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real">MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en tiempo real</a></li>
+  <li><a href="#mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25" id="toc-mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25" class="nav-link" data-scroll-target="#mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25">14.4.1 MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua [25]</a></li>
+  <li><a href="#mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos" id="toc-mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos" class="nav-link" data-scroll-target="#mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos">14.4.2 MOJANACOOP: Modelo Organizacional Jerárquico de Agentes Naturales del Agua Cooperativos</a></li>
+  <li><a href="#mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real" id="toc-mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real" class="nav-link" data-scroll-target="#mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real">14.4.3 MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en tiempo real</a></li>
   </ul></li>
-  <li><a href="#discusión" id="toc-discusión" class="nav-link" data-scroll-target="#discusión">DISCUSIÓN</a></li>
-  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">CONCLUSIONES</a></li>
-  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">BIBLIOGRAFÍA</a></li>
+  <li><a href="#discusión" id="toc-discusión" class="nav-link" data-scroll-target="#discusión">14.5 DISCUSIÓN</a></li>
+  <li><a href="#conclusiones" id="toc-conclusiones" class="nav-link" data-scroll-target="#conclusiones">14.6 CONCLUSIONES</a></li>
+  <li><a href="#bibliografía" id="toc-bibliografía" class="nav-link" data-scroll-target="#bibliografía">14.7 BIBLIOGRAFÍA</a></li>
   </ul>
 </nav>
     </div>
@@ -332,8 +347,6 @@ window.Quarto = {
 
 
 
-<p>1Instituto Geofísico, Pontificia Universidad Javeriana. Carrera 7 No.&nbsp;40 – 62, Bogotá, Colombia</p>
-<p>*Autor de contacto: Paula Andrea Villegas González. Instituto Geofísico, Pontificia Universidad Javeriana. Carrera 7 No.&nbsp;40 – 62, Bogotá, Colombia. Correo-e:</p>
 <section id="resumen" class="level2 unnumbered">
 <h2 class="unnumbered anchored" data-anchor-id="resumen">Resumen</h2>
 <p>Los análisis de riesgo por inundación en Colombia, se han enfocado en la modelación física de la amenaza y en la valoración de la vulnerabilidad física y social, pero no se han integrado estos dos análisis en la evaluación del riesgo. El trabajo presentado hace énfasis en la inclusión de los elementos sociales y el conocimiento de las comunidades, como base para la generación de modelos de evaluación del riesgo. Específicamente, se propone un modelo para hacer modelos, en el marco de procesos de participación local. Para esto se utiliza la metodología GAIA. Los artefactos desarrollados son: MOJANA, MOJANACOOP y MOJANAREAL, los cuales reflejan en su diseño los principales componentes del metamodelo. Las variables y procesos a modelar se representan a través de las reglas, que permiten integrar el fenómeno de la inundación y las características del sistema social. Para el desarrollo de los modelos se utiliza el caso de estudio de la ecorregión de la Mojana y se pudo concluir que las variables más importantes para analizar la vulnerabilidad social son: la condición de habitabilidad, las actividades productivas, los procesos de cooperación y, el acceso a la salud y educación de las comunidades locales. Para el caso específico de la ecorregión de la Mojana, la vulnerabilidad social es media y esta se encuentra relacionada con las formas de adaptación a los procesos de inundación.</p>
@@ -347,21 +360,31 @@ window.Quarto = {
 <p><strong>Keywords</strong></p>
 <p>Communities, flooding, hazard, modelling with stakeholders, risk, vulnerability</p>
 </section>
-<section id="introducción" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="introducción">INTRODUCCIÓN</h2>
+<section id="introducción" class="level2">
+<h2 class="anchored" data-anchor-id="introducción">14.1 INTRODUCCIÓN</h2>
 <p>La gestión del riesgo es “un proceso social orientado a la formulación, ejecución, seguimiento y evaluación de políticas, estrategias, planes, programas, regulaciones, instrumentos, medidas y acciones permanentes para el conocimiento y la reducción del riesgo y para el manejo de desastres, con el propósito explícito de contribuir a la seguridad, el bienestar, la calidad de vida de las personas y al desarrollo sostenible” [1].</p>
 <p>La Ley 1523 de 2012, afirma que se deben desarrollar los planes departamentales, distritales y municipales de gestión del riesgo y estrategias de respuesta. El Decreto 1807 de 2014 “relativo a la incorporación de la gestión del riesgo en los planes de ordenamiento” [2], explica que para la evaluación del riesgo de desastres por inundación se deben hacer: análisis detallado de amenaza, evaluación de vulnerabilidad, evaluación del riesgo y determinación de medidas de mitigación. En conclusión, el problema de la gestión del riesgo por inundaciones en el país implica comprender el fenómeno natural de la inundación y los impactos que este tiene en el territorio; con el propósito no solo de conocer el problema, sino también generar soluciones de prevención, reducción y manejo. En este sentido, esta investigación plantea que no solo se deberían generar modelos que representan la dinámica física de inundación; sino también incorporar el sentido que para las personas tiene su territorio, el lugar que habitan. Una de las formas de integrar estos modelos es a través de artefactos participativos, incorporando el conocimiento local.</p>
 <p>Según Medina-Sanson et al [2014], el territorio en esta investigación es entendido como ese espacio que “articula estructuras y procesos bióticos y ecológicos con la dinámica política, económica y cultural de las sociedades humanas. El territorio es un espacio con elementos y recursos de diferente naturaleza,</p>
 <p>ocupado, modificado y regulado por grupos humanos con perspectivas e intereses diferenciados, dentro del cual se dan procesos de disputa, negociación y concertación” [3]. De esta manera el territorio es concebido como un concepto integrador, que no se restringe a dimensiones físicas y es visto como un sistema complejo que se encuentra compuesto por elementos ecológicos, sociales, culturales, económicos, político institucionales y urbano-regionales. Abordar el análisis de un territorio implica reconocer diferentes escalas espaciales y temporales, procesos “horizontales y verticales de negociación, ocupación y control” [3], procesos de cooperación, diversidad de actores e instituciones, así como relaciones. El territorio puede asumir las más diversas “escalas, formas y manifestaciones” [4]. Esta investigación soporta el análisis de ese territorio desde el concepto de sistemas socio-ecológicos (Social-Ecological System-SES) a través de un modelo de sistema genérico y que se utiliza como herramienta de gestión [5].</p>
-<div class="caja-box">
-<p><strong>Caja 1.</strong> Conceptos clave Los sistemas socio-ecológicos contemplan cuatro subsistemas: natural, visión del mundo, control/gestión y tecnología. Además, tiene cuatro órdenes de complejidad: físicos, biológicos, sociales y semióticos. Los problemas sociales y ecológicos son problemas sistémicos y de gestión, que operan en diferentes escalas, desde lo global a lo local. Son problemas de gestión que requieren una solución sostenida, coordinada y una respuesta impulsada por responsables políticos. Este término se relaciona con el sistema holístico hacía elementos humanos y no humanos del problema de interés. Este concepto se ha creado con la idea que “los ecosistemas que muchos quieren proteger se embeben en los diferentes niveles de organización social” [5]. La noción de Buen vivir esta relacionada con vivir en plenitud, saber vivir en armonía con los ciclos de la Madre Tierra, del cosmos, de la vida y de la historia, y en equilibrio con toda forma de existencia en permanente respeto [6].</p>
+<div id="box1" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 1. Conceptos clave Los sistemas socio-ecológicos contemplan cuatro subsistemas: natural, visión del mundo, control/gestión y tecnología.
+</h2>
+<p>Además, tiene cuatro órdenes de complejidad: físicos, biológicos, sociales y semióticos. Los problemas sociales y ecológicos son problemas sistémicos y de gestión, que operan en diferentes escalas, desde lo global a lo local. Son problemas de gestión que requieren una solución sostenida, coordinada y una respuesta impulsada por responsables políticos. Este término se relaciona con el sistema holístico hacía elementos humanos y no humanos del problema de interés. Este concepto se ha creado con la idea que “los ecosistemas que muchos quieren proteger se embeben en los diferentes niveles de organización social” [5]. La noción de Buen vivir esta relacionada con vivir en plenitud, saber vivir en armonía con los ciclos de la Madre Tierra, del cosmos, de la vida y de la historia, y en equilibrio con toda forma de existencia en permanente respeto [6].</p>
+</div>
+</div>
 </div>
 <p>En este sentido, los sistemas socio-ecológicos en la investigación se pueden ver representados en los artefactos diseñados, y tienen como propósito servir de herramientas de apoyo para orientar procesos de planeación en el territorio y de esta manera, generar estrategias que aporten al bienestar de la población. Este bienestar, puede ser entendido desde diferentes modelos y enfoques. El “Buen vivir” (Caja 1 [6]) es uno de ellos y resulta del trabajo con las comunidades.</p>
 <p>Por otro lado, esta investigación se aborda desde un enfoque interdisciplinar y orientada por el dialogo de saberes, donde se busca analizar la modelación integrada teniendo en cuenta que la multidimensionalidad de los problemas exige ir más allá de la disciplina de la ingeniería hidráulica. Por ejemplo, de la física (dado que el agua es uno de los componentes estructurales del territorio) o de las ciencias sociales (para considerar las dinámicas sociales y comunitarias como otros determinantes de las dinámicas territoriales).</p>
 <p>Remolina (2014) [7] entiende la interdisciplinariedad “como el paso de la multiplicidad de las disciplinas a su integración en un pensamiento complejo” y él enfatiza en tres niveles. El primero, la uni-disciplinariedad y multidisciplinariedad que consiste en el estudio de un mismo objeto por varias disciplinas. El segundo, Inter-disciplinariedad que implica la transferencia de métodos de una disciplina a otra. El tercero, la trans-disciplinariedad que se basa en la existencia de diversos niveles de realidad, entre los cuales se da discontinuidad, con saltos cualitativos entre uno y otro nivel. De esta manera, “la interdisciplinariedad busca restituirle a la realidad su integridad reconstruyéndola en su complejidad por medio de la integración de los conocimientos”. Pero, advierte, no todo es integrable inmediatamente dado que la complejidad de la realidad es orgánica, y en un organismo cada dimensión o componente tiene funciones y conectores diferentes. En el proceso interdisciplinar que se quiere abordar en esta investigación, las diversas disciplinas han de integrarse de manera orgánica y gradual. Aquí se dan los primeros pasos para pasar del primer nivel de interdisciplinariedad al segundo, pues se asume que no es suficiente el abordaje del territorio desde la Ingeniería hidráulica, sino que debe empezar a contemplar aportes de las ciencias sociales para entrar en diálogo con los conocimientos locales.</p>
 </section>
-<section id="zona-de-estudio" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="zona-de-estudio">ZONA DE ESTUDIO</h2>
+<section id="zona-de-estudio" class="level2">
+<h2 class="anchored" data-anchor-id="zona-de-estudio">14.2 ZONA DE ESTUDIO</h2>
 <p>La Mojana es una ecorregión (Fig. 1) de especial importancia en Colombia que hace parte del complejo de humedales de la Depresión Momposina, la cual es una cuenca hidrográfica sedimentaria de 24,650 km2 reguladora de los caudales de los ríos Magdalena, Cauca y San Jorge. Estos humedales cumplen la función de amortiguación de inundaciones ya que permiten distribuir las cabezas de agua originadas por lluvias en las partes altas de la región Andina, facilitando la decantación y acumulación de sedimentos, funciones de control indispensables para la Costa Caribe [6]. La ecorregión se localiza en jurisdicción de cuatro departamentos (Sucre, Bolívar, Córdoba y Antioquia) y comprende 28 municipios, con una población de alrededor de 929,669 habitantes y una superficie de 28,461 Km2 [7].</p>
 <p><img src="media/img_7adf8497.jpeg" class="img-fluid"></p>
 <p><strong>Figura 1. </strong>Mapa de la ecorregión de la Mojana (Fondo de Adaptación).</p>
@@ -370,14 +393,24 @@ window.Quarto = {
 <p>En los últimos años, la ecorregión ha cambiado debido al uso, ocupación del territorio y por el manejo de las cuencas de los ríos que confluyen en el delta hídrico. Adicionalmente la construcción de obras civiles ha generado cambios en el complejo cenagoso y fluvial. La infraestructura se ha orientado al control del agua mediante obras que afectan la dinámica hídrica y desestabilizan los sistemas hidrobiológicos, en lugar de adaptarse a las condiciones del medio natural para su aprovechamiento.</p>
 <p>La ecorregión de la Mojana ha sido el caso de estudio para aplicar los modelos integrados provenientes del metamodelo. Específicamente la información y los procesos fueron desarrollados en los municipios de Nechí (Antioquia), San Marcos (Sucre), Magangué (Bolivar), Montelíbano (Córdoba) y en la Depresión Momposina en Mompox (Bolívar).</p>
 </section>
-<section id="materiales-y-métodos" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="materiales-y-métodos">MATERIALES Y MÉTODOS</h2>
+<section id="materiales-y-métodos" class="level2">
+<h2 class="anchored" data-anchor-id="materiales-y-métodos">14.3 MATERIALES Y MÉTODOS</h2>
 <p>Según Kroes el diseño “es un proceso de invención, una generación inteligente y evaluación de especificaciones de nuevos objetos, artefactos; cuya forma y función logren los objetivos establecidos y satisfagan las necesidades, pero también contemplen limitaciones y restricciones” [10]. Ejemplos de artefactos pueden ser: una organización, una máquina, una herramienta, entre otros. El diseño tiene una actividad mental y una actividad física. Respecto al aspecto mental “El verdadero trabajo de fabricación se realiza bajo la guía de un modelo, de acuerdo con el cual se construye el objeto. Dicho modelo puede ser una imagen contemplada por la mente o bien un boceto en el que la imagen tenga ya un intento de materialización mediante el trabajo” [11]. Según Epstein “Cualquiera que se aventure a proyectar, o imaginar una dinámica” ejecuta un modelo [12].</p>
-<div class="caja-box">
-<p><strong>Caja 2.</strong> Según Epstein [12], además de predecir, los modelos son para (i) explicar, (ii) recopilar datos, (iii) iluminar la dinámica del núcleo, (iv) sugerir analogías, (v) descubrir nuevas preguntas, (vi) fomentar el hábito de la mente crítica, (vii) soportar los resultados de los rangos plausibles, (viii) iluminar las incertidumbres principales, (ix) ofrecer opciones de crisis en tiempo real, (x) demostrar compensaciones y sugerir eficiencia, (xii) desafiar a la robustez que prevalece a través de las perturbaciones, (xiii) exponer lo que suele pensarse como incompatible con los datos disponibles, (xiv) capacitar practicantes, (xv) disciplinar el diálogo sobre políticas, (xvi) educar al público en general y (xvi) revelar lo aparentemente simple al ser complejo.</p>
+<div id="box2" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
 </div>
-<section id="modelos-usados-en-el-diseño" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="modelos-usados-en-el-diseño">Modelos usados en el diseño</h3>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 2.
+</h2>
+<p>Según Epstein [12], además de predecir, los modelos son para (i) explicar, (ii) recopilar datos, (iii) iluminar la dinámica del núcleo, (iv) sugerir analogías, (v) descubrir nuevas preguntas, (vi) fomentar el hábito de la mente crítica, (vii) soportar los resultados de los rangos plausibles, (viii) iluminar las incertidumbres principales, (ix) ofrecer opciones de crisis en tiempo real, (x) demostrar compensaciones y sugerir eficiencia, (xii) desafiar a la robustez que prevalece a través de las perturbaciones, (xiii) exponer lo que suele pensarse como incompatible con los datos disponibles, (xiv) capacitar practicantes, (xv) disciplinar el diálogo sobre políticas, (xvi) educar al público en general y (xvi) revelar lo aparentemente simple al ser complejo.</p>
+</div>
+</div>
+</div>
+<section id="modelos-usados-en-el-diseño" class="level3">
+<h3 class="anchored">14.3.1 Modelos usados en el diseño</h3>
 <p><strong>Modelos participativos:</strong> según Voinov y Bousquet [13] tiene entre sus propósitos el aprendizaje compartido, la colaboración y participación de actores en los procesos de modelado. La eficiencia de la participación depende entre otras, de la relación entre los actores, la habilidad para comunicar e intercambiar información y conocimiento, y los métodos que apoyan esta actividad.</p>
 <p><strong>Modelos mentales:</strong> se enfoca en la habilidad de las personas para predecir ciertos resultados, usando razonamientos basados en observaciones previas. Estos razonamientos trasladan los procesos del mundo externo a palabras, números o símbolos [14].</p>
 <p><strong>Modelos hídricos:</strong> el modelado hídrico puede realizarse utilizando dos tipos de enfoques: hidrodinámico e hidrológico. Ambos pueden estar relacionados en un modelo de inundación. Para conocer variables como el caudal, la velocidad y la profundidad se pueden utilizar modelos hidrodinámicos, que utilizan métodos numéricos para resolver las ecuaciones de Navier-Stokes, para un flujo incomprensible. De esta manera se puede conocer la forma de la inundación, representada sobre un modelo de elevación digital. Los modelos pueden ser de tipo unidimensional o bidimensional [15]. Para el modelado de inundaciones se utilizan las ecuaciones de aguas someras donde se parte de las siguientes suposiciones [16]: (a) fluido homogéneo “H”, (b) velocidades verticales mucho menores que las velocidades horizontales, (c) la extensión vertical es mucho menor que la horizontal, (d) las aceleraciones verticales pueden despreciarse, (e) la distribución de las presiones es hidrostática, (f) las partículas tienen un movimiento rectilíneo en el plano horizontal, (g) las fuerzas inerciales son mucho mayores que las fuerzas viscosas.</p>
@@ -389,13 +422,23 @@ window.Quarto = {
 <p><span class="math display">\[∂v∂t+u∂v∂x+v∂v∂y+zu,v=-g&nbsp;∂h∂y   +Sy           (2)\]</span></p>
 <p><span class="math display">\[∂h∂t+∂u∂xH+h+∂∂yH+hv=0                       3\]</span></p>
 <p><strong>Modelos basados en agentes</strong>: los modelos basados en sistemas de agentes tienen la capacidad de representar el comportamiento de actores humanos de manera realista, su heterogeneidad, interacción con el ambiente natural y el aprendizaje evolutivo [18].</p>
-<div class="caja-box">
-<p><strong>Caja 3.</strong> Retos de la modelación basada en agentes [18] El modelado de la conducta de los agentes: la exploración del diseño de las decisiones de los agentes es un reto en la medida que se debe generar un balance en las teorías de toma de decisiones, pero también de las observaciones empíricas. Análisis de sensibilidad, verificación y validación: el grado de fiabilidad y robustez de este tipo de sistemas pide información de microescala de los comportamientos e interacciones de los agentes. Lo que implica un gran número de parámetros por los cuales el modelo es sensible. Es importante precisar que un análisis de este tipo puede ser vital cuando se aplican en un contexto de políticas. Por lo que se exige solidez en la construcción y éxito en lo relacionado con la reproducción de tendencias y patrones reales. El acoplamiento de modelos socio-demográficos, ecológico y biofísico: cuando se usan para estudiar las dinámicas de los sistemas complejos se concentran en la necesidad de integrar la conducta humana con otros modelos. Un reto es poder identificar la vinculación de variables y reunir en el mundo real los datos para vincular el modelo.</p>
+<div id="box3" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="modelos-usados-en-el-diseño">
+Caja 3. Retos de la modelación basada en agentes [18] El modelado de la conducta de los agentes: la exploración del diseño de las decisiones de los agentes es un reto en la medida que se debe generar un balance en las teorías de toma de decisiones, pero también de las observaciones empíricas.
+</h2>
+<p>Análisis de sensibilidad, verificación y validación: el grado de fiabilidad y robustez de este tipo de sistemas pide información de microescala de los comportamientos e interacciones de los agentes. Lo que implica un gran número de parámetros por los cuales el modelo es sensible. Es importante precisar que un análisis de este tipo puede ser vital cuando se aplican en un contexto de políticas. Por lo que se exige solidez en la construcción y éxito en lo relacionado con la reproducción de tendencias y patrones reales. El acoplamiento de modelos socio-demográficos, ecológico y biofísico: cuando se usan para estudiar las dinámicas de los sistemas complejos se concentran en la necesidad de integrar la conducta humana con otros modelos. Un reto es poder identificar la vinculación de variables y reunir en el mundo real los datos para vincular el modelo.</p>
+</div>
+</div>
 </div>
 <p><strong>Metamodelo</strong>: el prefijo meta, en griego, significa superior o posterior. En filosofía, es usado a menudo para hablar sobre una propia categoría. En el contexto de la ingeniería de software, meta significa que el modelo que se construye representa otros modelos, es un modelo de modelos [19].</p>
 </section>
-<section id="propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos">Propuesta de un metamodelo de modelos integrados para el desarrollo de artefactos participativos</h3>
+<section id="propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos" class="level3">
+<h3 class="anchored">14.3.2 Propuesta de un metamodelo de modelos integrados para el desarrollo de artefactos participativos</h3>
 <p>En las comunidades que se encuentran ubicadas en zonas de amenaza por inundación periódicas, se ha observado que muchos de sus hábitos se relacionan con la variación de los niveles del agua. En este sentido, comprender los cambios en los niveles del agua y aquellos generados en los hábitos de las comunidades resulta importante para el diseño e implementación de estrategias que promueven disminuir la vulnerabilidad de las comunidades y hacerlas más resilientes frente a dichas amenazas.</p>
 <p>Recientemente, en Colombia se han desarrollado diferentes instrumentos como los planes de gestión del riesgo, los sistemas de alertas tempranas, los planes de ordenamiento y manejo de cuencas, entre otros, que han ganado importancia como herramientas de política pública para disminuir la vulnerabilidad y generar estrategias de gestión del riesgo en el territorio. Para generar escenarios relacionados con la interacción agua-comunidad es fundamental la integración de variables que representan procesos sociales y procesos ecológicos. La dinámica natural de las causas y efectos en cadena, la consideración de los efectos y la no linealidad. A partir del trabajo de campo, realizado en la ecorregión de la Mojana, surge el metamodelo. La selección de los municipios en donde se hizo el trabajo de campo consideró los siguientes criterios: (i) hicieran parte de la ecorregión de la Mojana y hubieran tenido impactos por las inundaciones durante los años 2010-2011, (ii) se pudiera acceder por transporte terrestre, (iii) se hubieran considerado en el proyecto de “Evaluación Probabilística de Riesgo por Inundación” liderado por la UNGRD.</p>
 <p>La información de los talleres se construyó principalmente con el apoyo de las Instituciones educativas, donde se llevaron a cabo espacios de participación que incluyeron jóvenes, profesores y padres de familia. Quienes estuvieron de acuerdo con el uso de los resultados en el proceso de investigación. Los recorridos territoriales se llevaron a cabo en zonas que tuvieron afectaciones por las inundaciones, durante los años 2010 y 2011 y contaron con el consentimiento de los entrevistados. También fueron utilizados los resultados de los ejercicios de participación para el análisis de la vulnerabilidad social, en el marco del proyecto liderado por la UNGRD [22] donde se establecen los criterios para realizar dicho análisis a partir de hogares e individuos, con el soporte de los Consejos Municipales para la Gestión del Riesgo. A continuación, se presenta la descripción de algunos de los insumos que fueron usados para el diseño, los cuales se encuentran de manera detallada en la tesis doctoral “Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos particitipativos” [23].</p>
@@ -411,12 +454,32 @@ window.Quarto = {
 <p><img src="media/img_03a154a4.jpeg" class="img-fluid"></p>
 <p><strong>Figura 5.</strong> Elementos claves para el diseño del metamodelo a partir del trabajo de campo en la ecorregión de la Mojana.</p>
 <p>La metodología utilizada para el análisis y diseño del metamodelo se titula GAIA [23]. Esta metodología se enfoca en una visión de sistemas multiagentes como una organización computacional consistente en la interacción de varios roles. Los agentes representan un avance en la abstracción, dado que pueden ser usados para entender naturalmente los modelos y desarrollar sistemas complejos distribuidos. A través de esta metodología se realiza un análisis que va desde unos requerimientos del diseño que es suficientemente detallado y que se pueden implementar directamente. El principal modelo usado en GAIA incluye dos modelos, el primero de roles y el segundo de interacciones. El rol se define por cuatro atributos: funcionalidad, permisos, actividades y protocolos. Las responsabilidades determinan la funcionalidad. Los permisos son los derechos u obligaciones asociados con el rol. Se relacionan directamente con los recursos que se encuentran disponibles para realizar sus responsabilidades. Las actividades son las acciones privadas de los agentes, sin interactuar con otros agentes. El rol se identifica con un número de protocolos, que se definen por la interacción con otros roles [23].</p>
-<div class="caja-box">
-<p><strong>Caja 4.</strong> Modelo de roles: permisos Anfibios: el propósito de este rol es adaptarse a las condiciones de inundación y llevar a cabo sus actividades productivas. Permisos: revisar Uso del suelo // inundado o seco. Mover Tomar la decisión // moverse a otro lugar si no está inundado o quedarse en el lugar si está inundado. Asentarse Tomar la decisión // asentarse y llevar a cabo sus actividades productivas o seguir moviéndose. Agrícolas: el propósito de este rol es llevar a cabo sus actividades productivas en zonas secas. Permisos: revisar Uso del suelo // inundado o seco. Mover Tomar la decisión // moverse a otro lugar si no está seco o quedarse en el lugar si está seco. Asentarse Tomar la decisión // asentarse y llevar a cabo sus actividades productivas o seguir moviéndose.</p>
+<div id="box4" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored" data-anchor-id="propuesta-de-un-metamodelo-de-modelos-integrados-para-el-desarrollo-de-artefactos-participativos">
+Caja 4. Modelo de roles: permisos Anfibios: el propósito de este rol es adaptarse a las condiciones de inundación y llevar a cabo sus actividades productivas.
+</h2>
+<p>Permisos: revisar Uso del suelo // inundado o seco. Mover Tomar la decisión // moverse a otro lugar si no está inundado o quedarse en el lugar si está inundado. Asentarse Tomar la decisión // asentarse y llevar a cabo sus actividades productivas o seguir moviéndose. Agrícolas: el propósito de este rol es llevar a cabo sus actividades productivas en zonas secas. Permisos: revisar Uso del suelo // inundado o seco. Mover Tomar la decisión // moverse a otro lugar si no está seco o quedarse en el lugar si está seco. Asentarse Tomar la decisión // asentarse y llevar a cabo sus actividades productivas o seguir moviéndose.</p>
+</div>
+</div>
 </div>
 <p>En el metamodelo diseñado en esta investigación son identificados dos roles, los anfibios y los agrícolas. Los cuales representan el comportamiento de la población en la Mojana. Estos a su vez pueden adoptar dos estados: buscadores y asentados. Al comienzo el sistema inicializa el número total de agentes; para cada uno de los cuales las rutinas son las mismas por población (buscar, moverse, asentarse, reproducirse y morir). La principal diferencia entre los dos tipos de agentes consiste en que el proceso de asentarse depende de la condición del suelo (seco o inundado). Las rutinas se predefinen en función de la riqueza de las parcelas, no obstante, su incremento y estabilidad dependen adicionalmente de la velocidad de búsqueda y de la riqueza acumulada. Asimismo, estas últimas dan lugar a la configuración de tres clases sociales alta, media y baja. Cuando el tiempo de búsqueda de un agente se agota, este puede cambiar su condición de anfibio a agrícola o viceversa [27].</p>
-<div class="caja-box">
-<p><strong>Caja 5.</strong> Modelo de roles: responsabilidades Anfibios: siempre que haya agua, adaptarse y llevar a cabo actividades de pesca. Agrícolas: siempre que haya cultivos y el terreno esté seco, realizar las labores de agricultura.</p>
+<div id="box5" class="callout callout-style-simple callout-important no-icon" style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-body-container">
+<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;" class="anchored">
+Caja 5. Modelo de roles: responsabilidades Anfibios: siempre que haya agua, adaptarse y llevar a cabo actividades de pesca.
+</h2>
+<p>Agrícolas: siempre que haya cultivos y el terreno esté seco, realizar las labores de agricultura.</p>
+</div>
+</div>
 </div>
 <p>Para el caso del metamodelo se tienen dos roles: anfibios y agrícolas. A continuación, se presenta un ejemplo de uno de ellos. El operador w significa infinitas repeticiones:</p>
 <p><strong>Tabla 3. </strong>Esquema para el rol del anfibio.</p>
@@ -478,11 +541,11 @@ window.Quarto = {
 <p><strong>Figura 6.</strong> Modelos de interacción. a reglas clase baja. b y c reglas clase media. d y e reglas clase alta. Para la estructura de un autómata celular se puede definir una vecindad establecida para cada celda, la que consiste en un conjunto contiguo de celdas. Esta vecindad puede estar formada por las celdas inmediatamente contiguas a la celda en cuestión (vecindad de Von Neuman , cuatro celdas, o vecindad de Moore, ocho celdas).</p>
 </section>
 </section>
-<section id="resultados" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="resultados">RESULTADOS</h2>
+<section id="resultados" class="level2">
+<h2 class="anchored" data-anchor-id="resultados">14.4 RESULTADOS</h2>
 <p>Fueron desarrollados diferentes modelos que generaron artefactos, esto a partir del metamodelo presentado. El primer artefacto de simulación que se presenta se denomina MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua. Este modelo fue evolucionando a partir de los hallazgos encontrados en campo, dando paso al segundo artefacto denominado MOJANACOOP: Modelo Organizacional Jerárquico de Agentes Naturales del Agua Cooperativos. El tercero MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en tiempo real. A continuación, se hace una descripción del desarrollo y resultados de cada uno. Para los dos primeros se utiliza como medio para la integración la plataforma NetLogo y para el tercero, se construye un modelo con actores en el municipio de San Marcos que integran su conocimiento al artefacto.</p>
-<section id="mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25">MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua [25]</h3>
+<section id="mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25" class="level3">
+<h3 class="anchored" data-anchor-id="mojana-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-25">14.4.1 MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua [25]</h3>
 <p><strong>Propósito del modelo:</strong> analizar la influencia de la inundación y de los usos del suelo en las variables correspondientes a la desigualdad en el territorio y las dinámicas de asentamiento. Variables que son conocidas, que se acostumbran a usar en ejercicios de planeación y en la generación de escenarios de desarrollo territorial [26].</p>
 <p><strong>Usuarios y actores: </strong>los usuarios iniciales fueron el equipo de modeladores. Se considera que este tipo de modelos inspirados en una problemática local, pero que no tienen información real del territorio, podrían servir para el diseño de políticas públicas en el marco de la gestión del riesgo por inundación.</p>
 <p><strong>Conceptualización del sistema:</strong> los procesos que se modelan son el fenómeno de inundación, el aprovechamiento del territorio y la interacción de la población con estos. El territorio está modelado como un autómata celular cuyas celdas albergan una cantidad de grano, que representa la riqueza de dicha unidad territorial, medida no solo en términos de recursos naturales sino también en elementos humanos como infraestructura y servicios, entre otros. El territorio tiene capacidad de regeneración por tanto la cantidad de grano que se consuma puede ser recuperada en el tiempo. Las poblaciones humanas se representan por un sistema de agentes que toman provecho del territorio para mejorar su riqueza acumulada, sin embargo, la no adaptación puede degradarla. La interacción de los agentes con el territorio conlleva al mejoramiento o empobrecimiento de este. Otro autómata celular simula una inundación que se produce periódicamente. El nivel de agua en las unidades territoriales puede ser atractivo o repulsivo para los agentes. Dependiendo de la adaptación del agente al agua, esta degrada o no su bienestar. La presencia periódica de la inundación, la capacidad de regeneración y modificación del territorio sumado a la posibilidad de cambio en los agentes hacen que la herramienta computacional se caracterice por exhibir un entorno variante en el tiempo.</p>
@@ -500,8 +563,8 @@ window.Quarto = {
 <p><strong>Figura 9.</strong> Resultados del modelo MOJANA (izquierda) Cantidad de agentes por clases sociales. (derecha) Cantidad de agentes por tipos de agentes.</p>
 <p>Se observa en la Figura 9 (izquierda), como la clase social baja predomina. Las presiones del entorno son representadas en la cantidad de grano, que seleccionan las clases existentes. En la Figura 9 (derecha) se observa cómo predominan los agrícolas asentados, dado que existe mayor cantidad de territorio sin agua. Un comportamiento similar tiene actualmente la región, donde los niveles de pobreza son muy altos, reflejados en un NBI promedio de: 64.4 y la cantidad de terratenientes es baja.</p>
 </section>
-<section id="mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos">MOJANACOOP: Modelo Organizacional Jerárquico de Agentes Naturales del Agua Cooperativos</h3>
+<section id="mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos" class="level3">
+<h3 class="anchored" data-anchor-id="mojanacoop-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-cooperativos">14.4.2 MOJANACOOP: Modelo Organizacional Jerárquico de Agentes Naturales del Agua Cooperativos</h3>
 <p><strong>Propósito del modelo:</strong> analizar la influencia de la inundación y de los usos del suelo en la variable correspondientes a la vulnerabilidad social. Esto en el marco del riesgo por inundación.</p>
 <p><strong>Usuarios y actores:</strong> los usuarios iniciales fueron el equipo de modeladores. Se considera que este tipo de modelos inspirados en una problemática local, pero que no tienen información real del territorio, podrían servir para el diseño de políticas públicas en el marco de la gestión del riesgo por inundación.</p>
 <p><strong>Conceptualización del sistema:</strong> los procesos que se modelan son el fenómeno de inundación, el aprovechamiento del territorio y la interacción de la población con estos. El territorio está modelado como un autómata celular cuyas celdas albergan una cantidad de grano, que representa la riqueza de dicha unidad territorial, medida no solo en términos de recursos naturales sino también en elementos humanos como infraestructura y servicios, entre otros. El territorio tiene capacidad de regeneración por tanto la cantidad de grano que se consuma puede ser recuperada en el tiempo.</p>
@@ -645,8 +708,8 @@ window.Quarto = {
 <p><strong>Figura 11.</strong> Resultados del modelo MOJANACOOP. Cantidad de agentes por clases sociales (izquierda). Cantidad de agentes acorde a los niveles de vulnerabilidad social (derecha).</p>
 <p>Se observa en la Figura 11 (izquierda), como la clase social baja predomina, seguida de la media y la alta. Las presiones del entorno son representadas en la cantidad de grano, que seleccionan las clases existentes. En la Figura 11 (derecha) se observa como la vulnerabilidad media es la predominante. Este resultado fue similar en el proyecto generado por la Unidad Nacional para la Gestión del Riesgo de Desastres [27]. Los factores que inciden en este valor son: las condiciones de habitabilidad, las actividades productivas, la capacidad de cooperación y, el acceso a educación y salud.</p>
 </section>
-<section id="mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real" class="level3 unnumbered">
-<h3 class="unnumbered anchored" data-anchor-id="mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real">MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en tiempo real</h3>
+<section id="mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real" class="level3">
+<h3 class="anchored" data-anchor-id="mojanareal-modelo-organizacional-jerárquico-de-agentes-naturales-del-agua-en-tiempo-real">14.4.3 MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en tiempo real</h3>
 <p><strong>Propósito del modelo:</strong> generar escenarios de inundación para la ecorregión de la Mojana, donde se puedan discutir estrategias para disminuir la vulnerabilidad social en el territorio. Esto se propone a través de un ejercicio de modelado participativo.</p>
 <p><strong>Usuarios y actores:</strong> los actores que participaron fueron los padres de familia, profesores y estudiantes del grado noveno, de la Institución Educativa San José San Marcos. Los usuarios son los demás grados de la Institución, liderado por los coordinadores del curso.</p>
 <p><strong>Conceptualización del sistema:</strong> los procesos que se modelan son el fenómeno de inundación, el aprovechamiento del territorio y la interacción de la población con estos. El territorio está modelado utilizando fichas de color azul y de color verde. Las primeras corresponden a las zonas inundadas y las segundas a las zonas secas. En dichas celdas, se encuentran recursos naturales como fauna y flora. También se ubican las viviendas, las canoas, y la infraestructura es dibujada (puente, vía y monumento a la cultura anfibia). Las poblaciones humanas están representadas por familias, a las cuales pertenecen las diferentes viviendas y las cuales llevan a cabo diversas actividades productivas. La interacción de las personas con el territorio conlleva a aumentar o disminuir la vulnerabilidad social. La inundación se produce de manera hipotética en la generación de los escenarios. Esto se hace precisando un nivel del agua que aumenta en las unidades territoriales. El cual puede ser atractivo o repulsivo para las familias. Dependiendo de la adaptación de la población al agua, esta disminuye o no su vulnerabilidad social. La presencia periódica de la inundación, la modificación del territorio sumado a la posibilidad de cambio en la población y sus viviendas hacen que el artefacto se caracterice por exhibir un entorno variante en el tiempo.</p>
@@ -665,15 +728,15 @@ window.Quarto = {
 <p>Grupo 2: <em>Ante la situación los esposos no perdieron las esperanzas y trabajaron en unión y equipo para enfrentar la situación vivida. Y aunque la inundación empeoraba, ellos siguieron y lucharon y decidieron alzar la casa para que el agua no inundara la casa. Cuando llega la inundación, unos quedan, otros se van. Para no afectar la salud de los bebes cogen mucha infección, le afecta, les hace daño, les da gripa y se les aprieta el pechito a los más débiles y hay veces que el carnet que no les da apoyo y hay que mand<strong>ar a la EPS. Y tampoco les cubren las medicinas. Cuando llega la inundación, lo que nosotros creemos que lo mejor para las personas que viven en esas casas afectadas, es </strong>que las trasladen a zonas más altas para que las inundaciones no las afecten en problemas de salud, de educación. Aunque hay algunas personas que se quedan viviendo en esas zonas inundadas porque hacen construcciones de tambos que hacen más resistentes las casas.</em></p>
 </section>
 </section>
-<section id="discusión" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="discusión">DISCUSIÓN</h2>
+<section id="discusión" class="level2">
+<h2 class="anchored" data-anchor-id="discusión">14.5 DISCUSIÓN</h2>
 <p>En los últimos años, los trabajos de modelación integrada del territorio han aumentado [28], debido a que en algunas situaciones los modelos convencionales, o las herramientas empleadas, no logran llegar al nivel de detalle requerido y tampoco integran diferentes técnicas de modelación, y el conocimiento de los expertos y las comunidades. Con los procesos de modelación integrada se busca abordar el problema de la modelación desde una perspectiva que contemple escenarios de modelación espacio-temporal, donde puedan participar diseñadores y actores interesados. Sin embargo, surge la discusión respecto al significado de la palabra integración. En este trabajo la integración surge en la medida que los procesos se piensan integrados y articulados. Por diferentes personas, tantos los modeladores como los actores e instituciones interesadas. Pero los artefactos, surgen del acoplamiento de diferentes fuentes de información. Esto ocurre dada la diversidad de escalas y aplicativos, donde se pueden trabajar los diferentes temas.</p>
 <p>Los artefactos desarrollados no pretenden reemplazar a realidad. Tiene como propósito servir de herramientas de apoyo para propiciar diálogos y poder orientar las estrategias al “buen vivir”. En las dinámicas locales de regiones como la Mojana, se encuentra que a través de la cooperación se aprovechan los bienes comunes como el agua. Este bien común permite el “buen vivir”, dado que se puede acceder a la alimentación, recreación y habitabilidad. Ese “buen vivir” le da a la población felicidad. En algunos casos surgen problemas y se ve afectada la salud, o los cultivos.</p>
 <p>La Ley 1523 de 2012 presenta una nueva visión de la gestión del riesgo en Colombia. Esto teniendo en cuenta que presenta un enfoque social, convirtiéndola en un proceso social que tiene como propósito contribuir a la seguridad, el bienestar, la calidad de vida de las personas y el desarrollo sostenible. Dicha conceptualización abre una discusión respecto al significado de bienestar, calidad de vida y desarrollo sostenible. Lo que implica que esa gestión del riesgo se haga a través del uso de políticas y programas diferenciados, que consideren las características particulares de las poblaciones. Dado que su “desarrollo” o “buen vivir”, puede tener enfoques diversos. El desarrollo y bienestar para una comunidad asentada en La Mojana, puede ser diferente a una que se encuentre asentada en la selva amazónica. Lo que implicaría flexibilidad en dichas políticas y por consecuencia en el diseño de sistemas sociales.</p>
 <p>El Decreto 1807 de 2014, sobre la incorporación de la gestión del riesgo en los planes de ordenamiento territorial abre otra discusión. Esta se encuentra relacionada con la posibilidad y viabilidad que tiene un municipio de hacer análisis detallados de riesgo. Dichos estudios, en las escalas propuestas resultan muy costosos. Lo que generalmente sucede, es que los municipios no cuentan con los recursos para cubrirlos. Incluir el componente de vulnerabilidad social, aumenta esos costos, al tener que generar esfuerzos adicionales para los estudios detallados en campo y espacios de participación. Sin embargo, lo que muestran las herramientas de simulación desarrolladas en esta investigación, es que, a través del modelado participativo, se pueden encontrar estrategias para la prevención de desastres sin necesitar altos presupuestos. En este sentido se observan dos retos, el primero relacionado con el aumento de presupuesto para el conocimiento del riesgo, en municipios con posibilidades de amenazas altas y el segundo, es metodológico.</p>
 </section>
-<section id="conclusiones" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="conclusiones">CONCLUSIONES</h2>
+<section id="conclusiones" class="level2">
+<h2 class="anchored" data-anchor-id="conclusiones">14.6 CONCLUSIONES</h2>
 <p>Fue propuesto un metamodelo, que permite desarrollar modelos para la generación de escenarios donde se pueden analizar los cambios en la vulnerabilidad social en un territorio. Esto en el marco de la gestión del riesgo por inundaciones. El metamodelo incluye como componentes fundamentales los niveles del agua, los usos del suelo y las características de la población. Estos elementos se identificaron como los más importantes para el análisis de la vulnerabilidad social, durante el trabajo de campo y con las comunidades. Específicamente se relacionan con las condiciones de habitabilidad, las actividades productivas, la capacidad y oportunidad de cooperación y, el acceso a servicios de salud y educación.</p>
 <p>Los artefactos reflejan en su diseño los principales componentes del metamodelo. Lo cual evidencia que las variables y procesos a modelar, incluidos en este, son los suficientemente versátiles para representar las reglas que permitan integrar el fenómeno de inundación y las características del sistema social. En el marco de la gestión del riesgo por inundación, se logra integrar el área de inundación, los elementos sociales y los actores.</p>
 <p>Los artefactos se diseñaron para el caso de estudio en la ecorregión de la Mojana. Sin embargo, evidencian un potencial uso para su aplicación en otras zonas de inundación en el país. Siempre y cuando, cuente con el rediseño de los actores locales.</p>
@@ -698,8 +761,8 @@ window.Quarto = {
 <p>Paula Andrea Villegas González</p>
 <p>Nelson Obregón Neira</p>
 </section>
-<section id="bibliografía" class="level2 unnumbered">
-<h2 class="unnumbered anchored" data-anchor-id="bibliografía">BIBLIOGRAFÍA</h2>
+<section id="bibliografía" class="level2">
+<h2 class="anchored" data-anchor-id="bibliografía">14.7 BIBLIOGRAFÍA</h2>
 <p>Congreso de Colombia. (2012). Ley 1523 de 2012. 58 p.&nbsp;</p>
 <p>Ministerio de Vivienda Ciudad y Territorio (2014). Decreto 1807 de 2014. Bogotá. D.C. 19 p.&nbsp;</p>
 <p>Medina-Sanson, L., Guevara-Hernández. F. &amp; Tejeda-Cruz C. (2014). Urbis: Revisión crítica y propuesta para integrar los conceptos de tierra, paisaje y territorio. <em>Boletín Científico Sapiens Research</em>, 4(1), 54–60.</p>
@@ -760,12 +823,12 @@ window.Quarto = {
       // flash "checked"
       button.classList.add('code-copy-button-checked');
       var currentTitle = button.getAttribute("title");
-      button.setAttribute("title", "Copied!");
+      button.setAttribute("title", "Copiado");
       let tooltip;
       if (window.bootstrap) {
         button.setAttribute("data-bs-toggle", "tooltip");
         button.setAttribute("data-bs-placement", "left");
-        button.setAttribute("data-bs-title", "Copied!");
+        button.setAttribute("data-bs-title", "Copiado");
         tooltip = new bootstrap.Tooltip(button, 
           { trigger: "manual", 
             customClass: "code-copy-button-tooltip",
