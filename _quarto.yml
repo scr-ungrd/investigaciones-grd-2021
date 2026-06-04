@@ -1,3 +1,4 @@
+lang: es
 project:
   type: book
   output-dir: _book
@@ -29,9 +30,7 @@ book:
 
 format:
   html:
-    theme: 
-      - cosmo
-      - custom.scss
+    theme: cosmo
+    css: custom.css
     toc: true
     number-sections: false
-    html-math-method: mathjax
