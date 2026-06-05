@@ -441,25 +441,69 @@ def process_chapters(author_map):
                 caja_num = str(box_counter)
                 rest = inner_content
                 
-            title, body = split_title_body(rest)
-            if not body and len(title.split()) > 8:
-                body = title
-                title = ""
-                
-            if title:
-                html_title = f"Caja {caja_num}. {title}"
-            else:
-                html_title = f"Caja {caja_num}."
-                
-            new_box = f'::: {{#box{box_counter} .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}}\n'
-            new_box += f'<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">{html_title}</h2>\n'
-            if body:
-                new_box += f'\n{body}\n'
+            new_box = f'::: {{#box{box_counter} .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_box += f'**Caja {caja_num}.** {rest}\n'
             new_box += ':::'
             return new_box
 
         box_pattern = re.compile(r':::\s*\{\s*\.caja-box\s*\}\s*\n(.*?)\n:::', re.DOTALL)
         body_to_process = box_pattern.sub(replace_box, body_to_process)
+
+        # 5.1 Transformación de Puntos Clave (lila claro)
+        puntos_counter = 0
+        def replace_puntos(match):
+            nonlocal puntos_counter
+            puntos_counter += 1
+            text_content = match.group(1).strip()
+            new_puntos = f'::: {{#puntos-clave-{puntos_counter} .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_puntos += f'**Puntos clave.** {text_content}\n'
+            new_puntos += ':::'
+            return new_puntos
+
+        puntos_pattern = re.compile(r'^\|\s*PUNTOS\s+CLAVE\s+(.*?)\s*\|\s*\r?\n^\|\s*---\s*\|\s*$', re.IGNORECASE | re.MULTILINE)
+        body_to_process = puntos_pattern.sub(replace_puntos, body_to_process)
+
+        # 5.2 Transformación de Recomendaciones para tomar decisiones (rosa claro)
+        reco_counter = 0
+        def replace_reco(match):
+            nonlocal reco_counter
+            reco_counter += 1
+            text_content = match.group(1).strip()
+            new_reco = f'::: {{#recomendaciones-{reco_counter} .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_reco += f'**Recomendaciones para tomar decisiones.** {text_content}\n'
+            new_reco += ':::'
+            return new_reco
+
+        reco_pattern = re.compile(r'^\|\s*RECOMENDACI[OÓ]NES\s+PARA\s+TOMAR\s+DECISIONES\s+(.*?)\s*\|\s*\r?\n^\|\s*---\s*\|\s*$', re.IGNORECASE | re.MULTILINE)
+        body_to_process = reco_pattern.sub(replace_reco, body_to_process)
+
+        # 5.3 Transformación de Retos (verde muy claro)
+        retos_counter = 0
+        def replace_retos(match):
+            nonlocal retos_counter
+            retos_counter += 1
+            text_content = match.group(1).strip()
+            new_retos = f'::: {{#retos-{retos_counter} .callout-important style="background-color: #eafaf1ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_retos += f'**Retos.** {text_content}\n'
+            new_retos += ':::'
+            return new_retos
+
+        retos_pattern = re.compile(r'^\|\s*RETOS\s+(.*?)\s*\|\s*\r?\n^\|\s*---\s*\|\s*$', re.IGNORECASE | re.MULTILINE)
+        body_to_process = retos_pattern.sub(replace_retos, body_to_process)
+
+        # 5.4 Transformación de Trabajo a Futuro (amarillo claro)
+        trabajo_counter = 0
+        def replace_trabajo(match):
+            nonlocal trabajo_counter
+            trabajo_counter += 1
+            text_content = match.group(1).strip()
+            new_trabajo = f'::: {{#trabajo-futuro-{trabajo_counter} .callout-important style="background-color: #fffbebff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_trabajo += f'**Trabajo a futuro.** {text_content}\n'
+            new_trabajo += ':::'
+            return new_trabajo
+
+        trabajo_pattern = re.compile(r'^\|\s*TRABAJO\s+(?:A\s+)?FUTURO\s+(.*?)\s*\|\s*\r?\n^\|\s*---\s*\|\s*$', re.IGNORECASE | re.MULTILINE)
+        body_to_process = trabajo_pattern.sub(replace_trabajo, body_to_process)
 
         # 6. Numeración Manual In-Place (Jerárquica con Prefijo de Capítulo)
         match_chap = re.search(r'capitulo-(\d+)', fname)
