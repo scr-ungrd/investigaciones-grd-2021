@@ -123,10 +123,8 @@ La historicidad se realizó para el municipio de Santiago de Cali en el periodo 
 Después de reunir la mayor cantidad de información, se analiza individualmente y se unifica para extraer los parámetros más importantes como fecha de ocurrencia, lugar, tipo de evento y los posibles daños y efectos. Cada registro o noticia encontrada se transcribe textualmente en fichas bibliográficas, para finalmente construir un catálogo para cada fenómeno bajo estudio. En la Figura 3 se esquematiza el proceso metodológico llevado a cabo.
 
 
-::: {#box1 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">Caja 1. Método extensivista Existe otro método para el desarrollo de estudios históricos denominado extensivista.</h2>
-
-Se refiere a la búsqueda de fuentes de información que den cuenta de la ocurrencia de eventos que no aparecen registrados en bases de datos, ni catálogos oficialmente conocidos. Con este método extiende el conocimiento de eventos históricos ocurridos.
+::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 1.** Método extensivista Existe otro método para el desarrollo de estudios históricos denominado extensivista. Se refiere a la búsqueda de fuentes de información que den cuenta de la ocurrencia de eventos que no aparecen registrados en bases de datos, ni catálogos oficialmente conocidos. Con este método extiende el conocimiento de eventos históricos ocurridos.
 :::
 
 
@@ -282,10 +280,8 @@ Una inundación es un evento natural y recurrente que se produce como resultado 
 El territorio colombiano se caracteriza por tener un régimen bimodal, es decir, temporadas alternadas de bajas precipitaciones y altas precipitaciones, en estas últimas hay probabilidad de que se presenten crecientes de los afluentes y cuerpos de agua generando inundaciones que pueden ocasionar afectaciones en la población.
 
 
-::: {#box2 .callout-important style="background-color: #e3f0fbff; border-left: 4px solid #d4e8f9ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1rem; margin-top: 0; margin-bottom: 0;">Caja 2. Definiciones para la clasificación de las inundaciones fluviales y pluviales: Inundaciones fluviales por desbordamientos de los ríos: son causadas por los desbordamientos de los ríos y los arroyos, lo cual se atribuye, en primera instancia, a un excedente de agua. El aumento brusco del volumen de agua que un lecho o cauce es capaz de transportar sin desbordarse produce lo que se denomina como avenida o riada, un mayor aumento del volumen es la causa de la inundación [56].</h2>
-
-Inundaciones pluviales por precipitaciones in situ: son las que se producen por la acumulación de agua de lluvia en un determinado lugar o área geográfica sin que ese fenómeno coincida necesariamente con el desbordamiento de un cauce fluvial. Este tipo de inundación se genera tras un régimen de precipitaciones intensas o persistentes, es decir, por la concentración de un elevado volumen de lluvia en un intervalo de tiempo muy breve o por la incidencia de una precipitación moderada y persistente durante un amplio período de tiempo. Lógicamente, es el primero de estos casos el que conlleva el mayor peligro para la población y sus bienes y el que plantea los principales inconvenientes a los servicios de coordinación e intervención para prevenir y controlar sus daños. Las precipitaciones torrenciales, que se acumulan peligrosamente en un lapso muy breve de tiempo, hacen que el tiempo de respuesta de los servicios de emergencia sea más reducido [56].
+::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 2.** Definiciones para la clasificación de las inundaciones fluviales y pluviales: Inundaciones fluviales por desbordamientos de los ríos: son causadas por los desbordamientos de los ríos y los arroyos, lo cual se atribuye, en primera instancia, a un excedente de agua. El aumento brusco del volumen de agua que un lecho o cauce es capaz de transportar sin desbordarse produce lo que se denomina como avenida o riada, un mayor aumento del volumen es la causa de la inundación [56].  Inundaciones pluviales por precipitaciones in situ: son las que se producen por la acumulación de agua de lluvia en un determinado lugar o área geográfica sin que ese fenómeno coincida necesariamente con el desbordamiento de un cauce fluvial. Este tipo de inundación se genera tras un régimen de precipitaciones intensas o persistentes, es decir, por la concentración de un elevado volumen de lluvia en un intervalo de tiempo muy breve o por la incidencia de una precipitación moderada y persistente durante un amplio período de tiempo. Lógicamente, es el primero de estos casos el que conlleva el mayor peligro para la población y sus bienes y el que plantea los principales inconvenientes a los servicios de coordinación e intervención para prevenir y controlar sus daños. Las precipitaciones torrenciales, que se acumulan peligrosamente en un lapso muy breve de tiempo, hacen que el tiempo de respuesta de los servicios de emergencia sea más reducido [56].
 :::
 
 Reportes sobre eventos por inundación
@@ -379,9 +375,9 @@ Según lo consultado, las afectaciones presentadas corresponden en parte a la ba
 Finalmente, la distribución espacial de los eventos históricos, específicamente para el caso de las inundaciones y movimientos en masa, permite vislumbrar una relación con las debilidades en los procesos de planificación del municipio y su crecimiento desordenado. Evidenciándose carencias en la formulación de instrumentos de gestión del riesgo para evitar la nueva ocurrencia de eventos. 
 
 
-| RECOMENDACIÓNES PARA TOMAR DECISIONES Con el propósito de cumplir con los objetivos de los estudios históricos y que representen una herramienta útil en los procesos de gestión del riesgo y de la planificación del territorio, es fundamental que, desde las diferentes administraciones municipales e instituciones, se reconozca la importancia de llevar una adecuada sistematización de los eventos que ocurren en el territorio. Es común encontrar que en los diferentes municipios no se tiene registro de los eventos ocurridos o de las emergencias atendidas, y cuando lo tienen, no detallan las características del evento y sus efectos. |
-| --- |
-
+::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Recomendaciones para tomar decisiones.** Con el propósito de cumplir con los objetivos de los estudios históricos y que representen una herramienta útil en los procesos de gestión del riesgo y de la planificación del territorio, es fundamental que, desde las diferentes administraciones municipales e instituciones, se reconozca la importancia de llevar una adecuada sistematización de los eventos que ocurren en el territorio. Es común encontrar que en los diferentes municipios no se tiene registro de los eventos ocurridos o de las emergencias atendidas, y cuando lo tienen, no detallan las características del evento y sus efectos.
+:::
 **CONFLICTO DE INTERESES **
 
 Los autores no declaran conflicto de intereses 
