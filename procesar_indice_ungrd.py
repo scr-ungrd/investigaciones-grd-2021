@@ -39,26 +39,30 @@ def main():
         if rest.endswith(":::"):
             rest = rest[:-3].strip()
             
-        # Separar tarjetas por su clase de columna
-        card_marker = "::: {.g-col-12 .g-col-md-6}"
-        raw_cards = rest.split(card_marker)
+        # Separar tarjetas por su clase de columna (soportando .g-col-lg-4 opcional)
+        raw_cards = re.split(r':::\s*\{\s*\.g-col-12\s+\.g-col-md-6(?:\s+\.g-col-lg-4)?\s*\}', rest)
         cards_data = []
         for rc in raw_cards:
             rc = rc.strip()
             if not rc:
                 continue
                 
-            # Extraer link
-            header_match = re.search(r':::\s*\{\s*\.card-header\s*\}\s*\n+(.*?)\n+:::', rc, re.DOTALL)
+            # Extraer link (soportando cualquier clase en el header)
+            header_match = re.search(r':::\s*\{\s*\.card-header.*?\s*\}\s*\n+(.*?)\n+:::', rc, re.DOTALL)
             title_link = header_match.group(1).strip() if header_match else ""
             
-            # Extraer body
-            body_match = re.search(r':::\s*\{\s*\.card-body\s*\}\s*\n+(.*?)\n+:::', rc, re.DOTALL)
+            # Extraer body (soportando cualquier clase en el body)
+            body_match = re.search(r':::\s*\{\s*\.card-body.*?\s*\}\s*\n+(.*?)\n+:::', rc, re.DOTALL)
             body_text = body_match.group(1).strip() if body_match else ""
             
             # Imagen y autores
             img_match = re.search(r'!\[\]\((.*?)\)', body_text)
-            img_tag = f"![]({img_match.group(1).strip()})" if img_match else ""
+            img_tag = ""
+            if img_match:
+                img_path = img_match.group(1).strip()
+                # Limpiar cualquier parámetro inline previo
+                img_path = img_path.split('}')[0].split('{')[0].strip()
+                img_tag = f"![]({img_path}){{height=\"130px\" style=\"object-fit: cover;\"}}"
             
             authors_match = re.search(r'\*\*Autores:\*\*(.*?)</p>', body_text, re.IGNORECASE)
             if not authors_match:
@@ -110,24 +114,36 @@ def main():
             if img_match:
                 img_path = img_match.group(1).strip()
                 img_path = img_path.split('}')[0].split('{')[0].strip()
-                img_tag = f"![]({img_path})"
+                img_tag = f"![]({img_path}){{height=\"130px\" style=\"object-fit: cover;\"}}"
                 
             authors_match = re.search(r'\*\*Autores:?\*\*\s*:?\s*(.*)', body_text, re.IGNORECASE)
             authors_text = authors_match.group(1).strip() if authors_match else ""
             
             cards_data.append((title_link, img_tag, authors_text))
+
+    def format_title_link(title):
+        title = title.strip()
+        if title.startswith("**") and title.endswith("**"):
+            title = title[2:-2].strip()
+        match = re.match(r'^\[(.*?)\]\((.*?)\)(?:\{.*?\})?$', title)
+        if match:
+            text = match.group(1).strip()
+            url = match.group(2).strip()
+            return f"[{text}]({url}){{.fs-6 .fw-bold .text-decoration-none}}"
+        return title
             
     # Construir las tarjetas con el formato estricto de Pandoc
     new_cards = []
     for title_link, img_tag, authors_text in cards_data:
+        formatted_title = format_title_link(title_link)
         new_card = "::: {.g-col-12 .g-col-md-6}\n"
         new_card += "::: {.card .h-100 .shadow-sm}\n\n"
         
-        new_card += "::: {.card-header}\n\n"
-        new_card += f"{title_link}\n\n"
+        new_card += "::: {.card-header .pt-2 .pb-2}\n\n"
+        new_card += f"{formatted_title}\n\n"
         new_card += ":::\n\n"
         
-        new_card += "::: {.card-body}\n"
+        new_card += "::: {.card-body .pt-2 .pb-2}\n"
         if img_tag:
             new_card += "\n"
             new_card += f"{img_tag}\n\n"
