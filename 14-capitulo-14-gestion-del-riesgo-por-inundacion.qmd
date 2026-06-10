@@ -2,10 +2,10 @@
 title: "Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)"
 author:
   - name: "Paula Andrea Villegas González ^1^"
-    orcid: ""
+    orcid: "0000-0002-9331-8979"
     affiliation: "^1^Instituto Geofísico, Pontificia Universidad Javeriana, Bogotá, Colombia"
   - name: "Nelson Obregón Neira ^1^"
-    orcid: ""
+    orcid: "0000-0002-0881-9833"
     affiliation: "^1^Instituto Geofísico, Pontificia Universidad Javeriana, Bogotá, Colombia"
 title-block-banner: "images/banner_2021.png"
 title-block-banner-color: "#151550ff"

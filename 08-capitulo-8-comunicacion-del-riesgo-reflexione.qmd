@@ -2,10 +2,10 @@
 title: "Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca"
 author:
   - name: "Javier Thomas ^1^"
-    orcid: ""
+    orcid: "0000-0001-5404-7574"
     affiliation: "^1^Departamento de Geografía de la Universidad del Valle, Cali, Colombia"
   - name: "Julio Rubio ^1,2^"
-    orcid: ""
+    orcid: "0000-0002-8772-8410"
     affiliation: "^1^Departamento de Geografía de la Universidad del Valle, Cali, Colombia; ^2^Universidad de San Buenaventura Cali, Colombia"
 title-block-banner: "images/banner_2021.png"
 title-block-banner-color: "#151550ff"

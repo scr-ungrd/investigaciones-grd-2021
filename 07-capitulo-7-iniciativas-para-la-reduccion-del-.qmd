@@ -2,7 +2,7 @@
 title: "Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria"
 author:
   - name: "Víctor Leonardo López Jiménez ^1^"
-    orcid: ""
+    orcid: "0000-0001-7273-014X"
     affiliation: "^1^Ingeniería Ambiental y Sanitaria, Universidad de La Salle, Bogotá, Colombia"
 title-block-banner: "images/banner_2021.png"
 title-block-banner-color: "#151550ff"

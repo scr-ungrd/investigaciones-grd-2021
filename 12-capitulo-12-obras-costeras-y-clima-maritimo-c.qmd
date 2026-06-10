@@ -2,10 +2,10 @@
 title: "Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano"
 author:
   - name: "Serguei Lonin ^1^"
-    orcid: ""
+    orcid: "0000-0001-9561-0554"
     affiliation: "^1^Grupo de Investigación en Oceanología; Facultad de Oceanografía Física – Escuela Naval de Cadetes “Almirante Padilla”. Isla Naval Manzanillo, El Bosque, Cartagena de Indias, Colombia"
   - name: "Julio Monroy ^1^"
-    orcid: ""
+    orcid: "0000-0002-3981-7486"
     affiliation: "^1^Grupo de Investigación en Oceanología; Facultad de Oceanografía Física – Escuela Naval de Cadetes “Almirante Padilla”. Isla Naval Manzanillo, El Bosque, Cartagena de Indias, Colombia"
 title-block-banner: "images/banner_2021.png"
 title-block-banner-color: "#151550ff"

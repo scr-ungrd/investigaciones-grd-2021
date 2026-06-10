@@ -2,10 +2,10 @@
 title: "Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas"
 author:
   - name: "Cesar Augusto Hidalgo M. ^1,2^"
-    orcid: ""
+    orcid: "0000-0002-9652-3310"
     affiliation: "^1^Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia; ^2^Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia"
   - name: "Johnny Alexander Vega G. ^1,2^"
-    orcid: ""
+    orcid: "0000-0002-0662-7213"
     affiliation: "^1^Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia; ^2^Facultad de Ingeniería. Programa de Ingeniería Civil. Universidad de Medellín, Medellín, Colombia"
 title-block-banner: "images/banner_2021.png"
 title-block-banner-color: "#151550ff"
