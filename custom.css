@@ -225,15 +225,15 @@ th, td {
 
 /* Table header styling - light gray background for all table headers */
 th {
-  background-color: #f0f0f0;
-  font-weight: 600;
+  background-color: #f0f0f0 !important;
+  font-weight: 600 !important;
 }
 
 /* Apply gray background to header rows only (not first body row) */
 table > thead > tr > th,
 table > thead > tr > td {
-  background-color: #f0f0f0;
-  font-weight: 600;
+  background-color: #f0f0f0 !important;
+  font-weight: 600 !important;
 }
 
 /* Callout boxes styling - Arial font for box/caja, Source Sans Pro for puntos-clave/preguntas/recomendaciones */
