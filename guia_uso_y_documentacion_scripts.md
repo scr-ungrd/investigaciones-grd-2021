@@ -99,23 +99,25 @@ graph TD
 
 ### Detalles Técnicos de las Modificaciones
 *   **Detección de Estado:** Evalúa si `index.qmd` ya está procesado buscando la clase `.indice-grid`. Si está en estado "crudo", migra la estructura básica a una rejilla CSS moderna.
-*   **Estructura de la Rejilla:** Envuelve el listado de capítulos en una grilla responsiva:
+*   **Estructura de la Rejilla:** Envuelve el listado de capítulos en una grilla responsiva de dos columnas para pantallas medianas y grandes (`.g-col-md-6`):
     ```markdown
     ::: {.grid .indice-grid}
     ::: {.g-col-12 .g-col-md-6}
     ::: {.card .h-100 .shadow-sm}
-      ::: {.card-header}
-         [Enlace al Capítulo]
+      ::: {.card-header .pt-2 .pb-2}
+         [Enlace al Capítulo](link.html){.fs-6 .fw-bold .text-decoration-none}
       :::
-      ::: {.card-body}
-         ![](ruta_imagen_miniatura)
+      ::: {.card-body .pt-2 .pb-2}
+         ![](ruta_imagen_miniatura){height="130px" style="object-fit: cover;"}
          <p class="autores-text">**Autores:** Nombres de autores</p>
       :::
     :::
     :::
     :::
     ```
-*   **Estándar de Miniaturas:** Modifica las referencias a imágenes del cuerpo del índice para aplicarles la clase CSS de tarjetas, lo que interactúa con `custom.css` para recortar las imágenes de forma homogénea a una altura de `190px` usando `object-fit: cover`.
+*   **Estandarización de Títulos:** Reescribe el enlace de los títulos dentro de `.card-header` inyectando las clases de Bootstrap `.fs-6` (tamaño de fuente compacto para evitar saltos de línea innecesarios), `.fw-bold` (negrita) y `.text-decoration-none` (remueve el subrayado por defecto), logrando que la tarjeta mantenga una altura uniforme.
+*   **Ajuste de Altura de Imagen:** Fuerza que la etiqueta de la imagen incluya atributos inline para limitar su altura vertical a `130px` y aplicar `object-fit: cover` (ej. `{height="130px" style="object-fit: cover;"}`), compactando de manera drástica la altura de las tarjetas.
+*   **Ajuste de Padding:** Añade clases de padding reducido (`.pt-2 .pb-2`) tanto al `card-header` como al `card-body` para estrechar la separación vertical entre los elementos internos de la tarjeta.
 *   **Estandarización de Autores:** Envuelve la línea de autores en un párrafo con la clase `.autores-text` para forzar un diseño más sutil (tamaño de fuente `0.85rem` y color `#6b7280`).
 
 ### Guía de Uso
@@ -123,11 +125,47 @@ graph TD
     ```bash
     python3 procesar_indice_ungrd.py
     ```
-2.  **Resultado esperado:** Actualización de `index.qmd` con la sintaxis de tarjetas homogéneas y eliminación en consola de los scripts de índice obsoletos (`embellecer_indice.py` y `reparar_indice.py`).
+2.  **Resultado esperado:** Actualización de `index.qmd` con la sintaxis de tarjetas de grilla responsiva (2 por fila en escritorio), imágenes de `130px` de altura, enlaces estilizados con `.fs-6` y padding reducido.
+
 
 ---
 
-## 3. `scratch/fix_chapters.py` (Script de Corrección Temporal)
+## 3. `vincular_bibliografia.py`
+**Propósito:** Este script automatiza la conversión de citas académicas en texto plano a hipervínculos internos HTML en documentos Quarto (`.qmd`), soportando citas individuales, listas y rangos de citas (ej. `[1-3]`, `[1, 2, 5]`, o `[1–3]`), además de generar los identificadores y anclas HTML en la bibliografía final de cada capítulo.
+
+### Archivos que Modifica
+*   `01-capitulo-*.qmd` hasta `14-capitulo-*.qmd` (Archivos de capítulos individuales)
+
+### Detalles Técnicos de las Modificaciones
+
+#### A. Conversión de Citas en el Cuerpo del Texto
+El script localiza cadenas numéricas entre corchetes mediante expresiones regulares (ej. `[1]`, `[2, 3]`, `[1-3]`) y reemplaza cada número con un enlace dinámico hacia el ancla de la bibliografía correspondiente (ej. `[[1]](#ref-1)`). Soporta:
+*   **Listas de citas:** Separadas por comas.
+*   **Rangos de citas:** Utilizando guiones cortos `-` y rayas o guiones largos `–` (ej. `[1-3]` se convierte en enlaces individuales vinculados y separados por el guion).
+
+#### B. Heurística de Búsqueda de la Bibliografía
+El script utiliza una heurística robusta de dos niveles para localizar el inicio de la bibliografía:
+1.  **Detección por Encabezado Formal:** Escanea las líneas del archivo buscando coincidencias exactas con palabras clave de bibliografía (`BIBLIOGRAFÍA`, `REFERENCIAS` o `LITERATURA`, sin importar mayúsculas/minúsculas y delimitadas por límites de palabra `\b`), validando que empiece con caracteres de encabezado como `#`, `**` o dígitos.
+2.  **Plan de Contingencia (Detección sin título / Sección de Autores):** En caso de no encontrar ningún encabezado formal (por ejemplo, si las referencias siguen directamente a la sección de autores del capítulo o no hay título de referencias), el script realiza una búsqueda reversa (desde el final hacia arriba) de la primera línea que comience con un patrón de lista bibliográfica como `[1] ` o `1. `. Al detectarla, asume que ese es el inicio de la bibliografía e inyecta un encabezado estándar `## Bibliografía` de forma automática.
+
+#### C. Idempotencia y Procesamiento Seguro
+Para evitar el reprocesamiento accidental o la duplicación de enlaces en ejecuciones subsecuentes, el script incluye un control de **idempotencia**. Antes de procesar cualquier archivo, realiza una inspección rápida del contenido: si detecta la cadena `#ref-1` o `ref-1`, omitirá el archivo imprimiendo en consola que ya ha sido procesado previamente.
+
+### Guía de Uso y Comando en Lote
+Para ejecutar el procesamiento de forma segura sobre todos los capítulos (`01-14`) de forma automatizada (en lote), el script cuenta con un modo de simulación (`--dry-run`):
+
+*   **Ejecución Segura de Simulación (Dry-Run):** Permite verificar qué capítulos contienen la bibliografía y qué estrategia se utilizará sin modificar los archivos físicos.
+    ```bash
+    python3 vincular_bibliografia.py --dry-run
+    ```
+*   **Ejecución de Aplicación en Lote (En el lugar / In-place):** Aplica la vinculación y reescritura de los archivos de forma definitiva.
+    ```bash
+    python3 vincular_bibliografia.py
+    ```
+
+---
+
+## 4. `scratch/fix_chapters.py` (Script de Corrección Temporal)
 **Propósito:** Es un script de utilidad temprana ubicado en la carpeta `scratch/` que realiza tareas de formateo rápido en los archivos `.qmd` antes de aplicar la migración arquitectónica principal.
 
 ### Archivos que Modifica
