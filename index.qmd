@@ -12,15 +12,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22](01-capitulo-1-actualizacion-de-los-coeficientes-.html)**
+[Capítulo 1: Actualización de los coeficientes sísmicos de diseño estructural para la Norma Colombiana de Construcción Sismo Resistente NSR-22](01-capitulo-1-actualizacion-de-los-coeficientes-.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_ed30ac97.png)
+![](media/img_ed30ac97.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Gabriel Bernal, Omar Darío Cardona</p>
 
@@ -32,15 +32,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.html)**
+[Capítulo 2: Mitigación del riesgo sísmico de la infraestructura escolar](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_7739e9ac.png)
+![](media/img_7739e9ac.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Rafael Fernández, Luis Yamin, Juan Carlos Reyes, Angie Garcia, Gustavo Fuentes, Juan Echeverry</p>
 
@@ -52,15 +52,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia](03-capitulo-3-evaluacion-probabilista-del-riesgo.html)**
+[Capítulo 3: Evaluación probabilista del riesgo por sequía en el sector agrícola de Colombia](03-capitulo-3-evaluacion-probabilista-del-riesgo.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_47157221.png)
+![](media/img_47157221.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Omar Darío Cardona, Gabriel Bernal, María Alejandra Escovar</p>
 
@@ -72,15 +72,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio](04-capitulo-4-contribucion-de-la-geodesia-espaci.html)**
+[Capítulo 4: Contribución de la geodesia espacial en la gestión del riesgo en Colombia. Casos de estudio](04-capitulo-4-contribucion-de-la-geodesia-espaci.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_9cb406e3.jpeg)
+![](media/img_9cb406e3.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Héctor Mora-Páez, Fredy Díaz Mila, Takeshi Sagiya, Leidy Giraldo Londoño, Yuli Corchuelo Cuervo</p>
 
@@ -92,15 +92,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 5: Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad](05-capitulo-5-nociones-performativas-del-reasent.html)**
+[Capítulo 5: Nociones performativas del reasentamiento social por riesgo de desastre en Colombia: componentes psicosociales estratégicos para la sostenibilidad](05-capitulo-5-nociones-performativas-del-reasent.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_41dd66ec.png)
+![](media/img_41dd66ec.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** William Oswaldo Gaviria Gutiérrez, Viviana Ramírez Loaiza, Lina Andrea Zambrano Hernández</p>
 
@@ -112,13 +112,13 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 6: Animales en la gestión del riesgo de los desastres](06-capitulo-6-animales-en-la-gestion-del-riesgo-.html)**
+[Capítulo 6: Animales en la gestión del riesgo de los desastres](06-capitulo-6-animales-en-la-gestion-del-riesgo-.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
 <p class="autores-text">**Autores:** Diego Hernández Pulido, Nicolás Hernández Gallo, Leonardo Arias Bernal, Rodrigo Forero Carrillo, Gonzalo Jiménez Alonso</p>
 
@@ -130,15 +130,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria](07-capitulo-7-iniciativas-para-la-reduccion-del-.html)**
+[Capítulo 7: Iniciativas para la reducción del riesgo de desastres en el programa de Ingeniería Ambiental y Sanitaria de la Universidad de La Salle: un tema de responsabilidad social universitaria](07-capitulo-7-iniciativas-para-la-reduccion-del-.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_fa875e6a.png)
+![](media/img_fa875e6a.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Víctor Leonardo López Jiménez</p>
 
@@ -150,15 +150,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca](08-capitulo-8-comunicacion-del-riesgo-reflexione.html)**
+[Capítulo 8: Comunicación del riesgo: reflexiones y experiencias locales en el departamento del Valle del Cauca](08-capitulo-8-comunicacion-del-riesgo-reflexione.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_ae011ec3.jpeg)
+![](media/img_ae011ec3.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Javier Thomas, Julio Rubio</p>
 
@@ -170,15 +170,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 9: La perspectiva histórica en la gestión del riesgo de desastres: aplicación en Santiago de Cali, Colombia](09-capitulo-9-la-perspectiva-historica-en-la-ges.html)**
+[Capítulo 9: La perspectiva histórica en la gestión del riesgo de desastres: aplicación en Santiago de Cali, Colombia](09-capitulo-9-la-perspectiva-historica-en-la-ges.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_2c2d9f20.png)
+![](media/img_2c2d9f20.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Nathalie García-Millán, Jorge A. Vélez-Correa, Karen A. Sánchez-Estupiñán</p>
 
@@ -190,15 +190,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas](10-capitulo-10-estudio-de-riesgo-por-movimientos.html)**
+[Capítulo 10: Estudio de riesgo por movimientos en masa en cuencas hidrográficas abastecedoras en el suroeste antioqueño usando métodos probabilistas](10-capitulo-10-estudio-de-riesgo-por-movimientos.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_873d26d6.png)
+![](media/img_873d26d6.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Cesar Augusto Hidalgo M., Johnny Alexander Vega G.</p>
 
@@ -210,15 +210,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 11: De la percepción de la amenaza a su cuantificación. Caso de estudio: desbordamiento del río Unete en Aguazul, Casanare, Colombia](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.html)**
+[Capítulo 11: De la percepción de la amenaza a su cuantificación. Caso de estudio: desbordamiento del río Unete en Aguazul, Casanare, Colombia](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_5c2264a1.jpeg)
+![](media/img_5c2264a1.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Rafael Muñoz Quintero, Daniela Jácome Hernández, Alejandro Franco Rojas, Alexander Padilla González</p>
 
@@ -230,15 +230,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano](12-capitulo-12-obras-costeras-y-clima-maritimo-c.html)**
+[Capítulo 12: Obras costeras y clima marítimo: casos del Caribe colombiano](12-capitulo-12-obras-costeras-y-clima-maritimo-c.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_6db5766d.jpeg)
+![](media/img_6db5766d.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Serguei Lonin, Julio Monroy</p>
 
@@ -250,15 +250,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 13: Modelo de gestión y análisis del riesgo por erosión costera. Caso de estudio departamento de Córdoba](13-capitulo-13-modelo-de-gestion-y-analisis-del-.html)**
+[Capítulo 13: Modelo de gestión y análisis del riesgo por erosión costera. Caso de estudio departamento de Córdoba](13-capitulo-13-modelo-de-gestion-y-analisis-del-.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_487c95c7.jpeg)
+![](media/img_487c95c7.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Oswaldo Coca-Domínguez, Constanza Ricaurte-Villota, David Fernando Morales Giraldo</p>
 
@@ -270,15 +270,15 @@ title-block-banner-color: "#151550ff"
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
 
-::: {.card-header}
+::: {.card-header .pt-2 .pb-2}
 
-**[Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)](14-capitulo-14-gestion-del-riesgo-por-inundacion.html)**
+[Capítulo 14: Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos. Caso de estudio en la ecorregión de La Mojana (Colombia)](14-capitulo-14-gestion-del-riesgo-por-inundacion.html){.fs-6 .fw-bold .text-decoration-none}
 
 :::
 
-::: {.card-body}
+::: {.card-body .pt-2 .pb-2}
 
-![](media/img_7adf8497.jpeg)
+![](media/img_7adf8497.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Paula Andrea Villegas González, Nelson Obregón Neira</p>
 
