@@ -54,11 +54,11 @@ Para el desarrollo de la historicidad del municipio de Santiago de Cali se consi
 
 Los impactos que deja la ocurrencia de fenómenos naturales amenazantes como terremotos, erupciones volcánicas, deslizamientos e inundaciones, etc., han ocupado un papel preponderante en la historia de la humanidad, por cuanto los daños y efectos causados, en algunos casos, han destruido completa o parcialmente pueblos y civilizaciones y, en otros casos, han truncado el desarrollo de muchos países del mundo. Por tal razón, el riesgo y los desastres generados por estos fenómenos son materia de estudio de profesionales de diversas disciplinas, incluso del público en general, quienes, a partir de diferentes métodos y enfoques teóricos, analizan no solo los procesos físicos asociados con su ocurrencia sino también los aspectos relacionados con la distribución espacial, la frecuencia o regularidad temporal, la valoración socio económica de los daños y efectos, el diseño y construcción de obras resistentes a sus fuerzas, la planificación de medidas de mitigación y prevención, entre otros.  
 
-Sin embargo, a pesar que la ocurrencia de estos fenómenos tiene una larga trazabilidad temporal en la historia de la Tierra y la humanidad, el estudio histórico de los desastres, hasta hace muy poco tiempo, era un campo no atendido por los investigadores, esto debido a que la ausencia de marcos teóricos y metodológicos específicos para llevar a cabo estudios históricos sobre desastres desde una perspectiva social, fue quizás una de las razones que inhibió durante mucho tiempo su desarrollo [1].
+Sin embargo, a pesar que la ocurrencia de estos fenómenos tiene una larga trazabilidad temporal en la historia de la Tierra y la humanidad, el estudio histórico de los desastres, hasta hace muy poco tiempo, era un campo no atendido por los investigadores, esto debido a que la ausencia de marcos teóricos y metodológicos específicos para llevar a cabo estudios históricos sobre desastres desde una perspectiva social, fue quizás una de las razones que inhibió durante mucho tiempo su desarrollo [[1]](#ref-1).
 
-Es así como podemos afirmar que la ocurrencia de desastres causados por fenómenos naturales amenazantes ha sido un problema frecuente con el que toda la humanidad ha tenido que lidiar. El estudio histórico sistemático, como elemento relevante para la gestión del riesgo y la planificación territorial, puede considerarse como un campo poco explorado y desarrollado, puesto que generalmente no se ha tenido claridad sobre el significado e importancia de la historicidad de estos fenómenos y sus desastres. Entendiendo la historicidad como el conjunto complejo de condiciones y circunstancias que a lo largo del tiempo constituyen el entramado de relaciones en las cuales se inserta y cobra sentido algo: puede ser un proceso, un concepto o la propia vida [2]. 
+Es así como podemos afirmar que la ocurrencia de desastres causados por fenómenos naturales amenazantes ha sido un problema frecuente con el que toda la humanidad ha tenido que lidiar. El estudio histórico sistemático, como elemento relevante para la gestión del riesgo y la planificación territorial, puede considerarse como un campo poco explorado y desarrollado, puesto que generalmente no se ha tenido claridad sobre el significado e importancia de la historicidad de estos fenómenos y sus desastres. Entendiendo la historicidad como el conjunto complejo de condiciones y circunstancias que a lo largo del tiempo constituyen el entramado de relaciones en las cuales se inserta y cobra sentido algo: puede ser un proceso, un concepto o la propia vida [[2]](#ref-2). 
 
-El principal objetivo de un estudio histórico o de historicidad sobre fenómenos naturales o de los desastres es aumentar el grado de conocimiento de su ocurrencia en una región, aspecto que se materializa con la identificación y tipificación del mayor número de eventos ocurridos y la determinación precisa de sus parámetros físicos y efectos socioeconómicos, logrando con ello tener mejores elementos para la toma de decisiones en cuanto a las medidas de mitigación o prevención, e insumos fundamentales para la calibración de los modelos de amenaza. Sin embargo, acorde con Salcedo-Hurtado [3] se puede decir que la importancia real de los estudios históricos sobre los fenómenos naturales amenazantes o de desastres depende de la aplicación para la cual se desarrolla el estudio, conforme a objetivos prácticos, los cuales pueden ser directos o indirectos (Fig. 1).  
+El principal objetivo de un estudio histórico o de historicidad sobre fenómenos naturales o de los desastres es aumentar el grado de conocimiento de su ocurrencia en una región, aspecto que se materializa con la identificación y tipificación del mayor número de eventos ocurridos y la determinación precisa de sus parámetros físicos y efectos socioeconómicos, logrando con ello tener mejores elementos para la toma de decisiones en cuanto a las medidas de mitigación o prevención, e insumos fundamentales para la calibración de los modelos de amenaza. Sin embargo, acorde con Salcedo-Hurtado [[3]](#ref-3) se puede decir que la importancia real de los estudios históricos sobre los fenómenos naturales amenazantes o de desastres depende de la aplicación para la cual se desarrolla el estudio, conforme a objetivos prácticos, los cuales pueden ser directos o indirectos (Fig. 1).  
 
 
 
@@ -98,11 +98,11 @@ Como aplicación, el presente trabajo muestra algunos de los resultados obtenido
 
 ### 9.3.1 Área de estudio
 
-El área de estudio se enmarca en el municipio de Santiago de Cali, el cual se localiza al suroccidente colombiano, entre las coordenadas 3°27’26"N y 76°31’42"W. Geográficamente, se situa en la región s, entre la cordillera Occidental y el valle del río Cauca a una altura promedio de 1,000 m.s.n.m. [4]. Presenta una superficie total de 561.7 km2, distribuida en 120.4 km2 del área urbana, 424.4 km2 del área rural, 16.3 km2 de la zona expansión urbana y 0.5 km2 área de protección del río Cauca [5] (Fig. 2). 
+El área de estudio se enmarca en el municipio de Santiago de Cali, el cual se localiza al suroccidente colombiano, entre las coordenadas 3°27’26"N y 76°31’42"W. Geográficamente, se situa en la región s, entre la cordillera Occidental y el valle del río Cauca a una altura promedio de 1,000 m.s.n.m. [[4]](#ref-4). Presenta una superficie total de 561.7 km2, distribuida en 120.4 km2 del área urbana, 424.4 km2 del área rural, 16.3 km2 de la zona expansión urbana y 0.5 km2 área de protección del río Cauca [[5]](#ref-5) (Fig. 2). 
 
 Dada su localización geográfica, en el municipio se distinguen claramente tres unidades de paisaje distribuidas de occidente a oriente: la cordillera, el piedemonte y la zona plana, cada una con características particulares en los aspectos geológicos, geomorfológicos y climáticos, que a su vez influyen en la ocurrencia de fenómenos de origen natural.  
 
-A nivel hídrico, el sistema se conforma por ecosistemas acuáticos lóticos y lénticos, tales como ríos, quebradas, nacimientos, humedales y aguas subterráneas. Los ríos Cauca, Cali, Aguacatal, Pance, Meléndez, Lili y Cañaveralejo forman la red hídrica que ha determinado focos de desarrollo habitacional y económico en el municipio de Santiago de Cali, desde las zonas altas de las cuencas hasta su desembocadura o canalización en la zona baja de la ciudad [4].
+A nivel hídrico, el sistema se conforma por ecosistemas acuáticos lóticos y lénticos, tales como ríos, quebradas, nacimientos, humedales y aguas subterráneas. Los ríos Cauca, Cali, Aguacatal, Pance, Meléndez, Lili y Cañaveralejo forman la red hídrica que ha determinado focos de desarrollo habitacional y económico en el municipio de Santiago de Cali, desde las zonas altas de las cuencas hasta su desembocadura o canalización en la zona baja de la ciudad [[4]](#ref-4).
 
 
 
@@ -110,13 +110,13 @@ A nivel hídrico, el sistema se conforma por ecosistemas acuáticos lóticos y l
 
 **Figura 2.** Mapa de localización de la ciudad de Santiago de Cali. Fuente**: **elaboración propia.
 
-Además, como producto del contexto tectónico presente en el suroccidente del país y del fallamiento regional, la ciudad es definida con un nivel de amenaza sísmica alta con un valor de aceleración pico efectiva promedio por encima de los Aa = 2.84 m/s² donde, según el Estudio de Microzonificación Sísmica de Cali [6], la zona con mayor aceleración tiene un valor Aa = 3.92 m/s².
+Además, como producto del contexto tectónico presente en el suroccidente del país y del fallamiento regional, la ciudad es definida con un nivel de amenaza sísmica alta con un valor de aceleración pico efectiva promedio por encima de los Aa = 2.84 m/s² donde, según el Estudio de Microzonificación Sísmica de Cali [[6]](#ref-6), la zona con mayor aceleración tiene un valor Aa = 3.92 m/s².
 
 ## 9.4 MÉTODOLOGÍA Y FUENTES DOCUMENTALES
 
 ### 9.4.1 Metodología
 
-El desarrollo metodológico para la ejecución de los estudios históricos por sismos, movimientos en masa e inundaciones en el municipio de Santiago de Cali, consistió en la búsqueda sistemática de fuentes primarias y secundarias de información. Se realizó siguiendo la metodología intensivista propuesta por Rodríguez de la Torre [7], la cual plantea que al tener un previo conocimiento de la ocurrencia de un determinado evento y mediante la búsqueda de diversas fuentes (publicaciones periódicas, archivo, documentos, bases de datos, catálogos) puede adquirirse una mayor y mejor cantidad de información con el fin de precisar datos de los eventos y establecer parámetros de medición acerca de la frecuencia de estos. 
+El desarrollo metodológico para la ejecución de los estudios históricos por sismos, movimientos en masa e inundaciones en el municipio de Santiago de Cali, consistió en la búsqueda sistemática de fuentes primarias y secundarias de información. Se realizó siguiendo la metodología intensivista propuesta por Rodríguez de la Torre [[7]](#ref-7), la cual plantea que al tener un previo conocimiento de la ocurrencia de un determinado evento y mediante la búsqueda de diversas fuentes (publicaciones periódicas, archivo, documentos, bases de datos, catálogos) puede adquirirse una mayor y mejor cantidad de información con el fin de precisar datos de los eventos y establecer parámetros de medición acerca de la frecuencia de estos. 
 
 La historicidad se realizó para el municipio de Santiago de Cali en el periodo 1949–2018. Una aproximación inicial consistió en datar eventos históricos asociados a los fenómenos arriba indicados a partir de la revisión de diferentes bases de datos de carácter abierto. Una vez obtenido el registro de las diferentes bases, se procedió con la búsqueda en fuentes de información primarias, tales como periódicos, informes técnicos o bases de datos de las instituciones relacionadas con la gestión del riesgo en el municipio. Posteriormente, la búsqueda se complementó con la revisión de fuentes bibliográficas. 
 
@@ -167,9 +167,9 @@ La búsqueda documental para la identificación de los sismos históricos ocurri
 
 Conceptualización de sismos
 
-Un terremoto es la vibración de la Tierra producida por una rápida liberación de energía. Los terremotos se producen por la interacción de las placas tectónicas que componen la corteza y por la liberación de esfuerzos de las fallas geológicas presente en el interior del continente. Los sismos se propagan en todas direcciones en forma de ondas [8]. Los esfuerzos en los límites de placa producen numerosas fracturas, dando lugar a grandes fallas con desplazamientos importantes, y a lo largo de estas zonas de falla se producen movimientos repetidamente, por lo que la mayoría de los sismos se concentran en dichos límites de placa [9]. 
+Un terremoto es la vibración de la Tierra producida por una rápida liberación de energía. Los terremotos se producen por la interacción de las placas tectónicas que componen la corteza y por la liberación de esfuerzos de las fallas geológicas presente en el interior del continente. Los sismos se propagan en todas direcciones en forma de ondas [[8]](#ref-8). Los esfuerzos en los límites de placa producen numerosas fracturas, dando lugar a grandes fallas con desplazamientos importantes, y a lo largo de estas zonas de falla se producen movimientos repetidamente, por lo que la mayoría de los sismos se concentran en dichos límites de placa [[9]](#ref-9). 
 
-Los principales parámetros de un evento sísmico son los de localización y tamaño [10], los cuales, son esenciales para definir las fuentes sismogénicas presentes en un determinado territorio. Estos pueden ser representados en niveles de magnitud, intensidad, aceleración, velocidad y desplazamiento del suelo. La magnitud se relaciona con la energía liberada en el foco del terremoto, la intensidad con los efectos ocasionados por el evento y la aceleración, velocidad y desplazamiento del suelo se relaciona con la energía recibida en un punto cualquiera de la superficie.  
+Los principales parámetros de un evento sísmico son los de localización y tamaño [[10]](#ref-10), los cuales, son esenciales para definir las fuentes sismogénicas presentes en un determinado territorio. Estos pueden ser representados en niveles de magnitud, intensidad, aceleración, velocidad y desplazamiento del suelo. La magnitud se relaciona con la energía liberada en el foco del terremoto, la intensidad con los efectos ocasionados por el evento y la aceleración, velocidad y desplazamiento del suelo se relaciona con la energía recibida en un punto cualquiera de la superficie.  
 
 La sismicidad en Colombia se relaciona con la actividad en la zona de subducción del pacífico colombiano y con sus principales fallas geológicas.
 
@@ -189,15 +189,15 @@ En la Figura 4 se presenta un histograma que sintetiza el resultado del número 
 
 **Figura 4.** Distribución por año del número de sismos para el municipio de Santiago de Cali, ocurridos en el periodo 1566-2018. Fuente: elaboración propia.
 
-La búsqueda documental arrojó un total de 97 eventos sísmicos relevantes para el periodo comprendido entre 1566 y 2018. Es importante mencionar que para el desarrollo del informe de historicidad en la formulación del Plan Municipal de Gestión de Riesgo de Desastre del municipio de Santiago de Cali, se definió como periodo de tiempo de análisis el comprendido entre 1949 y 2018; sin embargo, dada la naturaleza de la sismicidad, en donde los periodos de retorno son largos y su frecuencia de ocurrencia es menor, comparada con otros fenómenos, se decidió realizar la búsqueda documental, solo para este tipo de fenómeno, desde 1566, año en el cual se tiene el primer registro de un terremoto en Colombia, el cual precisamente afectó las poblaciones de Cali y Popayán. Se tomaron sismos sentidos desde la época de la Conquista y la Colonia, que hayan tenido efectos regionales o locales con influencia sobre la ciudad de Cali. [11,12]. 
+La búsqueda documental arrojó un total de 97 eventos sísmicos relevantes para el periodo comprendido entre 1566 y 2018. Es importante mencionar que para el desarrollo del informe de historicidad en la formulación del Plan Municipal de Gestión de Riesgo de Desastre del municipio de Santiago de Cali, se definió como periodo de tiempo de análisis el comprendido entre 1949 y 2018; sin embargo, dada la naturaleza de la sismicidad, en donde los periodos de retorno son largos y su frecuencia de ocurrencia es menor, comparada con otros fenómenos, se decidió realizar la búsqueda documental, solo para este tipo de fenómeno, desde 1566, año en el cual se tiene el primer registro de un terremoto en Colombia, el cual precisamente afectó las poblaciones de Cali y Popayán. Se tomaron sismos sentidos desde la época de la Conquista y la Colonia, que hayan tenido efectos regionales o locales con influencia sobre la ciudad de Cali. [[11]](#ref-11), [[12]](#ref-12). 
 
-El estudio de historicidad permite analizar que los eventos sísmicos en la ciudad de Cali, han generado afectaciones de consideración a través de los años en las estructuras y personas, concentrándose en un inicio en lo que ahora se considera el centro de la ciudad, dado que por esa zona inició la urbanización. Para sismos recientes, las afectaciones se han presentado principalmente en la zona del Cono Cañaveralejo, que debido a las características del suelo tiene una respuesta sísmica alta [6], sobre todo por sismos regionales que tienen ocurrencia en fuentes sismogénicas lejanas a la ciudad.
+El estudio de historicidad permite analizar que los eventos sísmicos en la ciudad de Cali, han generado afectaciones de consideración a través de los años en las estructuras y personas, concentrándose en un inicio en lo que ahora se considera el centro de la ciudad, dado que por esa zona inició la urbanización. Para sismos recientes, las afectaciones se han presentado principalmente en la zona del Cono Cañaveralejo, que debido a las características del suelo tiene una respuesta sísmica alta [[6]](#ref-6), sobre todo por sismos regionales que tienen ocurrencia en fuentes sismogénicas lejanas a la ciudad.
 
 Mapa de sismos históricos del municipio de Santiago de Cali en el periodo 1566–2018
 
-En la Figura 5 se presenta la distribución espacial de los eventos sísmicos encontrados que han generado efectos en el municipio de Santiago de Cali. Para el presente informe, se tomaron los epicentros estimados en el Catálogo de terremotos para América del Sur [13] y la información del Catálogo de Sismicidad Histórica de Colombia, del Servicio Geológico de Colombia [14] con el fin de mostrar un marco general de la distribución espacial de los eventos sísmicos. Cabe mencionar, que la distribución espacial de los eventos sísmicos se trabaja a una escala regional, dado que su ocurrencia no se presenta de manera puntual sobre el municipio como en el caso de otros fenómenos [15–24].
+En la Figura 5 se presenta la distribución espacial de los eventos sísmicos encontrados que han generado efectos en el municipio de Santiago de Cali. Para el presente informe, se tomaron los epicentros estimados en el Catálogo de terremotos para América del Sur [[13]](#ref-13) y la información del Catálogo de Sismicidad Histórica de Colombia, del Servicio Geológico de Colombia [[14]](#ref-14) con el fin de mostrar un marco general de la distribución espacial de los eventos sísmicos. Cabe mencionar, que la distribución espacial de los eventos sísmicos se trabaja a una escala regional, dado que su ocurrencia no se presenta de manera puntual sobre el municipio como en el caso de otros fenómenos [[15]](#ref-15)–[[24]](#ref-24).
 
-Se puede observar que los sismos que han generado algún impacto sobre el municipio se concentran en gran medida en la zona límite del Valle del Cauca con el Chocó, Quindío y Risaralda [25–34]. 
+Se puede observar que los sismos que han generado algún impacto sobre el municipio se concentran en gran medida en la zona límite del Valle del Cauca con el Chocó, Quindío y Risaralda [[25]](#ref-25)–[[34]](#ref-34). 
 
 
 
@@ -211,13 +211,13 @@ A continuación, se presentan los resultados sobre los eventos por movimientos e
 
 Conceptualización de movimientos en masa
 
-Los movimientos en masa o movimientos de ladera, se definen como "todo desplazamiento hacia abajo (vertical o inclinado en dirección del pie de una ladera) de un volumen de material litológico importante, en el que el principal agente es la gravedad" [35]. Para Calvo [36], los movimientos de ladera son eventos que suelen asociarse a otros procesos, como los terremotos, lluvias extraordinarias, procesos morfológicos (que no incluyen riesgo necesariamente, como puede ser la erosión fluvial) y la acción antrópica la cual tiene un papel de primer orden al modificar las características del terreno. Los elementos que permiten definir el grado de peligrosidad de un deslizamiento de terreno son la velocidad del fenómeno y la superficie afectada.
+Los movimientos en masa o movimientos de ladera, se definen como "todo desplazamiento hacia abajo (vertical o inclinado en dirección del pie de una ladera) de un volumen de material litológico importante, en el que el principal agente es la gravedad" [[35]](#ref-35). Para Calvo [[36]](#ref-36), los movimientos de ladera son eventos que suelen asociarse a otros procesos, como los terremotos, lluvias extraordinarias, procesos morfológicos (que no incluyen riesgo necesariamente, como puede ser la erosión fluvial) y la acción antrópica la cual tiene un papel de primer orden al modificar las características del terreno. Los elementos que permiten definir el grado de peligrosidad de un deslizamiento de terreno son la velocidad del fenómeno y la superficie afectada.
 
 Reportes sobre eventos por movimientos en masa 
 
-Con respecto al número de noticias por movimientos en masa encontrados para el área urbana y rural del municipio Santiago de Cali, en el periodo 1949–2018 se encontraron 342 noticias, siendo los años 2016 y 2017 los que presentan la mayor cantidad de reportes (Fig. 6). En 1999 se muestra un número representativo de 21 noticias, que se relacionan con un periodo de lluvia que afectó significativamente las zonas de ladera de la zona urbana de la ciudad y sus corregimientos. Para los años más recientes las noticias corresponden principalmente a información referente a trabajos de recolección de deslizamientos en todo el municipio [37–46].
+Con respecto al número de noticias por movimientos en masa encontrados para el área urbana y rural del municipio Santiago de Cali, en el periodo 1949–2018 se encontraron 342 noticias, siendo los años 2016 y 2017 los que presentan la mayor cantidad de reportes (Fig. 6). En 1999 se muestra un número representativo de 21 noticias, que se relacionan con un periodo de lluvia que afectó significativamente las zonas de ladera de la zona urbana de la ciudad y sus corregimientos. Para los años más recientes las noticias corresponden principalmente a información referente a trabajos de recolección de deslizamientos en todo el municipio [[37]](#ref-37)–[[46]](#ref-46).
 
-El histograma del número de eventos por año denota tres periodos marcados en los cuales el promedio de noticias se duplica o triplica con respecto al primer periodo (Fig. 7). El primer periodo va desde 1949 a 1983, donde el promedio de eventos es 2. El segundo comprende los años 1984 a 1992 con promedio de 4 eventos por año, y finalmente, el tercero corresponde al periodo 1991–2018, donde se aprecian en promedio 9 eventos por año [47–53].
+El histograma del número de eventos por año denota tres periodos marcados en los cuales el promedio de noticias se duplica o triplica con respecto al primer periodo (Fig. 7). El primer periodo va desde 1949 a 1983, donde el promedio de eventos es 2. El segundo comprende los años 1984 a 1992 con promedio de 4 eventos por año, y finalmente, el tercero corresponde al periodo 1991–2018, donde se aprecian en promedio 9 eventos por año [[47]](#ref-47)–[[53]](#ref-53).
 
 
 
@@ -275,18 +275,18 @@ A continuación, se muestran los resultados obtenidos de la búsqueda documental
 
 Conceptualización de inundación
 
-Una inundación es un evento natural y recurrente que se produce como resultado de la acumulación de agua causada por intensas o continuas lluvias sobre áreas planas o llanuras de inundación que, al sobrepasar la capacidad de retención del suelo y de los cauces se desbordan e inundan los terrenos aledaños a los cursos de agua [54]. Para el Ministerio de Ambiente y Desarrollo Sostenible – Universidad Nacional de Colombia [55], las inundaciones son parte de un proceso natural como respuesta a eventos climáticos de autorregulación del propio ciclo hidrológico. 
+Una inundación es un evento natural y recurrente que se produce como resultado de la acumulación de agua causada por intensas o continuas lluvias sobre áreas planas o llanuras de inundación que, al sobrepasar la capacidad de retención del suelo y de los cauces se desbordan e inundan los terrenos aledaños a los cursos de agua [[54]](#ref-54). Para el Ministerio de Ambiente y Desarrollo Sostenible – Universidad Nacional de Colombia [[55]](#ref-55), las inundaciones son parte de un proceso natural como respuesta a eventos climáticos de autorregulación del propio ciclo hidrológico. 
 
 El territorio colombiano se caracteriza por tener un régimen bimodal, es decir, temporadas alternadas de bajas precipitaciones y altas precipitaciones, en estas últimas hay probabilidad de que se presenten crecientes de los afluentes y cuerpos de agua generando inundaciones que pueden ocasionar afectaciones en la población.
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Definiciones para la clasificación de las inundaciones fluviales y pluviales: Inundaciones fluviales por desbordamientos de los ríos: son causadas por los desbordamientos de los ríos y los arroyos, lo cual se atribuye, en primera instancia, a un excedente de agua. El aumento brusco del volumen de agua que un lecho o cauce es capaz de transportar sin desbordarse produce lo que se denomina como avenida o riada, un mayor aumento del volumen es la causa de la inundación [56].  Inundaciones pluviales por precipitaciones in situ: son las que se producen por la acumulación de agua de lluvia en un determinado lugar o área geográfica sin que ese fenómeno coincida necesariamente con el desbordamiento de un cauce fluvial. Este tipo de inundación se genera tras un régimen de precipitaciones intensas o persistentes, es decir, por la concentración de un elevado volumen de lluvia en un intervalo de tiempo muy breve o por la incidencia de una precipitación moderada y persistente durante un amplio período de tiempo. Lógicamente, es el primero de estos casos el que conlleva el mayor peligro para la población y sus bienes y el que plantea los principales inconvenientes a los servicios de coordinación e intervención para prevenir y controlar sus daños. Las precipitaciones torrenciales, que se acumulan peligrosamente en un lapso muy breve de tiempo, hacen que el tiempo de respuesta de los servicios de emergencia sea más reducido [56].
+**Caja 2.** Definiciones para la clasificación de las inundaciones fluviales y pluviales: Inundaciones fluviales por desbordamientos de los ríos: son causadas por los desbordamientos de los ríos y los arroyos, lo cual se atribuye, en primera instancia, a un excedente de agua. El aumento brusco del volumen de agua que un lecho o cauce es capaz de transportar sin desbordarse produce lo que se denomina como avenida o riada, un mayor aumento del volumen es la causa de la inundación [[56]](#ref-56).  Inundaciones pluviales por precipitaciones in situ: son las que se producen por la acumulación de agua de lluvia en un determinado lugar o área geográfica sin que ese fenómeno coincida necesariamente con el desbordamiento de un cauce fluvial. Este tipo de inundación se genera tras un régimen de precipitaciones intensas o persistentes, es decir, por la concentración de un elevado volumen de lluvia en un intervalo de tiempo muy breve o por la incidencia de una precipitación moderada y persistente durante un amplio período de tiempo. Lógicamente, es el primero de estos casos el que conlleva el mayor peligro para la población y sus bienes y el que plantea los principales inconvenientes a los servicios de coordinación e intervención para prevenir y controlar sus daños. Las precipitaciones torrenciales, que se acumulan peligrosamente en un lapso muy breve de tiempo, hacen que el tiempo de respuesta de los servicios de emergencia sea más reducido [[56]](#ref-56).
 :::
 
 Reportes sobre eventos por inundación
 
-En la búsqueda de información en diferentes fuentes, se encontró un total de 227 eventos relevantes por inundaciones en el municipio de Santiago de Cali para el periodo comprendido entre 1949 y 2018 [57– 59]. En la Figura 13 se muestra el histograma con número de reportes de eventos de inundación que se presentaron por cada año de la ventana de tiempo seleccionada [60–65].
+En la búsqueda de información en diferentes fuentes, se encontró un total de 227 eventos relevantes por inundaciones en el municipio de Santiago de Cali para el periodo comprendido entre 1949 y 2018 [[57]](#ref-57)–[[59]](#ref-59). En la Figura 13 se muestra el histograma con número de reportes de eventos de inundación que se presentaron por cada año de la ventana de tiempo seleccionada [[60]](#ref-60)–[[65]](#ref-65).
 
 
 
@@ -332,23 +332,23 @@ Las Figuras 16, 17 y 18 muestran la representación cartográfica o distribució
 
 ## 9.6 GESTIÓN DEL RIESGO EN CALI Y SU RELACIÓN CON LA OCURRENCIA DE EVENTOS HISTÓRICOS
 
-El municipio de Santiago de Cali, específicamente su área urbana, fue un epicentro importante de recepción de flujos migratorios, convirtiéndose en un centro de actividades económicas para una vasta porción del eje comercial y en un polo de desarrollo para la región [66]. Sin embargo, al mismo tiempo fue consolidando un desarrollo desordenado de su trama urbana. 
+El municipio de Santiago de Cali, específicamente su área urbana, fue un epicentro importante de recepción de flujos migratorios, convirtiéndose en un centro de actividades económicas para una vasta porción del eje comercial y en un polo de desarrollo para la región [[66]](#ref-66). Sin embargo, al mismo tiempo fue consolidando un desarrollo desordenado de su trama urbana. 
 
-En este contexto, debido a la carencia de instrumentos institucionales para una adecuada planificación de la ciudad, se conformaron asentamientos ilegales que derivaron posteriormente en conflictos por la tierra [67] y en la toma de acciones populares por parte de la población migrante para acceder a un predio y a la aplicación de políticas de desarrollo urbano, propiciando la dilatación físico-urbana y la ampliación del perímetro urbano entre 1950 y 1990 hacia el oriente de la ciudad [68]. Se consolido un modelo de ciudad que muestra una expansión discontinua, dispersa e incontrolada, mediante la ocupación de terrenos aislados y sin urbanizar.
+En este contexto, debido a la carencia de instrumentos institucionales para una adecuada planificación de la ciudad, se conformaron asentamientos ilegales que derivaron posteriormente en conflictos por la tierra [[67]](#ref-67) y en la toma de acciones populares por parte de la población migrante para acceder a un predio y a la aplicación de políticas de desarrollo urbano, propiciando la dilatación físico-urbana y la ampliación del perímetro urbano entre 1950 y 1990 hacia el oriente de la ciudad [[68]](#ref-68). Se consolido un modelo de ciudad que muestra una expansión discontinua, dispersa e incontrolada, mediante la ocupación de terrenos aislados y sin urbanizar.
 
 Cuando se analiza la distribución espacial de los eventos históricos ocurridos en el municipio, específicamente para el caso de inundaciones y movimientos en masa, se logra evidenciar que existe una mayor concentración hacia las zonas y barrios que recibieron la mayor parte de la población inmigrante y que se consolidaron de manera ilegal. Situación que, demuestra como los problemas en planificación se ven materializados en la ocurrencia fenómenos que pueden dejar un impacto sobre el territorio urbano. 
 
-A nivel reglamentario, el municipio cuenta con diferentes instrumentos para la gestión del riesgo que se han desarrollado a través de los años. El primero de estos, corresponde al Plan General para la Atención de Emergencias en Cali, realizado en el año 1989 por el Fondo de Emergencia Ciudadana (FES) y el Comité Operativo de Emergencia (COE) [69]. Este instrumento, tuvo como objetivo principal, plantear estrategias previas a la ocurrencia de los eventos, durante el periodo de emergencia y medidas de reparación de daños. 
+A nivel reglamentario, el municipio cuenta con diferentes instrumentos para la gestión del riesgo que se han desarrollado a través de los años. El primero de estos, corresponde al Plan General para la Atención de Emergencias en Cali, realizado en el año 1989 por el Fondo de Emergencia Ciudadana (FES) y el Comité Operativo de Emergencia (COE) [[69]](#ref-69). Este instrumento, tuvo como objetivo principal, plantear estrategias previas a la ocurrencia de los eventos, durante el periodo de emergencia y medidas de reparación de daños. 
 
-En el 1996, se formuló el Plan de Mitigación de Riesgos para Cali, el cual generó acciones de mitigación, intervenciones físicas y de planeación territorial, constituyéndose en una base aprovechable para el diseño y puesta en funcionamiento a futuro de un Plan de Gestión de Riesgos [70]. 
+En el 1996, se formuló el Plan de Mitigación de Riesgos para Cali, el cual generó acciones de mitigación, intervenciones físicas y de planeación territorial, constituyéndose en una base aprovechable para el diseño y puesta en funcionamiento a futuro de un Plan de Gestión de Riesgos [[70]](#ref-70). 
 
-Posteriormente, en el año 2009 mediante el acuerdo Decreto 411.020.0744 se adopta el Plan Local de Emergencias y Contingencias del municipio de Santiago de Cali (PLEC) [70]. Prioriza los escenarios de riesgo, de sismos e inundaciones como los que podrían generar más daños y mayores damnificados en el municipio. 
+Posteriormente, en el año 2009 mediante el acuerdo Decreto 411.020.0744 se adopta el Plan Local de Emergencias y Contingencias del municipio de Santiago de Cali (PLEC) [[70]](#ref-70). Prioriza los escenarios de riesgo, de sismos e inundaciones como los que podrían generar más daños y mayores damnificados en el municipio. 
 
-Todos estos instrumentos anteriormente mencionados, se enmarcaron en un enfoque de la atención del desastre, de acuerdo a la normatividad vigente a la fecha de su formulación. Con la entrada en vigencia de la Ley 1523 de 2012 [71] y del Decreto 1807 de 2014 [72], se cambia el paradigma de la gestión del riesgo en el país y se resalta la importancia de incorporarla en los procesos de planificación del territorio. 
+Todos estos instrumentos anteriormente mencionados, se enmarcaron en un enfoque de la atención del desastre, de acuerdo a la normatividad vigente a la fecha de su formulación. Con la entrada en vigencia de la Ley 1523 de 2012 [[71]](#ref-71) y del Decreto 1807 de 2014 [[72]](#ref-72), se cambia el paradigma de la gestión del riesgo en el país y se resalta la importancia de incorporarla en los procesos de planificación del territorio. 
 
-En sentido, surge la obligatoriedad para todas las entidades de formular planes de gestión del riesgo. El municipio de Santiago de Cali, en cumplimiento con la normatividad establecida, adopta en el año 2012 su Plan Municipal de Gestión del Riesgo de Desastres, mediante Decreto 411.020.0681 [73]. Sin embargo, este proceso solamente se realizó en el papel, dado que no llegó a la caracterización de escenarios de riesgos y a la formulación de un componente programático.
+En sentido, surge la obligatoriedad para todas las entidades de formular planes de gestión del riesgo. El municipio de Santiago de Cali, en cumplimiento con la normatividad establecida, adopta en el año 2012 su Plan Municipal de Gestión del Riesgo de Desastres, mediante Decreto 411.020.0681 [[73]](#ref-73). Sin embargo, este proceso solamente se realizó en el papel, dado que no llegó a la caracterización de escenarios de riesgos y a la formulación de un componente programático.
 
-Por otro lado, en el año 2014 en la Revisión y Ajuste del de Plan de Ordenamiento Territorial del municipio, se involucra la gestión del riesgo en todos los componentes del plan, teniendo en cuenta estudios existentes, el planteamiento de acciones y medidas [4].
+Por otro lado, en el año 2014 en la Revisión y Ajuste del de Plan de Ordenamiento Territorial del municipio, se involucra la gestión del riesgo en todos los componentes del plan, teniendo en cuenta estudios existentes, el planteamiento de acciones y medidas [[4]](#ref-4).
 
 Con base a todo lo anterior, se debe mencionar que, de acuerdo al estudio de historicidad realizado en el presente trabajo, estos instrumentos para la gestión del riesgo no han representado una herramienta contundente que permitan dar frente a la ocurrencia de fenómenos en el municipio, sobretodo de inundación y movimiento en masa, pues en los últimos años se muestra un aumento significativo en la frecuencia de ocurrencia de estos eventos. 
 
@@ -406,150 +406,150 @@ Elkin de J. Salcedo Hurtado
 
 ## 9.8 BIBLIOGRAFÍA
 
-García-Acosta, V. (1996). El estudio histórico de los desastres. *Historia y Desastres en América Latina*, 1, 15–37.
+<div id="ref-1">1. García-Acosta, V. (1996). El estudio histórico de los desastres. *Historia y Desastres en América Latina*, 1, 15–37.</div>
 
-Girola, L. (2011). Historicidad y temporalidad de los conceptos sociológicos. *Sociológica*, 26(73), 13-46.  
+<div id="ref-2">2. Girola, L. (2011). Historicidad y temporalidad de los conceptos sociológicos. *Sociológica*, 26(73), 13-46.</div>
 
-Salcedo-Hurtado, E. (2002). Sismicidad Histórica y Análisis Macrosísmico de Bucaramanga. Boletín Geológico. *Boletín Geológico*, 40 (1).
+<div id="ref-3">3. Salcedo-Hurtado, E. (2002). Sismicidad Histórica y Análisis Macrosísmico de Bucaramanga. Boletín Geológico. *Boletín Geológico*, 40 (1).</div>
 
-DAP (Departamento Administrativo de Planeación Municipal). (2014). *Plan de Ordenamiento Territorial de Santiago de Cali*. Documento Técnico de Soporte. 1170 p.
+<div id="ref-4">4. DAP (Departamento Administrativo de Planeación Municipal). (2014). *Plan de Ordenamiento Territorial de Santiago de Cali*. Documento Técnico de Soporte. 1170 p.</div>
 
-DAP (Departamento Administrativo de Planeación Municipal). (2016). *Cali en cifras 2016*. 244 p.
+<div id="ref-5">5. DAP (Departamento Administrativo de Planeación Municipal). (2016). *Cali en cifras 2016*. 244 p.</div>
 
-INGEOMINAS & DAGMA. (2005). *Estudio de Microzonificación Sísmica de Santiago de Cali*
+<div id="ref-6">6. INGEOMINAS & DAGMA. (2005). *Estudio de Microzonificación Sísmica de Santiago de Cali*</div>
 
-Rodríguez de la Torre, F. (1993). Lecturas sistemáticas de prensa periódica. Hacia una revisión de la sismicidad europea durante los siglos XVII y XVIII. En *Historical investigation of European earthquakes. Materials of the CEC project Review of Historical Seismicity in Europe*. pp. 247-258. 
+<div id="ref-7">7. Rodríguez de la Torre, F. (1993). Lecturas sistemáticas de prensa periódica. Hacia una revisión de la sismicidad europea durante los siglos XVII y XVIII. En *Historical investigation of European earthquakes. Materials of the CEC project Review of Historical Seismicity in Europe*. pp. 247-258.</div>
 
-Tarbuck, E. J., Lutgens, F. K., Tasa, D., & Científicas, A. T. (2005). *Ciencias de la Tierra*. Madrid: Pearson Educación.
+<div id="ref-8">8. Tarbuck, E. J., Lutgens, F. K., Tasa, D., & Científicas, A. T. (2005). *Ciencias de la Tierra*. Madrid: Pearson Educación.</div>
 
-Olcina Cantos, J., & Ayala-Carcedo, F. J. (2002*). Riesgos naturales*. *Ariel SA*.
+<div id="ref-9">9. Olcina Cantos, J., & Ayala-Carcedo, F. J. (2002*). Riesgos naturales*. *Ariel SA*.</div>
 
-Muñoz, D (1989). Conceptos básicos en riesgo sísmico.  *Física de la Tierra. 1*. 199-215.
+<div id="ref-10">10. Muñoz, D (1989). Conceptos básicos en riesgo sísmico.  *Física de la Tierra. 1*. 199-215.</div>
 
-Arboleda, G. (1956). *Historia de Cali: desde los orígenes de la ciudad hasta la expiración del período colonial*. Tomo II, Capitulo LI. Cali. Universidad del Valle. 420 pp.
+<div id="ref-11">11. Arboleda, G. (1956). *Historia de Cali: desde los orígenes de la ciudad hasta la expiración del período colonial*. Tomo II, Capitulo LI. Cali. Universidad del Valle. 420 pp.</div>
 
-Arroyo, J. (1955*). Historia de la Gobernación de Popayán*. Bogotá. Santafe. 264 pp.  
+<div id="ref-12">12. Arroyo, J. (1955*). Historia de la Gobernación de Popayán*. Bogotá. Santafe. 264 pp.</div>
 
-CERESIS (Centro Regional de Sismología e Intensidades). (1985). *Datos e Intensidades*
+<div id="ref-13">13. CERESIS (Centro Regional de Sismología e Intensidades). (1985). *Datos e Intensidades*</div>
 
-Servicio Geológico Colombiano (2018). *Sismicidad Histórica de Colombia*. Disponible en línea   
+<div id="ref-14">14. Servicio Geológico Colombiano (2018). *Sismicidad Histórica de Colombia*. Disponible en línea</div>
 
-Diario Correo del Cauca (1925 a). *Cali al influjo de un terremoto. - la catástrofe sísmica de anoche - el fatídico domingo 7*. 
+<div id="ref-15">15. Diario Correo del Cauca (1925 a). *Cali al influjo de un terremoto. - la catástrofe sísmica de anoche - el fatídico domingo 7*.</div>
 
-Diario Correo del Cauca (1925 b). *Ecos del terremoto.*
+<div id="ref-16">16. Diario Correo del Cauca (1925 b). *Ecos del terremoto.*</div>
 
-Diario Correo ABC (1925).  *El domingo a las 7 menos 10 minutos de la noche, se sintió un fuerte temblor.*
+<div id="ref-17">17. Diario Correo ABC (1925).  *El domingo a las 7 menos 10 minutos de la noche, se sintió un fuerte temblor.*</div>
 
-Diario El Espectador (junio 9 de 1925). *Nuevas informaciones sobre los temblores del domingo*
+<div id="ref-18">18. Diario El Espectador (junio 9 de 1925). *Nuevas informaciones sobre los temblores del domingo*</div>
 
-Diario El Relator (1925 a). *El pavoroso terremoto de anoche. *
+<div id="ref-19">19. Diario El Relator (1925 a). *El pavoroso terremoto de anoche. *</div>
 
-Diario El Relator (1925 b). *Resumen noticioso de la semana.*
+<div id="ref-20">20. Diario El Relator (1925 b). *Resumen noticioso de la semana.*</div>
 
-Diario El Tiempo (1925 a). *Ayer se sintieron fortísimos temblores en casi todo el país.* 
+<div id="ref-21">21. Diario El Tiempo (1925 a). *Ayer se sintieron fortísimos temblores en casi todo el país.*</div>
 
-Diario El Tiempo (1925 b). *El temblor del domingo.*
+<div id="ref-22">22. Diario El Tiempo (1925 b). *El temblor del domingo.*</div>
 
-Diario Occidente (1962). *Instantes de terror vivió Cali con el terremoto.*
+<div id="ref-23">23. Diario Occidente (1962). *Instantes de terror vivió Cali con el terremoto.*</div>
 
-Diario El País (1962). *Drama de Cali Instantes Después del Sismo. Muerte y desesperación.*
+<div id="ref-24">24. Diario El País (1962). *Drama de Cali Instantes Después del Sismo. Muerte y desesperación.*</div>
 
-Diario El Tiempo 1962). *Pánico por el terremoto Calda, Valle, y Antioquia resultaron los sectores más castigados por la tragedia. Cuarenta muertos y cuantiosos daños. *
+<div id="ref-25">25. Diario El Tiempo 1962). *Pánico por el terremoto Calda, Valle, y Antioquia resultaron los sectores más castigados por la tragedia. Cuarenta muertos y cuantiosos daños. *</div>
 
-Diario El País (1979 a). *35 muertos. Tembló durante sesenta segundos en Colombia.*
+<div id="ref-26">26. Diario El País (1979 a). *35 muertos. Tembló durante sesenta segundos en Colombia.*</div>
 
-Diario El País (1979 b). *Cali se defendió bien “Hubo daños **costosos** pero no graves”, dicen arquitectos.*
+<div id="ref-27">27. Diario El País (1979 b). *Cali se defendió bien “Hubo daños **costosos** pero no graves”, dicen arquitectos.*</div>
 
-Diario El País (1979 c). *Temblor afectó la normal de señoritas.*
+<div id="ref-28">28. Diario El País (1979 c). *Temblor afectó la normal de señoritas.*</div>
 
-Diario El Pueblo (1979). *Manizales, epicentro del terremoto.* 
+<div id="ref-29">29. Diario El Pueblo (1979). *Manizales, epicentro del terremoto.*</div>
 
-Diario El País (1995 a). *Sismo, muerte y destrucción. Más de una veintena de muertos y alrededor de 250 heridos. Pereira en emergencia*.
+<div id="ref-30">30. Diario El País (1995 a). *Sismo, muerte y destrucción. Más de una veintena de muertos y alrededor de 250 heridos. Pereira en emergencia*.</div>
 
-Diario El País (1995 b). *Daños en 77 edificaciones. El CLE hizo el balance de los efectos en Cali del sismo del 8 febrero.*
+<div id="ref-31">31. Diario El País (1995 b). *Daños en 77 edificaciones. El CLE hizo el balance de los efectos en Cali del sismo del 8 febrero.*</div>
 
-Diario El País (2004). *Caleños vivieron madrugada de pánico*.
+<div id="ref-32">32. Diario El País (2004). *Caleños vivieron madrugada de pánico*.</div>
 
-Diario El Tiempo (2004). *Sismo sacude a Valle y Chocó*.
+<div id="ref-33">33. Diario El Tiempo (2004). *Sismo sacude a Valle y Chocó*.</div>
 
-Diario El Caleño (2004). *En Cali amaneció temblando. Segundos de terror vivió la población.*
+<div id="ref-34">34. Diario El Caleño (2004). *En Cali amaneció temblando. Segundos de terror vivió la población.*</div>
 
-Moncayo J., Castro Marín E., Valencia Núñez A., y Fonseca González S. (2001). *Evaluación de riesgo por fenómenos de remoción en masa: Guía Metodológica*. Colombia: Escuela Colombiana de Ingeniería. 166p. 
+<div id="ref-35">35. Moncayo J., Castro Marín E., Valencia Núñez A., y Fonseca González S. (2001). *Evaluación de riesgo por fenómenos de remoción en masa: Guía Metodológica*. Colombia: Escuela Colombiana de Ingeniería. 166p.</div>
 
-Calvo García, Francisco (2001). *Sociedades y territorios en riesgo*. Barcelona, España: Ediciones el Serbal. 186p. 
+<div id="ref-36">36. Calvo García, Francisco (2001). *Sociedades y territorios en riesgo*. Barcelona, España: Ediciones el Serbal. 186p.</div>
 
-Diario El País. (1955). *Tragedia en Golondrinas: Un minero muerto y varios heridos por un alud de rocas en las minas.*
+<div id="ref-37">37. Diario El País. (1955). *Tragedia en Golondrinas: Un minero muerto y varios heridos por un alud de rocas en las minas.*</div>
 
-Diario El País. (1965). *Mueren dos niños al derrumbarse una casa en la parte alta de Cali, menor*.
+<div id="ref-38">38. Diario El País. (1965). *Mueren dos niños al derrumbarse una casa en la parte alta de Cali, menor*.</div>
 
-Diario El País. (1970). *11 muertos en explosión y derrumbe.*
+<div id="ref-39">39. Diario El País. (1970). *11 muertos en explosión y derrumbe.*</div>
 
-Diario El País. (1973). *En Terrón Colorado dos niñas heridas al desplomarse vivienda.*
+<div id="ref-40">40. Diario El País. (1973). *En Terrón Colorado dos niñas heridas al desplomarse vivienda.*</div>
 
-Diario El País. (1984 a). *Deslizamiento en Siloé.*
+<div id="ref-41">41. Diario El País. (1984 a). *Deslizamiento en Siloé.*</div>
 
-Diario El Pueblo. (1984 b). *Drama en Lleras Restrepo: Emergencia en Siloé por deslizamientos.*
+<div id="ref-42">42. Diario El Pueblo. (1984 b). *Drama en Lleras Restrepo: Emergencia en Siloé por deslizamientos.*</div>
 
-Diario El País. (1989). *Seis los muertos por el invierno: Alud mató a cuatro miembros de una familia en El Aguacatal.*
+<div id="ref-43">43. Diario El País. (1989). *Seis los muertos por el invierno: Alud mató a cuatro miembros de una familia en El Aguacatal.*</div>
 
-Diario El País. (1993). *Familias de los cerros en la calle. Crece emergencia en las laderas.*
+<div id="ref-44">44. Diario El País. (1993). *Familias de los cerros en la calle. Crece emergencia en las laderas.*</div>
 
-Diario El País. (1995). *Derrumbe en la obra tumbó dos casas: Canal de Nápoles causa accidente.*
+<div id="ref-45">45. Diario El País. (1995). *Derrumbe en la obra tumbó dos casas: Canal de Nápoles causa accidente.*</div>
 
-Diario El País. (1996). *El invierno afectó a cuatro familias en laderas de Cali.*
+<div id="ref-46">46. Diario El País. (1996). *El invierno afectó a cuatro familias en laderas de Cali.*</div>
 
-Diario El País. (1997). *Se desmoronan 20 casas.*
+<div id="ref-47">47. Diario El País. (1997). *Se desmoronan 20 casas.*</div>
 
-Diario El País. (1999). *Deslizamientos en la Comuna 20.* 
+<div id="ref-48">48. Diario El País. (1999). *Deslizamientos en la Comuna 20.*</div>
 
-Diario El País. (1999). *La vía a Pance se desmorona.   *
+<div id="ref-49">49. Diario El País. (1999). *La vía a Pance se desmorona.   *</div>
 
-Diario El País. (1999). *Tragedia en la loma de Belén.*
+<div id="ref-50">50. Diario El País. (1999). *Tragedia en la loma de Belén.*</div>
 
-Diario El País. (2004). *Los Chorros, en alto riesgo.*
+<div id="ref-51">51. Diario El País. (2004). *Los Chorros, en alto riesgo.*</div>
 
-Diario El País. (2006). *Zona de ladera, en alerta por deslizamientos.*
+<div id="ref-52">52. Diario El País. (2006). *Zona de ladera, en alerta por deslizamientos.*</div>
 
-Diario El País. (2013). *Lluvias causaron estragos. Lluvias causaron deslizamientos*.
+<div id="ref-53">53. Diario El País. (2013). *Lluvias causaron estragos. Lluvias causaron deslizamientos*.</div>
 
-Ministerio de Medio Ambiente y Desarrollo Sostenible (2014). *Guía técnica para la formulación de los planes de ordenación y manejo de cuencas hidrográficas*.
+<div id="ref-54">54. Ministerio de Medio Ambiente y Desarrollo Sostenible (2014). *Guía técnica para la formulación de los planes de ordenación y manejo de cuencas hidrográficas*.</div>
 
-Ministerio de Hacienda y Crédito Público. (2013). *Estrategia de protección financiera para la reducción de la vulnerabilidad fiscal ante la ocurrencia de desastres naturales en Colombia*. Bogotá D.C. Colombia.
+<div id="ref-55">55. Ministerio de Hacienda y Crédito Público. (2013). *Estrategia de protección financiera para la reducción de la vulnerabilidad fiscal ante la ocurrencia de desastres naturales en Colombia*. Bogotá D.C. Colombia.</div>
 
-Aparicio, J. (2003). *Lluvias e inundaciones*. Recuperado el 24 de febrero del 2012 de la Web: 
+<div id="ref-56">56. Aparicio, J. (2003). *Lluvias e inundaciones*. Recuperado el 24 de febrero del 2012 de la Web:</div>
 
-Corporación OSSO- Colombia, LA RED y UNIDR (2017). *Desinventar. Sistema de inventario de efectos de desastres. *Recuperado de
+<div id="ref-57">57. Corporación OSSO- Colombia, LA RED y UNIDR (2017). *Desinventar. Sistema de inventario de efectos de desastres. *Recuperado de</div>
 
-Diario el País (20 de abril de 1998). *Un muerto y cien viviendas inundadas dejó el aguacero de ayer. Cali, en emergencia invernal un muerto*. 
+<div id="ref-58">58. Diario el País (20 de abril de 1998). *Un muerto y cien viviendas inundadas dejó el aguacero de ayer. Cali, en emergencia invernal un muerto*.</div>
 
-Diario el País. (05 de mayo de 2010). *Invierno sigue causando estragos. El invierno colapsó al Nororiente. Altos niveles del rio Cauca provocaron la emergencia. Una mujer habría muerto electrocutada en Calimio. *
+<div id="ref-59">59. Diario el País. (05 de mayo de 2010). *Invierno sigue causando estragos. El invierno colapsó al Nororiente. Altos niveles del rio Cauca provocaron la emergencia. Una mujer habría muerto electrocutada en Calimio. *</div>
 
-Diario el País. (07 de noviembre de 2011). *Baño dominical en el río terminó en tragedia*.
+<div id="ref-60">60. Diario el País. (07 de noviembre de 2011). *Baño dominical en el río terminó en tragedia*.</div>
 
-Diario el País. (18 de abril de 2018). *Trágico aguacero causó dos muertos y generó caos*.
+<div id="ref-61">61. Diario el País. (18 de abril de 2018). *Trágico aguacero causó dos muertos y generó caos*.</div>
 
-Diario el País. (21 de mayo de 1971). *Cali baja la furia de las aguas. Estragos por las inundaciones en la ciudad*.
+<div id="ref-62">62. Diario el País. (21 de mayo de 1971). *Cali baja la furia de las aguas. Estragos por las inundaciones en la ciudad*.</div>
 
-Diario el País. (24 de febrero de 1999). *Emergencia por ola invernal.*
+<div id="ref-63">63. Diario el País. (24 de febrero de 1999). *Emergencia por ola invernal.*</div>
 
-Diario el País. (29 de junio de 1959). *Rescatados sin vida los 4 menores.*
+<div id="ref-64">64. Diario el País. (29 de junio de 1959). *Rescatados sin vida los 4 menores.*</div>
 
-Diario El Pueblo. (01 de julio de 1984). *Por desbordamiento del rio Cali. Más de $500 millones en pérdidas.*
+<div id="ref-65">65. Diario El Pueblo. (01 de julio de 1984). *Por desbordamiento del rio Cali. Más de $500 millones en pérdidas.*</div>
 
-Castillo, C. (2014). *El Control Territorial en el Departamento del Valle del Cauca*. Primera edición. Programa Editorial Universidad del Valle. Cali.
+<div id="ref-66">66. Castillo, C. (2014). *El Control Territorial en el Departamento del Valle del Cauca*. Primera edición. Programa Editorial Universidad del Valle. Cali.</div>
 
-Vásquez, H. (1985). *El proceso de urbanización en la historia colombiana. *Primera edición.  Bogotá. Universidad Externado de Colombia.
+<div id="ref-67">67. Vásquez, H. (1985). *El proceso de urbanización en la historia colombiana. *Primera edición.  Bogotá. Universidad Externado de Colombia.</div>
 
-Mosquera, G. (2011). *Expansión urbana y políticas estatales en Cali*. POLIS. Observatorio De Políticas Públicas. Sexta edición.
+<div id="ref-68">68. Mosquera, G. (2011). *Expansión urbana y políticas estatales en Cali*. POLIS. Observatorio De Políticas Públicas. Sexta edición.</div>
 
-Fondo de Emergencia Ciudadana (FES) & Comité Operativo de Emergencia (COE) (1989). *Plan General para la Atención de Emergencias en Cali.* 
+<div id="ref-69">69. Fondo de Emergencia Ciudadana (FES) & Comité Operativo de Emergencia (COE) (1989). *Plan General para la Atención de Emergencias en Cali.*</div>
 
-Alcaldía de Santiago de Cali & CORPORIESGOS (2009). *Plan Local de Emergencias y Contingencias del municipio de Santiago de Cali* (PLEC). 253 pp.
+<div id="ref-70">70. Alcaldía de Santiago de Cali & CORPORIESGOS (2009). *Plan Local de Emergencias y Contingencias del municipio de Santiago de Cali* (PLEC). 253 pp.</div>
 
-República de Colombia. Congreso de la República (2012). *Ley 1523 de 2012*. Bogotá, Colombia.
+<div id="ref-71">71. República de Colombia. Congreso de la República (2012). *Ley 1523 de 2012*. Bogotá, Colombia.</div>
 
-República de Colombia. Ministerio de Vivienda, Ciudad y Territorio (2014). *Decreto número 1807 de 2014*. Bogotá, Colombia.
+<div id="ref-72">72. República de Colombia. Ministerio de Vivienda, Ciudad y Territorio (2014). *Decreto número 1807 de 2014*. Bogotá, Colombia.</div>
 
-Alcaldía de Santiago de Cali (2012). *Decreto 411.020.0681*. Cali, Colombia.
+<div id="ref-73">73. Alcaldía de Santiago de Cali (2012). *Decreto 411.020.0681*. Cali, Colombia.</div>
 
 10

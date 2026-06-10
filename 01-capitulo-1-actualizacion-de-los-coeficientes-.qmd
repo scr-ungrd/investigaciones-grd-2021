@@ -45,7 +45,7 @@ La Ley 400 de 1997 marca un hito en la historia del país al establecer el marco
 
 ## 1.2 MOVIMIENTOS SÍSMICOS DE DISEÑO
 
-Para la actualización de la norma sismo resistente de edificaciones NSR 22 se plantea el uso de las formas espectrales de los códigos ASCE 7 - 10 y 16 [1], las cuales se establecen en función de dos parámetros: *S**DS* (aceleración espectral de diseño en periodo corto, 0.2 seg) y *S**D1* (espectral de diseño para un periodo de 1 segundo). La forma espectral se presenta en la Figura 1. 
+Para la actualización de la norma sismo resistente de edificaciones NSR 22 se plantea el uso de las formas espectrales de los códigos ASCE 7 - 10 y 16 [[1]](#ref-1), las cuales se establecen en función de dos parámetros: *S**DS* (aceleración espectral de diseño en periodo corto, 0.2 seg) y *S**D1* (espectral de diseño para un periodo de 1 segundo). La forma espectral se presenta en la Figura 1. 
 
 
 
@@ -64,7 +64,7 @@ Según el reglamento ASCE 7, los coeficientes de diseño se obtienen de los coef
 |  | (1) |
 | --- | --- |
 
-Los valores de los coeficientes SMS y SM1 no corresponden a valores de aceleración espectral de algún periodo de retorno. En estos reglamentos, se emplea movimiento fuerte orientado al riesgo (*Risk Targeted Ground Motion* – RTGM) [2], el cual tiene la característica de calcularse como el valor de aceleración asociado a una probabilidad de colapso del 1% en 50 años. Nótese que la definición probabilista se refiere al colapso como variable de decisión, y no a una eventual excedencia de los valores de aceleración. 
+Los valores de los coeficientes SMS y SM1 no corresponden a valores de aceleración espectral de algún periodo de retorno. En estos reglamentos, se emplea movimiento fuerte orientado al riesgo (*Risk Targeted Ground Motion* – RTGM) [[2]](#ref-2), el cual tiene la característica de calcularse como el valor de aceleración asociado a una probabilidad de colapso del 1% en 50 años. Nótese que la definición probabilista se refiere al colapso como variable de decisión, y no a una eventual excedencia de los valores de aceleración. 
 
 La construcción de movimiento de tipo RTGM implica la definición de funciones de fragilidad que permitan dar cuenta de la vulnerabilidad de las edificaciones futuras. Adicionalmente, esta fragilidad se altera de forma iterativa hasta encontrar el punto en el cual la aceleración espectral induce una probabilidad de colapso del 1%. Este procedimiento es, a juicio de los autores, difícil de justificar, no solo por su arbitrariedad (lo cual es más o menos normal en todas las definiciones de movimiento fuerte de diseño normativas) sino por proveer un mensaje de falsa seguridad que no es posible establecer desde antes de iniciar un proceso de diseño estructural. Surgen inquietudes importantes al analizar el significado y procedimientos de la RTGM:
 
@@ -91,7 +91,7 @@ Cabe anotar que en este trabajo se mantienen siempre los coeficientes de sitio, 
 
 ## 1.3 UN “NUEVO” ENFOQUE
 
-En vista tanto de las deficiencias como ventajas de la RTGM, se propone un enfoque diferente para la definición de los coeficientes sísmicos de diseño. Este enfoque se basa en la cuantificación de coeficientes *óptimos* de diseño, lo cual no es realmente un nuevo enfoque, no solo por haber sido ya empleado en otros códigos de construcción sismo resistente (como en el caso de México), sino porque su definición es tan antigua como la de la evaluación probabilista de la amenaza sísmica. En palabras de Luis Esteva, los coeficientes óptimos “son los que han de minimizar la suma de los costos asociados a la decisión de haber usado ese valor en el diseño de la edificación” [3]. El padre de la evaluación probabilista nos ofrecía esta definición al mismo tiempo que planteaba su famosa ecuación para el cálculo de las tasas de excedencia de movimiento fuerte (de donde se obtienen los periodos de retorno, tan arraigados en nuestra concepción de seguridad en los diseños estructurales). Su maestro, Emilio Rosenblueth, lo definiría de la siguiente manera: “un diseño es óptimo si minimiza los costos iniciales de construcción y el valor presente neto de las pérdidas futuras debido a terremotos” [4]. No es extraño entonces que estos conceptos hayan sido llevados a la práctica en México desde hace ya varios años.
+En vista tanto de las deficiencias como ventajas de la RTGM, se propone un enfoque diferente para la definición de los coeficientes sísmicos de diseño. Este enfoque se basa en la cuantificación de coeficientes *óptimos* de diseño, lo cual no es realmente un nuevo enfoque, no solo por haber sido ya empleado en otros códigos de construcción sismo resistente (como en el caso de México), sino porque su definición es tan antigua como la de la evaluación probabilista de la amenaza sísmica. En palabras de Luis Esteva, los coeficientes óptimos “son los que han de minimizar la suma de los costos asociados a la decisión de haber usado ese valor en el diseño de la edificación” [[3]](#ref-3). El padre de la evaluación probabilista nos ofrecía esta definición al mismo tiempo que planteaba su famosa ecuación para el cálculo de las tasas de excedencia de movimiento fuerte (de donde se obtienen los periodos de retorno, tan arraigados en nuestra concepción de seguridad en los diseños estructurales). Su maestro, Emilio Rosenblueth, lo definiría de la siguiente manera: “un diseño es óptimo si minimiza los costos iniciales de construcción y el valor presente neto de las pérdidas futuras debido a terremotos” [[4]](#ref-4). No es extraño entonces que estos conceptos hayan sido llevados a la práctica en México desde hace ya varios años.
 
 Siguiendo la definición de Rosenblueth, los coeficientes óptimos de diseño se obtienen de minimizar la suma de costos iniciales de construcción, y costos futuros asociados a las pérdidas que causarán los terremotos. Esto significa que el periodo de retorno de estos coeficientes no solo no participa en su definición, sino que cambiará de sitio a sitio. La Figura 3 muestra esta situación para dos sitios diferentes en un territorio, uno de baja y otro de alta sismicidad. El costo inicial (CI) se asume igual en ambas ubicaciones. Nótese que los costos se presentan como función del valor del coeficiente de diseño *c*, es decir que entre mayores son las exigencias, mayor es el costo inicial. Ahora bien, las curvas de costos futuros (CFL) exhiben comportamientos diferentes dependiendo del nivel de sismicidad del sitio, pero siendo ambas decrecientes con respecto a *c*, indicando que entre mayor sea la exigencia de diseño, se espera que las pérdidas futuras sean menores. La función de costo total (CT) viene de la suma de las anteriores (CT = CI+CFL). Esta función no es totalmente creciente o decreciente con respecto a *c*, presentando un claro valor mínimo en el cual, puede afirmarse, se encuentra el valor óptimo del coeficiente *c*, es decir, el que implica los menores costos totales. 
 
@@ -107,13 +107,13 @@ El costo inicial es un indicador del valor económico de la edificación y su va
 
 El costo inicial se compone de un costo por resistencia lateral gratuita y un costo por resistencia adicional a la gratuita. La resistencia lateral gratuita es aquella resistencia lateral que tiene una estructura que ha sido diseñada exclusivamente para soportar cargas verticales. Es decir, en cualquier configuración estructural, dado que se soportan cargas verticales, se tiene algún nivel de resistencia lateral que es inherente a la estructura, así no se haya concebido como objetivo de diseño. 
 
-Toda resistencia adicional que se provea a la estructura implica un costo adicional a la resistencia gratuita. Este costo es creciente con respecto a la exigencia de diseño, de un modo que se ha visto es ligeramente no lineal. Salgado et al. [5] Proponen un modelo de costos iniciales para las edificaciones en Colombia, que hemos adoptado para el desarrollo de este trabajo.
+Toda resistencia adicional que se provea a la estructura implica un costo adicional a la resistencia gratuita. Este costo es creciente con respecto a la exigencia de diseño, de un modo que se ha visto es ligeramente no lineal. Salgado et al. [[5]](#ref-5) Proponen un modelo de costos iniciales para las edificaciones en Colombia, que hemos adoptado para el desarrollo de este trabajo.
 
 ### 1.3.2 Costo de pérdidas futuras
 
 El costo de las pérdidas futuras se determina en función del costo inicial de la estructura, la tasa de excedencia del coeficiente de diseño, que mide cuantas veces en promedio en el futuro se excederá el nivel de diseño, y un factor de impacto que permite incorporar efectos indirectos asociados a las pérdidas causadas por los temblores. Este factor de impacto es de especial interés en este trabajo, pues permite incorporar de forma más o menos directa las condiciones de contexto que facilitan que se exacerbe el impacto asociado a la ocurrencia de un terremoto, en términos de la fragilidad social y falta de resiliencia en que ocurre dicha pérdida. 
 
-La tasa de excedencia del movimiento fuerte mide el número de veces en un año que se espera se exceda, en promedio, un valor determinado. Este parámetro se obtiene mediante una evaluación clásica de la amenaza sísmica, cuyo principal resultado son precisamente las curvas de amenaza (o curvas de tasa de excedencia) en múltiples ubicaciones de cálculo dentro del país. El modelo de amenaza sísmica de Colombia corresponde a la última versión del proyecto ASLAC (Salgado et al. [6]), el cual es un modelo regional de América Latina y El Caribe, desarrollado con el objetivo de proveer a la región de un modelo continuo de amenaza, con el mayor nivel de detalle posible en cada territorio y siguiendo técnicas del estado del arte en ingeniería sísmica. La Figura 4 muestra como ejemplo los mapas de amenaza uniforme para Colombia de 475 años de periodo de retorno, para aceleración máxima del terreno y aceleración espectral para 0.5 segundos.
+La tasa de excedencia del movimiento fuerte mide el número de veces en un año que se espera se exceda, en promedio, un valor determinado. Este parámetro se obtiene mediante una evaluación clásica de la amenaza sísmica, cuyo principal resultado son precisamente las curvas de amenaza (o curvas de tasa de excedencia) en múltiples ubicaciones de cálculo dentro del país. El modelo de amenaza sísmica de Colombia corresponde a la última versión del proyecto ASLAC (Salgado et al. [[6]](#ref-6)), el cual es un modelo regional de América Latina y El Caribe, desarrollado con el objetivo de proveer a la región de un modelo continuo de amenaza, con el mayor nivel de detalle posible en cada territorio y siguiendo técnicas del estado del arte en ingeniería sísmica. La Figura 4 muestra como ejemplo los mapas de amenaza uniforme para Colombia de 475 años de periodo de retorno, para aceleración máxima del terreno y aceleración espectral para 0.5 segundos.
 
 
 |  |  |  |
@@ -145,7 +145,7 @@ Los valores mostrados en el mapa de la Figura 5 fueron definidos en base a la ex
 
 ## 1.4 COEFICIENTES ÓPTIMOS
 
-Usando el software R-CRISIS  [7], mismo usado en la evaluación de la amenaza sísmica del país y del proyecto ASLAC, se aplicó la metodología presentada anteriormente, buscando encontrar los coeficientes óptimos de diseño para diferentes aceleraciones espectrales. Como ejemplo, la Figura 6 muestra los espectros de aceleraciones óptimas para Bogotá y Cúcuta, a nivel de roca firme. Se marcan en la imagen los valores de aceleración en 0.2 y 1 segundos (correspondientes a SDS y SD1 respectivamente). Se muestra también los periodos de retorno de las aceleraciones espectrales. Nótese como los menores periodos de retorno se asocian a periodos bajos (cercanos a 0.2 segundos), punto desde el cual el periodo de retorno es creciente con el periodo estructural. 
+Usando el software R-CRISIS  [[7]](#ref-7), mismo usado en la evaluación de la amenaza sísmica del país y del proyecto ASLAC, se aplicó la metodología presentada anteriormente, buscando encontrar los coeficientes óptimos de diseño para diferentes aceleraciones espectrales. Como ejemplo, la Figura 6 muestra los espectros de aceleraciones óptimas para Bogotá y Cúcuta, a nivel de roca firme. Se marcan en la imagen los valores de aceleración en 0.2 y 1 segundos (correspondientes a SDS y SD1 respectivamente). Se muestra también los periodos de retorno de las aceleraciones espectrales. Nótese como los menores periodos de retorno se asocian a periodos bajos (cercanos a 0.2 segundos), punto desde el cual el periodo de retorno es creciente con el periodo estructural. 
 
 
 |  |  |
@@ -325,15 +325,15 @@ En donde CT es el costo total, CI el costo inicial y CFL el costo de las pérdid
 |  | (5) |
 | --- | --- |
 
-En donde C0 es el costo por resistencia lateral gratuita, que tiene que ver con la capacidad a cargas laterales que tiene cualquier estructura, incluso si esta ha sido diseñada únicamente para soportar cargas verticales. CRes es el costo por resistencia lateral adicional a la gratuita, es decir dándole una resistencia apropiada a la estructura para las cargas laterales, pero más allá de la inherente a cualquier estructura. Este costo CRes es modificado de manera no lineal como función de la diferencia entre el coeficiente de diseño (que se incrementa a medida que aumenta la exigencia) y el coeficiente c0, que corresponde coeficiente de diseño equivalente a la resistencia lateral gratuita. Esta diferencia es elevada a un exponente positivo α que usualmente se encuentra entre 1 y 2. La Figura 15 muestra la forma de la función CI normalizada (i.e. CI/C0) para edificaciones en Colombia, según Salgado et al. [5]. 
+En donde C0 es el costo por resistencia lateral gratuita, que tiene que ver con la capacidad a cargas laterales que tiene cualquier estructura, incluso si esta ha sido diseñada únicamente para soportar cargas verticales. CRes es el costo por resistencia lateral adicional a la gratuita, es decir dándole una resistencia apropiada a la estructura para las cargas laterales, pero más allá de la inherente a cualquier estructura. Este costo CRes es modificado de manera no lineal como función de la diferencia entre el coeficiente de diseño (que se incrementa a medida que aumenta la exigencia) y el coeficiente c0, que corresponde coeficiente de diseño equivalente a la resistencia lateral gratuita. Esta diferencia es elevada a un exponente positivo α que usualmente se encuentra entre 1 y 2. La Figura 15 muestra la forma de la función CI normalizada (i.e. CI/C0) para edificaciones en Colombia, según Salgado et al. [[5]](#ref-5). 
 
 
 
 ![](media/img_8b0bb0dc.png)
 
-**Figura 15.** Incremento del costo normalizado en función del coeficiente de diseño. Tomado de Salgado et al [5].
+**Figura 15.** Incremento del costo normalizado en función del coeficiente de diseño. Tomado de Salgado et al [[5]](#ref-5).
 
-En la Figura 15, el Modelo de costos es efectivamente la propuesta de Salgado et al. [5] como función del coeficiente de diseño, mientras que el Modelo ajustado de costos es simplemente una regresión realizada por Salgado et al. [5] sobre su propuesta original para facilitar los cálculos.
+En la Figura 15, el Modelo de costos es efectivamente la propuesta de Salgado et al. [[5]](#ref-5) como función del coeficiente de diseño, mientras que el Modelo ajustado de costos es simplemente una regresión realizada por Salgado et al. [[5]](#ref-5) sobre su propuesta original para facilitar los cálculos.
 
 El costo de las pérdidas futuras se expresa mediante la siguiente ecuación:
 
@@ -341,7 +341,7 @@ El costo de las pérdidas futuras se expresa mediante la siguiente ecuación:
 |  | (6) |
 | --- | --- |
 
-En donde v(cs) es la tasa de excedencia del coeficiente de diseño, μ es una tasa de descuento y SL es el factor de impacto asociado al contexto socioeconómico en que ocurren las pérdidas por sismos. Según lo recomendado por Salgado et al. [5] la tasa de descuento se fija en un 5%. El factor de impacto SL, que busca dar cuenta de las condiciones de contexto, se evaluó en función de la tipología municipal del DNP [8] y de si el municipio cuenta o no con una microzonificación sísmica, siguiendo este procedimiento:
+En donde v(cs) es la tasa de excedencia del coeficiente de diseño, μ es una tasa de descuento y SL es el factor de impacto asociado al contexto socioeconómico en que ocurren las pérdidas por sismos. Según lo recomendado por Salgado et al. [[5]](#ref-5) la tasa de descuento se fija en un 5%. El factor de impacto SL, que busca dar cuenta de las condiciones de contexto, se evaluó en función de la tipología municipal del DNP [[8]](#ref-8) y de si el municipio cuenta o no con una microzonificación sísmica, siguiendo este procedimiento:
 
 Si el municipio es categoría A (la más alta) se clasifica como de Nivel I con un factor de impacto SL = 5. 
 
@@ -487,20 +487,20 @@ Omar Darío Cardona
 
 ## 1.12 BIBLIOGRÁFIA
 
-American Society of Civil Engineers. *Minimum Design Loads for Buildings and Other Structures*. ASCE 7 - 10/16. 
+<div id="ref-1">1. American Society of Civil Engineers. *Minimum Design Loads for Buildings and Other Structures*. ASCE 7 - 10/16.</div>
 
-Luco, N., Ellingwood, B., Hamburger, R.O., Hooper, J.D., Kimball, J.K, and Kircher, C. (2007). Risk-targeted versus current seismic design maps for the conterminous United States. *SEAOC 2007 Convention Proceedings*.
+<div id="ref-2">2. Luco, N., Ellingwood, B., Hamburger, R.O., Hooper, J.D., Kimball, J.K, and Kircher, C. (2007). Risk-targeted versus current seismic design maps for the conterminous United States. *SEAOC 2007 Convention Proceedings*.</div>
 
-Esteva, L. (1967). Criterios para la construcción de espectros para diseño sísmico. *Tercer Simposio Panamericano de Estructuras.* Universidad Central de Venezuela. Caracas.
+<div id="ref-3">3. Esteva, L. (1967). Criterios para la construcción de espectros para diseño sísmico. *Tercer Simposio Panamericano de Estructuras.* Universidad Central de Venezuela. Caracas.</div>
 
-Rosenblueth E. (1976). Optimum design for infrequent disturbances. *Journal of the Structural Division ST9*, 1807-1825.
+<div id="ref-4">4. Rosenblueth E. (1976). Optimum design for infrequent disturbances. *Journal of the Structural Division ST9*, 1807-1825.</div>
 
-Salgado, M., Ordaz, M., Cardona, O.D. (2017). Coeficientes de diseño sismo resistente óptimos para Colombia. *VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla.
+<div id="ref-5">5. Salgado, M., Ordaz, M., Cardona, O.D. (2017). Coeficientes de diseño sismo resistente óptimos para Colombia. *VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla.</div>
 
-Salgado, M., Ordaz, M., Singh, K.S., Cardona, O.D., Reinoso, E., Aguado, A., Zuloaga, D., Huerta, B., Bernal, G. (2018). Homogeneous and Continous Probabilistic Seismic Hazard Model for Latin America and The Caribbean. *16th European Conference on Earthquake Engineering*. Tessalonniki.
+<div id="ref-6">6. Salgado, M., Ordaz, M., Singh, K.S., Cardona, O.D., Reinoso, E., Aguado, A., Zuloaga, D., Huerta, B., Bernal, G. (2018). Homogeneous and Continous Probabilistic Seismic Hazard Model for Latin America and The Caribbean. *16th European Conference on Earthquake Engineering*. Tessalonniki.</div>
 
-Ordaz, M., Martinelli F., Aguilar, A., Arboleda, J., Meletti, C., D'Amico, V. (2018). R-CRISIS. Program for computng seismic hazard. 
+<div id="ref-7">7. Ordaz, M., Martinelli F., Aguilar, A., Arboleda, J., Meletti, C., D'Amico, V. (2018). R-CRISIS. Program for computng seismic hazard.</div>
 
-Departamento Nacional de Planeación. (2015). *Tipologías Departamentales y Municipales: Una propuesta para comprender las entidades territoriales colombianas*. Dirección de Desarrollo Territorial Sostenible. Grupo de Estudios Territoriales. Recuperado de https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/2015may28%20Tipologias.pdf
+<div id="ref-8">8. Departamento Nacional de Planeación. (2015). *Tipologías Departamentales y Municipales: Una propuesta para comprender las entidades territoriales colombianas*. Dirección de Desarrollo Territorial Sostenible. Grupo de Estudios Territoriales. Recuperado de https://colaboracion.dnp.gov.co/CDT/Estudios%20Econmicos/2015may28%20Tipologias.pdf</div>
 
 **2**
