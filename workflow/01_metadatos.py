@@ -191,13 +191,11 @@ def extract_original_affiliations(fpath, current_yaml, current_body):
         for aut in current_authors:
             aff_val = aut.get("affiliation", "")
             if aff_val:
-                parts = [p.strip() for p in aff_val.split(";") if p.strip()]
-                for part in parts:
-                    m = re.match(r'^\^([^^]+)\^(.*)$', part)
-                    if m:
-                        num = m.group(1)
-                        text = m.group(2).strip()
-                        affiliations[num] = text
+                matches = re.finditer(r'\^([^^]+)\^(.*?)(?=\s*\^[^^]+\^|$)', aff_val, re.DOTALL)
+                for m in matches:
+                    num = m.group(1)
+                    text = m.group(2).strip().strip(";").strip()
+                    affiliations[num] = text
 
     return affiliations
 
@@ -428,11 +426,27 @@ def process_chapters(author_map):
 
         # 5. Transformación de Cajas de Información (.caja-box -> callouts)
         box_counter = 0
+        cuadro_counter = 0
         def replace_box(match):
-            nonlocal box_counter
-            box_counter += 1
+            nonlocal box_counter, cuadro_counter
             inner_content = match.group(1).strip()
             
+            # Si inicia con "Cuadro", transformarlo en callout de Cuadro
+            if re.match(r'^\s*\*?\*?[Cc]uadro', inner_content):
+                cuadro_counter += 1
+                cuadro_match = re.match(r'^\s*\*\*?[Cc]uadro\s+(\d+)\.?\s*\*?\*?(.*)', inner_content, re.DOTALL)
+                if cuadro_match:
+                    cuadro_num = cuadro_match.group(1)
+                    rest = cuadro_match.group(2).strip()
+                else:
+                    cuadro_num = str(cuadro_counter)
+                    rest = inner_content
+                new_cuadro = f'::: {{#cuadro-box-{cuadro_counter} .callout-important style="background-color: #f5f5f5ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+                new_cuadro += f'**Cuadro {cuadro_num}.** {rest}\n'
+                new_cuadro += ':::'
+                return new_cuadro
+            
+            box_counter += 1
             caja_match = re.match(r'^\s*\*\*[Cc]aja\s+(\d+)\.?\s*\*\*(.*)', inner_content, re.DOTALL)
             if caja_match:
                 caja_num = caja_match.group(1)
@@ -446,8 +460,49 @@ def process_chapters(author_map):
             new_box += ':::'
             return new_box
 
+        def replace_cuadro_only(match):
+            nonlocal cuadro_counter
+            inner_content = match.group(1).strip()
+            cuadro_counter += 1
+            cuadro_match = re.match(r'^\s*\*\*?[Cc]uadro\s+(\d+)\.?\s*\*?\*?(.*)', inner_content, re.DOTALL)
+            if cuadro_match:
+                cuadro_num = cuadro_match.group(1)
+                rest = cuadro_match.group(2).strip()
+            else:
+                cuadro_num = str(cuadro_counter)
+                rest = inner_content
+            new_cuadro = f'::: {{#cuadro-box-{cuadro_counter} .callout-important style="background-color: #f5f5f5ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_cuadro += f'**Cuadro {cuadro_num}.** {rest}\n'
+            new_cuadro += ':::'
+            return new_cuadro
+
         box_pattern = re.compile(r':::\s*\{\s*\.caja-box\s*\}\s*\n(.*?)\n:::', re.DOTALL)
         body_to_process = box_pattern.sub(replace_box, body_to_process)
+
+        cuadro_pattern = re.compile(r':::\s*\{\s*\.cuadro-box\s*\}\s*\n(.*?)\n:::', re.DOTALL)
+        body_to_process = cuadro_pattern.sub(replace_cuadro_only, body_to_process)
+
+        def replace_cuadro_tabla(match):
+            nonlocal cuadro_counter
+            cuadro_counter += 1
+            content = match.group(1).strip()
+            # Aislar el número y el resto del contenido
+            m_num = re.match(r'^[Cc]uadro\s+(\d+)\.?\s*(.*)', content, re.DOTALL)
+            if m_num:
+                num = m_num.group(1)
+                rest = m_num.group(2).strip()
+            else:
+                num = str(cuadro_counter)
+                rest = content
+                
+            new_callout = f'::: {{#cuadro-box-{cuadro_counter} .callout-important style="background-color: #f5f5f5ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}}\n'
+            new_callout += f'**Cuadro {num}.** {rest}\n'
+            new_callout += ':::'
+            return new_callout
+
+        # Regex para atrapar la tabla de 1 fila y 1 columna que inicia con Cuadro
+        cuadro_tabla_pattern = re.compile(r'^\|\s*(Cuadro\s+\d+\..*?)\s*\|\s*\n^\|\s*---\s*\|\s*$', re.IGNORECASE | re.MULTILINE | re.DOTALL)
+        body_to_process = cuadro_tabla_pattern.sub(replace_cuadro_tabla, body_to_process)
 
         # 5.1 Transformación de Puntos Clave (lila claro)
         puntos_counter = 0
@@ -515,20 +570,40 @@ def process_chapters(author_map):
         h3_counter = 0
         
         for line in lines:
+            stripped_line = line.strip()
+            clean_bold = stripped_line.strip('*').strip()
+            cleaned_upper = clean_bold.upper()
+            
+            # Lista estricta de términos de cierre especiales (cubriendo singular y plural)
+            is_special_term = cleaned_upper in [
+                "CONFLICTO DE INTERESES", "AGRADECIMIENTOS", 
+                "IDENTIFICACIÓN DE AUTORES", "IDENTIFICACION DE AUTORES", 
+                "IDENTIFICACIÓN DE AUTOR", "IDENTIFICACION DE AUTOR", 
+                "IDENTIFICACIÓN DEL AUTOR", "IDENTIFICACION DEL AUTOR",
+                "BIBLIOGRAFÍA", "BIBLIOGRAFIA"
+            ]
+            
+            # PASO A: Promover textos en negrita aislados a encabezados H2 reales
+            if stripped_line.startswith("**") and stripped_line.endswith("**") and is_special_term:
+                line = f"## {cleaned_upper}"
+            
             if line.startswith("#"):
                 line_lower = line.lower()
                 
-                # Ignorar encabezados de Resumen o Abstract
+                # Ignorar encabezados de Resumen o Abstract (No se numeran)
                 if "resumen" in line_lower or "abstract" in line_lower:
                     new_lines.append(line)
                     continue
                 
                 # Nivel H2 (##)
                 if line.startswith("## "):
+                    # Ahora TODOS los títulos H2 válidos incrementan secuencialmente
                     h2_counter += 1
                     h3_counter = 0
+                    
                     line_clean = re.sub(r'\s*\{\s*\.unnumbered\s*\}', '', line)
                     cleaned_title = re.sub(r'^##\s*(?:\d+(?:\.\d+)*\.?\s*)?', '', line_clean).strip()
+                    
                     new_line = f"## {chap_num}.{h2_counter} {cleaned_title}"
                     new_lines.append(new_line)
                 
