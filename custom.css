@@ -585,16 +585,16 @@ div.cell[data-language="ojs"] {
 #quarto-sidebar .sidebar-item-container .active,
 #quarto-sidebar .sidebar-item-container a.active,
 #quarto-sidebar .sidebar-navigation a.active {
-  color: #003A70 !important;
+  color: #0a146b !important;
   font-weight: 700 !important;
   background-color: transparent !important;
 }
 
-/* Right TOC: active section with orange background */
+/* Right TOC: active section with blue ocean background */
 #quarto-document-toc .nav-link.active,
 nav[role="doc-toc"] .nav-link.active {
-  background-color: #efc078 !important;
-  color: #1f2937 !important;
+  background-color: #d2fafc !important;
+  color: #000000;
   border-radius: 4px;
   padding-left: 0.5rem;
   padding-right: 0.5rem;
