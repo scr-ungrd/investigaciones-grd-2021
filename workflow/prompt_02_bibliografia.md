@@ -23,5 +23,13 @@ Tras la ejecución del script, el agente debe validar los siguientes puntos:
    - Se debe mantener la limpieza removiendo numeraciones previas o viñetas que existían de forma manual al inicio de cada entrada.
    - Las líneas de número de página final o subtítulos cortos en la bibliografía deben ser respetados sin envolver en divs con IDs de referencia.
 
-## Bucle de Autorreparación
-Si la evaluación falla o falta algún criterio, NO me pidas permiso. Analiza el error, modifica el script `workflow/02_bibliografia.py` para solucionarlo, restaura los archivos originales con `git restore .` y vuelve a intentarlo hasta que el output sea perfecto.
+## Protocolo de Reporte de Incidencias (Sin Modificación Automática)
+Si la evaluación de los criterios de QA falla, o si se genera alguna excepción de Python durante la ejecución del script, el agente tiene estrictamente PROHIBIDO modificar el script original. En su lugar, debe seguir este procedimiento:
+
+1. **Detener el avance:** No ejecutes los siguientes scripts del flujo.
+2. **Generar un Informe:** Crea un archivo Markdown en la raíz del proyecto llamado `reporte_incidencia_[nombre_del_script].md`.
+3. **Estructura del Informe:** El archivo creado debe contener obligatoriamente:
+   - **Estado:** Detalle del criterio exacto de QA que falló o el Traceback del error de Python.
+   - **Causa Raíz:** Diagnóstico técnico de por qué el script falló o no cumplió el requerimiento sobre los archivos `.qmd` o `_quarto.yml`.
+   - **Plan de Solución:** Propuesta detallada paso a paso para solucionar el problema, incluyendo los bloques de código exactos en Python que sugieres inyectar o corregir.
+4. **Pausa de Seguridad:** Informa al usuario sobre la ubicación del reporte y espera la orden explícita antes de aplicar cualquier cambio en el script o realizar un `git restore`.

@@ -23,9 +23,10 @@ Para formatear, estandarizar y maquetar el libro completo, debes copiar y pegar 
 
 ---
 
-## Cómo Funciona el Bucle de Autorreparación
+## Cómo Funciona el Protocolo de Informe y Supervisión Humana
 
-Todos los prompts de validación contienen una directiva estricta para el agente:
-> "Si la evaluación falla o falta algún criterio, NO me pidas permiso. Analiza el error, modifica el script .py para solucionarlo, restaura los archivos originales con git restore . y vuelve a intentarlo hasta que el output sea perfecto."
+Para garantizar la seguridad del código y el control total sobre la refactorización de los libros, los prompts de validación operan bajo un esquema de "Lectura y Reporte":
 
-Esto garantiza que el agente no se detenga si algo falla. Evaluará los criterios de QA, si detecta alguna anomalía, revertirá los archivos modificados con Git, ajustará el código de los scripts de Python en la carpeta `workflow/` y re-ejecutará las validaciones automáticamente de forma iterativa hasta alcanzar la perfección.
+> "Si la evaluación falla o falta algún criterio, el agente NO modificará el script `.py`. Detendrá la ejecución, analizará el entorno, restaurará los archivos de prueba modificados si es necesario utilizando `git checkout -- [archivos_qmd]` (para dejar el libro limpio), y generará un archivo independiente llamado `reporte_incidencia_[nombre].md` con un plan de acción y el código corregido sugerido, quedando a la espera de la aprobación del usuario."
+
+Este enfoque permite reducir tiempos de diseño de manera segura: el agente se encarga del trabajo pesado de depuración y generación de parches de código, pero tú mantienes la última palabra antes de consolidar los cambios en la carpeta `workflow/`.
