@@ -408,21 +408,21 @@ Unidades Geológicas: Corporación Regional CORANTIOQUIA, IGAC–Ingeominas. Pla
 
 Parámetros geotécnicos: Bases de datos de los proyectos de la Universidad de Medellín. 
 
-**CONFLICTO DE INTERESES**
+## 10.7 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-## 10.7 AGRADECIMIENTOS
+## 10.8 AGRADECIMIENTOS
 
 Los autores agradecen a la Universidad de Medellín y a Corantioquia por el apoyo en la realización de la investigación que dio pie a este estudio.
 
-## 10.8 IDENTIFICACIÓN DEL AUTOR
+## 10.9 IDENTIFICACIÓN DEL AUTOR
 
 Cesar Hidalgo 	
 
 Johnny Vega		
 
-## 10.9 BIBLIOGRAFÍA
+## 10.10 BIBLIOGRAFÍA
 
 <div id="ref-1">1. Jibson, R. W., Harp, E. L., & Michael, J. A. (1998). A method for producing digital probabilistic seismic landslide hazard maps. *Engineering Geology*, 58, 271-289.</div>
 

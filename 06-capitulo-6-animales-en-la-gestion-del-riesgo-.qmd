@@ -415,7 +415,7 @@ En Colombia se encuentra una gran variedad de especies; entre animales silvestre
 
 Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores. 
 
-**CONFLICTO DE INTERESES**
+## 6.8 CONFLICTO DE INTERESES
 
 Los autores declaran no tener conflicto de interés.
 
@@ -431,7 +431,7 @@ Rodrigo Forero Carrillo
 
 Gonzalo Jiménez Alonso			 
 
-## 6.8 BIBLIOGRAFÍA
+## 6.9 BIBLIOGRAFÍA
 
 <div id="ref-1">1. Barrett A., & Osofsky S. (2014). *Unprecedented challenges, holistic solutions. One Health: Interdependence of People, Other Species and the Planet*. New York: Cambridge University Press, págs. 364-365.</div>
 

@@ -229,11 +229,11 @@ Finalmente, la comunicación del riesgo y las estrategias comunicativas son defi
 ::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Puntos clave.** La comunicación del riesgo debe propender por construir, no sólo mayores niveles de consciencia social y política sobre los riesgos, sino una mayor simetría en la distribución global del riesgo.  La comunicación del riesgo no se puede separar artificialmente de aspectos como su visibilización, significación y percepción social de la gestión de la confianza institucional y social o nivel de indignación que se construye, y como producto de todas las anteriores, de la regulación que se produzca.  La comunicación del riesgo no puede ser efectiva sin una comprensión integral de cómo perciben, sienten, ponderan y evalúan los riesgos, los individuos, y cuáles son los factores que determinan la variación de la percepción del riesgo, sujeto a sujeto, comunidad por comunidad.  La comunicación del riesgo debe propiciar la formación de sujetos activos capaces de valorar la información disponible para formar juicios bien equilibrados, de acuerdo con la evidencia de los hechos, el peso de los diversos argumentos y sus propias necesidades, intereses y expectativas. El objetivo final de la comunicación de riesgos es reconciliar la experiencia, los intereses y las preferencias públicas, con las realidades políticas e institucionales de la sociedad, para así coadyuvar en la construcción de comunidades más informadas y conscientes y situaciones territoriales más equitativas y seguras. Es imprescindible que las diversas autoridades públicas incorporen en los procesos de comunicación del riesgo estrategias comunicativas participativas, plurales, contextuales y democráticas, donde se reconozcan y validen experiencias, saberes e intereses de las comunidades.
 :::
-**CONFLICTO DE INTERESES**
+## 8.5 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-**IDENTIFICACIÓN DEL AUTOR**
+## 8.6 IDENTIFICACIÓN DEL AUTOR
 
 Javier Thomas 	
 

@@ -187,17 +187,17 @@ Además, es relevante quitar la brecha entre la teoría y la práctica, el conoc
 ::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Puntos clave.** En la erosión costera existen causas locales, regionales y globales. Usualmente las causas globales se relacionan con el aumento de nivel del mar y probablemente con alteraciones de otros parámetros del sistema climático de la Tierra. Las causas locales y regionales generalmente se deben a las intervenciones de los sistemas marítimos y fluviales mediante estructuras costeras, las cuales pueden tener un propósito para protección o aprovechamiento del litoral. Una obra de protección mal diseñada puede causar erosión en las áreas adyacentes a ella. A lo largo de las costas del Caribe colombiano se ubican varias construcciones con diferentes fines, que causan impactos negativos de retroceso de la costa a mediano y largo plazo, comparables con el efecto paulatino de aumento del nivel del mar. Con el fin de tomar decisiones más acertadas sobre la gestión de riesgos costeros, se debe contar con la participación de personal capacitado, herramientas científicas y capacidades tecnológicas, específicamente enfocadas en esta problemática.
 :::
-**CONFLICTO DE INTERESES**
+## 12.4 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
-**IDENTIFICACIÓN DE AUTOR**
+## 12.5 IDENTIFICACIÓN DE AUTOR
 
 Serguei Lonin      
 
 Julio Monroy       
 
-## 12.4 BIBLIOGRAFÍA
+## 12.6 BIBLIOGRAFÍA
 
 <div id="ref-1">1. Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. https://doi.org/10.1029/91JC00064</div>
 

@@ -400,15 +400,15 @@ Posteriormente, en cada sitio critico se realizaron modelos conceptuales de alte
 
 **Figura 16.** Esquema metodológico propuesto como modelo de gestión del riesgo para la erosión costera.
 
-**CONFLICTO DE INTERESES**
+## 13.8 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses
 
-**AGRADECIMIENTOS**
+## 13.9 AGRADECIMIENTOS
 
 A la Corporación Autónoma Regional de los Valles del Sinú y San Jorge – CVS, Córdoba, bajo los convenios 020 de 2015, 022 de 2017 y 022 de 2018. A los investigadores del programa de Geociencias Marinas y Costeras que han participado en la investigación de la zona costera del departamento de Córdoba en especial Ana Caicedo, Mauricio Bejarano Espinosa, Cesar García Llano, Juan Sebastián Ponce Bastidas, Silvio Andrés Ordóñez Zúñiga y Karla Vanessa Castro Ramírez, quienes aportaron a la propuesta y análisis de las alternativas. A las comunidades y entes territoriales de los municipios costeros del departamento y a los funcionarios de la CVS que han aportado a la adquisición de información durante de las salidas de campo dentro de la ejecución de los convenios. El numero de contribución del INVEMAR es 1264.
 
-**IDENTIFICACIÓN DE AUTOR**
+## 13.10 IDENTIFICACIÓN DE AUTOR
 
 Oswaldo Coca Domínguez	
 
@@ -416,7 +416,7 @@ Constanza Ricaurte Villota
 
 David F. Morales Giraldo	
 
-## 13.8 BIBLIOGRAFÍA
+## 13.11 BIBLIOGRAFÍA
 
 <div id="ref-1">1. Martínez-Iglesias, J. C., Areces, A. J., Quintana, M., Viña, L., Zúñiga, A., y Beyris, A. (2007). Lineamientos metodológicos para la gestión integrada de la zona marina–costera (GIZMC) Cuba. *Serie Oceanológica*, (3), 1–37.</div>
 

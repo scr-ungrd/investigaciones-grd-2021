@@ -732,11 +732,11 @@ Para la evaluación del riesgo de sequía, la pérdida  $p$  en la Ecuación (11
 
 en donde  $Pi$  es la pérdida económica para el escenario  $i$ ,  $A$  es el área de la unidad de tierra cultivada,  $PV$  es la valoración económica del cultivo,  $Yx$   es el rendimiento máximo (calculado bajo condiciones óptimas) y  $Yi$  es el rendimiento para el escenario  $i$  bajo condiciones de déficit hídrico. 
 
-**CONFLICTO DE INTERESES**
+## 3.10 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
-## 3.10 IDENTIFICACIÓN DEL AUTOR
+## 3.11 IDENTIFICACIÓN DEL AUTOR
 
 Omar Darío Cardona 		
 
@@ -744,7 +744,7 @@ Gabriel Bernal
 
 María Alejandra Escovar  	https://scholar.google.com/citations?hl=en&user=Ac5JYNoAAAAJ
 
-## 3.11 BIBLIOGRÁFIA
+## 3.12 BIBLIOGRÁFIA
 
 <div id="ref-1">1. Wilhite, D. A. (1993). The Enigma of Drought. En: D. A. Wilhite (ed.), *Drought Assessment, Management, and Planning: Theory and Case Studies*. Boston, MA: Springer US; pp. 3-15.  https://doi.org/10.1007/978-1-4615-3224-8_1</div>
 

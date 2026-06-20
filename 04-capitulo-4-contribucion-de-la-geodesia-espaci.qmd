@@ -439,15 +439,15 @@ Los estudios de geodesia de imágenes basados en InSAR para la ciudad de Bogotá
 ::: {#retos-1 .callout-important style="background-color: #eafaf1ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Retos.** Se recomienda la utilización de las señales de las constelaciones GNSS con propósitos múltiples tales como estudios ionosféricos, troposféricos y de nivel del mar, así como ampliar los análisis de fenómenos en la superficie terrestre de origen geológico empleando las técnicas de interferometría de radar de apertura sintética.
 :::
-**CONFLICTO DE INTERESES**
+## 4.5 CONFLICTO DE INTERESES
 
 Los autores no declaran conflicto de intereses.
 
-**AGRADECIMIENTOS**
+## 4.6 AGRADECIMIENTOS
 
 Al Servicio Geológico Colombiano por su apoyo en el desarrollo de GeoRED y en las aplicaciones de interferometría de radar de apertura sintética. A JICA por su contribución en el marco del proyecto SATREPS. A UNAVCO por el apoyo técnico y conceptual en las operaciones GPS del proyecto GeoRED. A CENICAÑA, Universidad Nacional de Colombia, Área Metropolitana del Valle de Aburrá y Empresa de Acueducto de Bogotá por su contribución en la expansión de GeoRED. A la Aeronáutica Civil, Fuerza Aérea Colombiana, Armada Nacional y DIMAR por su valioso apoyo para la instalación y puesta en operación de estaciones geodésicas permanentes GNSS. A Franck Audemard y un revisor anónimo, por sus valiosos comentarios y sugerencias que permitieron mejorar el artículo.
 
-**IDENTIFICACIÓN DE AUTORES**
+## 4.7 IDENTIFICACIÓN DE AUTORES
 
 Héctor Mora Páez 		
 
@@ -459,7 +459,7 @@ Yuli Corchuelo Cuervo
 
 Leidy Giraldo Londoño	
 
-## 4.5 BIBLIOGRAFÍA
+## 4.8 BIBLIOGRAFÍA
 
 <div id="ref-1">1. Plag, H. & Pearlman, M. (Eds) (2009). *Global Geodetic Observing System: Meeting the Requirements of a Global Society on a Changing Planet in 2020*. Springer, Berlin, Heidelberg.</div>
 
