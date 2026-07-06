@@ -61,7 +61,7 @@ En este capítulo se presenta la metodología aplicada a un caso de estudio en l
 
 
 
-![](media/img_873d26d6.png)
+![](images/capitulo_10/img_873d26d6.png)
 
 **Figura 1.** Pérdida de vidas (**A**) y daño a propiedades (**B**) por diversos fenómenos naturales en el Valle de Aburrá entre 1880–2007 (adaptado de [[19]](#ref-19)).
 
@@ -104,7 +104,7 @@ Para ampliar la información y obtener un análisis más concluyente sobre la oc
 
 
 
-![](media/img_b7c4546c.png)
+![](images/capitulo_10/img_b7c4546c.png)
 
 **Figura 2**. Registros de movimientos en masa para el departamento de Antioquia (Desinventar) (**A**). Distribución mensual de los movimientos en masa en Antioquia (**B**). Distribución de movimientos en masa en Antioquia por regiones (excluyendo el Valle de Aburrá) (**C**). Distribución mensual de movimientos en masa en el Suroeste (**D**). Movimientos en masa por municipios del Suroeste (**E**).
 
@@ -123,7 +123,7 @@ En el proceso de estimación de la amenaza, se calculan los factores de segurida
 
 
 
-![](media/img_c0ca8446.png)
+![](images/capitulo_10/img_c0ca8446.png)
 
 **Figura 3.** Resultados del factor de seguridad (*FS*) en condición saturada estática para la cuenca del río San Juan (**A**). Se hace un zoom sobre la quebrada La Liboriana para presentar y detallar los resultados del factor de seguridad en condición húmeda estática (*FSHE*) (**B**) y en condición saturada estática (*FSSE*) (**C**).
 
@@ -137,7 +137,7 @@ Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se 
 
 
 
-![](media/img_d547d17b.png)
+![](images/capitulo_10/img_d547d17b.png)
 
 **Figura 4.** Resultados de probabilidad total de falla en la cuenca del río San Juan (**A**). Vulnerabilidad (en término de “Intensidad”) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**B**). Riesgo anual ($) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**C**).
 
@@ -251,7 +251,7 @@ donde *R* es el riesgo, *P[T]* es la amenaza entendida como la probabilidad de q
 
 
 
-![](media/img_42bfd6d2.png)
+![](images/capitulo_10/img_42bfd6d2.png)
 
 **Figura 5. **Presentación esquemática del modelo de análisis de riesgo.
 
@@ -269,7 +269,7 @@ Donde *P**fs* es la probabilidad de falla del talud debido a la acción de un si
 
 
 
-![](media/img_c7828477.png)
+![](images/capitulo_10/img_c7828477.png)
 
 **Figura 6. **Esquema de la metodología adoptada para la evaluación de la amenaza.
 
@@ -305,13 +305,13 @@ donde *h**i* es la altura que puede ser generada por cada celda inestable. El pr
 
 
 
-![](media/img_f335bd36.png)
+![](images/capitulo_10/img_f335bd36.png)
 
 **Figura 7**. Esquema adoptado para el cálculo de la altura de depositación del movimiento en masa (*h**T*).
 
 
 
-![](media/img_5705655c.png)
+![](images/capitulo_10/img_5705655c.png)
 
 **Figura 8.** Esquema adoptado para el cálculo de la vulnerabilidad cuencas/cauces.
 
@@ -325,7 +325,7 @@ Donde:
 
 
 
-![](media/img_b5d4eb6b.jpeg)
+![](images/capitulo_10/img_b5d4eb6b.jpeg)
 
 **Figura 9. **Ejemplo de curva de daño para la afectación de una quebrada.
 
@@ -371,7 +371,7 @@ $R=PAF×PEP$ 						(10)
 
 
 
-![](media/img_631cf92f.png)
+![](images/capitulo_10/img_631cf92f.png)
 
 **Figura 10.** Esquema metodología adoptada para la evaluación del riesgo
 
@@ -386,7 +386,7 @@ Para el desarrollo y explicación de la metodología propuesta, se tomó como ca
 
 
 
-![](media/img_1f5ca9ae.png)
+![](images/capitulo_10/img_1f5ca9ae.png)
 
 **Figura 11. **Localización del área en estudio (Cuenca río San Juan).
 
