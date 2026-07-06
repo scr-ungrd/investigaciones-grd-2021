@@ -64,7 +64,7 @@ El Departamento de Córdoba tiene 172.67 km de línea de costa (WGS-1984-UTM) so
 
 
 
-![](media/img_487c95c7.jpeg)
+![](images/capitulo_13/img_487c95c7.jpeg)
 
 El corregimiento de Santander de la Cruz hace parte del municipio de Moñitos (Córdoba) y se encuentra entre la punta Coquito y la punta de la Cruz o del Cementerio (Fig. 2). El acceso al corregimiento es por una vía destapada de 9 km desde la entrada sur de la cabecera municipal de Moñitos. El paisaje lo conforman un mosaico de cultivos de plátano, palmas de coco, pastos y bosques.
 
@@ -72,7 +72,7 @@ El corregimiento de Santander de la Cruz hace parte del municipio de Moñitos (C
 
 
 
-![](media/img_a27475b3.jpeg)
+![](images/capitulo_13/img_a27475b3.jpeg)
 
 ## 13.2 LINEAMIENTOS PARA LA GESTIÓN DEL RIESGO POR EROSIÓN COSTERA (PLAN DE ACCIÓN 2016 – 2020, DEPARTAMENTO DE CÓRDOBA)
 
@@ -109,7 +109,7 @@ El plan de acción y los lineamientos se integraron bajo un esquema conceptual (
 
 
 
-![](media/img_dbd3dfa0.png)
+![](images/capitulo_13/img_dbd3dfa0.png)
 
 **Figura 3.** Esquema conceptual de los lineamientos para la gestión del riesgo por erosión costera.
 
@@ -125,11 +125,11 @@ En cuanto la vulnerabilidad de la población y los ecosistemas por erosión, la 
 
 
 
-![](media/img_a6f8ab8d.jpeg)
+![](images/capitulo_13/img_a6f8ab8d.jpeg)
 
 
 
-![](media/img_e155e1b2.jpeg)
+![](images/capitulo_13/img_e155e1b2.jpeg)
 
 **Figura 4.** Mapas de amenaza (arriba) y vulnerabilidad (abajo) por erosión costera en el departamento de Córdoba. Modificado de Ricaurte-Villota *et al*. [[4]](#ref-4). Con permiso de modificación. 
 
@@ -160,7 +160,7 @@ Las variaciones se midieron empleando la extensión Digital Shoreline Analysis S
 
 
 
-![](media/img_d38d2bab.png)
+![](images/capitulo_13/img_d38d2bab.png)
 
 **Figura 5.** Cambios en línea de costa tendenciales para las zonas de monitoreo del departamento. (**a**) Minuto de Dios y Puerto Rey, (**b**) playa El Bolivitar, (**c**) playa Brisas del Caribe, (**d**) Moñitos, (**e**) La Rada, (**f**) La Y, (**g**) Brisas del Mar, (**h**) Los Tambos, (**i**) Santander de la Cruz. Clasificación: Muy Alta (LRR<-1 m/año), Alta (-1>LRR<-0.5), Estable (-0.5<LRR>0.5) y Acreción (LRR>0.5).
 
@@ -223,7 +223,7 @@ Debido a la proximidad de las casas con el mar, se hace necesario un plan de reu
 
 
 
-![](media/img_ad8a7835.png)
+![](images/capitulo_13/img_ad8a7835.png)
 
 **Figura 6.** Estado identificado (2017) de zona costera de Santander de la Cruz (a) y Modelo conceptual de las alternativas para el control de la erosión costera en Santander de la Cruz (b). 
 
@@ -249,11 +249,11 @@ A partir del estudio de cambios en la línea de costa entre los años 1981 y 201
 
 
 
-![](media/img_66c360b3.jpeg)
+![](images/capitulo_13/img_66c360b3.jpeg)
 
 
 
-![](media/img_3f54b92a.jpeg)
+![](images/capitulo_13/img_3f54b92a.jpeg)
 
 **Figura 7.** Mapa de tendencia de evolución de línea de costa y proyección a 10 años (2028) (izquierda).  Mapa de uso y estado de las viviendas, divido espacialmente en cuatro grupos (A, B, C y D) (derecha).
 
@@ -265,7 +265,7 @@ La Punta de la Cruz ha retrocedido desde 1981 una distancia de 170.20 m con una 
 
 
 
-![](media/img_d117efa0.jpeg)
+![](images/capitulo_13/img_d117efa0.jpeg)
 
 **Figura 8.** Modelos de elevación y pendiente en el sector acantilado de Punta de la Cruz.
 
@@ -279,7 +279,7 @@ En Santander de La Cruz la arena es también una materia prima cuyo uso es desti
 
 
 
-![](media/img_c6ab8920.png)
+![](images/capitulo_13/img_c6ab8920.png)
 
 **Figura 9.** Mapas de distribución de parámetros estadísticos de sedimentos: Media (**a**), Selección (**b**), Simetría (**c**), Curtosis (**d**) (+ estaciones de muestreo).
 
@@ -306,7 +306,7 @@ El comportamiento del oleaje a partir de la serie sintética de la boya virtual 
 
 
 
-![](media/img_b785a172.png)
+![](images/capitulo_13/img_b785a172.png)
 
 **Figura 10.** Nivel del agua y dirección de procedencia del oleaje durante los días 24 al 26 de julio de 2018.
 
@@ -318,7 +318,7 @@ Los resultados obtenidos al analizar los años 2012 a 2018 muestran que los mang
 
 
 
-![](media/img_6813cd38.png)
+![](images/capitulo_13/img_6813cd38.png)
 
 **Figura 11.** Coberturas de manglar en los años 2012 (izquierda) y 2018 (derecha); muestran que los manglares de Santander de la Cruz, se reducen por efecto del aumento de la frontera agrícola que ocurre en el área. 
 
@@ -326,11 +326,11 @@ La temperatura del agua fluctuó entre 29.70 y 33.80 °C y la salinidad entre 24
 
 
 
-![](media/img_9418273e.jpeg)
+![](images/capitulo_13/img_9418273e.jpeg)
 
 
 
-![](media/img_1107668c.jpeg)
+![](images/capitulo_13/img_1107668c.jpeg)
 
 **Figura 12.** Boca del arroyo Culebra y quebrada San Martín.
 
@@ -347,13 +347,13 @@ En el modelo batimétrico y el perfil transversal se puede observar una franja r
 
 
 
-![](media/img_a37a0986.png)
+![](images/capitulo_13/img_a37a0986.png)
 
 **Figura 13.** Modelo batimétrico para Santander de la Cruz.
 
 
 
-![](media/img_c35b3810.png)
+![](images/capitulo_13/img_c35b3810.png)
 
 **Figura 14.** Perfil en el área central del área de estudio, nótese la elevación de la franja rocosa a aproximadamente 400 m de la línea de costa.
 
@@ -366,7 +366,7 @@ Se encontró que no es posible hacer siembra de corales en la bahía, ya que la 
 
 
 
-![](media/img_15d26ebc.png)
+![](images/capitulo_13/img_15d26ebc.png)
 
 **Figura 15.** Concentración de SST (mg/l) en la bahía frente a Santander de la Cruz.
 
@@ -396,7 +396,7 @@ Posteriormente, en cada sitio critico se realizaron modelos conceptuales de alte
 
 
 
-![](media/img_db113b67.png)
+![](images/capitulo_13/img_db113b67.png)
 
 **Figura 16.** Esquema metodológico propuesto como modelo de gestión del riesgo para la erosión costera.
 
