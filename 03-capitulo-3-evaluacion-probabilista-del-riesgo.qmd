@@ -76,7 +76,7 @@ La Figura 1 muestra el marco conceptual adoptado en esta metodología para la ev
 
 
 
-![](media/img_47157221.png)
+![](images/capitulo_3/img_47157221.png)
 
 **Figura 1.** Esquema general del modelo probabilista de evaluación de riesgo por sequía (Fuente: elaboración propia).
 
@@ -105,7 +105,7 @@ Sin embargo, la Probabilidad de detección de días con lluvia es de 0.77, la re
 
 
 
-![](media/img_0f13e8e9.png)
+![](images/capitulo_3/img_0f13e8e9.png)
 
 **Figura 30.** Comparación de registros de estación en tierra y registros CHIRPS en estación virtual (Fuente: elaboración propia).
 
@@ -117,7 +117,7 @@ La metodología propuesta utiliza un generador de clima sintético a partir de d
 
 
 
-![](media/img_8e28ef10.png)
+![](images/capitulo_3/img_8e28ef10.png)
 
 **Figura 31.** Proceso de generación de series sintéticas de precipitación y temperatura para identificación de eventos meteorológicos extremos (Fuente: elaboración propia).
 
@@ -125,7 +125,7 @@ En la Figura 4 se muestra un ejemplo, para el caso de Colombia, del ajuste del p
 
 
 
-![](media/img_b45fec2b.jpeg)
+![](images/capitulo_3/img_b45fec2b.jpeg)
 
 **Figura 32.** Promedio diario multianual de precipitación (arriba) y de temperatura media (abajo) para serie histórica (1981**–**2010) y serie sintética (1,000 años de simulación) (Fuente: elaboración propia).
 
@@ -168,7 +168,7 @@ El siguiente paso es identificar los eventos de sequía que ocurren simultáneam
 
 
 
-![](media/img_68a7dae7.jpeg)
+![](images/capitulo_3/img_68a7dae7.jpeg)
 
 **Figura 34.** Identificación de sequías regionales sobre las series de tiempo de todas las estaciones del área de estudio (Fuente: elaboración propia).
 
@@ -219,7 +219,7 @@ Esta metodología permite incluir las diferentes prácticas agrícolas que se re
 
 
 
-![](media/img_6636c0a1.png)
+![](images/capitulo_3/img_6636c0a1.png)
 
 **Figura 36.** Esquema de análisis de cultivos considerado en la generación del modelo de exposición (Fuente: elaboración propia).
 
@@ -227,7 +227,7 @@ Para la generación de los mapas de ubicación y área sembrada de cultivos se c
 
 
 
-![](media/img_39d384b6.jpeg)
+![](images/capitulo_3/img_39d384b6.jpeg)
 
 **Figura 37.** Localización y área de cultivos de maíz en Colombia (izquierda), en Antioquía (derecha arriba) y en Tolima (derecha abajo) (Fuente: elaboración propia).
 
@@ -237,7 +237,7 @@ Un parámetro de entrada específico para cada región de análisis y tipo de pl
 
 
 
-![](media/img_406286e6.png)
+![](images/capitulo_3/img_406286e6.png)
 
 **Figura 38.** Esquema de etapas de crecimiento de una planta (Fuente: elaboración propia).
 
@@ -286,7 +286,7 @@ Una vez se conocen las pérdidas de todos los escenarios, se calculan las tasas 
 
 
 
-![](media/img_daa21934.png)
+![](images/capitulo_3/img_daa21934.png)
 
 **Figura 39.** Diagrama de flujo para la metodología de evaluación de riesgo por sequía
 
@@ -308,7 +308,7 @@ Inicialmente se presentan los resultados para un evento de sequía en la Región
 
 
 
-![](media/img_f2bded16.png)
+![](images/capitulo_3/img_f2bded16.png)
 
 **Figura 40.** Caracterización de un evento de sequía en la Región Caribe de Colombia (elaboración propia).
 
@@ -316,7 +316,7 @@ La evaluación del riesgo se completó también a escala nacional, analizando lo
 
 
 
-![](media/img_2fb71896.png)
+![](images/capitulo_3/img_2fb71896.png)
 
 **Figura 41.** Curva de Pérdida Máxima Probable para el cultivo de Maíz en Colombia (Elaboración propia). 
 
@@ -324,7 +324,7 @@ Los resultados también se presentan distribuidos espacialmente en los mapas de 
 
 
 
-![](media/img_89e73bdb.png)
+![](images/capitulo_3/img_89e73bdb.png)
 
 **Figura 42.** Mapas de ubicación y densidad de área sembrada de maíz (izquierda) y de pérdida anual esperada relativa (derecha) de riesgo por sequía (Elaboración propia).
 
@@ -387,7 +387,7 @@ Luego de definir la distribución de probabilidad más apropiada para la precipi
 
 
 
-![](media/img_ef1b2489.png)
+![](images/capitulo_3/img_ef1b2489.png)
 
 **Figura 43.** Ajuste de distribuciones de probabilidad para registros históricos del 1ro enero para un punto de la malla de análisis: Temperatura media (izquierda) y precipitación total diaria (derecha) (Fuente: elaboración propia).
 
@@ -399,7 +399,7 @@ Como caso particular, para la generación estocástica de series de precipitaci�
 
 
 
-![](media/img_93d00dcc.png)
+![](images/capitulo_3/img_93d00dcc.png)
 
 **Figura 44.** Histograma para valores de precipitación registrados en día de temporada seca y un día en temporada de lluvias (Fuente: elaboración propia).
 
@@ -411,7 +411,7 @@ La Figura 17 muestra las funciones de densidad de probabilidad y de probabilidad
 
 
 
-![](media/img_d463195e.jpeg)
+![](images/capitulo_3/img_d463195e.jpeg)
 
 **Figura 45.** Funciones de densidad de probabilidad y probabilidad acumulada teniendo en cuenta p = 0 (Fuente: elaboración propia).
 
@@ -513,7 +513,7 @@ En donde  $B$  es la biomasa producida acumulada,  $Tr$  es la transpiración de
 
 
 
-![](media/img_d87e26d7.jpeg)
+![](images/capitulo_3/img_d87e26d7.jpeg)
 
 **Figura 46.** Representación esquemática del desarrollo en el tiempo de la cobertura vegetal y la profundidad de enraizamiento (Elaboración propia a partir de [[15]](#ref-15) p. 23).
 
@@ -527,7 +527,7 @@ La Figura 19 muestra la función del cambio del índice de cosecha  $HI$  en el 
 
 
 
-![](media/img_9c04b2ea.png)
+![](images/capitulo_3/img_9c04b2ea.png)
 
 **Figura 47.** Representación esquemática del cambio en el tiempo del índice de cosecha (HI) para cultivos de frutas o granos (Elaboración propia a partir de [[15]](#ref-15) p. 27).
 
@@ -539,7 +539,7 @@ La Figura 20 es una representación simplificada del modelo del sistema radicula
 
 
 
-![](media/img_a270ea70.jpeg)
+![](images/capitulo_3/img_a270ea70.jpeg)
 
 **Figura 48.** Representación esquemática del volumen de control de la zona radicular (Elaboración propia a partir de [[15]](#ref-15) p. 28).
 
@@ -549,7 +549,7 @@ Los parámetros necesarios para estimar la capacidad de suelo de almacenar y ret
 
 
 
-![](media/img_67852172.png)
+![](images/capitulo_3/img_67852172.png)
 
 **Figura 49. **Esquema de la disponibilidad del agua en el suelo (Elaboración propia).
 
@@ -559,7 +559,7 @@ En la figura se puede ver como la capacidad campo o de retener agua en el suelo 
 
 
 
-![](media/img_ef306eb9.png)
+![](images/capitulo_3/img_ef306eb9.png)
 
 **Figura 50.** Esquema de retención de agua según tipo de suelo (Elaboración propia a partir de [[44]](#ref-44)).
 
@@ -567,7 +567,7 @@ La información requerida del suelo incluye su tipo, textura, perfil en profundi
 
 
 
-![](media/img_f5062b50.png)
+![](images/capitulo_3/img_f5062b50.png)
 
 **Figura 51.** Esquema metodología aplicada para determinar características del suelo necesarias en el módulo de vulnerabilidad para evaluar riesgo en el sector agrícola. (SCS: Soil Conservation Service) (Fuente: elaboración propia).
 
@@ -596,7 +596,7 @@ La determinación de la textura del suelo se hace a partir de las fracciones de 
 
 
 
-![](media/img_a9f515e1.png)
+![](images/capitulo_3/img_a9f515e1.png)
 
 **Figura 52.** Triángulo de clases texturales básicas de suelos según el tamaño de partículas. Elaborado por el Departamento de Agricultura de los Estados Unidos (USDA).
 
@@ -610,7 +610,7 @@ Las condiciones de estrés hídrico o térmico son representadas por un coeficie
 
 
 
-![](media/img_cf94b791.png)
+![](images/capitulo_3/img_cf94b791.png)
 
 **Figura 53.** Función del coeficiente de estrés (Ks) (Elaboración propia a partir de [[1]](#ref-1) p. 32).
 
@@ -618,7 +618,7 @@ El modelo permite calcular los efectos del déficit o exceso hídrico (entendido
 
 
 
-![](media/img_cd2247e5.png)
+![](images/capitulo_3/img_cd2247e5.png)
 
 **Figura 54.** Representación esquemática de la respuesta del cultivo al estrés hídrico (Adaptado de [[45]](#ref-45)).
 
@@ -630,13 +630,13 @@ Por una parte, cuando el agotamiento de la zona radicular está por debajo de lo
 
 
 
-![](media/img_885d8ab8.png)
+![](images/capitulo_3/img_885d8ab8.png)
 
 **Figura 55.** Representación esquemática del coeficiente de estrés hídrico (Adaptado de [[45]](#ref-45))
 
 
 
-![](media/img_fd5a740c.png)
+![](images/capitulo_3/img_fd5a740c.png)
 
 **Figura 56.** Representación esquemática de la expansión de la cobertura vegetal, bajo condiciones óptimas (gris) y bajo estrés hídrico (verde). (Adaptado de [[45]](#ref-45)).
 
@@ -674,7 +674,7 @@ Al realizar la evaluación de riesgo por eventos, las condiciones de clima extre
 
 
 
-![](media/img_f8b6146f.png)
+![](images/capitulo_3/img_f8b6146f.png)
 
 **Figura 57.** Pérdidas por evento en una ventana amplia de tiempo (Elaboración propia).
 
@@ -694,7 +694,7 @@ El coeficiente de variación indica la relación entre la desviación estándar 
 
 
 
-![](media/img_23c36048.png)
+![](images/capitulo_3/img_23c36048.png)
 
 **Figura 58.** Variación del coeficiente de variación de la tasa de excedencia con el tamaño de la muestra (Elaboración propia).
 
@@ -718,7 +718,7 @@ El periodo de retorno es el valor esperado del tiempo entre eventos. Es decir, c
 
 
 
-![](media/img_7c78a57b.png)
+![](images/capitulo_3/img_7c78a57b.png)
 
 **Figura 59.** Ejemplo de curva de excedencia de pérdidas. El eje vertical muestra la tasa de excedencia (izquierda) y su valor inverso o periodo de retorno (derecha). El eje horizontal muestra la pérdida asociada (Elaboración propia).
 
