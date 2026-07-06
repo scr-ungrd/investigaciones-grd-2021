@@ -66,7 +66,7 @@ En los años 50, el ingeniero español Iribarren proyectó el espolón más larg
 
 
 
-![](media/img_6db5766d.jpeg)
+![](images/capitulo_12/img_6db5766d.jpeg)
 
 **Figura 1.** Características de la dinámica litoral de la flecha de Bocagrande: a) Espolón de Iribarren; b) Ciudad antigua, *head-land*; la línea amarilla demuestra el perfil de equilibrio en planta de Hsu que evidencia que en la época colonial existió una comunicación entre el mar y la bahía de Las Animas. Fuente: Google Earth (2019), autores.
 
@@ -74,7 +74,7 @@ Los tajamares de las Bocas de Ceniza interrumpieron el transporte de la deriva l
 
 
 
-![](media/img_04976a26.png)
+![](images/capitulo_12/img_04976a26.png)
 
 **Figura 2.** Comportamiento de la línea de costa en la zona norte del departamento del Atlántico entre 1935 y 1996 [[10]](#ref-10), se reproduce bajo licencia Creative Commons.
 
@@ -82,7 +82,7 @@ Era de esperar que la respuesta del sistema costero en forma de retroceso tuvier
 
 
 
-![](media/img_2a72c5a2.png)
+![](images/capitulo_12/img_2a72c5a2.png)
 
 **Figura 3.** Variación multianual de la línea de costa en el sector Manzanillo del Mar (zona norte de Cartagena de Indias). Imagen del fondo: Google Earth. Estudio geomático [[12]](#ref-12).
 
@@ -90,7 +90,7 @@ Por el otro lado de la desembocadura del río Magdalena, la isla de Salamanca a�
 
 
 
-![](media/img_5f6bba37.png)
+![](images/capitulo_12/img_5f6bba37.png)
 
 **Figura 4.** Retroceso costero (línea azul) con respecto a la cartografía del año 1944 en el sector de la Isla Salamanca. Se observa el efecto del déficit de sedimentos provocado por las obras de tajamares. Tramo: Barranquilla-Ciénaga. Fuente: [[7]](#ref-7).
 
@@ -100,11 +100,11 @@ El primer factor (*head-land*) ha venido generando una manifestación natural de
 
 
 
-![](media/img_08a52fa6.jpeg)
+![](images/capitulo_12/img_08a52fa6.jpeg)
 
 
 
-![](media/img_69f536b3.png)
+![](images/capitulo_12/img_69f536b3.png)
 
 **Figura 5.** Izquierda: vista de Cartagena desde el espolón Iribarren hacia head-land de la ciudad vieja (Fig.  1). Derecha: Perfiles subacuáticos de la playa de Bocagrande (puntos negros) con un perfil promedio (en rojo) y el perfil de equilibrio de Dean (en azul). Fuente: propia.
 
@@ -114,11 +114,11 @@ El efecto de los ciclones tropicales sobre las costas del Caribe colombiano es p
 
 
 
-![](media/img_d26fd95a.png)
+![](images/capitulo_12/img_d26fd95a.png)
 
 
 
-![](media/img_8f0b5fad.png)
+![](images/capitulo_12/img_8f0b5fad.png)
 
 **Figura 6.** Arriba: Situación sinóptica para el día 3 de noviembre del 2010, indicando el paso de la depresión tropical Tomas. Fuente: Centro Nacional de Huracanes, 2010. Abajo: Pronóstico de oleaje con el sistema SPOA para la fecha 02/11/2010 [[13]](#ref-13).
 
@@ -126,11 +126,11 @@ Ahora bien, si las condiciones climáticas son tan relevantes, sin discutir los 
 
 
 
-![](media/img_b8762405.jpeg)
+![](images/capitulo_12/img_b8762405.jpeg)
 
 
 
-![](media/img_eb475960.png)
+![](images/capitulo_12/img_eb475960.png)
 
 **Figura 7.** Fotos de obras de protección costera en el Golfo de Morrosquillo, donde se evidencia su obsolescencia. Arriba: Berrugas. Abajo: Santiago de Tolú. Fuente: propia.
 
@@ -138,11 +138,11 @@ El caso del Golfo de Morrosquillo es un ejemplo muy ilustrativo, cuando en el me
 
 
 
-![](media/img_41f0ac94.jpeg)
+![](images/capitulo_12/img_41f0ac94.jpeg)
 
 
 
-![](media/img_8cfb78e2.jpeg)
+![](images/capitulo_12/img_8cfb78e2.jpeg)
 
 **Figura 8. **Delta del río Sinú en acreción. Fuente: Google Earth, 2019. Izquierda: Dimensiones del delta crecido desde el año 1938. Derecha: Dirección del cauce antiguo (1) según [[18]](#ref-18) y el brazo de Tinajones (2); la línea amarilla está trazada por el contorno visible en la figura izquierda de cambios fisiográficos y de vegetación.
 
@@ -152,7 +152,7 @@ En el caso del río Magdalena el impacto fue causado por una mega obra construid
 
 
 
-![](media/img_016f9730.jpeg)
+![](images/capitulo_12/img_016f9730.jpeg)
 
 **Figura 9.** Variación de la línea de costa entre la desembocadura del río Turbo, la flecha de Yarumal y la flecha de Punta de Las Vacas entre 1946 (foto aérea) y 2005. (Golfo de Urabá). Los contornos en color representan áreas erosionadas (rojo) y sedimentadas (verde) [[19]](#ref-19).
 
