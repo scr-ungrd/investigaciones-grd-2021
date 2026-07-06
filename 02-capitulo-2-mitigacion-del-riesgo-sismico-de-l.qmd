@@ -73,7 +73,7 @@ Una vez se tiene esta base de datos, se debe realizar un análisis del riesgo en
 
 
 
-![](media/img_7739e9ac.png)
+![](images/capitulo_2/img_7739e9ac.png)
 
 **Figura 1. **Metodología para desarrollo de planes de mitigación del riesgo sísmico en el sector escolar.
 
@@ -85,7 +85,7 @@ La aproximación utilizada para la evaluación del riesgo sísmico se basa en un
 
 
 
-![](media/img_2d3817da.png)
+![](images/capitulo_2/img_2d3817da.png)
 
 **Figura 2. **Modelo probabilista del riesgo.
 
@@ -101,7 +101,7 @@ Para caracterizar estructuralmente las edificaciones se recomienda utilizar el s
 
 
 
-![](media/img_84e6ee4a.png)
+![](images/capitulo_2/img_84e6ee4a.png)
 
 **Figura 3. **Sistema de clasificación taxonómico de la Librería Global para Infraestructura Escolar. Adaptado de GLOSI [[12]](#ref-12). 
 
@@ -123,7 +123,7 @@ La vulnerabilidad sísmica de las construcciones se representa mediante una func
 
 
 
-![](media/img_9e3e6c4a.png)
+![](images/capitulo_2/img_9e3e6c4a.png)
 
 **Figura 4. **Función de vulnerabilidad típica.
 
@@ -175,7 +175,7 @@ En este sistema, los muros divisorios no contribuyen a la resistencia lateral o 
 
 
 
-![](media/img_f2b27dad.png)
+![](images/capitulo_2/img_f2b27dad.png)
 
 **Figura 5. **Ejemplos de pórticos de concreto reforzado resistente a momento. (**A**) Edificación escolar en Perú. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -185,7 +185,7 @@ En este sistema, los muros divisorios contribuyen a la resistencia lateral y en 
 
 
 
-![](media/img_782f91c5.png)
+![](images/capitulo_2/img_782f91c5.png)
 
 **Figura 6. **Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería integrados. (**A**) Edificación escolar en Nepal. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -195,7 +195,7 @@ En este sistema, los muros divisorios contribuyen a la resistencia lateral, pero
 
 
 
-![](media/img_90b897c2.png)
+![](images/capitulo_2/img_90b897c2.png)
 
 **Figura 7. **Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería generando columna corta. (**A**) Edificación escolar en Perú. (**B**) Edificación escolar en El Salvador. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -207,7 +207,7 @@ Son edificaciones construidos con bloque de mampostería de diferentes calidades
 
 
 
-![](media/img_9187cbf9.png)
+![](images/capitulo_2/img_9187cbf9.png)
 
 **Figura 8. **Ejemplos de edificaciones de mampostería simple. (**A**) Edificación escolar en El Salvador. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en Nepal. (**D**) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -217,7 +217,7 @@ Son edificaciones cuyo sistema de resistencia sísmica son muros de mampostería
 
 
 
-![](media/img_59c370d5.png)
+![](images/capitulo_2/img_59c370d5.png)
 
 **Figura 9. **Ejemplos de edificaciones de mampostería confinada. (**A**) Edificación escolar en Colombia. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en El Salvador. (**D**) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -227,7 +227,7 @@ El sistema de mampostería reforzada es un sistema de muros de mampostería con 
 
 
 
-![](media/img_34dad813.png)
+![](images/capitulo_2/img_34dad813.png)
 
 **Figura 10. **Ejemplos de edificaciones de mampostería reforzada. (**A**) Edificación escolar en Colombia. (**B**) Edificación escolar en El Salvador. (**C**) Edificación escolar en El Salvador. (**D**) Edificación escolar en construcción en El Salvador. Fotos tomadas del GPSS y del archivo personal de los autores.
 
@@ -246,7 +246,7 @@ En este proyecto los autores capacitaron a un grupo de ingenieros y arquitectos 
 
 
 
-![](media/img_91b48a3b.jpeg)
+![](images/capitulo_2/img_91b48a3b.jpeg)
 
 **Figura 11. **Distribución espacial del portafolio escolar de Cali.  PCR corresponde a pórticos de concreto reforzado.
 
@@ -268,7 +268,7 @@ La distribución de las tipologías constructivas en la zona de estudio se prese
 
 
 
-![](media/img_53c16509.png)
+![](images/capitulo_2/img_53c16509.png)
 
 **Figura 12. **Distribución de tipologías constructivas en Cali.
 
@@ -276,7 +276,7 @@ Por otro lado, la Figura 13 presenta la distribución de los sistemas estructura
 
 
 
-![](media/img_675fa258.png)
+![](images/capitulo_2/img_675fa258.png)
 
 **Figura 13. **Distribución de características estructurales en Cali. (**A**) Tipologías de concreto reforzado. (**B**) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.
 
@@ -284,7 +284,7 @@ Adicionalmente, se incluye una revisión adicional de elementos estructurales qu
 
 
 
-![](media/img_74921817.png)
+![](images/capitulo_2/img_74921817.png)
 
 **Figura 14. **Parámetros estructurales complementarios [[36]](#ref-36).
 
@@ -292,7 +292,7 @@ Para el desarrollo del modelo probabilista de amenaza sísmica en la zona de est
 
 
 
-![](media/img_440e260a.png)
+![](images/capitulo_2/img_440e260a.png)
 
 **Figura 15. **Modelo de amenaza sísmica para Cali. (**A**) Fuentes profundas. (**B**) Fuentes superficiales. (**C**) Ejemplo de escenario del catálogo. (**D**) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes [[36]](#ref-36).
 
@@ -300,7 +300,7 @@ Para el desarrollo del modelo de vulnerabilidad se realizaron modelaciones no li
 
 
 
-![](media/img_fd98278e.png)
+![](images/capitulo_2/img_fd98278e.png)
 
 **Figura 16. **Ejemplo de funciones de vulnerabilidad utilizadas para la evaluación del riesgo del Cali. Figura adaptada de CIMOC-Uniandes [[36]](#ref-36). 
 
@@ -308,7 +308,7 @@ Con la información indicada anteriormente, se evaluó el desempeño y las perdi
 
 
 
-![](media/img_07bb19e4.png)
+![](images/capitulo_2/img_07bb19e4.png)
 
 **Figura 17. **Curva de pérdida máxima probable para el portafolio escolar en Cali.
 
@@ -339,7 +339,7 @@ Los resultados del riesgo sísmico para el portafolio escolar del municipio lueg
 
 
 
-![](media/img_bf6a2a52.png)
+![](images/capitulo_2/img_bf6a2a52.png)
 
 **Figura 18. **Curva de pérdida máxima probable para el portafolio escolar en el estado actual vs. estado reforzado en Cali
 
@@ -347,7 +347,7 @@ Por último, con el objetivo de priorizar los recursos se utilizó el criterio d
 
 
 
-![](media/img_886494ff.png)
+![](images/capitulo_2/img_886494ff.png)
 
 **Figura 19. **Priorización de intervenciones por programas en Cali.
 
@@ -361,7 +361,7 @@ En este estudio se consideró únicamente una muestra de 200 escuelas públicas 
 
 
 
-![](media/img_22bb0430.jpeg)
+![](images/capitulo_2/img_22bb0430.jpeg)
 
 **Figura 20. **Distribución de instituciones educativas en los municipios del Valle de Aburrá.
 
@@ -383,7 +383,7 @@ En la Figura 21 presenta la distribución de las tipologías constructivas ident
 
 
 
-![](media/img_d7e56b87.png)
+![](images/capitulo_2/img_d7e56b87.png)
 
 **Figura 21. **Distribución de tipologías constructivas identificadas en campo en el Valle de Aburrá.
 
@@ -391,7 +391,7 @@ Además, se observa que el mayor porcentaje de estructuras son construidas en p�
 
 
 
-![](media/img_9ea824f1.png)
+![](images/capitulo_2/img_9ea824f1.png)
 
 **Figura 22. **Distribución de sistemas estructurales en el Valle de Aburrá. (**A**) Tipologías de concreto reforzado. (**B**) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.
 
@@ -399,7 +399,7 @@ En cuanto a las condiciones desfavorables observadas en las edificaciones durant
 
 
 
-![](media/img_95c027ee.png)
+![](images/capitulo_2/img_95c027ee.png)
 
 **Figura 23. **Condiciones desfavorables observadas en algunas edificaciones en el Valle de Aburrá. (**A**) Agrietamiento de muros. (**B**) Pérdida de concreto de recubrimiento. (**C**) Deficiencias constructivas. (**D**) Deficiencias de diseño.
 
@@ -407,7 +407,7 @@ El siguiente paso fue el desarrollo del modelo probabilista de amenaza sísmica 
 
 
 
-![](media/img_3e259ffa.png)
+![](images/capitulo_2/img_3e259ffa.png)
 
 **Figura 24. **Modelo de amenaza sísmica para el Valle de Aburrá. (**A**) Fuentes profundas (modelo nacional). (**B**) Fuentes superficiales. (**C**) Ejemplo de escenario del catálogo. (**D**) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes [[38]](#ref-38).
 
@@ -415,7 +415,7 @@ Las funciones de vulnerabilidad de las tipologías predominantes fueron desarrol
 
 
 
-![](media/img_b8e874f3.png)
+![](images/capitulo_2/img_b8e874f3.png)
 
 **Figura 25. **Ejemplo de funciones de vulnerabilidad utilizadas para la evaluación del riesgo del Valle de Aburrá. Figura adaptada de CIMOC-Uniandes [[38]](#ref-38).
 
@@ -423,7 +423,7 @@ Posteriormente se evaluaron las pérdidas probables esperadas ante un evento sí
 
 
 
-![](media/img_f5870e09.png)
+![](images/capitulo_2/img_f5870e09.png)
 
 **Figura 26****. **Curva de pérdida máxima probable para el portafolio escolar en el Valle de Aburrá.
 
@@ -441,7 +441,7 @@ Además, para cada una de las tipologías de edificaciones que presentan niveles
 
 
 
-![](media/img_7caea8ee.png)
+![](images/capitulo_2/img_7caea8ee.png)
 
 **Figura 27. **Esquemas generales de reforzamiento estructural. (**A**) Reforzamiento de pórticos de concreto. (**B**) Reforzamiento de edificaciones de mampostería [[39]](#ref-39).
 
@@ -462,7 +462,7 @@ Teniendo en cuenta las estrategias de mitigación del riesgo y los reforzamiento
 
 
 
-![](media/img_89c98e98.png)
+![](images/capitulo_2/img_89c98e98.png)
 
 **Figura 28. **Curva de pérdida máxima probable para el portafolio escolar en el estado actual vs. estado reforzado en el Valle de Aburrá.
 
@@ -470,7 +470,7 @@ Por último, con el objetivo de priorizar los recursos se utilizó el criterio d
 
 
 
-![](media/img_408fd3c0.png)
+![](images/capitulo_2/img_408fd3c0.png)
 
 **Figura 29. **Priorización de intervenciones por programas en el Valle de Aburrá.
 
