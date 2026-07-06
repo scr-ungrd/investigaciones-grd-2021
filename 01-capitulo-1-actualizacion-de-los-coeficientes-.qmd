@@ -49,20 +49,20 @@ Para la actualización de la norma sismo resistente de edificaciones NSR 22 se p
 
 
 
-![](media/img_ed30ac97.png)
+![](images/capitulo_1/img_ed30ac97.png)
 
 **Figura 1.** Espectro de aceleraciones según ASCE 7 - 10/16. Tomado de ASCE 7 - 16.
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Características de los movimientos sísmicos de diseño Los movimientos sísmicos para el diseño estructural se representan por medio de Espectros de Diseño, los cuales indican los valores mínimos requeridos de aceleración espectral según diferentes periodos de vibración de estructuras. A lo largo de muchos años la ingeniería estructural ha desarrollado los métodos necesarios para operar con este tipo de descripción del movimiento fuerte dentro de los procesos de diseño y verificación de una estructura.  Lo que conocemos como espectro de respuesta no es más que la colección de valores máximos de movimiento (respuesta estructural) de osciladores de un grado de libertad con periodo fundamental variable (cubriendo un rango relevante y representativo), ante un mismo movimiento sísmico en la base.  Los espectros de respuesta, entre muchas otras propiedades interesantes, exhiben un comportamiento como el ilustrado en la Figura. Se presenta un espectro de velocidad para el acelerograma registrado en la estación Bocatoma durante el sismo de Armenia (Eje Cafetero) del 25 de enero de 1999.   Espectro de velocidad del registro Bocatoma del sismo del Eje Cafetero (Colombia) del 25/01/1999 Nótese que, al dibujar los espectros de velocidad en escala logarítmica, es posible encontrar rangos de periodos en donde los valores calculados de respuesta estructural no varían significativamente unos con otros. En particular se revelan tres zonas en el espectro: una de aceleración aproximadamente constante, otra de velocidad aproximadamente constante y una tercera de desplazamiento aproximadamente constante. Las formas espectrales de diseño, similares a la línea negra presentada en la Figura, buscan aproximar lo mejor posible la forma y características de los espectros de respuesta.
+**Caja 1.** Características de los movimientos sísmicos de diseño Los movimientos sísmicos para el diseño estructural se representan por medio de Espectros de Diseño, los cuales indican los valores mínimos requeridos de aceleración espectral según diferentes periodos de vibración de estructuras. A lo largo de muchos años la ingeniería estructural ha desarrollado los métodos necesarios para operar con este tipo de descripción del movimiento fuerte dentro de los procesos de diseño y verificación de una estructura.  Lo que conocemos como espectro de respuesta no es más que la colección de valores máximos de movimiento (respuesta estructural) de osciladores de un grado de libertad con periodo fundamental variable (cubriendo un rango relevante y representativo), ante un mismo movimiento sísmico en la base.  Los espectros de respuesta, entre muchas otras propiedades interesantes, exhiben un comportamiento como el ilustrado en la Figura. Se presenta un espectro de velocidad para el acelerograma registrado en la estación Bocatoma durante el sismo de Armenia (Eje Cafetero) del 25 de enero de 1999. ![](images/capitulo_1/Caja_1.png)  Espectro de velocidad del registro Bocatoma del sismo del Eje Cafetero (Colombia) del 25/01/1999 Nótese que, al dibujar los espectros de velocidad en escala logarítmica, es posible encontrar rangos de periodos en donde los valores calculados de respuesta estructural no varían significativamente unos con otros. En particular se revelan tres zonas en el espectro: una de aceleración aproximadamente constante, otra de velocidad aproximadamente constante y una tercera de desplazamiento aproximadamente constante. Las formas espectrales de diseño, similares a la línea negra presentada en la Figura, buscan aproximar lo mejor posible la forma y características de los espectros de respuesta.
 :::
 
 Según el reglamento ASCE 7, los coeficientes de diseño se obtienen de los coeficientes SMS y SM1, llamados el sismo máximo considerado, de la siguiente manera.
 
 
-|  | (1) |
-| --- | --- |
+$$S_{DS} = \frac{2}{3} S_{MS} \qquad S_{D1} = \frac{2}{3} S_{M1} \tag{1}$$ 
+
 
 Los valores de los coeficientes SMS y SM1 no corresponden a valores de aceleración espectral de algún periodo de retorno. En estos reglamentos, se emplea movimiento fuerte orientado al riesgo (*Risk Targeted Ground Motion* – RTGM) [[2]](#ref-2), el cual tiene la característica de calcularse como el valor de aceleración asociado a una probabilidad de colapso del 1% en 50 años. Nótese que la definición probabilista se refiere al colapso como variable de decisión, y no a una eventual excedencia de los valores de aceleración. 
 
@@ -78,7 +78,7 @@ A nuestro juicio, no es correcto ni conveniente establecer la probabilidad de co
 
 
 
-![](media/img_2860b0be.png)
+![](images/capitulo_1/img_2860b0be.png)
 
 **Figura 2. **Espectro de diseño y espectro de amenaza uniforme. Se indican los periodos de retorno reales de las aceleraciones espectrales de diseño.
 
@@ -86,7 +86,7 @@ Cabe anotar que en este trabajo se mantienen siempre los coeficientes de sitio, 
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Efecto del suelo Los depósitos de suelo blando modifican en amplitud y contenido frecuencial el movimiento sísmico, como resultado del tránsito de las ondas sísmicas por los materiales geotécnicos, los cuales exhiben un comportamiento fuertemente no lineal, aumentando los amortiguamientos totales y degradando su módulo de rigidez a medida que son sometidos a mayores deformaciones cortantes. Este comportamiento tiende a modificar radicalmente la forma de los espectros de respuesta a nivel de la superficie del terreno (o a nivel de la cimentación de las estructuras), en comparación con el movimiento en la base del depósito.  Este comportamiento se ilustra a continuación a partir de la respuesta sísmica de un perfil conformado totalmente por materiales aluviales, granulares, de profundidad intermedia (30 metros) y rigidez intermedia (Vs30 = 530 m/s). Este perfil es de tipo C según la clasificación NHERP, misma usada en el NSR-10. La Figura presenta la relación de amplificación de aceleraciones espectrales (superficie/ roca) ante un acelerograma hipotético incidente en la base.  Relación de amplificación de las aceleraciones espectrales  El comportamiento de la relación de amplificación típicamente es el presentado en la Figura. Nótese que es posible identificar tres zonas principales: una de periodos muy cortos (o zona de comportamiento rígido), otra de periodo corto y otra de periodo largo, para las cuales es posible establecer valores de amplificación en términos de un único parámetro representativo. Estos parámetros son los mismos que se emplean en la formulación de las formas espectrales de la NSR 10 (Fa y Fv), despreciando la zona de comportamiento rígido, en donde prácticamente no es posible encontrar ninguna estructura convencional.
+**Caja 2.** Efecto del suelo Los depósitos de suelo blando modifican en amplitud y contenido frecuencial el movimiento sísmico, como resultado del tránsito de las ondas sísmicas por los materiales geotécnicos, los cuales exhiben un comportamiento fuertemente no lineal, aumentando los amortiguamientos totales y degradando su módulo de rigidez a medida que son sometidos a mayores deformaciones cortantes. Este comportamiento tiende a modificar radicalmente la forma de los espectros de respuesta a nivel de la superficie del terreno (o a nivel de la cimentación de las estructuras), en comparación con el movimiento en la base del depósito.  Este comportamiento se ilustra a continuación a partir de la respuesta sísmica de un perfil conformado totalmente por materiales aluviales, granulares, de profundidad intermedia (30 metros) y rigidez intermedia (Vs30 = 530 m/s). Este perfil es de tipo C según la clasificación NHERP, misma usada en el NSR-10. La Figura presenta la relación de amplificación de aceleraciones espectrales (superficie/ roca) ante un acelerograma hipotético incidente en la base. ![](images/capitulo_1/Caja_2.png)  Relación de amplificación de las aceleraciones espectrales  El comportamiento de la relación de amplificación típicamente es el presentado en la Figura. Nótese que es posible identificar tres zonas principales: una de periodos muy cortos (o zona de comportamiento rígido), otra de periodo corto y otra de periodo largo, para las cuales es posible establecer valores de amplificación en términos de un único parámetro representativo. Estos parámetros son los mismos que se emplean en la formulación de las formas espectrales de la NSR 10 (Fa y Fv), despreciando la zona de comportamiento rígido, en donde prácticamente no es posible encontrar ninguna estructura convencional.
 :::
 
 ## 1.3 UN “NUEVO” ENFOQUE
@@ -97,7 +97,7 @@ Siguiendo la definición de Rosenblueth, los coeficientes óptimos de diseño se
 
 
 
-![](media/img_6c79766f.png)
+![](images/capitulo_1/img_6c79766f.png)
 
 **Figura 3. **Ilustración de la definición de coeficientes óptimos de diseño.
 
@@ -116,8 +116,9 @@ El costo de las pérdidas futuras se determina en función del costo inicial de 
 La tasa de excedencia del movimiento fuerte mide el número de veces en un año que se espera se exceda, en promedio, un valor determinado. Este parámetro se obtiene mediante una evaluación clásica de la amenaza sísmica, cuyo principal resultado son precisamente las curvas de amenaza (o curvas de tasa de excedencia) en múltiples ubicaciones de cálculo dentro del país. El modelo de amenaza sísmica de Colombia corresponde a la última versión del proyecto ASLAC (Salgado et al. [[6]](#ref-6)), el cual es un modelo regional de América Latina y El Caribe, desarrollado con el objetivo de proveer a la región de un modelo continuo de amenaza, con el mayor nivel de detalle posible en cada territorio y siguiendo técnicas del estado del arte en ingeniería sísmica. La Figura 4 muestra como ejemplo los mapas de amenaza uniforme para Colombia de 475 años de periodo de retorno, para aceleración máxima del terreno y aceleración espectral para 0.5 segundos.
 
 
-|  |  |  |
-| --- | --- | --- |
+| Aceleración máxima del terreno | Aceleración espectral para 0.5 segundos. Aceleración en cm/s2. |
+| --- | --- |
+| ![](images/capitulo_1/Figura 4a.png)  | ![](images/capitulo_1/Figura 4b.png)  |
 
 **Figura 4. **Mapas de amenaza uniforme para 475 años de periodo de retorno. Izq: aceleración máxima del terreno. Der: Aceleración espectral para 0.5 segundos. Aceleración en cm/s2.
 
@@ -127,11 +128,7 @@ En este trabajo se optó por definir el factor de impacto en términos de dos ca
 
 
 
-![](media/img_eb449e2f.png)
-
-
-
-![](media/img_c74bc381.png)
+![](images/capitulo_1/img_eb449e2f.png) ![](images/capitulo_1/img_c74bc381.png){width=10%}
 
 **Figura 5. **Valor del factor de impacto a nivel municipal. Los municipios con factor de impacto igual a 5 son: Bogotá D.C., Medellín, Cali, Bucaramanga, Barranquilla y Cartagena. Los municipios con factor de impacto igual a 7 son: Manizales, Pereira, Armenia y Popayán.
 
@@ -139,18 +136,39 @@ Los valores mostrados en el mapa de la Figura 5 fueron definidos en base a la ex
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 3.** Nuevo modelo de amenaza sísmica de Colombia Como parte del proyecto ASLAC (Amenaza Sísmica de América Latina y El Caribe), se desarrolló un modelo detallado de amenaza sísmica para el territorio colombiano. Los detalles de este modelo pueden consultarse en Salgado et.al. 2017.  Este nuevo modelo se conforma por 53 fuentes sismogénicas, 26 de ellas corticales, 5 de subducción de interfaz, 20 de subducción intraplaca, una fuente especial para el nido de sismicidad de Bucaramanga y una fuente de background para la sismicidad dispersa del norte colombiano.   Mapa con la ubicación de los 53 polígonos de fuentes sismogénicas Se hizo uso de modelos de movimiento fuerte (GMPM) híbridos, mediante la combinación de los siguientes modelos individuales. Se incluye en todos los casos el modelo de atenuación de Bernal 2014 (actualizado en 2019) como modelo generado en base a observaciones en el territorio nacional. GMPM usados en la modelación de la amenaza sísmica  El cálculo de la amenaza sísmica se desarrolló en el programa R-CRISIS, uno de los más usados a nivel internacional.
+**Caja 3. Nuevo modelo de amenaza sísmica de Colombia**
+
+Como parte del proyecto ASLAC (Amenaza Sísmica de América Latina y El Caribe), se desarrolló un modelo detallado de amenaza sísmica para el territorio colombiano. Los detalles de este modelo pueden consultarse en Salgado et.al. 2017. 
+
+Este nuevo modelo se conforma por 53 fuentes sismogénicas, 26 de ellas corticales, 5 de subducción de interfaz, 20 de subducción intraplaca, una fuente especial para el nido de sismicidad de Bucaramanga y una fuente de background para la sismicidad dispersa del norte colombiano.
+
+<div style="text-align: center;">
+![](images/capitulo_1/Caja_3.png)
+
+**Mapa con la ubicación de los 53 polígonos de fuentes sismogénicas**
+</div>
+
+Se hizo uso de modelos de movimiento fuerte (GMPM) híbridos, mediante la combinación de los siguientes modelos individuales. Se incluye en todos los casos el modelo de atenuación de Bernal 2014 (actualizado en 2019) como modelo generado en base a observaciones en el territorio nacional. 
+
+GMPM usados en la modelación de la amenaza sísmica:
+
+| Tipo de Fuente | GMPM |
+|:---|:---|
+| Cortical | Bernal 2014<br>Zhao et.al. 2006<br>Abrahamson et.al. 2014 |
+| Interfaz | Bernal 2014<br>Zhao et.al. 2006<br>Youngs 1997<br>Lin & Lee 2008 |
+| Intraplaca | Bernal 2014<br>Zhao et.al. 2006<br>Youngs 1997<br>Kanno et.al. 2006 |
+
+El cálculo de la amenaza sísmica se desarrolló en el programa R-CRISIS, uno de los más usados a nivel internacional.
 :::
-| --- | --- |
 
 ## 1.4 COEFICIENTES ÓPTIMOS
 
 Usando el software R-CRISIS  [[7]](#ref-7), mismo usado en la evaluación de la amenaza sísmica del país y del proyecto ASLAC, se aplicó la metodología presentada anteriormente, buscando encontrar los coeficientes óptimos de diseño para diferentes aceleraciones espectrales. Como ejemplo, la Figura 6 muestra los espectros de aceleraciones óptimas para Bogotá y Cúcuta, a nivel de roca firme. Se marcan en la imagen los valores de aceleración en 0.2 y 1 segundos (correspondientes a SDS y SD1 respectivamente). Se muestra también los periodos de retorno de las aceleraciones espectrales. Nótese como los menores periodos de retorno se asocian a periodos bajos (cercanos a 0.2 segundos), punto desde el cual el periodo de retorno es creciente con el periodo estructural. 
 
-
-|  |  |
+| Aceleraciones espectrales óptimas | Periodos de retorno de las aceleraciones óptimas  |
 | --- | --- |
-|  |  |
+| ![](images/capitulo_1/Figura 6a.png)  | ![](images/capitulo_1/Figura 6b.png)  |
+| ![](images/capitulo_1/Figura 6c.png)  | ![](images/capitulo_1/Figura 6d.png)  |
 
 **Figura 6.** Ejemplo de cálculo de coeficientes de diseño óptimos. Arriba: Bogotá. Abajo: Cúcuta. Izquierda: Aceleraciones espectrales óptimas. Derecha: Periodos de retorno de las aceleraciones óptimas.
 
@@ -160,19 +178,19 @@ Este mismo tipo de resultados puede verse espacialmente. Las Figuras 7 y 8 prese
 
 
 
-![](media/img_d2a4ee29.png)
+![](images/capitulo_1/img_d2a4ee29.png)
 
 **Figura 7.** Periodos de retorno óptimos para aceleración espectral de 0.2 segundos.
 
 
 
-![](media/img_da584018.png)
+![](images/capitulo_1/img_da584018.png)
 
 **Figura 8.** Periodos de retorno óptimos para aceleración espectral de 1 segundo (derecha).
 
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 4.** R-CRISIS R-CRISIS (Ordaz et al. 2018) es una herramienta versátil para realizar el análisis probabilista de amenaza sísmica (PSHA). Desde su primera versión, desarrollada en 1998, R-CRISIS ha sido utilizado en diferentes proyectos de evaluación de amenaza sísmica alrededor del mundo. Las evaluaciones probabilistas realizada con R-CRISIS se ajustan en su totalidad a los resultados considerados válidos en la más reciente edición del proyecto PEER para validación de software para cálculos sísmicos. R-CRISIS está actualmente avalado para usarse en evaluaciones de amenaza sísmica de instalaciones nucleares en Europa. En Aguilar-Meléndez et al. (2017) se puede encontrar una completa revisión de R-CRISIS.  R-CRISIS admite la definición de fuentes sísmicas de diversos tipos, desde puntos y líneas, hasta complejas estructuras tridimensionales, que se combinan con una importante variedad de modelos de sismicidad. R-CRISIS facilita el uso de diferentes modelos de atenuación (GMPM), incorporando actualmente más de 60 modelos diferentes. R-CRISIS permite calcular: Mapas de amenaza, espectros de amenaza uniforme, desagregación M-R, desagregación M-R-Epsilon, escenarios sísmicos/mapas de movimiento sísmico y conjunto de eventos (archivo CAPRA ame), entro otros resultados.    Pantalla principal de R-CRISIS Manuales de usuario y referencia técnica, bases documentales, tutoriales y otros recursos pueden ser consultados en www.r-crisis.com
+**Caja 4.** R-CRISIS R-CRISIS (Ordaz et al. 2018) es una herramienta versátil para realizar el análisis probabilista de amenaza sísmica (PSHA). Desde su primera versión, desarrollada en 1998, R-CRISIS ha sido utilizado en diferentes proyectos de evaluación de amenaza sísmica alrededor del mundo. Las evaluaciones probabilistas realizada con R-CRISIS se ajustan en su totalidad a los resultados considerados válidos en la más reciente edición del proyecto PEER para validación de software para cálculos sísmicos. R-CRISIS está actualmente avalado para usarse en evaluaciones de amenaza sísmica de instalaciones nucleares en Europa. En Aguilar-Meléndez et al. (2017) se puede encontrar una completa revisión de R-CRISIS.  R-CRISIS admite la definición de fuentes sísmicas de diversos tipos, desde puntos y líneas, hasta complejas estructuras tridimensionales, que se combinan con una importante variedad de modelos de sismicidad. R-CRISIS facilita el uso de diferentes modelos de atenuación (GMPM), incorporando actualmente más de 60 modelos diferentes. R-CRISIS permite calcular: Mapas de amenaza, espectros de amenaza uniforme, desagregación M-R, desagregación M-R-Epsilon, escenarios sísmicos/mapas de movimiento sísmico y conjunto de eventos (archivo CAPRA ame), entro otros resultados.  ![](images/capitulo_1/Caja_4.png)   Pantalla principal de R-CRISIS Manuales de usuario y referencia técnica, bases documentales, tutoriales y otros recursos pueden ser consultados en www.r-crisis.com
 :::
 
 ## 1.5 ESPECTROS DE DISEÑO
@@ -199,7 +217,7 @@ Este coeficiente corresponde a la aceleración espectral de 1 segundo del sismo 
 
 
 
-![](media/img_a70779bc.png)
+![](images/capitulo_1/img_a70779bc.png)
 
 **Figura 9****. **Nuevo mapa de zonificación sísmica propuesto.
 
@@ -237,19 +255,19 @@ A continuación, se presentan los espectros de diseño propuestos en comparació
 
 
 
-![](media/img_7c4bb73a.png)
+![](images/capitulo_1/img_7c4bb73a.png)
 
 **Figura 10****.** Comparación de espectros de diseño de NSR-10 y propuestos para Bogotá.
 
 
 
-![](media/img_a809bad8.png)
+![](images/capitulo_1/img_a809bad8.png)
 
 **Figura 11****.** Comparación de espectros de diseño de NSR-10 y propuestos para Medellín.
 
 
 
-![](media/img_50190aa1.png)
+![](images/capitulo_1/img_50190aa1.png)
 
 **Figura 12****. **Comparación de espectros de diseño de NSR-10 y propuestos para Cali.
 
@@ -274,8 +292,7 @@ En caso de aprobarse esta propuesta de espectros de diseño, el país debe entra
 La RTGM, como la define el USGS para ser usada en el ASCE 7-16, se basa en la siguiente ecuación: 
 
 
-|  | (2) |
-| --- | --- |
+$$P(Colapso) = \int_{0}^{\infty} P(Colapso | Sa) \cdot f_{sa} \cdot dSa \tag{2}$$ 
 
 En donde P (Colapso) es la probabilidad de colapso de la estructura dada como objetivo de desempeño, P (Colapso|Sa) es la función de fragilidad al colapso y fSa es la función de densidad de probabilidad de la aceleración espectral en el sitio de cálculo para un periodo de exposición dado. Nótese que la integral se realiza en todo el dominio de la aceleración espectral. 
 
@@ -284,14 +301,13 @@ La Ecuación 2 es una forma de aplicar el teorema de la probabilidad total sobre
 La función de densidad fSa puede obtenerse directamente de la curva de amenaza sísmica de la aceleración espectral como:
 
 
-|  | (3) |
-| --- | --- |
+$$f_{Sa} = \frac{d}{dSa} e^{-v(Sa) \cdot T} \tag{3}$$
 
 En donde v(Sa) es la tasa de excedencia de la aceleración espectral y T el periodo de exposición. Esta ecuación permite determinar la distribución de probabilidad de la aceleración espectral en base a la curva de amenaza, como se ilustra en la Figura 13. La Ecuación 3 se obtiene directamente de la suposición que la ocurrencia en el tiempo de eventos sísmicos que excedan un determinado valor de aceleración espectral sigue un proceso estocástico homogéneo de Poisson.
 
 
 
-![](media/img_96af5f7d.png)
+![](images/capitulo_1/img_96af5f7d.png)
 
 **Figura 13****.** Transformación de la curva de amenaza en la función de densidad de probabilidad de la aceleración espectral, para un periodo de tiempo de exposición dado.
 
@@ -304,10 +320,11 @@ Se ajusta uno de los parámetros de la distribución lognormal de forma iterativ
 La aceleración para la cual en la función de fragilidad se tiene 10% de probabilidad de colapso, y que implica un 1% de probabilidad total de colapso según la Ecuación 2, es la medida de movimiento RTGM. La Figura 13 ilustra este proceso iterativo.
 
 
-|  | Primera iteración: Curva de fragilidad según ASCE 7 – 10/16 Sa = 0.8 g (2,500 años) P(Colapso) = 12% |
-| --- | --- |
-|  | Segunda iteración: Curva de fragilidad modificada Sa = 1.3 g P(Colapso) = 0.14% |
-|  | Tercera iteración: Curva de fragilidad modificada Sa = 1.1 g P(Colapso) = 1.0% |
+| Figura | Descripción |
+|:---:|:---|
+| ![](images/capitulo_1/Figura_14a.png){width=80%} | Primera iteración: Curva de fragilidad según ASCE 7 – 10/16 Sa = 0.8 g (2,500 años) P(Colapso) = 12% |
+| ![](images/capitulo_1/Figura_14b.png){width=80%} | Segunda iteración: Curva de fragilidad modificada Sa = 1.3 g P(Colapso) = 0.14% |
+| ![](images/capitulo_1/Figura_14c.png){width=80%} | Tercera iteración: Curva de fragilidad modificada Sa = 1.1 g P(Colapso) = 1.0% |
 
 **Figura 14****.** Ilustración del proceso iterativo para construir la RTGM.
 
@@ -316,20 +333,17 @@ La aceleración para la cual en la función de fragilidad se tiene 10% de probab
 El método de los coeficientes de diseño óptimos se basa en la minimización del costo total asociado a una estructura. Este costo total se define como el costo inicial por la construcción de la estructura, y el costo de las pérdidas futuras, en función de las pérdidas que los futuros terremotos causarán sobre el inmueble. Esta definición puede expresarse mediante la siguiente ecuación:
 
 
-|  | (4) |
-| --- | --- |
+$$C_T(c_s) = C_I(c_s) + C_{FL}(c_s)$$ \tag{4}$$
 
 En donde CT es el costo total, CI el costo inicial y CFL el costo de las pérdidas futuras. Todos estos costos se expresan como función del coeficiente de diseño cs. El costo inicial se define de la siguiente manera:
 
-
-|  | (5) |
-| --- | --- |
+$$C_I = C_0 + C_{Res} \cdot (c_s - c_0)^\alpha \tag{5}$$
 
 En donde C0 es el costo por resistencia lateral gratuita, que tiene que ver con la capacidad a cargas laterales que tiene cualquier estructura, incluso si esta ha sido diseñada únicamente para soportar cargas verticales. CRes es el costo por resistencia lateral adicional a la gratuita, es decir dándole una resistencia apropiada a la estructura para las cargas laterales, pero más allá de la inherente a cualquier estructura. Este costo CRes es modificado de manera no lineal como función de la diferencia entre el coeficiente de diseño (que se incrementa a medida que aumenta la exigencia) y el coeficiente c0, que corresponde coeficiente de diseño equivalente a la resistencia lateral gratuita. Esta diferencia es elevada a un exponente positivo α que usualmente se encuentra entre 1 y 2. La Figura 15 muestra la forma de la función CI normalizada (i.e. CI/C0) para edificaciones en Colombia, según Salgado et al. [[5]](#ref-5). 
 
 
 
-![](media/img_8b0bb0dc.png)
+![](images/capitulo_1/img_8b0bb0dc.png)
 
 **Figura 15.** Incremento del costo normalizado en función del coeficiente de diseño. Tomado de Salgado et al [[5]](#ref-5).
 
@@ -338,8 +352,7 @@ En la Figura 15, el Modelo de costos es efectivamente la propuesta de Salgado et
 El costo de las pérdidas futuras se expresa mediante la siguiente ecuación:
 
 
-|  | (6) |
-| --- | --- |
+$$C_{FL} = C_I \cdot (1+S_L) \cdot \frac{v(c_s)}{\mu} \tag{6}$$
 
 En donde v(cs) es la tasa de excedencia del coeficiente de diseño, μ es una tasa de descuento y SL es el factor de impacto asociado al contexto socioeconómico en que ocurren las pérdidas por sismos. Según lo recomendado por Salgado et al. [[5]](#ref-5) la tasa de descuento se fija en un 5%. El factor de impacto SL, que busca dar cuenta de las condiciones de contexto, se evaluó en función de la tipología municipal del DNP [[8]](#ref-8) y de si el municipio cuenta o no con una microzonificación sísmica, siguiendo este procedimiento:
 
@@ -357,119 +370,119 @@ En este Anexo se presentan los espectros de diseño propuestos para todas las ca
 
 
 
-![](media/img_2d7006b5.png)
+![](images/capitulo_1/img_2d7006b5.png)
 
 
 
-![](media/img_779fd339.png)
+![](images/capitulo_1/img_779fd339.png)
 
 
 
-![](media/img_cf8b4c7e.png)
+![](images/capitulo_1/img_cf8b4c7e.png)
 
 
 
-![](media/img_45127791.png)
+![](images/capitulo_1/img_45127791.png)
 
 
 
-![](media/img_2307f1fe.png)
+![](images/capitulo_1/img_2307f1fe.png)
 
 
 
-![](media/img_52a354e6.png)
+![](images/capitulo_1/img_52a354e6.png)
 
 
 
-![](media/img_3d429b48.png)
+![](images/capitulo_1/img_3d429b48.png)
 
 
 
-![](media/img_5c88a80f.png)
+![](images/capitulo_1/img_5c88a80f.png)
 
 
 
-![](media/img_00bbfe35.png)
+![](images/capitulo_1/img_00bbfe35.png)
 
 
 
-![](media/img_6879068a.png)
+![](images/capitulo_1/img_6879068a.png)
 
 
 
-![](media/img_566b5fc3.png)
+![](images/capitulo_1/img_566b5fc3.png)
 
 
 
-![](media/img_8b13d302.png)
+![](images/capitulo_1/img_8b13d302.png)
 
 
 
-![](media/img_f905f0a4.png)
+![](images/capitulo_1/img_f905f0a4.png)
 
 
 
-![](media/img_e9f7cbb2.png)
+![](images/capitulo_1/img_e9f7cbb2.png)
 
 
 
-![](media/img_afc15973.png)
+![](images/capitulo_1/img_afc15973.png)
 
 
 
-![](media/img_4d3e4bfa.png)
+![](images/capitulo_1/img_4d3e4bfa.png)
 
 
 
-![](media/img_852333bb.png)
+![](images/capitulo_1/img_852333bb.png)
 
 
 
-![](media/img_b66767b0.png)
+![](images/capitulo_1/img_b66767b0.png)
 
 
 
-![](media/img_b724c6b8.png)
+![](images/capitulo_1/img_b724c6b8.png)
 
 
 
-![](media/img_6eef6922.png)
+![](images/capitulo_1/img_6eef6922.png)
 
 
 
-![](media/img_05c21d33.png)
+![](images/capitulo_1/img_05c21d33.png)
 
 
 
-![](media/img_55a1483d.png)
+![](images/capitulo_1/img_55a1483d.png)
 
 
 
-![](media/img_e8877dcd.png)
+![](images/capitulo_1/img_e8877dcd.png)
 
 
 
-![](media/img_2efcafea.png)
+![](images/capitulo_1/img_2efcafea.png)
 
 
 
-![](media/img_00b014d2.png)
+![](images/capitulo_1/img_00b014d2.png)
 
 
 
-![](media/img_75d825af.png)
+![](images/capitulo_1/img_75d825af.png)
 
 
 
-![](media/img_34dc96b1.png)
+![](images/capitulo_1/img_34dc96b1.png)
 
 
 
-![](media/img_75bf8106.png)
+![](images/capitulo_1/img_75bf8106.png)
 
 
 
-![](media/img_03b69a04.png)
+![](images/capitulo_1/img_03b69a04.png)
 
 ## 1.10 CONFLICTO DE INTERESES
 
