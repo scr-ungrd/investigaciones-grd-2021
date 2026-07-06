@@ -62,7 +62,7 @@ El principal objetivo de un estudio histórico o de historicidad sobre fenómeno
 
 
 
-![](media/img_2c2d9f20.png)
+![](images/capitulo_9/img_2c2d9f20.png)
 
 **Figura 1.** Objetivos de los estudios históricos para la gestión del riesgo. Fuente**: **elaboración propia.
 
@@ -106,7 +106,7 @@ A nivel hídrico, el sistema se conforma por ecosistemas acuáticos lóticos y l
 
 
 
-![](media/img_faea10b5.png)
+![](images/capitulo_9/img_faea10b5.png)
 
 **Figura 2.** Mapa de localización de la ciudad de Santiago de Cali. Fuente**: **elaboración propia.
 
@@ -129,7 +129,7 @@ Después de reunir la mayor cantidad de información, se analiza individualmente
 
 
 
-![](media/img_9fa00ce4.png)
+![](images/capitulo_9/img_9fa00ce4.png)
 
 **Figura 3.** Diseño metodológico intensivista. Se representa esquemáticamente el tratamiento de la información histórica desde su búsqueda hasta la elaboración de catálogos y cartografía. Fuente: elaboración propia.
 
@@ -185,7 +185,7 @@ En la Figura 4 se presenta un histograma que sintetiza el resultado del número 
 
 
 
-![](media/img_8f733017.png)
+![](images/capitulo_9/img_8f733017.png)
 
 **Figura 4.** Distribución por año del número de sismos para el municipio de Santiago de Cali, ocurridos en el periodo 1566-2018. Fuente: elaboración propia.
 
@@ -201,7 +201,7 @@ Se puede observar que los sismos que han generado algún impacto sobre el munici
 
 
 
-![](media/img_a9c711d6.jpeg)
+![](images/capitulo_9/img_a9c711d6.jpeg)
 
 **Figura 5.** Mapa histórico de eventos sísmicos de influencia en Santiago de Cali. Se representan los eventos sísmicos en diferente tamaño y color de acuerdo con su magnitud. Fuente: elaboración propia.
 
@@ -221,13 +221,13 @@ El histograma del número de eventos por año denota tres periodos marcados en l
 
 
 
-![](media/img_5e503e47.png)
+![](images/capitulo_9/img_5e503e47.png)
 
 **Figura 6.** Distribución anual del número de noticias de movimientos en masa por año en el municipio de Santiago de Cali, periodo 1949–2018. Fuente: elaboración propia.
 
 
 
-![](media/img_ad3510dc.png)
+![](images/capitulo_9/img_ad3510dc.png)
 
 **Figura 7.** Distribución anual del número de eventos por año de movimientos en masa en el municipio Santiago de Cali en periodo 1949–2018. Fuente: elaboración propia.
 
@@ -237,19 +237,19 @@ De la historicidad revisada se encontró, que las zonas más afectadas correspon
 
 
 
-![](media/img_6d7311f7.png)
+![](images/capitulo_9/img_6d7311f7.png)
 
 **Figura 8.** Distribución del número por movimientos en masa (MM) por localización en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Representa la distribución de eventos entre el área urbana y rural (izquierda), y la distribución del número de eventos por comunas (derecha). Fuente: elaboración propia.
 
 
 
-![](media/img_824259ac.png)
+![](images/capitulo_9/img_824259ac.png)
 
 **Figura 9.** Distribución de eventos de movimientos en masa por barrios en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Fuente: elaboración propia.
 
 
 
-![](media/img_3a29c4c1.png)
+![](images/capitulo_9/img_3a29c4c1.png)
 
 **Figura 10.** Número de eventos de movimientos en masa por corregimiento en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Fuente: elaboración propia.
 
@@ -259,13 +259,13 @@ Con la información obtenida y debidamente espacializada se presentan a continua
 
 
 
-![](media/img_5cecaf00.png)
+![](images/capitulo_9/img_5cecaf00.png)
 
 **Figura 11**. Historicidad de movimiento en masa zona urbana. Los colores representan la frecuencia de eventos en cada barrio. Fuente**:** elaboración propia.
 
 
 
-![](media/img_335a501b.png)
+![](images/capitulo_9/img_335a501b.png)
 
 **Figura 12.**  Historicidad de movimientos en masa zona rural. Los colores y tamaños de los círculos representan la cantidad de registros por movimientos en masa. Fuente: elaboración propia.
 
@@ -290,7 +290,7 @@ En la búsqueda de información en diferentes fuentes, se encontró un total de 
 
 
 
-![](media/img_04ecd0af.png)
+![](images/capitulo_9/img_04ecd0af.png)
 
 **Figura 13.** Número de reportes sobre eventos por año inundación en el municipio de Santiago de Cali, encontrados en el periodo entre 1949–2018. Fuente**:** elaboración propia.
 
@@ -298,7 +298,7 @@ En la Figura 14a se muestra el número de eventos por inundación que se han pre
 
 
 
-![](media/img_fd986a80.png)
+![](images/capitulo_9/img_fd986a80.png)
 
 **Figura 14.** Distribución de eventos por inundación en el municipio de Santiago de Cali para el periodo de 1949-2018 (izquierda). Registro de eventos por comunas. Registro por corregimientos (derecha). Fuente: elaboración propia.
 
@@ -306,7 +306,7 @@ Las inundaciones que se presentan en el municipio son pluviales y fluviales (Fig
 
 
 
-![](media/img_aef7716d.png)
+![](images/capitulo_9/img_aef7716d.png)
 
 **Figura 15.** Número de eventos por tipo de inundación en el municipio de Santiago de Cali, periodo 1949 – 2018. Fuente: elaboración propia.
 
@@ -314,19 +314,19 @@ Las Figuras 16, 17 y 18 muestran la representación cartográfica o distribució
 
 
 
-![](media/img_91c6e69c.png)
+![](images/capitulo_9/img_91c6e69c.png)
 
 **Figura 16.** Historicidad de eventos de inundación fluvial y pluvial en la zona urbana del municipio de Santiago de Cali. Fuente: elaboración propia.
 
 
 
-![](media/img_1cdd9035.png)
+![](images/capitulo_9/img_1cdd9035.png)
 
 **Figura 17.** Historicidad de eventos de inundación fluvial en la zona rural del municipio de Santiago de Cali. Fuente: elaboración propia.
 
 
 
-![](media/img_10c36add.png)
+![](images/capitulo_9/img_10c36add.png)
 
 **Figura 18.** Historicidad de eventos de inundación pluvial en la zona rural del municipio de Santiago de Cali. Fuente: elaboración propia.
 
