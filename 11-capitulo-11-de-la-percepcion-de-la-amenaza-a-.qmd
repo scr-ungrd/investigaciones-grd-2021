@@ -51,7 +51,7 @@ En Colombia, la combinación entre las cordilleras y altas precipitaciones dan l
 
 
 
-![](media/img_5c2264a1.jpeg)
+![](images/capitulo_11/img_5c2264a1.jpeg)
 
 **Figura 1.** Localización de Aguazul en el departamento de Casanare, Colombia.		
 
@@ -70,7 +70,7 @@ Acorde con los antecedentes en el municipio de Aguazul, el esquema de ordenamien
 
 
 
-![](media/img_35cefc5f.jpeg)
+![](images/capitulo_11/img_35cefc5f.jpeg)
 
 **Figura** **2. **Mapa de riesgos y amenazas del EOT de Aguazul.
 
@@ -82,7 +82,7 @@ Este proyecto se desarrolló en tres etapas. La primera incluyó la toma de dato
 
 
 
-![](media/img_1728fcd1.png)
+![](images/capitulo_11/img_1728fcd1.png)
 
 **Figura 3. **Diagrama de flujo para la cuantificación de la amenaza.
 
@@ -135,7 +135,7 @@ Previo a la modelación hidráulica, se realizó una visita de campo donde se re
 
 
 
-![](media/img_07c924f2.png)
+![](images/capitulo_11/img_07c924f2.png)
 
 **Figura 4. **Trabajo de batimetría efectuado en el río Unete en enero de 2018 (izq) y (der).
 
@@ -143,7 +143,7 @@ En el sitio del aforo se obtuvo una pendiente del lecho del río (S) del 3.0%, �
 
 
 
-![](media/img_2dfeadea.png)
+![](images/capitulo_11/img_2dfeadea.png)
 
 **Figura 5.** Aforo líquido del río Unete realizado el 04-11-2017. 
 
@@ -155,7 +155,7 @@ En la Figura 6 se observa el lecho del río Unete, incluyendo una barra de sedim
 
 
 
-![](media/img_c76b34ea.jpeg)
+![](images/capitulo_11/img_c76b34ea.jpeg)
 
 **Figura 6.** Vista panorámica del río Unete tomada con drone. Trabajo de campo efectuado en el río Unete en enero de 2018. (**A**) Espolones en concreto, (**B**) Estructura de contención con hexápodos, (**C**) Barra de sedimentos y (**D**) Terraza.
 
@@ -163,7 +163,7 @@ Las geoformas identificadas en el río Unete en proximidad al área urbana de Ag
 
 
 
-![](media/img_a8683a73.jpeg)
+![](images/capitulo_11/img_a8683a73.jpeg)
 
 **Figura** **7. **Geoformas río Unete.
 
@@ -199,7 +199,7 @@ A nivel regional, la menor precipitación tiene lugar en la parte alta de la cue
 
 
 
-![](media/img_af2c6880.jpeg)
+![](images/capitulo_11/img_af2c6880.jpeg)
 
 ** Figura** **8.** Precipitación en la cuenca del Unete.
 
@@ -207,11 +207,11 @@ Los caudales para cada periodo de retorno (200 años, 50 años, 10 años y 1.3 a
 
 
 
-![](media/img_6ee3b4a7.png)
+![](images/capitulo_11/img_6ee3b4a7.png)
 
 
 
-![](media/img_6ee3b4a7.png)
+![](images/capitulo_11/img_6ee3b4a7.png)
 
 **Figura 9. **Hidrograma del río Unete para distintos periodos de retorno; elaborado a partir de registros históricos de la estación Los Esteros (35197030) del IDEAM del año 2018
 
@@ -219,13 +219,13 @@ Por otro lado, se realizó el levantamiento de 13 secciones transversales del le
 
 
 
-![](media/img_2c471e03.jpeg)
+![](images/capitulo_11/img_2c471e03.jpeg)
 
 **Figura 10.** Localización de secciones topográficas en el río Unete. Las secciones transversales obtenidas del río Unete se representaron en una imagen de Google Earth de 2018.
 
 
 
-![](media/img_e204403d.png)
+![](images/capitulo_11/img_e204403d.png)
 
 **Figura 11.** Sección transversal del río Unete. El perfil se utiliza como ejemplo para representar como es la vista transversal de las secciones tomadas.
 
@@ -237,7 +237,7 @@ En campo se realizó la georreferenciación con GPS de las estructuras hidráuli
 
 
 
-![](media/img_83abfe3a.png)
+![](images/capitulo_11/img_83abfe3a.png)
 
 **Figura 12.** Estructuras hidráulicas para control de socavación en el río Unete. Trabajo de campo de topografía e identificación de estructuras hidráulicas efectuado en el río Unete en enero de 2018 (izq) y (der).
 
@@ -245,7 +245,7 @@ La información anteriormente descrita se incorporó al modelo hidráulico en el
 
 
 
-![](media/img_31090da3.jpeg)
+![](images/capitulo_11/img_31090da3.jpeg)
 
 **Figura 13.** Usos de suelo en Iber. Los usos de suelo se determinaron a partir de las imágenes satelitales y las visitas realizadas a la zona del proyecto. (A) Usos de suelo identificados a partir de malla triangular no estructurada en el software Iber, (B) Terraza aluvial y (C) Material del lecho del río Unete.
 
@@ -255,7 +255,7 @@ Para validación de resultados, se realizaron 40 encuestas a los habitantes de l
 
 
 
-![](media/img_acfac800.png)
+![](images/capitulo_11/img_acfac800.png)
 
 **Figura 14.** Registro fotográfico de encuestas. Las fotografías muestran evidencia de la realización de las encuestas, para este caso, en los barrios Los Esteros y Las Vegas (izq) y (der).
 
@@ -267,7 +267,7 @@ La modelación hidráulica considerando únicamente el DEM (12.5 × 12.5 metros)
 
 
 
-![](media/img_de9313cd.png)
+![](images/capitulo_11/img_de9313cd.png)
 
 **Figura 15.** Resultados de profundidad para la modelación hidráulica considerando el modelo digital de elevación obtenido de ALOS PALSAR para un tiempo de retorno de 200 años. Los resultados sin topografía demuestran la importancia del trabajo de campo para el desarrollo de modelos hidráulicos en Iber 2D.
 
@@ -277,7 +277,7 @@ Se observa que, para el periodo de retorno de 1.3 años, correspondiente con la 
 
 
 
-![](media/img_5f9189ef.jpeg)
+![](images/capitulo_11/img_5f9189ef.jpeg)
 
 **Figura 16. **Mapa de profundidad de flujo en el río Unete según período de retorno.
 
@@ -289,7 +289,7 @@ La velocidad máxima registrada para el periodo de retorno de 10 años fue de 7.
 
 
 
-![](media/img_77449155.jpeg)
+![](images/capitulo_11/img_77449155.jpeg)
 
 **Figura 75.** Mapa de velocidad de flujo en el río Unete según período de retorno.
 
@@ -303,7 +303,7 @@ En la Figura 18A se observa que la intensidad correspondiente a un periodo de re
 
 
 
-![](media/img_e6d83e00.jpeg)
+![](images/capitulo_11/img_e6d83e00.jpeg)
 
 **Figura 76.** Mapa de intensidad de amenaza por inundación en el río Unete según período de retorno.
 
@@ -321,7 +321,7 @@ Considerando que el 100% del área afectada corresponde al periodo de retorno de
 
 
 
-![](media/img_dcbb326b.jpeg)
+![](images/capitulo_11/img_dcbb326b.jpeg)
 
 **Figura 19.** Mapa de área según frecuencia. Las áreas identificadas corresponden a los periodos de retorno de 10, 50 y 200 años.
 
@@ -329,7 +329,7 @@ Como resultado de la suma o combinación de intensidad, frecuencia y territorio 
 
 
 
-![](media/img_4c56504f.jpeg)
+![](images/capitulo_11/img_4c56504f.jpeg)
 
 **Figura 20.** Mapa de amenaza por inundación en el río Unete según período de retorno.
 
@@ -339,7 +339,7 @@ De acuerdo con los resultados obtenidos de los mapas de amenaza parciales se con
 
 
 
-![](media/img_16bf4c65.jpeg)
+![](images/capitulo_11/img_16bf4c65.jpeg)
 
 **Figura 21.** Mapa de amenaza por inundación en el municipio de Aguazul. La clasificación de amenaza por inundación se realizó a partir de los periodos de retorno de 10, 50 y 200 años.
 
@@ -377,7 +377,7 @@ Cabe resaltar en el caso del barrio El Porvenir que en la fotografía aérea del
 
 
 
-![](media/img_682afe9f.jpeg)
+![](images/capitulo_11/img_682afe9f.jpeg)
 
 **Figura 22.** Cruce del caño Samán por el barrio Porvenir. Fotografía aérea de Aguazul del año 2004. Modificado a partir del vuelo C-2710, n°. 207, 2004.
 
@@ -385,7 +385,7 @@ A su vez, en la fotografía aérea del año 1995 se observa que el caño El Sam�
 
 
 
-![](media/img_eb6b5bd3.jpeg)
+![](images/capitulo_11/img_eb6b5bd3.jpeg)
 
 **Figura 23.** Canal de estiaje en el sector Las Vegas. Fotografía aérea de Aguazul del año 1995. Modificado a partir del vuelo C-2564, n°. 3, 1995.
 
@@ -439,7 +439,7 @@ Los umbrales de la tabla anterior se determinaron de acuerdo al planteamiento de
 
 
 
-![](media/img_957c6ea4.jpeg)
+![](images/capitulo_11/img_957c6ea4.jpeg)
 
 **Figura 24.** Mapa de amenaza por inundación en el municipio de Aguazul a partir de encuestas. Las zonas de amenaza corresponden a las áreas que la comunidad identifico y los límites se trazaron a partir de las geoformas.
 
