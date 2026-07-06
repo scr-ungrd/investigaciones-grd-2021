@@ -58,7 +58,7 @@ La esquina noroccidental de Suramérica y sureste de Centroamérica es una zona 
 
 
 
-![](media/img_9cb406e3.jpeg)
+![](images/capitulo_4/img_9cb406e3.jpeg)
 
 **Figura 1.** Marco tectónico de la zona de estudio. Fuente del mapa: ETOPO1 [[16]](#ref-16).
 
@@ -106,11 +106,11 @@ La Figura 2 muestra ejemplos de series de tiempo y los correspondientes diagrama
 
 
 
-![](media/img_884f6b9c.jpeg)
+![](images/capitulo_4/img_884f6b9c.jpeg)
 
 
 
-![](media/img_e03ce31e.jpeg)
+![](images/capitulo_4/img_e03ce31e.jpeg)
 
 **Figura 2.** Series de tiempo GPS y diagramas de densidad espectral de las estaciones MITU (A) y UWAS (B). El término *cpy* en la frecuencia significa ciclos por año.
 
@@ -126,7 +126,7 @@ De la Figura 3 se puede observar la subducción oblicua de la placa de Nazca, re
 
 
 
-![](media/img_c84db1ec.jpeg)
+![](images/capitulo_4/img_c84db1ec.jpeg)
 
 **Figura 3.** Mapa de velocidades geodésicas de la zona de estudio con respecto a Suramérica, expresadas en ITRF2008.
 
@@ -258,7 +258,7 @@ Bajo el concepto de geodesia de imágenes, la técnica conocida como InSAR (Inte
 
 
 
-![](media/img_74b6e393.jpeg)
+![](images/capitulo_4/img_74b6e393.jpeg)
 
 **Figura 5.** Medición mediante InSAR. Se aprecia la diferencia de fase entre una primera toma (pasada 1) respecto a una segunda toma (pasada 2); λ corresponde a la longitud de onda.
 
@@ -270,7 +270,7 @@ La Figura 6 muestra un interferograma compuesto por una rampa de colores que va 
 
 
 
-![](media/img_53923ee4.jpeg)
+![](images/capitulo_4/img_53923ee4.jpeg)
 
 **Figura 6.** Ejemplo de interferograma diferencial generado a partir de imágenes TerraSAR-X para la ciudad de Bogotá entre el 28/09/2011 y 17/10/2012. Modificado de Mora-Páez et al. [[62]](#ref-62)
 
@@ -296,7 +296,7 @@ Previamente, Mora-Páez et al. [[62]](#ref-62), empleando 76 imágenes TerraSAR-
 
 
 
-![](media/img_c9b9e65c.jpeg)
+![](images/capitulo_4/img_c9b9e65c.jpeg)
 
 **Figura 9.** Mapa de desplazamientos verticales acumulados para el periodo septiembre de 2011 a diciembre de 2018.
 
@@ -304,11 +304,11 @@ La Figura 10A muestra un sector del mapa de desplazamientos, resaltándose la zo
 
 
 
-![](media/img_6ee91c9e.jpeg)
+![](images/capitulo_4/img_6ee91c9e.jpeg)
 
 
 
-![](media/img_6bbdca46.jpeg)
+![](images/capitulo_4/img_6bbdca46.jpeg)
 
 **Figura 10.** Mapa de desplazamientos acumulados del punto 1 sector Puente Aranda (izquierda). Serie de tiempo del Punto 1 (derecha). Los puntos de color negro corresponden a los valores observados del procesamiento del “stacking”, mientras que los puntos azules a los valores obtenidos mediante la aplicación del filtro Media Móvil Ponderado Gaussiano. 
 
@@ -316,21 +316,21 @@ La Figura 11a presenta otro sitio, punto 2, localizado en Normandía, cercano al
 
 
 
-![](media/img_3784ef49.jpeg)
+![](images/capitulo_4/img_3784ef49.jpeg)
 
 
 
-![](media/img_b0a63af7.jpeg)
+![](images/capitulo_4/img_b0a63af7.jpeg)
 
 **Figura 11. **Mapa de desplazamientos acumulados del punto 2 (Normandía) (izquierda). Serie de tiempo del Punto 2 (derecha).
 
 
 
-![](media/img_09bb24fb.jpeg)
+![](images/capitulo_4/img_09bb24fb.jpeg)
 
 
 
-![](media/img_331ab278.jpeg)
+![](images/capitulo_4/img_331ab278.jpeg)
 
 **Figura 12.** Mapa de desplazamientos acumulados del punto 3 (La Guaca) (izquierda), y serie de tiempo del punto 3 (derecha).
 
@@ -342,7 +342,7 @@ Para la integración GPS-InSAR se seleccionaron estaciones permanentes con datos
 
 
 
-![](media/img_1786c1bd.jpeg)
+![](images/capitulo_4/img_1786c1bd.jpeg)
 
 **Figura 13.** Mapa de localización de estaciones GPS empleadas para la integración con InSAR. Los círculos amarillos corresponden a estaciones permanentes, mientras los círculos blancos a estaciones de campo. El recuadro morado es la zona de cobertura de las imágenes TerraSAR-X empleadas.
 
@@ -350,11 +350,11 @@ De esta red de estaciones GPS, se destaca la estación permanente BOGT, dada su 
 
 
 
-![](media/img_43d75b21.jpeg)
+![](images/capitulo_4/img_43d75b21.jpeg)
 
 
 
-![](media/img_db4d394a.jpeg)
+![](images/capitulo_4/img_db4d394a.jpeg)
 
 **Figura 14**. Serie de tiempo estación GPS permanente BOGT, imagen superior. Serie de tiempo InSAR para el sitio de localización de la estación BOGT, imagen inferior.
 
@@ -371,7 +371,7 @@ Como resultado de esta integración se muestra el ejemplo de la serie de tiempo 
 
 
 
-![](media/img_e401d17d.jpeg)
+![](images/capitulo_4/img_e401d17d.jpeg)
 
 **Figura 15.** Serie de tiempo InSAR integrada con GPS correspondiente al sitio de ubicación de estación BOGT. 
 
@@ -381,7 +381,7 @@ La Figura 16 muestra el mapa de desplazamientos acumulados para la ciudad de Bog
 
 
 
-![](media/img_ce140c50.jpeg)
+![](images/capitulo_4/img_ce140c50.jpeg)
 
 **Figura 16.** Mapa de desplazamientos verticales acumulados para el periodo septiembre de 2011 a diciembre de 2018 como resultado de la integración GPS-InSAR.
 
@@ -389,31 +389,31 @@ Realizada la integración de resultados GPS-InSAR, se efectuó un análisis simi
 
 
 
-![](media/img_bf20bf22.jpeg)
+![](images/capitulo_4/img_bf20bf22.jpeg)
 
 
 
-![](media/img_536a7482.jpeg)
+![](images/capitulo_4/img_536a7482.jpeg)
 
 **Figura 17.** Mapa de desplazamientos acumulados del punto 1 sector Puente Aranda (izquierda). Serie de tiempo del Punto 1 (derecha). 
 
 
 
-![](media/img_567ce1a6.jpeg)
+![](images/capitulo_4/img_567ce1a6.jpeg)
 
 
 
-![](media/img_58dbc680.jpeg)
+![](images/capitulo_4/img_58dbc680.jpeg)
 
 **Figura 18. **Mapa de desplazamientos acumulados del punto 2 (Normandía) (izquierda). Serie de tiempo del Punto 2, sector de Normandía (derecha). 
 
 
 
-![](media/img_3f0eedda.jpeg)
+![](images/capitulo_4/img_3f0eedda.jpeg)
 
 
 
-![](media/img_a4bf8db3.jpeg)
+![](images/capitulo_4/img_a4bf8db3.jpeg)
 
 **Figura 19.** Mapa de desplazamientos acumulados del punto 3 (La Guaca) (izquierda). Serie de tiempo del punto 3 (derecha). 
 
