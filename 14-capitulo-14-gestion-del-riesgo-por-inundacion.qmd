@@ -66,7 +66,7 @@ La Mojana es una ecorregión (Fig. 1) de especial importancia en Colombia que ha
 
 
 
-![](media/img_7adf8497.jpeg)
+![](images/capitulo_14/img_7adf8497.jpeg)
 
 **Figura 1. **Mapa de la ecorregión de la Mojana (Fondo de Adaptación).
 
@@ -99,7 +99,7 @@ El sistema de ecuaciones consta de las correspondientes al movimiento horizontal
 
 
 
-![](media/img_bbc71d89.jpeg)
+![](images/capitulo_14/img_bbc71d89.jpeg)
 
 **Figura 2.** Representación de las ecuaciones de aguas someras [[17]](#ref-17).
 
@@ -138,7 +138,7 @@ En los talleres llevados a cabo en septiembre del año 2013 en el municipio de S
 
 
 
-![](media/img_54046e0b.jpeg)
+![](images/capitulo_14/img_54046e0b.jpeg)
 
 **Figura 3. **Descripción de inundaciones, en el municipio de San Marcos (Sucre) [[21]](#ref-21).
 
@@ -150,7 +150,7 @@ Además de la relación de la inundación con las actividades productivas, tambi
 
 
 
-![](media/img_58950b2a.jpeg)
+![](images/capitulo_14/img_58950b2a.jpeg)
 
 **Figura 4.** Calendario estacional en el municipio de Magangué (Bolívar) [[22]](#ref-22).
 
@@ -158,7 +158,7 @@ En los talleres llevados a cabo en la UNGRD durante el año 2018 [[22]](#ref-22)
 
 
 
-![](media/img_03a154a4.jpeg)
+![](images/capitulo_14/img_03a154a4.jpeg)
 
 **Figura 5.** Elementos claves para el diseño del metamodelo a partir del trabajo de campo en la ecorregión de la Mojana.
 
@@ -203,7 +203,7 @@ Clase alta: cuando está rodeado de agentes clase alta (A) o no tiene vecinos (N
 
 
 
-![](media/img_930118a8.jpeg)
+![](images/capitulo_14/img_930118a8.jpeg)
 
 **Figura 6.** Modelos de interacción. a reglas clase baja. b y c reglas clase media. d y e reglas clase alta. Para la estructura de un autómata celular se puede definir una vecindad establecida para cada celda, la que consiste en un conjunto contiguo de celdas. Esta vecindad puede estar formada por las celdas inmediatamente contiguas a la celda en cuestión (vecindad de Von Neuman , cuatro celdas, o vecindad de Moore, ocho celdas).
 
@@ -223,7 +223,7 @@ Fueron desarrollados diferentes modelos que generaron artefactos, esto a partir 
 
 
 
-![](media/img_af59a2ff.jpeg)
+![](images/capitulo_14/img_af59a2ff.jpeg)
 
 **Figura 7. **Componentes modelo MOJANA [[25]](#ref-25).
 
@@ -233,7 +233,7 @@ Fueron desarrollados diferentes modelos que generaron artefactos, esto a partir 
 
 
 
-![](media/img_43b98829.jpeg)
+![](images/capitulo_14/img_43b98829.jpeg)
 
 **Figura 8.** Interfase del modelo MOJANA [[25]](#ref-25)*.*
 
@@ -259,7 +259,7 @@ Las poblaciones humanas se representan por un sistema de agentes que toman prove
 
 
 
-![](media/img_1cf1d7a5.jpeg)
+![](images/capitulo_14/img_1cf1d7a5.jpeg)
 
 **Figura 10.** Interfase del modelo MOJANACOOP [[20]](#ref-20) .
 
@@ -317,7 +317,7 @@ Figura 12.
 
 
 
-![](media/img_d18a4540.jpeg)
+![](images/capitulo_14/img_d18a4540.jpeg)
 
 **Figura 12.** MOJANAREAL.
 
