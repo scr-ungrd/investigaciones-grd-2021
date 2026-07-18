@@ -20,7 +20,7 @@ title-block-banner-color: "#151550ff"
 
 ::: {.card-body .pt-2 .pb-2}
 
-![](media/img_ed30ac97.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_1/img_d2a4ee29.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Gabriel Bernal, Omar Darío Cardona</p>
 
@@ -40,7 +40,7 @@ title-block-banner-color: "#151550ff"
 
 ::: {.card-body .pt-2 .pb-2}
 
-![](media/img_7739e9ac.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_2/img_34dad813.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Rafael Fernández, Luis Yamin, Juan Carlos Reyes, Angie Garcia, Gustavo Fuentes, Juan Echeverry</p>
 
@@ -80,7 +80,7 @@ title-block-banner-color: "#151550ff"
 
 ::: {.card-body .pt-2 .pb-2}
 
-![](media/img_9cb406e3.jpeg){height="130px" style="object-fit: cover;"}
+![](images/capitulo_4/img_53923ee4.jpeg){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Héctor Mora-Páez, Fredy Díaz Mila, Takeshi Sagiya, Leidy Giraldo Londoño, Yuli Corchuelo Cuervo</p>
 

@@ -34,3 +34,6 @@ format:
     css: custom.css
     toc: true
     number-sections: false
+
+crossref:
+  chapters: true

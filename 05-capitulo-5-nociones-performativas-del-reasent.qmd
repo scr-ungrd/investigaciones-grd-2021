@@ -24,9 +24,7 @@ El reasentamiento se ha convertido en un generador de nuevos riesgos para las co
 
 :::
 
-## 5.1 Palabras clave
-
-Reasentamiento social, acompañamiento psicosocial, reducción del riesgo de desastres, integridad socio-ambiental, sostenibilidad
+## 5.1 Palabras clave: Reasentamiento social, acompañamiento psicosocial, reducción del riesgo de desastres, integridad socio-ambiental, sostenibilidad
 
 **Performative notions of social resettlement as disaster risk reduction in Colombia: strategic psychosocial components for sustainability**
 
@@ -38,9 +36,7 @@ Resettlement has come through new risks for communities as its social framework 
 
 :::
 
-## 5.2 **Keywords**
-
-Social resettlement, psychosocial support, disaster risk reduction, socio-environmental integrity, sustainability
+## 5.2 **Keywords**: Social resettlement, psychosocial support, disaster risk reduction, socio-environmental integrity, sustainability
 
 ## 5.3 INTRODUCCIÓN
 
@@ -102,9 +98,7 @@ Se establece una correlación entre los países donde se encontró mayor prevale
 
 
 
-![](images/capitulo_5/img_41dd66ec.png)
-
-**Figura 1.** La figura sintetiza los componentes psicosociales del reasentamiento social y la relación que se genera entre ellas. Participación y organización social junto con el componente institucional resultan ser los vectores de los ocho componentes restantes. Fuente: propia. 
+![La figura sintetiza los componentes psicosociales del reasentamiento social y la relación que se genera entre ellas. Participación y organización social junto con el componente institucional resultan ser los vectores de los ocho componentes restantes. Fuente: propia.](images/capitulo_5/img_41dd66ec.png){#fig-c5-01}
 
 **Componente institucional**
 

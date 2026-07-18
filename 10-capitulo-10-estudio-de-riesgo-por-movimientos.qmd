@@ -18,23 +18,15 @@ doi: ""
 
 Los movimientos en masa se consideran uno de los peligros naturales que causan mundialmente mayor cantidad de pérdidas. En países como Colombia, los movimientos en masa que causan el mayor número de muertes y pérdidas económicas se relacionan con avenidas torrenciales causadas por movimientos en masa en cuencas. Este capítulo presenta una metodología para evaluar el riesgo asociado con movimientos en masa en cuencas abastecedoras. La amenaza se evalúa considerando métodos probabilistas que incluyen los efectos de la lluvia y los sismos. Además, este estudio evalúa la probabilidad de que una masa deslizante llegue a los lechos de los ríos y la probabilidad de obstrucción en sus cauces. Por otro lado, la vulnerabilidad se estima utilizando curvas de daño basadas en la altura de obstrucción de los cauces. Finalmente, el riesgo se estima como la probabilidad de que ocurran pérdidas económicas a lo largo del lecho del río. Esta metodología se basa en métodos de probabilidad, como el método de primer orden segundo momento (FOSM) y el método de estimaciones puntuales (MEP), y se ha aplicado en la cuenca del río San Juan, en el suroeste Antioqueño, donde las condiciones morfodinámicas e hidrometeorológicas han generado desastres que han causado daños a la infraestructura y población con pérdidas económicas significativas. Los resultados evidencian alta coincidencia de zonas afectadas con movimientos en masa de acuerdo al inventario de eventos en la zona, con áreas de alta probabilidad de falla predichas por el modelo, indicando su coherencia para identificar zonas a estudiar con mayor detalle. En conclusión, las pérdidas directas estimadas en la cuenca de la zona de estudio, sin considerar edificaciones, serían del orden de $3,782 millones de pesos colombianos, valor que sirve de referencia para evaluaciones más detalladas y la toma de decisiones para la gestión del riesgo. 
 
-**Palabras clave** 
-
-Amenaza, deslizamientos, cuencas, movimientos en masa, riesgo, vulnerabilidad
-
-**Landslide risk study in supplying hydrographic basins in the southwest of Antioquia using probabilistic methods**
-
-
+**Palabras clave**: Amenaza, deslizamientos, cuencas, movimientos en masa, riesgo, vulnerabilidad
 :::
 
 ::: {#abstract}
 ## Abstract {.unnumbered}
 
-Landslides are considered one of the natural hazards that cause the most significant losses worldwide. In countries such as Colombia, landslides events that cause the highest number of deaths and economic losses are related to flash floods or debris flow caused by landslides in basins. This chapter presents a methodology to assess the associated risk with landslides in water supply basins. The hazard is assessed considering probabilistic methods that include the effects of rainfall and earthquakes. Furthermore, this study assesses the probability of a sliding mass reaching riverbeds and the probability of obstructions in its channels. Besides, vulnerability is assessed using damage curves based on the obstruction height of the channel. Finally, the risk is estimated as the probability of the most likely economic losses occurring along the riverbed. This methodology is based on probability methods, such as the first-order second-moment method (FOSM) and the point estimate method (PEM). It was applied in the San Juan River basin, in the southwest of Antioquia, where morphodynamic and hydrometeorological conditions have generated several disasters that have caused damage to the infrastructure and its population with significant economic losses. The results show a high coincidence of affected areas with landslides according to the inventory of events in the study zone, with areas of a high probability of failure predicted by the model, indicating its coherence to identify areas to be studied with more detail. In conclusion, the estimated direct losses in the basins of the study area, without considering buildings, would be of the order of $ 3,782 millions of Colombian pesos, a reference value for more detailed assessments and decision-making for risk management.
+**Landslide risk study in supplying hydrographic basins in the southwest of Antioquia using probabilistic methods.** Landslides are considered one of the natural hazards that cause the most significant losses worldwide. In countries such as Colombia, landslides events that cause the highest number of deaths and economic losses are related to flash floods or debris flow caused by landslides in basins. This chapter presents a methodology to assess the associated risk with landslides in water supply basins. The hazard is assessed considering probabilistic methods that include the effects of rainfall and earthquakes. Furthermore, this study assesses the probability of a sliding mass reaching riverbeds and the probability of obstructions in its channels. Besides, vulnerability is assessed using damage curves based on the obstruction height of the channel. Finally, the risk is estimated as the probability of the most likely economic losses occurring along the riverbed. This methodology is based on probability methods, such as the first-order second-moment method (FOSM) and the point estimate method (PEM). It was applied in the San Juan River basin, in the southwest of Antioquia, where morphodynamic and hydrometeorological conditions have generated several disasters that have caused damage to the infrastructure and its population with significant economic losses. The results show a high coincidence of affected areas with landslides according to the inventory of events in the study zone, with areas of a high probability of failure predicted by the model, indicating its coherence to identify areas to be studied with more detail. In conclusion, the estimated direct losses in the basins of the study area, without considering buildings, would be of the order of $ 3,782 millions of Colombian pesos, a reference value for more detailed assessments and decision-making for risk management.
 
-**Keywords** 
-
-Hazard, landslide, mass movement, risk, vulnerability, water supply basins
+**Keywords**: Hazard, landslide, mass movement, risk, vulnerability, water supply basins
 
 
 :::
@@ -45,7 +37,7 @@ Debido a los altos niveles de afectación de los movimientos en masa, a nivel mu
 
 El suroeste antioqueño, y en particular las cuencas de esta subregión, son frecuentemente afectadas por movimientos en masa, los cuales han causado numerosas pérdidas de vidas, heridos, damnificados y cuantiosas pérdidas económicas. Muchos de ellos asociados a cuencas hidrográficas abastecedoras de acueductos como el río Tapartó, la quebrada La Liboriana y el cerro Las Nubes, por citar algunos de los más emblemáticos. Una fuente abastecedora, se entiende como una corriente de agua que se utiliza para el suministro de agua potable, riego de cultivos o para actividades industriales. Entendiendo que la estimación y evaluación del riesgo por movimientos en masa y su afectación a las fuentes de abastecimiento de agua es un problema complejo, en el marco del proyecto Piragua de la Corporación Autónoma Regional del Centro de Antioquia-Corantioquia, la Universidad de Medellín ha desarrollado una metodología para la evaluación de riesgos por movimientos en masa en fuentes hídricas abastecedoras de agua potable.
 
-En este capítulo se presenta la metodología aplicada a un caso de estudio en la cuenca del río San Juan. En primer lugar, se presenta una evaluación de la información disponible para la elaboración de un inventario de movimientos en masa (Fig. 1). Segundo, se presenta la evaluación de amenaza por movimientos en masa detonados por sismos y lluvia a escala regional, se presentan los materiales usados y los resultados obtenidos; por último, se presenta el análisis de riesgo, y finalmente se presentan conclusiones y recomendaciones para futuros trabajos.
+En este capítulo se presenta la metodología aplicada a un caso de estudio en la cuenca del río San Juan. En primer lugar, se presenta una evaluación de la información disponible para la elaboración de un inventario de movimientos en masa (@fig-c10-01). Segundo, se presenta la evaluación de amenaza por movimientos en masa detonados por sismos y lluvia a escala regional, se presentan los materiales usados y los resultados obtenidos; por último, se presenta el análisis de riesgo, y finalmente se presentan conclusiones y recomendaciones para futuros trabajos.
 
 **Tabla 1**. Se estima que los costos directos e indirectos de los movimientos en masa en pueden ser significativas en términos del producto interno bruto (PIB), incluso en países desarrollados [[16]](#ref-16).
 
@@ -61,9 +53,7 @@ En este capítulo se presenta la metodología aplicada a un caso de estudio en l
 
 
 
-![](images/capitulo_10/img_873d26d6.png)
-
-**Figura 1.** Pérdida de vidas (**A**) y daño a propiedades (**B**) por diversos fenómenos naturales en el Valle de Aburrá entre 1880–2007 (adaptado de [[19]](#ref-19)).
+![Pérdida de vidas (**A**) y daño a propiedades (**B**) por diversos fenómenos naturales en el Valle de Aburrá entre 1880–2007 (adaptado de [[19]](#ref-19)).](images/capitulo_10/img_873d26d6.png){#fig-c10-01}
 
 En recientes años, se han presentado varios movimientos en masa que han causado numerosas muertes y pérdidas económicas. La Tabla 2 muestra algunos movimientos en masa seleccionados por su gran impacto a nivel mundial y también en área en estudio. La mayoría de estos eventos ocurrieron en zonas de ocupación irregular; sin embargo, taludes en proyectos formales también han presentado problemas [[20]](#ref-20). 
 
@@ -100,36 +90,32 @@ En el Plan Departamental para La Gestión del Riesgo de Desastres de Antioquia (
 
 En el informe final del estudio de Actualización de la Línea Base de Gestión del Riesgo y Mapa de Susceptibilidad al Cambio Climático 2014–2015 en la Jurisdicción de Corantioquia [[26]](#ref-26), se reporta un total de 322 movimientos en masa en la jurisdicción de Corantioquia, cada uno con su respectiva localización, pero no se reporta la fecha de ocurrencia. De acuerdo con este trabajo, y como se observa en las zonas que presentan una mayor recurrencia de movimientos en masa es el suroeste con 109 reportes, el Valle de Aburra con 68 y el Norte con 56. Los movimientos en masa de este informe se obtuvieron a partir de reportes directos de los municipios. 
 
-Para ampliar la información y obtener un análisis más concluyente sobre la ocurrencia de movimientos en masa en el suroeste Antioqueño, se recurrió a los reportes del sistema Desinventar hasta el año 2019. De acuerdo con los datos que para Antioquia se encuentran en Desinventar (Fig. 2A), los movimientos en masa se presentan con mayor frecuencia en los trimestres mayo-junio-julio y septiembre-octubre-noviembre como se observa en la Figura 2B. En total se tienen 1,566 registros, los cuales muestran que las zonas con mayor ocurrencia son la zona del suroeste (462 registros) y la del oriente (358 registros) como se aprecia en la Figura 2C. Los 462 registros de la región de suroeste cubren un periodo desde 1921 hasta 2019 como se muestra en la Figura 2A y al igual que para el departamento de Antioquia en general, para la región del suroeste también se observa que los movimientos en masa son más frecuentes en los trimestres mayo-junio-julio y septiembre-octubre-noviembre como se observa en la Figura 2D.  El municipio del Suroeste que presenta el mayor número de reportes de eventos es Andes como se observa en la Figura 2E.
+Para ampliar la información y obtener un análisis más concluyente sobre la ocurrencia de movimientos en masa en el suroeste Antioqueño, se recurrió a los reportes del sistema Desinventar hasta el año 2019. De acuerdo con los datos que para Antioquia se encuentran en Desinventar (@fig-c10-02, panel A), los movimientos en masa se presentan con mayor frecuencia en los trimestres mayo-junio-julio y septiembre-octubre-noviembre como se observa en la @fig-c10-02 (panel B). En total se tienen 1,566 registros, los cuales muestran que las zonas con mayor ocurrencia son la zona del suroeste (462 registros) y la del oriente (358 registros) como se aprecia en la @fig-c10-02 (panel C). Los 462 registros de la región de suroeste cubren un periodo desde 1921 hasta 2019 como se muestra en la @fig-c10-02 (panel A) y al igual que para el departamento de Antioquia en general, para la región del suroeste también se observa que los movimientos en masa son más frecuentes en los trimestres mayo-junio-julio y septiembre-octubre-noviembre como se observa en la @fig-c10-02 (panel D).  El municipio del Suroeste que presenta el mayor número de reportes de eventos es Andes como se observa en la @fig-c10-02 (panel E).
 
 
 
-![](images/capitulo_10/img_b7c4546c.png)
-
-**Figura 2**. Registros de movimientos en masa para el departamento de Antioquia (Desinventar) (**A**). Distribución mensual de los movimientos en masa en Antioquia (**B**). Distribución de movimientos en masa en Antioquia por regiones (excluyendo el Valle de Aburrá) (**C**). Distribución mensual de movimientos en masa en el Suroeste (**D**). Movimientos en masa por municipios del Suroeste (**E**).
+![Registros de movimientos en masa para el departamento de Antioquia (Desinventar) (**A**). Distribución mensual de los movimientos en masa en Antioquia (**B**). Distribución de movimientos en masa en Antioquia por regiones (excluyendo el Valle de Aburrá) (**C**). Distribución mensual de movimientos en masa en el Suroeste (**D**). Movimientos en masa por municipios del Suroeste (**E**).](images/capitulo_10/img_b7c4546c.png){#fig-c10-02}
 
 ## 10.2 RESULTADOS DE LOS MODELOS DE ESTIMACIÓN
 
 ### 10.2.1 Amenaza
 
-Se aplicó la metodología mostrada en la Figura  6 y descrita en la Sección 6, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de *H* = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.
+Se aplicó la metodología mostrada en la @fig-c10-06 y descrita en la Sección 6, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de *H* = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Teoría del equilibro límite   Los movimientos en masa superficiales en las laderas boscosas generalmente involucran horizontes superficiales del suelo y pueden modelarse como un volumen rígido de tierra delgada que se desliza sobre una superficie de corte plana. Por lo tanto, la estabilidad de la pendiente puede evaluarse esquemáticamente aplicando la teoría del equilibrio límite. Esto significa que se establece una relación entre la resistencia al corte de un material disponible para resistir la falla y alguna condición de las fuerzas de corte que están presentes para causar la falla.  La teoría de la falla de Mohr-Coulomb establece que, si bien la falla es esencialmente por corte, el esfuerzo crítico de corte es una función del esfuerzo normal como una combinación de la cohesión y la resistencia a la fricción que actúa sobre una superficie potencial de falla.  Esta relación se expresa comúnmente en la forma de un "Factor de seguridad (FS)", un indicador global que permite medir el grado de estabilidad del terreno. El factor se expresa por la relación de la resistencia al cizallamiento del suelo (fuerzas estabilizadoras que actúan sobre el terreno) con respecto las solicitaciones que tienden al movimiento (fuerzas desestabilizadoras). La naturaleza de la relación definitoria de los cálculos del FS significan que las situaciones inestables se representan por un número entre 0 y 1, mientras que las consideraciones estables se representan por un número entre 1 e infinito. Este indicador de estabilidad de la pendiente se representa mediante la siguiente ecuación:  Dónde: Ah es la aceleración horizontal del suelo dada como fracción de la gravedad g, H es el espesor de la zona de falla [m], Hw es la altura medida desde el nivel freático hasta la superficie de agua [m], c es la cohesión del suelo [kPa], φ es el ángulo de fricción interna del suelo [°], γ  es el peso unitario del suelo en condición húmeda [kN/m3], y γw es el peso unitario del agua [kN/m3]. En este estudio, el factor de seguridad se evalúa en dos condiciones de saturación del suelo (húmedo y saturado) bajo dos escenarios (estático y sísmico), obteniendo así, el factor de seguridad húmedo estático (FSHE), saturado estático (FSSE), húmedo sísmico (FSHS) y saturado sísmico (FSSS).
 :::
 
-En el proceso de estimación de la amenaza, se calculan los factores de seguridad considerando dos escenarios de condiciones de humedad del suelo. El primer caso, corresponde a un escenario estático, es decir, sin la inclusión de un detonante del movimiento en masa por condición sísmica. El segundo caso, corresponde a un escenario que considera la inclusión de un movimiento sísmico, por medio de un coeficiente de aceleración horizontal del suelo (*A**h*) de 0.2 *g*. Ambos casos fueron evaluados para condiciones de humedad natural del suelo (*H**w **= 0*) y una eventual condición de saturación total por efecto de la lluvia (*H**w **= H*). En la Figura  se presentan los resultados de factores de seguridad en condición saturada estática y en la Figura 4A la probabilidad de total de falla (*PTF*).
+En el proceso de estimación de la amenaza, se calculan los factores de seguridad considerando dos escenarios de condiciones de humedad del suelo. El primer caso, corresponde a un escenario estático, es decir, sin la inclusión de un detonante del movimiento en masa por condición sísmica. El segundo caso, corresponde a un escenario que considera la inclusión de un movimiento sísmico, por medio de un coeficiente de aceleración horizontal del suelo (*A**h*) de 0.2 *g*. Ambos casos fueron evaluados para condiciones de humedad natural del suelo (*H**w **= 0*) y una eventual condición de saturación total por efecto de la lluvia (*H**w **= H*). En la @fig-c10-03 se presentan los resultados de factores de seguridad en condición saturada estática y en la @fig-c10-04 (panel A) la probabilidad de total de falla (*PTF*).
 
 
 
-![](images/capitulo_10/img_c0ca8446.png)
-
-**Figura 3.** Resultados del factor de seguridad (*FS*) en condición saturada estática para la cuenca del río San Juan (**A**). Se hace un zoom sobre la quebrada La Liboriana para presentar y detallar los resultados del factor de seguridad en condición húmeda estática (*FSHE*) (**B**) y en condición saturada estática (*FSSE*) (**C**).
+![Resultados del factor de seguridad (*FS*) en condición saturada estática para la cuenca del río San Juan (**A**). Se hace un zoom sobre la quebrada La Liboriana para presentar y detallar los resultados del factor de seguridad en condición húmeda estática (*FSHE*) (**B**) y en condición saturada estática (*FSSE*) (**C**).](images/capitulo_10/img_c0ca8446.png){#fig-c10-03}
 
 ### 10.2.2 Vulnerabilidad
 
-Se realizó el análisis de vulnerabilidad física calculando para esto la intensidad de acuerdo con las Ecuaciones 6 y 7. Analizando la intensidad de afectación de los cauces en una zona de 100 m a lado y lado de los mismos, se obtiene un valor promedio de 0.052 (grado de afectación del 5.2%) en las corrientes principales de la zona de estudio. Como ejemplo, en la Figura 4B se muestran los resultados de vulnerabilidad obtenidos para la quebrada La Liboriana.
+Se realizó el análisis de vulnerabilidad física calculando para esto la intensidad de acuerdo con las Ecuaciones 6 y 7. Analizando la intensidad de afectación de los cauces en una zona de 100 m a lado y lado de los mismos, se obtiene un valor promedio de 0.052 (grado de afectación del 5.2%) en las corrientes principales de la zona de estudio. Como ejemplo, en la @fig-c10-04 (panel B) se muestran los resultados de vulnerabilidad obtenidos para la quebrada La Liboriana.
 
 3.3 Riesgo
 
@@ -137,9 +123,7 @@ Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se 
 
 
 
-![](images/capitulo_10/img_d547d17b.png)
-
-**Figura 4.** Resultados de probabilidad total de falla en la cuenca del río San Juan (**A**). Vulnerabilidad (en término de “Intensidad”) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**B**). Riesgo anual ($) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**C**).
+![Resultados de probabilidad total de falla en la cuenca del río San Juan (**A**). Vulnerabilidad (en término de “Intensidad”) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**B**). Riesgo anual ($) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**C**).](images/capitulo_10/img_d547d17b.png){#fig-c10-04}
 
 ## 10.3 DISCUSIÓN
 
@@ -187,7 +171,7 @@ En cuanto a la probabilidad anual de falla (*PAF*), usando una lluvia detonante 
 
 Usando los datos del inventario de movimientos en masa para la subcuenca de validación, se encuentra que los polígonos del inventario presentan un valor promedio de *PAF* de 2.5% (Alta) que presenta correspondencia con las zonas de inestabilidad encontradas con el indicador de estabilidad *FSSE*. De acuerdo a las directrices dadas por el Servicio Geológico Colombiano [[23]](#ref-23) para el territorio nacional, la clasificación de la amenaza en función de la probabilidad de falla anual queda definida en la categoría “media”. 
 
-De acuerdo con los resultados obtenidos con relación a las zonas críticas de estabilidad, el municipio de Andes presenta una alta ocurrencia de movimientos en masa en condición de saturación del suelo, lo cual es habitual en temporada de invierno. Esto se ve reflejado también, en la frecuencia de eventos geodinámicos registrados en la base de datos Desinventar, donde este municipio presenta el pico más alto de desastres registrados hasta el año 2019 (Fig. 2E). Sin embargo, los eventos registrados en esta base de datos para municipios como Salgar y Ciudad Bolívar con gran porcentaje de su área en condición de inestabilidad, no reflejan las cifras reportadas, lo cual no necesariamente implica falta de correlación con el modelo propuesto, dado que no en todos los municipios se mantiene actualizado el inventario desastres y hay eventos ocurridos que no se reportaron.
+De acuerdo con los resultados obtenidos con relación a las zonas críticas de estabilidad, el municipio de Andes presenta una alta ocurrencia de movimientos en masa en condición de saturación del suelo, lo cual es habitual en temporada de invierno. Esto se ve reflejado también, en la frecuencia de eventos geodinámicos registrados en la base de datos Desinventar, donde este municipio presenta el pico más alto de desastres registrados hasta el año 2019 (@fig-c10-02, panel E). Sin embargo, los eventos registrados en esta base de datos para municipios como Salgar y Ciudad Bolívar con gran porcentaje de su área en condición de inestabilidad, no reflejan las cifras reportadas, lo cual no necesariamente implica falta de correlación con el modelo propuesto, dado que no en todos los municipios se mantiene actualizado el inventario desastres y hay eventos ocurridos que no se reportaron.
 
 A continuación, en la Tabla  se presenta el análisis de resultados de la amenaza por municipios en la cuenca de estudio, y se hace énfasis en aquellas zonas consideradas como críticas por presentar niveles de potencial afectación altos.
 
@@ -251,9 +235,7 @@ donde *R* es el riesgo, *P[T]* es la amenaza entendida como la probabilidad de q
 
 
 
-![](images/capitulo_10/img_42bfd6d2.png)
-
-**Figura 5. **Presentación esquemática del modelo de análisis de riesgo.
+![Presentación esquemática del modelo de análisis de riesgo.](images/capitulo_10/img_42bfd6d2.png){#fig-c10-05}
 
 Como se observa en la Figura , la determinación de la amenaza se hace considerando la saturación del suelo y el efecto de los sismos, y la vulnerabilidad considera la exposición y las consecuencias de la falla.
 
@@ -269,9 +251,7 @@ Donde *P**fs* es la probabilidad de falla del talud debido a la acción de un si
 
 
 
-![](images/capitulo_10/img_c7828477.png)
-
-**Figura 6. **Esquema de la metodología adoptada para la evaluación de la amenaza.
+![Esquema de la metodología adoptada para la evaluación de la amenaza.](images/capitulo_10/img_c7828477.png){#fig-c10-06}
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
@@ -305,15 +285,11 @@ donde *h**i* es la altura que puede ser generada por cada celda inestable. El pr
 
 
 
-![](images/capitulo_10/img_f335bd36.png)
-
-**Figura 7**. Esquema adoptado para el cálculo de la altura de depositación del movimiento en masa (*h**T*).
+![Esquema adoptado para el cálculo de la altura de depositación del movimiento en masa (*h**T*).](images/capitulo_10/img_f335bd36.png){#fig-c10-07}
 
 
 
-![](images/capitulo_10/img_5705655c.png)
-
-**Figura 8.** Esquema adoptado para el cálculo de la vulnerabilidad cuencas/cauces.
+![Esquema adoptado para el cálculo de la vulnerabilidad cuencas/cauces.](images/capitulo_10/img_5705655c.png){#fig-c10-08}
 
 La fragilidad (*S*) o probabilidad de daño se asocia a la resistencia de los elementos expuestos, para garantizar su funcionalidad e integridad física ante la interacción ejercida por la masa deslizante de suelo. En este trabajo se usó el concepto de las curvas de daño, las representan la probabilidad de que un elemento expuesto esté en un estado de daño determinado para un nivel de demanda dado. Se elaboraron curvas que describen la probabilidad de excedencia de un estado límite predeterminado de exposición de las quebradas ante la amenaza de un movimiento en masa, dada una medida de intensidad del mismo como se ilustra en la Figura , que depende de la altura de depositación del movimiento en masa (*h**T*). Para el cálculo de la intensidad (*I*) o *P[C|T]* que puede generar la masa de suelo deslizante sobre una quebrada se utilizó la Ecuación 7. Esta ecuación se obtuvo mediante la adaptación de curvas de fragilidad para vías usadas por el programa europeo de gestión de riesgo Safeland [[36]](#ref-36) mediante ajustes de regresión.
 
@@ -325,9 +301,7 @@ Donde:
 
 
 
-![](images/capitulo_10/img_b5d4eb6b.jpeg)
-
-**Figura 9. **Ejemplo de curva de daño para la afectación de una quebrada.
+![Ejemplo de curva de daño para la afectación de una quebrada.](images/capitulo_10/img_b5d4eb6b.jpeg){#fig-c10-09}
 
 ### 10.5.3 Costos de los elementos expuestos
 
@@ -365,15 +339,13 @@ El riesgo se calcula en términos de las pérdidas económicas que pueden ser ge
 
 $R=TPF × I ×Ccelda$ 					(9)
 
-Se estimó el riesgo en cada celda localizada sobre la corriente de agua en las condiciones actuales. En la Figura 10 se presenta la forma de cálculo de un índice de riesgo (*R*), obtenido como el producto de la probabilidad anual de falla (*PAF*), y la pérdida económica potencial (*PEP*) derivada de la vulnerabilidad de un cauce en términos de la intensidad y de la valoración económica del tipo de cobertura vegetal.
+Se estimó el riesgo en cada celda localizada sobre la corriente de agua en las condiciones actuales. En la @fig-c10-10 se presenta la forma de cálculo de un índice de riesgo (*R*), obtenido como el producto de la probabilidad anual de falla (*PAF*), y la pérdida económica potencial (*PEP*) derivada de la vulnerabilidad de un cauce en términos de la intensidad y de la valoración económica del tipo de cobertura vegetal.
 
 $R=PAF×PEP$ 						(10)
 
 
 
-![](images/capitulo_10/img_631cf92f.png)
-
-**Figura 10.** Esquema metodología adoptada para la evaluación del riesgo
+![Esquema metodología adoptada para la evaluación del riesgo](images/capitulo_10/img_631cf92f.png){#fig-c10-10}
 
 ## 10.6 CASO DE APLICACIÓN
 
@@ -386,9 +358,7 @@ Para el desarrollo y explicación de la metodología propuesta, se tomó como ca
 
 
 
-![](images/capitulo_10/img_1f5ca9ae.png)
-
-**Figura 11. **Localización del área en estudio (Cuenca río San Juan).
+![Localización del área en estudio (Cuenca río San Juan).](images/capitulo_10/img_1f5ca9ae.png){#fig-c10-11}
 
 Para la aplicación de la metodología propuesta se tienen las siguientes consideraciones:
 
