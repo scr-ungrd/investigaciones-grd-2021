@@ -69,21 +69,15 @@ Una vez se tiene esta base de datos, se debe realizar un análisis del riesgo en
 
 ### 2.2.2 Evaluación del riesgo
 
-Análisis de riesgo sísmico
-
-La aproximación utilizada para la evaluación del riesgo sísmico se basa en un catálogo de eventos estocásticos modelados a partir de la información de la sismicidad histórica de la zona de estudio. Esta evaluación sigue un enfoque prospectivo, anticipando eventos de ocurrencia y consecuencias factibles. El análisis contempla incertidumbres asociadas a la estimación de la magnitud y frecuencia en la amenaza, así como también las asociadas a la vulnerabilidad y distribución del portafolio de elementos expuestos. Para esto es necesario evaluar los siguientes componentes principales: la amenaza en términos probabilistas, la exposición que corresponde al portafolio de edificaciones escolares susceptibles de sufrir daño y la vulnerabilidad de estas. La @fig-c2-02 presenta el esquema general del modelo probabilista de evaluación del riesgo. Más información sobre la metodología general de evaluación del riesgo sísmico se puede encontrar en Yamin et al. [[14]](#ref-14) y en Yang [[15]](#ref-15). 
+**Análisis de riesgo sísmico**. La aproximación utilizada para la evaluación del riesgo sísmico se basa en un catálogo de eventos estocásticos modelados a partir de la información de la sismicidad histórica de la zona de estudio. Esta evaluación sigue un enfoque prospectivo, anticipando eventos de ocurrencia y consecuencias factibles. El análisis contempla incertidumbres asociadas a la estimación de la magnitud y frecuencia en la amenaza, así como también las asociadas a la vulnerabilidad y distribución del portafolio de elementos expuestos. Para esto es necesario evaluar los siguientes componentes principales: la amenaza en términos probabilistas, la exposición que corresponde al portafolio de edificaciones escolares susceptibles de sufrir daño y la vulnerabilidad de estas. La @fig-c2-02 presenta el esquema general del modelo probabilista de evaluación del riesgo. Más información sobre la metodología general de evaluación del riesgo sísmico se puede encontrar en Yamin et al. [[14]](#ref-14) y en Yang [[15]](#ref-15). 
 
 
 
 ![Modelo probabilista del riesgo.](images/capitulo_2/img_2d3817da.png){#fig-c2-02}
 
-Análisis de la amenaza sísmica
+**Análisis de la amenaza sísmica**. El primer paso para el desarrollo de la evaluación del riesgo sísmico es el análisis de la amenaza probabilista. Este análisis permite estimar los niveles de aceleración a las que las edificaciones podrían verse sometidas durante un sismo. Para esto es necesario desarrollar un modelo de aceleración en roca [[16]](#ref-16) y un modelo de aceleración en superficie que tenga en cuenta la amplificación por suelos blandos [[17]](#ref-17). El modelo de amenaza sísmica se representa mediante mapas de distribución de parámetros de intensidad sísmica como la aceleración máxima del terreno o las aceleraciones espectrales para diferentes periodos de vibración y amortiguamiento estructural. Cada uno de estos se evalúa para un conjunto completo de posibles eventos estocásticos que pueden llegar a ocurrir en la zona de influencia teniendo en cuenta los rangos de magnitudes posibles en las diferentes fuentes sísmicas y las distancias relativas entre estas. Cada evento se identifica con la frecuencia media anual de ocurrencia que se obtiene con base en el análisis de la frecuencia de eventos históricos. Para más detalles del procedimiento consultar las referencias [[14]](#ref-14)–[[16]](#ref-16).
 
-El primer paso para el desarrollo de la evaluación del riesgo sísmico es el análisis de la amenaza probabilista. Este análisis permite estimar los niveles de aceleración a las que las edificaciones podrían verse sometidas durante un sismo. Para esto es necesario desarrollar un modelo de aceleración en roca [[16]](#ref-16) y un modelo de aceleración en superficie que tenga en cuenta la amplificación por suelos blandos [[17]](#ref-17). El modelo de amenaza sísmica se representa mediante mapas de distribución de parámetros de intensidad sísmica como la aceleración máxima del terreno o las aceleraciones espectrales para diferentes periodos de vibración y amortiguamiento estructural. Cada uno de estos se evalúa para un conjunto completo de posibles eventos estocásticos que pueden llegar a ocurrir en la zona de influencia teniendo en cuenta los rangos de magnitudes posibles en las diferentes fuentes sísmicas y las distancias relativas entre estas. Cada evento se identifica con la frecuencia media anual de ocurrencia que se obtiene con base en el análisis de la frecuencia de eventos históricos. Para más detalles del procedimiento consultar las referencias [[14]](#ref-14)–[[16]](#ref-16).
-
-Exposición de edificaciones
-
-El modelo de exposición relaciona espacialmente las edificaciones del portafolio con sus características constructivas. El costo y el tiempo asociado para desarrollar el modelo de elementos expuesto varía según la información existente y la resolución definida. En la mayoría de los casos de estudio desarrollados por los autores se ha evidenciado una deficiencia en la información existente, por lo que ha sido necesario llevar a cabo visitas de campo y exploraciones a las escuelas con el fin de obtener datos mínimos. Estas campañas de campo pueden llegar a ser la parte más costosa y dispendiosa del proyecto en caso de que no se cuente con información. Con el fin que los resultados sean útiles para desarrollar el análisis de riesgo, se recomienda que el modelo tenga una resolución a nivel de edificación. Este modelo debe contar con la ubicación de las escuelas, la cantidad de edificaciones, el número de pisos de cada edificación, el material principal, el sistema estructural de resistencia sísmica y gravitacional, y el nivel de diseño sísmico. Este último parámetro se puede clasificar en edificaciones no ingenieriles y edificaciones ingenieriles con nivel de diseño bajo, medio y alto. La definición de cada nivel es particular de cada proyecto y cada país, a manera de ejemplo para el caso colombiano se pueden comparar con los niveles de diseño DMI, DMO y DES de la Norma Sismo Resistente Colombiana - NSR10 [[18]](#ref-18). Este parámetro es uno de los más difíciles de asignar directamente por lo que se debe obtener a partir de correlaciones de otras variables como el año de construcción, el organismo constructor, dimensiones de elementos estructurales y presencia de elementos de detallamiento sísmico, entre otros. 
+**Exposición de edificaciones**. El modelo de exposición relaciona espacialmente las edificaciones del portafolio con sus características constructivas. El costo y el tiempo asociado para desarrollar el modelo de elementos expuesto varía según la información existente y la resolución definida. En la mayoría de los casos de estudio desarrollados por los autores se ha evidenciado una deficiencia en la información existente, por lo que ha sido necesario llevar a cabo visitas de campo y exploraciones a las escuelas con el fin de obtener datos mínimos. Estas campañas de campo pueden llegar a ser la parte más costosa y dispendiosa del proyecto en caso de que no se cuente con información. Con el fin que los resultados sean útiles para desarrollar el análisis de riesgo, se recomienda que el modelo tenga una resolución a nivel de edificación. Este modelo debe contar con la ubicación de las escuelas, la cantidad de edificaciones, el número de pisos de cada edificación, el material principal, el sistema estructural de resistencia sísmica y gravitacional, y el nivel de diseño sísmico. Este último parámetro se puede clasificar en edificaciones no ingenieriles y edificaciones ingenieriles con nivel de diseño bajo, medio y alto. La definición de cada nivel es particular de cada proyecto y cada país, a manera de ejemplo para el caso colombiano se pueden comparar con los niveles de diseño DMI, DMO y DES de la Norma Sismo Resistente Colombiana - NSR10 [[18]](#ref-18). Este parámetro es uno de los más difíciles de asignar directamente por lo que se debe obtener a partir de correlaciones de otras variables como el año de construcción, el organismo constructor, dimensiones de elementos estructurales y presencia de elementos de detallamiento sísmico, entre otros. 
 
 Para caracterizar estructuralmente las edificaciones se recomienda utilizar el sistema de clasificación taxonómica establecido en el marco de la Librería Global de Infraestructura Escolar (GLOSI por sus siglas en inglés) [[12]](#ref-12). Este sistema de clasificación se diseñó específicamente para catalogar edificaciones escolares y tiene la flexibilidad de la cantidad de información a incluir. El proceso de asignación consiste en clasificar todas las edificaciones escolares mediante la caracterización de los parámetros principales, con estos identificar las edificaciones índice o arquetipo que son aquellas que dominan el portafolio y en estas edificaciones caracterizar los parámetros secundarios y los parámetros intrínsecos como se puede ver en la @fig-c2-03. La cantidad de escuelas a analizar en cada nivel (parámetros principales, secundarios e intrínsecos) debe seleccionarse según las características y las limitaciones de cada proyecto asegurando que las muestras seleccionadas se puedan clasificar como muestras aleatorias representativas. Para más información de esta metodología consultar .
 
@@ -93,17 +87,12 @@ Para caracterizar estructuralmente las edificaciones se recomienda utilizar el s
 
 Con estos parámetros se debe asignar o generar una función de vulnerabilidad sísmica que represente las características estructurales de la edificación como se mostrará en el siguiente numeral. Teniendo en cuenta lo anterior, para el análisis de riesgo es necesario contar con una base de datos georreferenciada a nivel de edificación que contenga a lo sumo lo siguiente:
 
-Identificación.
-
-Localización.
-
-Valor de reposición.
-
-Función de vulnerabilidad.
-
-Número máximo de estudiantes.
-
-Vulnerabilidad sísmica
+* Identificación.
+* Localización.
+* Valor de reposición.
+* Función de vulnerabilidad.
+* Número máximo de estudiantes.
+* Vulnerabilidad sísmica
 
 La vulnerabilidad sísmica de las construcciones se representa mediante una función que relaciona el valor medio del daño y su varianza (expresado en porcentaje con respecto al valor de reposición del bien) con una medida de intensidad sísmica, como se observa en la @fig-c2-04. La medida de intensidad se puede expresar como la aceleración máxima del terreno o la aceleración espectral para un periodo estructural específico según el comportamiento de la edificación que se evalúa. Utilizando estas curvas es posible cuantificar los daños en edificaciones específicas o en cualquier componente de infraestructura para escenarios sísmicos específicos. 
 
@@ -119,13 +108,10 @@ Una vez se ha determinado la vulnerabilidad de cada edificación, es necesario i
 
 Las estrategias de mitigación se pueden dividir en estructurales y no estructurales. Las estructurales son aquellas en las que se intervienen directamente los elementos estructurales y se modifica el comportamiento y los mecanismos de colapso de la edificación. Las intervenciones estructurales pueden enfocarse en rigidizar las estructuras (muros de concreto, contrafuertes, diagonales de acero, etc.) o en darle ductilidad a las estructuras (confinamiento, recubrimiento, rigidización de diafragmas, etc.). Por otro lado, las medidas de mitigación no estructurales se enfocan en asegurar un comportamiento sísmico adecuado de elementos que presenten riesgo a la vida, entre estos están el aseguramiento de cielos rasos, tuberías, estanterías y sistema HVAC (siglas en inglés de Calefacción, Ventilación y Aire Acondicionado) entre otros. Costos aproximados de este tipo de intervenciones se pueden encontrar en Valcárcel et al. [[6]](#ref-6) sin embargo se recomienda realizar presupuesto detallados para cada proyecto. Con el objetivo de asegurar niveles de calidad en los reforzamientos se recomienda seguir normativas internacionales reconocidas, entre las cuales se desatacan las siguientes:
 
-ASCE 41-17 [[24]](#ref-24).
-
-FEMA E-74 [[25]](#ref-25).
-
-British Columbia Ministry of Education [[26]](#ref-26).
-
-FEMA 308 [[27]](#ref-27).
+* ASCE 41-17 [[24]](#ref-24).
+* FEMA E-74 [[25]](#ref-25).
+* British Columbia Ministry of Education [[26]](#ref-26).
+* FEMA 308 [[27]](#ref-27).
 
 ### 2.2.4 Priorización y Planes de Mitigación del Riesgo Sísmico (PMRS)
 
@@ -133,19 +119,16 @@ Los planes de mitigación del riesgo deben desarrollarse a partir de los resulta
 
 Reducir el riesgo de muerte o accidentes a la comunidad estudiantil.
 
-Reducir los daños en la infraestructura, contenidos, instalaciones y proteger la propiedad.
-
-Beneficiar la mayor cantidad de estudiantes. 
-
-Reducir el tiempo de interrupción de los servicios escolares.
-
-Mejorar la calidad de la infraestructura.
+* Reducir los daños en la infraestructura, contenidos, instalaciones y proteger la propiedad.
+* Beneficiar la mayor cantidad de estudiantes. 
+* Reducir el tiempo de interrupción de los servicios escolares.
+* Mejorar la calidad de la infraestructura.
 
 Las edificaciones se pueden dividir en tres grupos principales: edificaciones con riesgo alto de colapso, edificaciones con alto riesgo de sufrir daños, y edificaciones con buen comportamiento. En el primer grupo están las edificaciones que presentan niveles de comportamiento cercanos al colapso para periodos de retorno bajos, en el segundo grupo están las edificaciones que presentan niveles de comportamiento cercanos al colapso para el periodo de retorno de diseño; y en el último, las edificaciones que presentan buen comportamiento para el periodo de retorno de diseño. Dependiendo de las características estructurales de las edificaciones catalogadas en cada uno de los grupos se debe proponer el reemplazo de la edificación, el reforzamiento integral, un reforzamiento estructural menor, el reforzamiento de elementos no estructurales, o ningún reforzamiento. En ciertos casos es posible evaluar un reforzamiento incremental en donde la intervención inicial es menor con el objetivo de reducir el riesgo de muerte o accidentes a la comunidad estudiantil y en una segunda fase se busque reducir daños a la infraestructura y reducir el tiempo de interrupción de los servicios. Esta opción de reforzamiento incremental permite una alternativa a la distribución de recursos, adaptándose a un primer objetivo de reducción de fatalidades o accidentes en el corto y mediano plazo, y el cumplimiento de los demás criterios en segunda instancia, lo cual fortalece la visión de intervenciones en el sector a largo plazo, especialmente desde un punto de vista de políticas públicas para la reducción del riesgo. 
 
 Una vez se tienen identificados los planes, debe realizarse una priorización de las edificaciones a intervenir con el objetivo de reducir la mayor cantidad del riesgo en el menor tiempo posible y con la menor cantidad de recursos. Para este análisis pueden utilizarse diferentes métricas como la Pérdida Máxima Esperada (PAE) o el Beneficio-Costo (B-C). Este último se ha utilizado ampliamente en la literatura en proyectos en el sector educativo para justificar las intervenciones [[6]](#ref-6), [[7]](#ref-7), [[9]](#ref-9), [[28]](#ref-28)–[[30]](#ref-30). Teniendo esto en cuenta, se utiliza una modificación al B-C con el objetivo de usarse como criterio de priorización y utilizar una métrica denominada Eficiencia-Costo (E-C) que relaciona la reducción del riesgo con la cantidad de estudiantes (matrícula), el número de estudiantes beneficiados, el costo del reforzamiento y el costo de oportunidad o interés para traer a valor presente las pérdidas [[14]](#ref-14). Esta métrica puede entenderse como el B-C multiplicado por el número de estudiantes beneficiados. El objetivo de incluir este parámetro en la priorización es dar más importancia a las escuelas más densas, es decir aquellas que concentran más estudiantes en menores áreas, lo cual no se tiene en cuenta al considerar únicamente el criterio del B-C. Para el cálculo de la eficiencia-costo debe dividirse la reducción del riesgo por el costo de oportunidad o interés para obtener los beneficios en valor presente, dividirlo en el costo de la intervención y multiplicarlo por el número de estudiantes como se ve en la siguiente fórmula:
 
-$EC= PAEActual-PAEEstado Mitigado*No. de estudiantes beneficiadosCosto del reforzamiento*Costo de oportunidad$         (1)
+$$EC = \frac{(PAE_{Actual} - PAE_{Estado\ Mitigado}) \times N^{\circ}\ estudiantes\ beneficiados}{Costo\ del\ reforzamiento \times Costo\ de\ oportunidad} \tag{1}$$
 
 ## 2.3 TIPOLOGÍAS PREDOMINANTES EN EL SECTOR
 
@@ -153,56 +136,31 @@ El primer paso para la reducción del riesgo en el sector es consolidar el porta
 
 ### 2.3.1 Tipologías de concreto reforzado
 
-Pórticos de concreto reforzado
-
-En este sistema, los muros divisorios no contribuyen a la resistencia lateral o vertical de la edificación. Las divisiones pueden ser ligeras o flexibles como el Drywall por lo que su efecto en el aumento de la rigidez sería despreciable. También se puede dar el caso que las divisiones sean pesadas y rígidas como muros de mampostería, pero estas deben estar dilatadas de la estructura mediante juntas flexibles. En la @fig-c2-05 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones son usualmente de uno y dos pisos y su nivel de diseño es variable.
-
-
+**Pórticos de concreto reforzado**. En este sistema, los muros divisorios no contribuyen a la resistencia lateral o vertical de la edificación. Las divisiones pueden ser ligeras o flexibles como el Drywall por lo que su efecto en el aumento de la rigidez sería despreciable. También se puede dar el caso que las divisiones sean pesadas y rígidas como muros de mampostería, pero estas deben estar dilatadas de la estructura mediante juntas flexibles. En la @fig-c2-05 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones son usualmente de uno y dos pisos y su nivel de diseño es variable.
 
 ![Ejemplos de pórticos de concreto reforzado resistente a momento. (**A**) Edificación escolar en Perú. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.](images/capitulo_2/img_f2b27dad.png){#fig-c2-05}
 
-Pórticos de concreto reforzado con muros de mampostería
-
-En este sistema, los muros divisorios contribuyen a la resistencia lateral y en algunos casos vertical de la edificación. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil. Estas edificaciones tienen alta rigidez en el rango lineal sin embargo suelen tener poca ductilidad. En la @fig-c2-06 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de uno y dos pisos y su nivel de diseño de bajo a medio.
-
-
+**Pórticos de concreto reforzado con muros de mampostería**. En este sistema, los muros divisorios contribuyen a la resistencia lateral y en algunos casos vertical de la edificación. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil. Estas edificaciones tienen alta rigidez en el rango lineal sin embargo suelen tener poca ductilidad. En la @fig-c2-06 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de uno y dos pisos y su nivel de diseño de bajo a medio.
 
 ![Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería integrados. (**A**) Edificación escolar en Nepal. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.](images/capitulo_2/img_782f91c5.png){#fig-c2-06}
 
-Pórticos de concreto reforzado con muros de mampostería generando columna corta
-
-En este sistema, los muros divisorios contribuyen a la resistencia lateral, pero presentan una deficiencia común denominada “columna corta”. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil, sin embargo, inducen a esfuerzos cortantes excesivos a la parte libre de la columna debido a la diferencia de rigideces [[31]](#ref-31). Estas edificaciones presentan una alta vulnerabilidad por su comportamiento frágil [[29]](#ref-29). Este tipo de edificaciones son muy comunes en el contexto de la infraestructura escolar como se verá más adelante. En la @fig-c2-07 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de dos pisos y tener un nivel de diseño bajo a medio.
-
-
+**Pórticos de concreto reforzado con muros de mampostería generando columna corta** En este sistema, los muros divisorios contribuyen a la resistencia lateral, pero presentan una deficiencia común denominada “columna corta”. Los muros divisorios se integran al sistema estructural principal y suelen tener un comportamiento frágil, sin embargo, inducen a esfuerzos cortantes excesivos a la parte libre de la columna debido a la diferencia de rigideces [[31]](#ref-31). Estas edificaciones presentan una alta vulnerabilidad por su comportamiento frágil [[29]](#ref-29). Este tipo de edificaciones son muy comunes en el contexto de la infraestructura escolar como se verá más adelante. En la @fig-c2-07 se identifican ejemplos de este tipo de edificaciones. Estas edificaciones suelen ser de dos pisos y tener un nivel de diseño bajo a medio.
 
 ![Ejemplos de pórticos de concreto reforzado resistente a momento con muros de mampostería generando columna corta. (**A**) Edificación escolar en Perú. (**B**) Edificación escolar en El Salvador. (**C**) Edificación escolar en Colombia. (**D**) Edificación escolar en República Dominicana. Fotos tomadas del GPSS y del archivo personal de los autores.](images/capitulo_2/img_90b897c2.png){#fig-c2-07}
 
 ### 2.3.2 Tipologías de mampostería
 
-Mampostería no reforzada
-
-Son edificaciones construidos con bloque de mampostería de diferentes calidades y materiales que comparten la característica de no tener ningún tipo de confinamiento ni vertical ni horizontal. En Latinoamérica es común encontrar este tipo de edificaciones con mampostería de arcilla, maciza o con perforaciones horizontales [[32]](#ref-32). Este tipo de edificaciones presentan una alta vulnerabilidad sísmica y su comportamiento estructural se caracteriza por ser frágil. En sismos recientes se han presentado colapsos de este tipo de edificaciones [[33]](#ref-33). En la @fig-c2-08 se pueden identificar algunos ejemplos de este tipo de edificaciones, las cuales suelen ser de 1 piso y tener un nivel de diseño sísmico bajo.
-
-
+**Mampostería no reforzada**. Son edificaciones construidos con bloque de mampostería de diferentes calidades y materiales que comparten la característica de no tener ningún tipo de confinamiento ni vertical ni horizontal. En Latinoamérica es común encontrar este tipo de edificaciones con mampostería de arcilla, maciza o con perforaciones horizontales [[32]](#ref-32). Este tipo de edificaciones presentan una alta vulnerabilidad sísmica y su comportamiento estructural se caracteriza por ser frágil. En sismos recientes se han presentado colapsos de este tipo de edificaciones [[33]](#ref-33). En la @fig-c2-08 se pueden identificar algunos ejemplos de este tipo de edificaciones, las cuales suelen ser de 1 piso y tener un nivel de diseño sísmico bajo.
 
 ![Ejemplos de edificaciones de mampostería simple. (**A**) Edificación escolar en El Salvador. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en Nepal. (**D**) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.](images/capitulo_2/img_9187cbf9.png){#fig-c2-08}
 
-Mampostería confinada
-
-Son edificaciones cuyo sistema de resistencia sísmica son muros de mampostería confinados por elementos de concreto reforzado vertical y horizontal. El nivel de confinamiento tanto vertical como horizontal es variable según el país y sus normativas de construcción sismo resistente. En Colombia se tiene que los elementos confinantes no deben estar separados a más de 4 metros y deben estar en las aberturas de puertas y ventanas [[18]](#ref-18). Estas edificaciones presentan una mayor ductilidad que las de mampostería no reforzada. En ciertos casos se pueden presentar fallas fuera del plano en este tipo de edificaciones [[34]](#ref-34). En la @fig-c2-09 pueden identificarse ejemplos de este tipo de edificaciones, las cuales suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.
-
-
+**Mampostería confinada**. Son edificaciones cuyo sistema de resistencia sísmica son muros de mampostería confinados por elementos de concreto reforzado vertical y horizontal. El nivel de confinamiento tanto vertical como horizontal es variable según el país y sus normativas de construcción sismo resistente. En Colombia se tiene que los elementos confinantes no deben estar separados a más de 4 metros y deben estar en las aberturas de puertas y ventanas [[18]](#ref-18). Estas edificaciones presentan una mayor ductilidad que las de mampostería no reforzada. En ciertos casos se pueden presentar fallas fuera del plano en este tipo de edificaciones [[34]](#ref-34). En la @fig-c2-09 pueden identificarse ejemplos de este tipo de edificaciones, las cuales suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.
 
 ![Ejemplos de edificaciones de mampostería confinada. (**A**) Edificación escolar en Colombia. (**B**) Edificación escolar en Colombia. (**C**) Edificación escolar en El Salvador. (**D**) Edificación escolar en Colombia. Fotos tomadas del GPSS y del archivo personal de los autores.](images/capitulo_2/img_59c370d5.png){#fig-c2-09}
 
-Mampostería reforzada
-
-El sistema de mampostería reforzada es un sistema de muros de mampostería con elementos de confinamiento interno. A diferencia del sistema de mampostería confinada, en este sistema los elementos de confinamiento son internos. Los bloques de mampostería son bloque de perforación vertical de arcilla o de concreto, usualmente de buena calidad. Este sistema se ha implementado ampliamente en países de Centroamérica como El Salvador, en donde se ha evidenciado un buen comportamiento sísmico [[35]](#ref-35). En la @fig-c2-10 pueden identificarse algunos ejemplos de este tipo de edificaciones. Suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.
-
-
+**Mampostería reforzada**. El sistema de mampostería reforzada es un sistema de muros de mampostería con elementos de confinamiento interno. A diferencia del sistema de mampostería confinada, en este sistema los elementos de confinamiento son internos. Los bloques de mampostería son bloque de perforación vertical de arcilla o de concreto, usualmente de buena calidad. Este sistema se ha implementado ampliamente en países de Centroamérica como El Salvador, en donde se ha evidenciado un buen comportamiento sísmico [[35]](#ref-35). En la @fig-c2-10 pueden identificarse algunos ejemplos de este tipo de edificaciones. Suelen ser de uno y dos pisos y tener un nivel de diseño sísmico medio a alto.
 
 ![Ejemplos de edificaciones de mampostería reforzada. (**A**) Edificación escolar en Colombia. (**B**) Edificación escolar en El Salvador. (**C**) Edificación escolar en El Salvador. (**D**) Edificación escolar en construcción en El Salvador. Fotos tomadas del GPSS y del archivo personal de los autores.](images/capitulo_2/img_34dad813.png){#fig-c2-10}
-
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** Tipologías escolares en concreto reforzado y en mampostería  Tipologías escolares principales en concreto reforzado: Pórticos de concreto reforzado. Pórticos de concreto reforzado con muros de mampostería. Pórticos de concreto reforzado con muros de mampostería generando columna corta. Tipologías escolares predominantes en mampostería: Mampostería no reforzada. Mampostería confinada. Mampostería reforzada.
@@ -216,71 +174,52 @@ La Universidad de los Andes, en el marco del Programa Global de Escuelas Seguras
 
 En este proyecto los autores capacitaron a un grupo de ingenieros y arquitectos de la Alcaldía de Cali para realizar recolección de información de la infraestructura en todas las escuelas del municipio. A partir de la información recopilada, se compila una base de datos de infraestructura a nivel de edificación que incluye información del valor expuesto, la ocupación humana y la caracterización de su vulnerabilidad sísmica para todos los elementos del portafolio. La @fig-c2-11 presenta la distribución espacial de 372 sedes educativas del municipio y su sistema estructural asociado. 
 
-
-
 ![Distribución espacial del portafolio escolar de Cali.  PCR corresponde a pórticos de concreto reforzado.](images/capitulo_2/img_91b48a3b.jpeg){#fig-c2-11}
 
 Como resultado final del procesamiento de la información y los datos del levantamiento en campo, se obtienen resultados generales con el fin de caracterizar el modelo de exposición escolar del municipio de Cali. A continuación, se muestra el resumen de la información obtenida:
 
-Número total de sedes educativas: 373.
-
-Número total de edificaciones: 1,224.
-
-Ocupación total: 92,013.
-
-Área construida: 417,220 m2.
-
-Valoración total aproximada del portafolio: COP $900,000 millones.
-
-Área promedio por estudiante: 2.97 m2/estudiante.
+* Número total de sedes educativas: 373.
+* Número total de edificaciones: 1,224.
+* Ocupación total: 92,013.
+* Área construida: 417,220 m2.
+* Valoración total aproximada del portafolio: COP $900,000 millones.
+* Área promedio por estudiante: 2.97 m2/estudiante.
 
 La distribución de las tipologías constructivas en la zona de estudio se presenta en la @fig-c2-12. Se puede observar que la mayor parte de las edificaciones se clasifican en dos grandes grupos correspondientes a edificaciones de concreto reforzado y de mampostería. Las tipologías clasificadas como “Otros” son tipologías de madera, acero, tapia y prefabricados, estos no se presentan en detalle en este documento pues no son tipologías predominantes en el portafolio, para más información con respecto a esta consultar: [[36]](#ref-36).
-
-
 
 ![Distribución de tipologías constructivas en Cali.](images/capitulo_2/img_53c16509.png){#fig-c2-12}
 
 Por otro lado, la @fig-c2-13 presenta la distribución de los sistemas estructurales en la zona, los cuales representan un subgrupo de las tipologías constructivas predominantes identificadas. En el caso de las edificaciones de concreto reforzado, el portafolio se constituye principalmente por pórticos de concreto reforzado con muros de mampostería adosados y pórticos de concreto reforzado con muros de mampostería adosados susceptibles a falla por columna corta. Para el caso de edificaciones de mampostería, se el portafolio se constituye únicamente por edificaciones de mampostería simple y mampostería confinada.
 
-
-
 ![Distribución de características estructurales en Cali. (**A**) Tipologías de concreto reforzado. (**B**) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.](images/capitulo_2/img_675fa258.png){#fig-c2-13}
 
 Adicionalmente, se incluye una revisión adicional de elementos estructurales que no hacen parte del sistema de resistencia sísmica, pero que ante un evento pueden ser un riesgo para la seguridad a la vida de los ocupantes, como se puede ver en la @fig-c2-14. Para cada uno de los elementos mencionados, se define si éste existe o no, y su estado. A partir de estas calificaciones, se proponen unas intervenciones secundarias las cuales deben ser aplicadas progresivamente con el reforzamiento sísmico.
-
-
 
 ![Parámetros estructurales complementarios [[36]](#ref-36).](images/capitulo_2/img_74921817.png){#fig-c2-14}
 
 Para el desarrollo del modelo probabilista de amenaza sísmica en la zona de estudio, se incluyen las fallas sísmicas con sus parámetros de sismicidad asociados, y la caracterización de los suelos de acuerdo con los resultados del Estudio de Microzonificación Sísmica de Santiago de Cali realizada en 2006. A partir de este modelo es posible obtener también mapas probabilistas de aceleración en superficie para diferentes periodos de retorno y diferentes periodos estructurales. En la @fig-c2-15 se presentan las fuentes superficiales y corticales, un escenario del catálogo de eventos estocásticos y el mapa probabilista de aceleración del terreno para un periodo de retorno de 475 años.
 
-
-
 ![Modelo de amenaza sísmica para Cali. (**A**) Fuentes profundas. (**B**) Fuentes superficiales. (**C**) Ejemplo de escenario del catálogo. (**D**) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes [[36]](#ref-36).](images/capitulo_2/img_440e260a.png){#fig-c2-15}
 
 Para el desarrollo del modelo de vulnerabilidad se realizaron modelaciones no lineales de las tipologías predominantes con las cuales se obtuvieron los parámetros de demanda sísmica mediante un análisis incremental dinámico. Las funciones de vulnerabilidad de las tipologías predominantes para un nivel de diseño bajo se presentan en la @fig-c2-16. Estas funciones no son directamente comparables, dado que representan edificaciones con periodos estructurales diferentes, y por ende niveles de amenaza distintos. Sin embargo, permiten identificar el nivel de vulnerabilidad asociado a las tipologías analizadas. 
-
-
 
 ![Ejemplo de funciones de vulnerabilidad utilizadas para la evaluación del riesgo del Cali. Figura adaptada de CIMOC-Uniandes [[36]](#ref-36).](images/capitulo_2/img_fd98278e.png){#fig-c2-16}
 
 Con la información indicada anteriormente, se evaluó el desempeño y las perdidas esperadas ante un evento sísmico en un periodo de retorno dado. Los resultados del riesgo sísmico para el portafolio escolar del municipio en las condiciones actuales se muestran en @fig-c2-17. En esta, se puede observar que las pérdidas máximas probables para un periodo de retorno de 500 años son del orden de $250,000 millones COP mientras que para un periodo de retorno de 1000 años son del orden de $300,000 millones COP. La magnitud de estos resultados demuestra la necesidad de realizar un reforzamiento estructural que permita reducir la magnitud de estas pérdidas. 
 
-
-
 ![Curva de pérdida máxima probable para el portafolio escolar en Cali.](images/capitulo_2/img_07bb19e4.png){#fig-c2-17}
 
 Además de las pérdidas económicas indicadas anteriormente, el reforzamiento estructural es necesario dada la alta vulnerabilidad de tipologías presentes en la zona de estudio, que un 54% de las edificaciones fueron construidas antes de 1986 año en el cual se hizo la primera norma de sismo resistencia en el país, y que de acuerdo con un análisis de desempeño sísmico realizado para un periodo de retorno de 475 años un 80% de las edificaciones quedan en prevención al colapso [[37]](#ref-37). Por tal motivo, se realizaron las propuestas de reforzamientos estructurales y adecuaciones del portafolio escolar mediante una estrategia de intervención progresiva de las instituciones. Para esto se generaron los siguientes programas y estrategias de intervención con el fin de reducir el riesgo sísmico del portafolio escolar:
 
-Programa 1 - Demolición y construcción de aulas temporales: Se incluyen edificaciones con nivel de diseño sísmico pobre y sistemas estructurales precarios o no ingenieriles, cuyas intervenciones estructurales son muy invasivas, por lo que se recomienda la reconstrucción. Se busca proteger la vida y el riesgo de accidentes a los ocupantes con estos reemplazos.
+**Programa 1 - Demolición y construcción de aulas temporales:** Se incluyen edificaciones con nivel de diseño sísmico pobre y sistemas estructurales precarios o no ingenieriles, cuyas intervenciones estructurales son muy invasivas, por lo que se recomienda la reconstrucción. Se busca proteger la vida y el riesgo de accidentes a los ocupantes con estos reemplazos.
 
-Programa 2 - Reforzamiento prioritario: Se incluyen edificaciones de pórticos de concreto reforzado y mampostería simple con nivel de diseño bajo cuyo reforzamiento sísmico es económicamente viable. Se busca proteger la vida y reducir el tiempo de interrupción del servicio.
+**Programa 2 - Reforzamiento prioritario:** Se incluyen edificaciones de pórticos de concreto reforzado y mampostería simple con nivel de diseño bajo cuyo reforzamiento sísmico es económicamente viable. Se busca proteger la vida y reducir el tiempo de interrupción del servicio.
 
-Programa 3 - Adecuaciones contingentes: Se incluyen edificaciones de pórticos de concreto reforzado, mampostería simple y mampostería confinada con nivel de diseño bajo o medio cuyo reforzamiento sísmico es menor. Se busca reducir el tiempo de interrupción del servicio y mejorar la infraestructura.
+**Programa 3 - Adecuaciones contingentes:** Se incluyen edificaciones de pórticos de concreto reforzado, mampostería simple y mampostería confinada con nivel de diseño bajo o medio cuyo reforzamiento sísmico es menor. Se busca reducir el tiempo de interrupción del servicio y mejorar la infraestructura.
 
-Programa 4 - Mejoramiento y adecuaciones: Se incluyen las edificaciones con nivel de diseño sísmico medio o alto que cumplan con la norma, cuya intervención es principalmente en elementos no estructurales y adecuaciones. Se busca mejorar la infraestructura educativa.
+**Programa 4 - Mejoramiento y adecuaciones:** Se incluyen las edificaciones con nivel de diseño sísmico medio o alto que cumplan con la norma, cuya intervención es principalmente en elementos no estructurales y adecuaciones. Se busca mejorar la infraestructura educativa.
 
-La Tabla 4 resume el número de edificaciones e inversión requerida para cada uno de los programas descritos para el portafolio. Como se puede identificar, se incluyen intervenciones en todo el portafolio, aunque en algunos casos se consideran intervenciones menores de adecuación y mejoramiento.
+La **Tabla 4** resume el número de edificaciones e inversión requerida para cada uno de los programas descritos para el portafolio. Como se puede identificar, se incluyen intervenciones en todo el portafolio, aunque en algunos casos se consideran intervenciones menores de adecuación y mejoramiento.
 
 **Tabla 4. **Planes de mitigación del riesgo en Cali [[36]](#ref-36).
 
@@ -295,13 +234,9 @@ La Tabla 4 resume el número de edificaciones e inversión requerida para cada u
 
 Los resultados del riesgo sísmico para el portafolio escolar del municipio luego de aplicar el reforzamiento planteado se muestran en @fig-c2-18. Se puede observar que para un periodo de retorno de 500 años se presenta una reducción del riesgo de más del 50%. Es importante resaltar que estas intervenciones no aseguran un nivel de riesgo cero, sin embargo, reducen significativamente la susceptibilidad de daño y la probabilidad de heridos.  Este riesgo residual puede ser gestionado mediante cobertura financieras, sistema de alerta temprana y planes de emergencias entre otros.
 
-
-
 ![Curva de pérdida máxima probable para el portafolio escolar en el estado actual vs. estado reforzado en Cali](images/capitulo_2/img_bf6a2a52.png){#fig-c2-18}
 
 Por último, con el objetivo de priorizar los recursos se utilizó el criterio de eficiencia costo indicado en secciones anteriores. A partir de éste es posible identificar el orden óptimo de intervención de las escuelas con el objetivo de maximizar el número de estudiantes beneficiados como se presenta en la @fig-c2-19.
-
-
 
 ![Priorización de intervenciones por programas en Cali.](images/capitulo_2/img_886494ff.png){#fig-c2-19}
 
@@ -313,80 +248,55 @@ En este proyecto, con el fin de seleccionar las edificaciones de interés se rea
 
 En este estudio se consideró únicamente una muestra de 200 escuelas públicas que fueron inspeccionadas. Se seleccionaron únicamente escuelas públicas dado que se enfoca a la elaboración de planes de mitigación a cargo de los gobiernos nacionales y locales. En la @fig-c2-20 se presenta la distribución espacial de las instituciones educativas del Valle de Aburrá.
 
-
-
 ![Distribución de instituciones educativas en los municipios del Valle de Aburrá.](images/capitulo_2/img_22bb0430.jpeg){#fig-c2-20}
 
 Se realizaron visitas de campo con el objetivo de identificar el sistema estructural de las instituciones educativas públicas ubicadas en las zonas urbanas de los municipios del Valle de Aburrá e identificar las tipologías constructivas dominantes. A continuación, se muestra el resumen de la información obtenida para la muestra de escuelas públicas:
 
-Número total de sedes educativas: 200.
-
-Número total de edificaciones: 883.
-
-Ocupación total: 142,778.
-
-Área construida: 669,630 m2.
-
-Valoración total aproximada del portafolio: COP $1,625,000 millones.
-
-Área promedio por estudiante: 4.69 m2/estudiante.
+* Número total de sedes educativas: 200.
+* Número total de edificaciones: 883.
+* Ocupación total: 142,778.
+* Área construida: 669,630 m2.
+* Valoración total aproximada del portafolio: COP $1,625,000 millones.
+* Área promedio por estudiante: 4.69 m2/estudiante.
 
 En la @fig-c2-21 presenta la distribución de las tipologías constructivas identificadas en las inspecciones visuales, donde se observa que los sistemas dominantes son las edificaciones construidas en concreto reforzado y en mampostería.
-
-
 
 ![Distribución de tipologías constructivas identificadas en campo en el Valle de Aburrá.](images/capitulo_2/img_d7e56b87.png){#fig-c2-21}
 
 Además, se observa que el mayor porcentaje de estructuras son construidas en pórticos de concreto reforzado con muros de mampostería, pórticos de concreto reforzado con muros de mampostería que generan columna corta y edificaciones de mampostería no reforzada, donde este último caso representa un porcentaje importante de las edificaciones del portafolio del sector educativo. La @fig-c2-22 presenta la distribución relativa de las tipologías constructivas.
 
-
-
 ![Distribución de sistemas estructurales en el Valle de Aburrá. (**A**) Tipologías de concreto reforzado. (**B**) Tipologías de mampostería. PCR corresponde a pórticos de concreto reforzado.](images/capitulo_2/img_9ea824f1.png){#fig-c2-22}
 
 En cuanto a las condiciones desfavorables observadas en las edificaciones durante el levantamiento en campo, se encontró que las edificaciones visitadas presentaban agrietamientos, asentamientos, baja calidad de materiales, deflexiones, entre otras. En la @fig-c2-23 se presenta un registro fotográfico representativo de las condiciones desfavorables observadas.
-
-
 
 ![Condiciones desfavorables observadas en algunas edificaciones en el Valle de Aburrá. (**A**) Agrietamiento de muros. (**B**) Pérdida de concreto de recubrimiento. (**C**) Deficiencias constructivas. (**D**) Deficiencias de diseño.](images/capitulo_2/img_95c027ee.png){#fig-c2-23}
 
 El siguiente paso fue el desarrollo del modelo probabilista de amenaza sísmica en la zona del Valle de Aburrá. Para esto, se identificaron las fuentes sísmicas de la zona de estudio a partir de los resultados indicados en el estudio de Armonización de la microzonificación sísmica de los municipios del Valle de Aburrá [[38]](#ref-38). A partir de las fuentes sísmicas, se desarrolló un catálogo estocástico de eventos para la evaluación probabilista del riesgo y se desarrollaron mapas probabilistas para diferentes periodos de retorno y diferentes periodos estructurales. En la @fig-c2-24 se presentan las fuentes sísmicas superficiales y corticales definidas, así como un escenario del catálogo y el mapa probabilista de aceleración del terreno para un periodo de retorno de 475 años.
 
-
-
 ![Modelo de amenaza sísmica para el Valle de Aburrá. (**A**) Fuentes profundas (modelo nacional). (**B**) Fuentes superficiales. (**C**) Ejemplo de escenario del catálogo. (**D**) Mapa de aceleración probabilista en el terreno para 475 años de periodo de retorno. Mapas tomados de CIMOC-Uniandes [[38]](#ref-38).](images/capitulo_2/img_3e259ffa.png){#fig-c2-24}
 
 Las funciones de vulnerabilidad de las tipologías predominantes fueron desarrolladas de acuerdo con la metodología descrita en la sección 2.2.4, y se presentan en la @fig-c2-25. Estas funciones no son directamente comparables, dado que representan edificaciones con periodos estructurales diferentes, y por ende niveles de amenaza distintos. Sin embargo, permiten identificar el nivel de vulnerabilidad asociado a las tipologías analizadas. 
-
-
 
 ![Ejemplo de funciones de vulnerabilidad utilizadas para la evaluación del riesgo del Valle de Aburrá. Figura adaptada de CIMOC-Uniandes [[38]](#ref-38).](images/capitulo_2/img_b8e874f3.png){#fig-c2-25}
 
 Posteriormente se evaluaron las pérdidas probables esperadas ante un evento sísmico en un periodo de retorno dado. Los resultados del riesgo sísmico para el portafolio escolar del municipio en las condiciones actuales se muestran en @fig-c2-26. En esta se observa que para un periodo de retorno de 500 años se esperan pérdidas máximas probables del orden de $450,000 millones COP mientras que para un periodo de retorno de 1,000 años se esperan pérdidas del orden de $600,000 millones COP. Al igual que en el caso de estudio anterior, se establece que es necesario realizar un programa de reforzamiento estructural que reduzca la magnitud de las pérdidas.
 
-
-
 ![Curva de pérdida máxima probable para el portafolio escolar en el Valle de Aburrá.](images/capitulo_2/img_f5870e09.png){#fig-c2-26}
 
 Adicional a lo anterior, el reforzamiento estructural es necesario dada la necesidad de brindar la total seguridad a los estudiantes y prevenir que se vea afectada la vida de cada uno de ellos. Por tal motivo, se realizaron reforzamientos estructurales del portafolio escolar con una estrategia de intervención progresiva de las instituciones. Por lo tanto, se plantearon las siguientes estrategias de intervención, basadas en las agrupaciones indicadas anteriormente:
 
-Programa 1 – Sustitución de edificaciones de alto riesgo de colapso.
-
-Programa 2 – Reforzamiento integral de edificaciones con bajo potencial de daño.  
-
-Programa 3 – Reforzamiento contingente especial de edificaciones con alto riesgo de sufrir daños. 
-
-Programa 4 – Reforzamiento integral de edificaciones con alto riesgo de sufrir daños.
+* Programa 1 – Sustitución de edificaciones de alto riesgo de colapso.
+* Programa 2 – Reforzamiento integral de edificaciones con bajo potencial de daño.  
+* Programa 3 – Reforzamiento contingente especial de edificaciones con alto riesgo de sufrir daños. 
+* Programa 4 – Reforzamiento integral de edificaciones con alto riesgo de sufrir daños.
 
 Además, para cada una de las tipologías de edificaciones que presentan niveles medios o altos de vulnerabilidad se proponen esquemas y opciones generales de reforzamiento estructural que permitan la reducción considerable de la vulnerabilidad sísmica. A manera de ejemplo, se presentan alternativas de reforzamiento de edificaciones de concreto reforzado que presenten columna corta y de mampostería simple en la @fig-c2-27. Estas alternativas de reforzamiento buscan eliminar el problema de columna corta y darle rigidez a la estructura para el caso del ejemplo de concreto y de darle ductilidad a la edificación en el caos de mampostería simple. Este tipo de soluciones se desarrollaron para cada una de las tipologías predominantes, para mayor información consultar [[36]](#ref-36).
-
-
 
 ![Esquemas generales de reforzamiento estructural. (**A**) Reforzamiento de pórticos de concreto. (**B**) Reforzamiento de edificaciones de mampostería [[39]](#ref-39).](images/capitulo_2/img_7caea8ee.png){#fig-c2-27}
 
 La Tabla 5, resume el número de edificaciones e inversión requerida para cada uno de los programas descritos para el portafolio.
 
 **Tabla 5. **Planes de mitigación del riesgo en el Área Metropolitana del Valle de Aburrá [[39]](#ref-39).
-
 
 | Programa de intervención | Programa de intervención | Número de edificaciones | Costo aproximado de intervención  (COP$ millones) |
 | --- | --- | --- | --- |
@@ -419,11 +329,24 @@ Existe una gran cantidad de trabajo por desarrollar en proyectos similares a los
 Los resultados de los casos de estudio presentados como ejemplo son el punto de partida para la definición concreta de planes concertados con las autoridades locales y/o nacionales para su implementación. A partir de estos, y basados en un presupuesto disponible, es posible definir y listar en orden de importancia o relevancia, las intervenciones que se deberán priorizar para maximizar la reducción del riesgo con los recursos limitados. Adicionalmente, se deberán considerar factores como procesos constructivos que puedan implementarse a mayor escala, esquemas de contratación según especialidad o tipo de intervención, tipificación de las intervenciones buscando alcanzar un nivel de reducción de riesgo definido, pero remitiendo la adaptabilidad a las condiciones particulares de cada edificación, entre otros.
 
 
-::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Puntos clave.** Las edificaciones de pórticos de concreto, pórticos de concreto con muros de mampostería y pórticos de concreto con muros de mampostería generando columna corta son las tipologías escolares predominantes de concreto reforzado. Las edificaciones de muros de mampostería no reforzada, mampostería confinada y mampostería reforzada son las tipologías escolares predominantes de mampostería. Se debe analizar el estado de la infraestructura actual mediante un análisis de riesgo, incluyendo los módulos de amenaza, exposición y vulnerabilidad. Se recomienda que el modelo de exposición sea a nivel de edificación. Cada elemento del modelo debe contar con información estructural suficiente para caracterizar su comportamiento estructural. Se deben identificar los mecanismos de colapso de las edificaciones y generar sistemas de reforzamiento que sean aplicables a gran escala en edificaciones con comportamiento estructural similar. Se deben plantear estrategias de intervención particulares para las tipologías que incluyan el reemplazo de las edificaciones, reforzamientos integrales, reforzamientos incrementales, reforzamientos en elementos no estructurales o adecuaciones menores. Las intervenciones deben ser priorizadas utilizando criterios adecuados como la eficiencia costo con el objetivo de beneficiar la mayor cantidad de estudiantes reduciendo el mayor riesgo posible.
+::: {#puntos-clave-1 .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
+
+* Las edificaciones de pórticos de concreto, pórticos de concreto con muros de mampostería y pórticos de concreto con muros de mampostería generando columna corta son las tipologías escolares predominantes de concreto reforzado. 
+* Las edificaciones de muros de mampostería no reforzada, mampostería confinada y mampostería reforzada son las tipologías escolares predominantes de mampostería. 
+* Se debe analizar el estado de la infraestructura actual mediante un análisis de riesgo, incluyendo los módulos de amenaza, exposición y vulnerabilidad. 
+* Se recomienda que el modelo de exposición sea a nivel de edificación. Cada elemento del modelo debe contar con información estructural suficiente para caracterizar su comportamiento estructural. 
+* Se deben identificar los mecanismos de colapso de las edificaciones y generar sistemas de reforzamiento que sean aplicables a gran escala en edificaciones con comportamiento estructural similar. 
+* Se deben plantear estrategias de intervención particulares para las tipologías que incluyan el reemplazo de las edificaciones, reforzamientos integrales, reforzamientos incrementales, reforzamientos en elementos no estructurales o adecuaciones menores. 
+* Las intervenciones deben ser priorizadas utilizando criterios adecuados como la eficiencia costo con el objetivo de beneficiar la mayor cantidad de estudiantes reduciendo el mayor riesgo posible.
 :::
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Recomendaciones para tomar decisiones.** El modelo de exposición determina la calidad de los planes de mitigación, es necesario que el modelo tenga una resolución mínima a nivel de escuela y una resolución ideal a nivel de edificación. La evaluación del riesgo sísmico en el estado actual y mitigado deben evaluarse utilizando la misma metodología, modelos de amenaza y modelos de exposición con el objetivo que sean comparables. La participación de entidades gubernamentales en el desarrollo del plan de mitigación es esencial. Un adecuado entendimiento del componente técnico e identificación anticipada de limitaciones permitirán una implementación exitosa del plan. Se debe tener en cuenta que los ciclos de gobierno particulares pueden afectar el desarrollo y la implementación de los planes diseñados.
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Recomendaciones para tomar decisiones</h2>
+
+* El modelo de exposición determina la calidad de los planes de mitigación, es necesario que el modelo tenga una resolución mínima a nivel de escuela y una resolución ideal a nivel de edificación. 
+* La evaluación del riesgo sísmico en el estado actual y mitigado deben evaluarse utilizando la misma metodología, modelos de amenaza y modelos de exposición con el objetivo que sean comparables. 
+* La participación de entidades gubernamentales en el desarrollo del plan de mitigación es esencial. Un adecuado entendimiento del componente técnico e identificación anticipada de limitaciones permitirán una implementación exitosa del plan. 
+* Se debe tener en cuenta que los ciclos de gobierno particulares pueden afectar el desarrollo y la implementación de los planes diseñados.
 :::
 ## 2.6 CONFLICTO DE INTERESES
 
@@ -435,17 +358,18 @@ Los autores agradecen en primer lugar al Banco Mundial y en particular al equipo
 
 ## 2.8 IDENTIFICACIÓN DEL AUTOR
 
-Rafael Fernández	
-
-Luis Yamin		
-
-Juan Carlos Reyes	
-
-Angie García		
-
-Gustavo Fuentes	
-
-Juan Echeverry	
+* Rafael Fernández
+<https://orcid.org/0000-0002-2585-1958>
+* Luis Yamin
+<https://orcid.org/0000-0002-6533-5480>
+* Juan Carlos Reyes
+<https://orcid.org/0000-0003-0690-2956>
+* Angie García
+<https://orcid.org/0000-0001-5701-3329>
+* Gustavo Fuentes
+<https://orcid.org/0000-0002-0916-1885>
+* Juan Echeverry
+<https://orcid.org/0000-0001-6537-6381>
 
 **BIBLIOGRÁFIA**
 

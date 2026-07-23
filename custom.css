@@ -296,6 +296,7 @@ table>thead>tr>td {
 #caja4,
 #caja5,
 #puntos-clave,
+#puntos-clave-1,
 #preguntas,
 #recomendaciones {
   padding-top: 0.5rem !important;
@@ -314,6 +315,7 @@ table>thead>tr>td {
 #caja4 h2,
 #caja5 h2,
 #puntos-clave h2,
+#puntos-clave-1 h2,
 #preguntas h2,
 #recomendaciones h2 {
   margin-top: 0 !important;
@@ -384,6 +386,7 @@ table>thead>tr>td {
 #caja4 h2+p,
 #caja5 h2+p,
 #puntos-clave h2+p,
+#puntos-clave-1 h2+p,
 #preguntas h2+p,
 #recomendaciones h2+p,
 #box1 h2+ul,
@@ -397,6 +400,7 @@ table>thead>tr>td {
 #caja4 h2+ul,
 #caja5 h2+ul,
 #puntos-clave h2+ul,
+#puntos-clave-1 h2+ul,
 #preguntas h2+ul,
 #recomendaciones h2+ul {
   margin-top: 0.5rem !important;
@@ -415,6 +419,7 @@ table>thead>tr>td {
 #caja4 ul,
 #caja5 ul,
 #puntos-clave ul,
+#puntos-clave-1 ul,
 #preguntas ul,
 #recomendaciones ul {
   margin-top: 0.3rem !important;
@@ -529,7 +534,7 @@ figcaption>p:last-child:only-child {
 .quarto-figure,
 .quarto-float-fig {
   margin-top: 0.25rem !important;
-  margin-bottom: 0.25rem !important;
+  margin-bottom: 1rem !important;
 }
 
 /* Reduce padding inside OJS figure containers */

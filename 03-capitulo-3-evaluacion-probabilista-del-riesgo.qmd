@@ -48,17 +48,12 @@ El objetivo de la metodología que aquí se propone es identificar y cuantificar
 
 A continuación se presenta la metodología de evaluación probabilista del riesgo por sequía en el sector agropecuario, mostrando los resultados de la evaluación de riesgo para el cultivo de maíz en Colombia. Estos resultados se obtuvieron dentro del marco de una evaluación de riesgo multiamenaza adelantada por los autores, que también considera los impactos de inundaciones y heladas en el sector agropecuario. Algunos ejemplos de aplicación de los resultados del modelo probabilista de riesgo de sequias son:
 
-Planificación del territorio con el uso de mapas de amenaza integrada: *¿dónde y qué sembrar para reducir las pérdidas esperadas? ¿Dónde establecer nuevos proyectos agroindustriales? ¿En qué zonas del país incentivar el uso de semillas resistentes a sequia?*
-
-Inversión en proyectos de infraestructura: *¿qué distritos de riego priorizar?*
-
-Seguros agrícolas para la transferencia del riesgo: *¿Cuál es la prima pura de riesgo? *
-
-Análisis costo-beneficio de estrategias de manejo de cultivos como: distritos de riego, construcción de reservorios, uso de fertilizantes, rotación de cultivos.
-
-Medidas de adaptación a variabilidad climática.
-
-Estimación de pérdidas en el sector pecuario, relacionado con la disminución en la disponibilidad de alimento (pasto).
+* Planificación del territorio con el uso de mapas de amenaza integrada: *¿dónde y qué sembrar para reducir las pérdidas esperadas? ¿Dónde establecer nuevos proyectos agroindustriales? ¿En qué zonas del país incentivar el uso de semillas resistentes a sequia?*
+* Inversión en proyectos de infraestructura: *¿qué distritos de riego priorizar?*
+* Seguros agrícolas para la transferencia del riesgo: *¿Cuál es la prima pura de riesgo? *
+* Análisis costo-beneficio de estrategias de manejo de cultivos como: distritos de riego, construcción de reservorios, uso de fertilizantes, rotación de cultivos.
+* Medidas de adaptación a variabilidad climática.
+* Estimación de pérdidas en el sector pecuario, relacionado con la disminución en la disponibilidad de alimento (pasto).
 
 En la primera sección se presenta el marco conceptual de la evaluación de riesgo por sequía, que brinda una idea general de los conceptos que se utilizan en el capítulo. La segunda sección presenta la metodología para la evaluación de la amenaza a partir de un generador de clima estocástico que permite simular eventos de sequía meteorológica. Con esto se obtienen eventos extremos de clima que potencialmente pueden ocurrir en la zona y derivar en desastres. Luego se presenta el modelo de exposición, centrado en el sector agropecuario, y el modelo de vulnerabilidad, que consiste en evaluar la respuesta de los cultivos a condiciones extremas de disponibilidad de agua y temperatura. Finalmente se presentan resultados de la evaluación de riesgo por sequía para el cultivo de maíz en Colombia. Los detalles de la metodología se presentan al final del documento, en la sección Materiales y Métodos.
 
@@ -74,7 +69,9 @@ La modelación probabilista permite entonces realizar pronósticos sobre los niv
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Definiciones La evaluación del riesgo determina la naturaleza y el grado de riesgo de desastres a través del análisis de posibles amenazas y la evaluación de las condiciones existentes de vulnerabilidad que conjuntamente podrían dañar potencialmente a la población, la propiedad, los servicios y los medios de sustento expuestos, al igual que el entorno del cual dependen [[16]](#ref-16). Los componentes del riesgo son la amenaza, los elementos expuestos y su vulnerabilidad. La amenaza se refiere a la ocurrencia de un fenómeno natural, en este caso las sequías o inundaciones por lluvias intensas, y la severidad con que impacta una región específica. Los elementos expuestos son el conjunto de bienes o activos que se encuentran expuestos a la amenaza y pueden llegar a sufrir daños que deriven en pérdidas económicas o afectación a la población. Por último, la vulnerabilidad es esa medida de susceptibilidad a sufrir daño que tienen los elementos expuestos, tras la manifestación de la amenaza en su ubicación. La evaluación del riesgo resulta entonces de la combinación de sus tres componentes.
+**Caja 1.** Definiciones La evaluación del riesgo determina la naturaleza y el grado de riesgo de desastres a través del análisis de posibles amenazas y la evaluación de las condiciones existentes de vulnerabilidad que conjuntamente podrían dañar potencialmente a la población, la propiedad, los servicios y los medios de sustento expuestos, al igual que el entorno del cual dependen [[16]](#ref-16). 
+
+Los componentes del riesgo son la amenaza, los elementos expuestos y su vulnerabilidad. La amenaza se refiere a la ocurrencia de un fenómeno natural, en este caso las sequías o inundaciones por lluvias intensas, y la severidad con que impacta una región específica. Los elementos expuestos son el conjunto de bienes o activos que se encuentran expuestos a la amenaza y pueden llegar a sufrir daños que deriven en pérdidas económicas o afectación a la población. Por último, la vulnerabilidad es esa medida de susceptibilidad a sufrir daño que tienen los elementos expuestos, tras la manifestación de la amenaza en su ubicación. La evaluación del riesgo resulta entonces de la combinación de sus tres componentes.
 :::
 
 ## 3.3 EVALUACIÓN PROBABILISTA DE LA AMENAZA POR SEQUÍA
@@ -103,34 +100,43 @@ Se han adelantado iniciativas para mejorar la calidad de los registros de CHIRPS
 
 La metodología propuesta utiliza un generador de clima sintético a partir de distribuciones paramétricas de probabilidad para definir conjuntos de datos climáticos históricos y estimar la probabilidad de ocurrencia de un determinado valor de precipitación o temperatura, incluso fuera del rango de observaciones históricas. La metodología toma cada día del año hidrológico en un análisis separado, y encuentra la distribución de probabilidad que se ajusta mejor a los registros históricos. Posteriormente, se generan números aleatorios para la precipitación y la temperatura diaria para un determinado número de años de simulación, usando los parámetros de las distribuciones seleccionadas. Las series sintéticas de clima son luego utilizadas para generar mapas de amenaza integrada para diferentes periodos de retorno para toda el área de análisis. El esquema que describe el paso a paso del generador sintético de clima se presenta en la @fig-c3-03 y la descripción detallada de la metodología se presenta en la sección de Materiales y Métodos al final de este documento. 
 
-
-
 ![Proceso de generación de series sintéticas de precipitación y temperatura para identificación de eventos meteorológicos extremos (Fuente: elaboración propia).](images/capitulo_3/img_8e28ef10.png){#fig-c3-03}
 
 En la @fig-c3-04 se muestra un ejemplo, para el caso de Colombia, del ajuste del promedio diario multianual de las series históricas del periodo 1981–2010 y de la serie sintética simulada aleatoriamente para 1,000 años. Se puede ver cómo la metodología propuesta resulta en series sintéticas con un ajuste preciso a los datos históricos, lo que indica que la serie aleatoria conserva adecuadamente las características del clima de la zona. 
-
-
 
 ![Promedio diario multianual de precipitación (arriba) y de temperatura media (abajo) para serie histórica (1981–2010) y serie sintética (1,000 años de simulación) (Fuente: elaboración propia).](images/capitulo_3/img_b45fec2b.jpeg){#fig-c3-04}
 
 Una de las ventajas de la metodología de generación estocástica de series climáticas es la obtención de valores atípicos extremos, que hacen referencia a valores de precipitación por encima de los máximos de los registros históricos, y valores de temperatura por fuera del rango medio registrado en estaciones. Esto quiere decir que las series modeladas incluyen valores de precipitación y temperatura que no se han presentado, pero pueden ocurrir con una baja probabilidad en el futuro. 
 
-Para el caso de Colombia, los resultados en escala espacial de la simulación de series de precipitación y temperatura se muestran en la Figura 5 Estos mapas muestran los valores medios multianuales para la precipitación anual y temperatura media, mínima y máxima, a partir de los registros históricos (columna de la izquierda) y de los valores simulados (columna de la derecha). Los resultados, tanto para precipitación como para temperatura muestran que las simulaciones conservan los valores medios en toda el área de estudio y representan la distribución espacial de estas variables climáticas. Los mapas muestran las zonas de clima predominantemente seco, como La Guajira en el norte, y zonas reconocidas por sus intensas lluvias como el Choco. También se reconocen en los mapas de temperatura las zonas más altas del país, como son las cordilleras y la Sierra Nevada de Santa Marta. 
+Para el caso de Colombia, los resultados en escala espacial de la simulación de series de precipitación y temperatura se muestran en la @fig-c3-05. Estos mapas muestran los valores medios multianuales para la precipitación anual y temperatura media, mínima y máxima, a partir de los registros históricos (columna de la izquierda) y de los valores simulados (columna de la derecha). Los resultados, tanto para precipitación como para temperatura muestran que las simulaciones conservan los valores medios en toda el área de estudio y representan la distribución espacial de estas variables climáticas. Los mapas muestran las zonas de clima predominantemente seco, como La Guajira en el norte, y zonas reconocidas por sus intensas lluvias como el Choco. También se reconocen en los mapas de temperatura las zonas más altas del país, como son las cordilleras y la Sierra Nevada de Santa Marta.
 
+::: {#fig-c3-05 layout-ncol="2"}
+![a) Precipitación Registros 1981 - 2010](images/capitulo_3/Figura%205a.png)
 
-| Precipitación Registros 1981-2010 | Precipitación Simulada |
-| --- | --- |
-| Temperatura Media Registros 1981-2010 | Temperatura Media Simulada |
-| Temperatura máxima Registros 1981-2010 | Temperatura máxima Simulada |
-| Temperatura mínima Registros 1981-2010 | Temperatura mínima Simulada |
+![b) Precipitación Simulada](images/capitulo_3/Figura%205b.png)
 
-**Figura 33.** Mapas de valores medios multianuales para precipitación, temperatura media, máxima y mínima de registros históricos (izquierda) y series modeladas (derecha).
+![c) Temperatura Media Registros 1981 - 2010](images/capitulo_3/Figura%205c.png)
+
+![d) Temperatura Media Simulada](images/capitulo_3/Figura%205d.png)
+
+![e) Temperatura Maxima Registros 1981 - 2010](images/capitulo_3/Figura%205e.png)
+
+![f) Temperatura Maxima Simulada](images/capitulo_3/Figura%205f.png)
+
+![g) Temperatura Minima Registros 1981 - 2010](images/capitulo_3/Figura%205g.png)
+
+![h) Temperatura Minima Simulada](images/capitulo_3/Figura%205h.png)
+
+Mapas de valores medios multianuales para precipitación, temperatura media, máxima y mínima de registros históricos (izquierda) y series modeladas (derecha).
+:::
 
 Con la verificación de estos resultados, se procede a calcular la evapotranspiración y los indicadores de sequía.
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Incorporación del Cambio Climático en la generación de series climáticas futuras De acuerdo con el Reporte AR5 del IPCC (Intergovernmental Panel on Climate Change): "el calentamiento del sistema climático es inequívoco, y desde 1950, muchos de los cambios observados son sin precedentes sobre décadas y hasta milenios. La atmósfera y océano se han calentado, las cantidades de nieve y hielo han disminuido, el nivel del mar ha aumentado, y la concentración de gases de efecto invernadero ha aumentado" [[22]](#ref-22). Debido a esto es importante considerar los efectos de este cambio climático en la evaluación del riesgo por eventos extremos climáticos. Con este fin, en la metodología propuesta es posible analizar los modelos de cambio climático y los cuatro diferentes escenarios de forcings antropogénicos (RCP o Representative Concentration Pathways) definidos en el informe AR5 del IPCC, y se escoger los modelos más adecuados para determinar los efectos específicos sobre la temperatura y precipitación para el área de estudio. En total se pueden llegar a evaluar 311 proyecciones, considerando las diferentes corridas de cada modelo. Una vez se determina el/los modelos de cambio climático más adecuado(s), se determinan las proyecciones de temperatura y precipitación en el futuro para la región de estudio, y con esto se perturbarán las series estocásticas de temperatura y precipitación que serán generadas para la modelación de los eventos climáticos extremos. Cada serie modelada debe ser perturbada según su ubicación y los resultados del modelo para ese mismo punto. Esto permite caracterizar completamente las condiciones futuras de ocurrencia de eventos hidrometeorológicos extremos en todo el territorio de análisis.  La incorporación del efecto del cambio climático está por fuera del alcance de la evaluación de riesgo por sequía para el sector agropecuario en Colombia que se presenta en este documento. Para más información visitar https://www.researchgate.net/project/Drought-hazard-and-risk-assessment-New-probabilistic-and-holistic-methodology-Evaluacion-de-amenza-y-riesgo-por-sequia-Nueva-metodologia-probabilista-y-holistica
+**Caja 2.Incorporación del Cambio Climático en la generación de series climáticas futuras** 
+
+De acuerdo con el Reporte AR5 del IPCC (Intergovernmental Panel on Climate Change): "el calentamiento del sistema climático es inequívoco, y desde 1950, muchos de los cambios observados son sin precedentes sobre décadas y hasta milenios. La atmósfera y océano se han calentado, las cantidades de nieve y hielo han disminuido, el nivel del mar ha aumentado, y la concentración de gases de efecto invernadero ha aumentado" [[22]](#ref-22). Debido a esto es importante considerar los efectos de este cambio climático en la evaluación del riesgo por eventos extremos climáticos. Con este fin, en la metodología propuesta es posible analizar los modelos de cambio climático y los cuatro diferentes escenarios de forcings antropogénicos (RCP o Representative Concentration Pathways) definidos en el informe AR5 del IPCC, y se escoger los modelos más adecuados para determinar los efectos específicos sobre la temperatura y precipitación para el área de estudio. En total se pueden llegar a evaluar 311 proyecciones, considerando las diferentes corridas de cada modelo. Una vez se determina el/los modelos de cambio climático más adecuado(s), se determinan las proyecciones de temperatura y precipitación en el futuro para la región de estudio, y con esto se perturbarán las series estocásticas de temperatura y precipitación que serán generadas para la modelación de los eventos climáticos extremos. Cada serie modelada debe ser perturbada según su ubicación y los resultados del modelo para ese mismo punto. Esto permite caracterizar completamente las condiciones futuras de ocurrencia de eventos hidrometeorológicos extremos en todo el territorio de análisis.  La incorporación del efecto del cambio climático está por fuera del alcance de la evaluación de riesgo por sequía para el sector agropecuario en Colombia que se presenta en este documento. Para más información visitar <https://www.researchgate.net/project/Drought-hazard-and-risk-assessment-New-probabilistic-and-holistic-methodology-Evaluacion-de-amenza-y-riesgo-por-sequia-Nueva-metodologia-probabilista-y-holistica>
 :::
 
 ### 3.3.3 Identificación de eventos estocásticos de clima extremo
@@ -141,18 +147,28 @@ Dependiendo del tiempo de evento climático a evaluar, se pueden incluir diferen
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 3.** ¿Cómo se caracteriza un evento de sequía? A partir de la serie de indicadores de sequía se puede caracterizar cada evento según los siguientes parámetros:   Definición de un evento de sequía dentro de la serie de tiempo sintética Severidad: corresponde al área bajo la curva del evento, es decir, el valor acumulado del indicador durante el evento. Se puede entender como la gravedad de la sequía. Duración: es el tiempo que dura el evento o el número de meses en el que el indicador de sequía está por debajo del umbral que define la severidad. Intensidad: se calcula como la severidad dividida por la duración. Es una medida unitaria de la magnitud del evento. Serie de temperatura: valores contra el tiempo de temperatura diaria (promedio, máxima y mínima) dentro de la duración del evento. Se obtienen de la serie sintética empleada en el cálculo del indicador. Serie de precipitación: valores contra el tiempo de precipitación diaria dentro de la duración del evento. Se obtienen de la serie sintética empleada en el cálculo del indicador.
+**Caja 3. ¿Cómo se caracteriza un evento de sequía?** 
+
+A partir de la serie de indicadores de sequía se puede caracterizar cada evento según los siguientes parámetros:
+
+![](images/capitulo_3/Caja%203.jpg)
+
+**Definición de un evento de sequía dentro de la serie de tiempo sintética**
+
+* **Severidad:** corresponde al área bajo la curva del evento, es decir, el valor acumulado del indicador durante el evento. Se puede entender como la gravedad de la sequía. 
+* **Duración:** es el tiempo que dura el evento o el número de meses en el que el indicador de sequía está por debajo del umbral que define la severidad. 
+* **Intensidad:** se calcula como la severidad dividida por la duración. Es una medida unitaria de la magnitud del evento. 
+* **Serie de temperatura:** valores contra el tiempo de temperatura diaria (promedio, máxima y mínima) dentro de la duración del evento. Se obtienen de la serie sintética empleada en el cálculo del indicador. 
+* **Serie de precipitación:** valores contra el tiempo de precipitación diaria dentro de la duración del evento. Se obtienen de la serie sintética empleada en el cálculo del indicador.
 :::
 
 ## 3.4 CASO DE ESTUDIO: SEQUÍA EN COLOMBIA
 
 Para el caso de la sequía, a partir de las series históricas y sintéticas de precipitación y temperatura se calculan los indicadores de sequía (SPI, SPEI, RDI y otros incluidos en la literatura especializada) para todas las estaciones y a diferentes escalas de tiempo en pasos mensuales. Una vez que se obtiene la serie temporal del indicador seleccionado en cada estación, se identifican los eventos de sequía, que ocurren cuando el indicador toma un valor por debajo de un umbral crítico. La descripción detallada de la metodología de indicadores de sequía se presenta en la sección de Materiales y Métodos al final de este documento.
 
-El siguiente paso es identificar los eventos de sequía que ocurren simultáneamente en varias estaciones de la región de estudio. Para cada mes, se identifican las estaciones con un valor de indicador por debajo del umbral definido para la evaluación. Si el número total de estaciones con valores por debajo del umbral es mayor que un cierto porcentaje (por ejemplo, 50%), entonces se identifica una sequía regional. Con cálculos consecutivos para todos los años de simulación, se pueden detectar múltiples sequías regionales, con su valor asociado de duración, severidad e intensidad en cada estación. Cada una de las sequías regionales es un escenario de sequía individual, con una frecuencia anual de ocurrencia igual a 1/N, en donde N es el número total de años de simulación. La @fig-c3-05 muestra esquemáticamente cómo se identifican las sequías regionales, de acuerdo con los criterios de selección definidos por un valor umbral de indicador y un número mínimo de estaciones que satisfacen dicha condición. Este procedimiento puede aplicarse para toda la región de estudio, o para subregiones definidas por otros criterios, como zonas climáticas, zonas productivas, entidades territoriales, etcétera.
+El siguiente paso es identificar los eventos de sequía que ocurren simultáneamente en varias estaciones de la región de estudio. Para cada mes, se identifican las estaciones con un valor de indicador por debajo del umbral definido para la evaluación. Si el número total de estaciones con valores por debajo del umbral es mayor que un cierto porcentaje (por ejemplo, 50%), entonces se identifica una sequía regional. Con cálculos consecutivos para todos los años de simulación, se pueden detectar múltiples sequías regionales, con su valor asociado de duración, severidad e intensidad en cada estación. Cada una de las sequías regionales es un escenario de sequía individual, con una frecuencia anual de ocurrencia igual a 1/N, en donde N es el número total de años de simulación. La @fig-c3-06 muestra esquemáticamente cómo se identifican las sequías regionales, de acuerdo con los criterios de selección definidos por un valor umbral de indicador y un número mínimo de estaciones que satisfacen dicha condición. Este procedimiento puede aplicarse para toda la región de estudio, o para subregiones definidas por otros criterios, como zonas climáticas, zonas productivas, entidades territoriales, etcétera.
 
-
-
-![Identificación de sequías regionales sobre las series de tiempo de todas las estaciones del área de estudio (Fuente: elaboración propia).](images/capitulo_3/img_68a7dae7.jpeg){#fig-c3-05}
+![Identificación de sequías regionales sobre las series de tiempo de todas las estaciones del área de estudio (Fuente: elaboración propia).](images/capitulo_3/img_68a7dae7.jpeg){#fig-c3-06}
 
 ### 3.4.1 Mapas de amenaza integrada
 
@@ -160,27 +176,17 @@ Los resultados de la modelación de la amenaza se presentan en formato de mapas 
 
 Hay que tener en cuenta que la severidad por sí sola no puede definir la gravedad de una sequía, se requiere complementar con los parámetros de duración e intensidad [[23]](#ref-23). Por ejemplo, el valor máximo de severidad que se muestra en los mapas igual a 15 se puede interpretar como una sequía severa y baja duración (5 meses de sequía con valores de SPEI = -3) o una sequía moderada con larga duración (10 meses de sequía con valores de SPEI = -1.5). Por esta razón, al interpretar los mapas de amenaza integrada se recomienda analizar en simultánea los indicadores de duración e intensidad, que complementan el análisis espacial de los resultados y brindan más información para la toma de decisiones.
 
-Los mapas de severidad, duración e intensidad calculados para Colombia se muestran en la Figura 7, para diferentes periodos de retorno. Según los resultados, se puede ver que la intensidad de la sequía tiende a ser uniforme en el país, con valores por encima de 1.5, lo que indica sequías severas para periodos de retorno altos (mayores a 50 años). Sin embargo, en la zona de la cordillera central del país, la intensidad de la sequía tiene a ser más baja. 
+Los mapas de severidad, duración e intensidad calculados para Colombia se muestran en la @fig-c3-07, para diferentes periodos de retorno. Según los resultados, se puede ver que la intensidad de la sequía tiende a ser uniforme en el país, con valores por encima de 1.5, lo que indica sequías severas para periodos de retorno altos (mayores a 50 años). Sin embargo, en la zona de la cordillera central del país, la intensidad de la sequía tiene a ser más baja. 
 
 Un resultado importante a resaltar son los valores de severidad de la sequía en la zona de La Guajira. Los mapas muestran que para la región caribe la severidad es menor que para el resto del país, al igual que algunas zonas de Cundinamarca y Boyacá. Es importante notar que el valor de severidad de la sequía se calcula a partir de los valores normales de la zona de evaluación, por lo que, aunque la región Caribe y en especial La Guajira son de climas secos o desérticos, los mapas que aquí se presentan muestran que en estas zonas las sequías meteorológicas son potencialmente menos graves que en otras zonas del país. Sin embargo, los impactos reales del riesgo a la sequía se determinan al considerar no sólo la amenaza, desde el enfoque meteorológico, sino también condiciones de exposición y vulnerabilidad, tanto física como socioeconómica, que puede incrementar los efectos de la amenaza.
-
-
-|  |  |  |
-| --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-**Figura 35.** Mapas de amenaza integrada de sequía para 50, 100, 250 y 500 años de periodo de retorno. Severidad (izquierda), duración en meses (centro) e intensidad (derecha) (Fuente: elaboración propia).
 
 ## 3.5 EXPOSICIÓN AGRÍCOLA
 
 La metodología propuesta considera los elementos expuestos como uno de los componentes de riesgo, junto con la amenaza y la vulnerabilidad. Un elemento expuesto es cualquier objeto, geográficamente referenciado, que es susceptible de ser afectado por la ocurrencia de un fenómeno amenazante. Los elementos expuestos para la actividad agrícola son los cultivos ubicados en el área donde se estima el riesgo asociado a eventos climáticos extremos. Los elementos expuestos son fundamentales dentro del análisis de riesgo, debido a que comprenden los objetos sobre los cuales se evalúan las pérdidas, es decir, son la fuente de las pérdidas potenciales debido al hecho de estar expuestos a una amenaza y ser susceptibles de sufrir un daño.
 
-Para cada elemento expuesto o unidad de tierra cultivada en la región de análisis, es necesario conocer las características del cultivo que típicamente se siembra en esa ubicación. La información que se debe conocer incluye el tipo de cultivo, su estacionalidad y área sembrada. También se debe contar con información de rendimientos típicos (toneladas producidas por unidad de área). En la medida de lo posible, esta información debe obtenerse de fuentes oficiales. La información mínima para crear la base de datos de elementos expuestos del sector agrícola se muestra en la siguiente tabla.
+![Mapas de amenaza integrada de sequía para 50, 100, 250 y 500 años de periodo de retorno. Severidad (izquierda), duración en meses (centro) e intensidad (derecha) (Fuente: elaboración propia).](images/capitulo_3/Figura%207.png){#fig-c3-07}
 
-**Tabla 6.** Información de entrada para modelo de exposición del sector agropecuario 
-
+Para cada elemento expuesto o unidad de tierra cultivada en la región de análisis, es necesario conocer las características del cultivo que típicamente se siembra en esa ubicación. La información que se debe conocer incluye el tipo de cultivo, su estacionalidad y área sembrada. También se debe contar con información de rendimientos típicos (toneladas producidas por unidad de área). En la medida de lo posible, esta información debe obtenerse de fuentes oficiales. La información mínima para crear la base de datos de elementos expuestos del sector agrícola se muestra en la @tbl-c3-01.
 
 | Información de entrada | Descripción | Posibles fuentes |
 | --- | --- | --- |
@@ -188,6 +194,8 @@ Para cada elemento expuesto o unidad de tierra cultivada en la región de análi
 | Rendimiento de cultivos | Valores de referencia de rendimiento de cultivos para la producción anual y el área total cultivada. | Censos y encuestas agrícolas. |
 | Valoración económica de los cultivos | Costo de producción unitario. | Censos y encuestas agrícolas. |
 | Mapas de tipo de suelo | Textura, grupo hidrológico, y número de curva. | Mapas oficiales de la clasificación taxonómica del suelo, mapas de uso de la tierra y coberturas. |
+
+: Información de entrada para modelo de exposición del sector agropecuario {#tbl-c3-01}
 
 ### 3.5.1 Mapas de ubicación de cultivos
 
@@ -197,25 +205,29 @@ Para el caso de Colombia se consultó información publicada por fuentes oficial
 
 Con el objetivo de obtener la base de datos de elementos expuestos, se realizó el análisis de ubicación y cantidad de área sembrada de los principales productos agrícolas producidos en Colombia, así como la localización de pasturas y caracterización de ganado para evaluar el riesgo agropecuario del país a partir de la información del mapa de coberturas, el censo nacional y las encuestas agrícolas. Como resultado se obtuvieron mapas a nivel nacional, en los que el territorio se divide en una malla de 10 km × 10 km y en donde cada celda contiene una cierta área sembrada de cada uno de los productos analizados, para diferentes fechas de siembra (primer y segundo semestre) y tipo de cultivo (monocultivo o asociado). 
 
-Esta metodología permite incluir las diferentes prácticas agrícolas que se realizan en diferentes regiones. Estas pueden incluir la siembra de cultivos anuales en varios ciclos (siembra de primer y segundo semestre), siembra en monocultivo o cultivo asociado (por ejemplo, café y plátano en la misma unidad de tierra cultivada). También se consideran cultivos permanentes dentro del análisis. Esto se resume en la @fig-c3-06.
+Esta metodología permite incluir las diferentes prácticas agrícolas que se realizan en diferentes regiones. Estas pueden incluir la siembra de cultivos anuales en varios ciclos (siembra de primer y segundo semestre), siembra en monocultivo o cultivo asociado (por ejemplo, café y plátano en la misma unidad de tierra cultivada). También se consideran cultivos permanentes dentro del análisis. Esto se resume en la @fig-c3-08.
 
 
 
-![Esquema de análisis de cultivos considerado en la generación del modelo de exposición (Fuente: elaboración propia).](images/capitulo_3/img_6636c0a1.png){#fig-c3-06}
+![Esquema de análisis de cultivos considerado en la generación del modelo de exposición (Fuente: elaboración propia).](images/capitulo_3/img_6636c0a1.png){#fig-c3-08}
 
-Para la generación de los mapas de ubicación y área sembrada de cultivos se consideraron además restricciones en los cultivos en áreas protegidas y se priorizaron zonas cercanas a centros poblados. La validación del área resultante se hizo al comparar la sumatoria del área asignada a cada pixel del mismo municipio con el área total sembrada por municipio reportada en la última versión de la ENA. Por ejemplo, en Colombia la superficie cultivada de maíz a nivel nacional se estimó en 693,800 ha, la distribución espacial de esta área se muestra en la @fig-c3-07, donde también se hace un detalle a los departamentos de Antioquía y Tolima. 
+Para la generación de los mapas de ubicación y área sembrada de cultivos se consideraron además restricciones en los cultivos en áreas protegidas y se priorizaron zonas cercanas a centros poblados. La validación del área resultante se hizo al comparar la sumatoria del área asignada a cada pixel del mismo municipio con el área total sembrada por municipio reportada en la última versión de la ENA. Por ejemplo, en Colombia la superficie cultivada de maíz a nivel nacional se estimó en 693,800 ha, la distribución espacial de esta área se muestra en la @fig-c3-09, donde también se hace un detalle a los departamentos de Antioquía y Tolima. 
 
 
 
-![Localización y área de cultivos de maíz en Colombia (izquierda), en Antioquía (derecha arriba) y en Tolima (derecha abajo) (Fuente: elaboración propia).](images/capitulo_3/img_39d384b6.jpeg){#fig-c3-07}
+![Localización y área de cultivos de maíz en Colombia (izquierda), en Antioquía (derecha arriba) y en Tolima (derecha abajo) (Fuente: elaboración propia).](images/capitulo_3/img_39d384b6.jpeg){#fig-c3-09}
 
 ### 3.5.2 Estacionalidad
 
-Un parámetro de entrada específico para cada región de análisis y tipo de planta es el tiempo en el cual se completa el ciclo de desarrollo del cultivo. Dentro de la modelación de la vulnerabilidad de las plantas, es importante definir, en términos de días calendario, las diferentes etapas de crecimiento del cultivo, desde su siembra hasta la madurez, como se muestra en la @fig-c3-08. Además, se debe contar con información sobre la fecha típica de siembra y cosecha de cada producto. Estos datos van a ser luego utilizados en el módulo de vulnerabilidad que relaciona el desarrollo día a día del cultivo con las series diarias de precipitación y temperatura, para evaluar posibles reducciones en el rendimiento de la cosecha debido a condiciones de déficit de agua.
+Un parámetro de entrada específico para cada región de análisis y tipo de planta es el tiempo en el cual se completa el ciclo de desarrollo del cultivo. Dentro de la modelación de la vulnerabilidad de las plantas, es importante definir, en términos de días calendario, las diferentes etapas de crecimiento del cultivo, desde su siembra hasta la madurez, como se muestra en la @fig-c3-10. Además, se debe contar con información sobre la fecha típica de siembra y cosecha de cada producto. Estos datos van a ser luego utilizados en el módulo de vulnerabilidad que relaciona el desarrollo día a día del cultivo con las series diarias de precipitación y temperatura, para evaluar posibles reducciones en el rendimiento de la cosecha debido a condiciones de déficit de agua.
 
 
 
-![Esquema de etapas de crecimiento de una planta (Fuente: elaboración propia).](images/capitulo_3/img_406286e6.png){#fig-c3-08}
+![Esquema de etapas de crecimiento de una planta (Fuente: elaboración propia).](images/capitulo_3/img_406286e6.png){#fig-c3-10}
+
+::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 4.** ¿Por qué aplicar el modelo de respuesta de cultivos al agua de la FAO para la evaluación del riesgo?  Algunas de las características del modelo de la FAO, que son interesantes para la evaluación del riesgo son: El modelo considera la relación proporcional entre el estrés hídrico y la reducción de la producción de biomasa. En consecuencia, la reducción de la producción de biomasa se relaciona con la reducción de los rendimientos y las pérdidas económicas asociadas con el peligro de sequía. El modelo de la FAO incluye el efecto de las anomalías de la humedad del suelo y la respuesta fisiológica de los cultivos al déficit o exceso hídrico. El modelo calcula la producción de biomasa en una escala de tiempo diaria, para representar mejor la dinámica de la respuesta del cultivo al agua en diferentes etapas de crecimiento. Esta característica es conveniente porque los parámetros meteorológicos, utilizados para calcular el riesgo de sequía, también tienen una escala de tiempo diaria. Como la producción de biomasa se calcula a partir de las series de precipitación y temperatura, el modelo puede introducir el efecto de los escenarios de cambio climático. Se incluye también la concentración de dióxido de carbono en la atmósfera. La FAO ha establecido parámetros estándar para los cultivos, con sus correspondientes procedimientos de calibración y validación. Es posible incorporar modificadores asociados a prácticas agrícolas (por ejemplo, riego o fertilización), en función de la información disponible.
+:::
 
 ### 3.5.3 Rendimiento
 
@@ -246,55 +258,70 @@ En el caso de la evaluación de riesgo por eventos climáticos extremos, el comp
 Este enfoque permite calcular la biomasa de los cultivos con base en la cantidad de agua transpirada y el rendimiento del cultivo como la proporción de biomasa que entra en las partes cosechables de las plantas. 
 
 
-::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 4.** ¿Por qué aplicar el modelo de respuesta de cultivos al agua de la FAO para la evaluación del riesgo?  Algunas de las características del modelo de la FAO, que son interesantes para la evaluación del riesgo son: El modelo considera la relación proporcional entre el estrés hídrico y la reducción de la producción de biomasa. En consecuencia, la reducción de la producción de biomasa se relaciona con la reducción de los rendimientos y las pérdidas económicas asociadas con el peligro de sequía. El modelo de la FAO incluye el efecto de las anomalías de la humedad del suelo y la respuesta fisiológica de los cultivos al déficit o exceso hídrico. El modelo calcula la producción de biomasa en una escala de tiempo diaria, para representar mejor la dinámica de la respuesta del cultivo al agua en diferentes etapas de crecimiento. Esta característica es conveniente porque los parámetros meteorológicos, utilizados para calcular el riesgo de sequía, también tienen una escala de tiempo diaria. Como la producción de biomasa se calcula a partir de las series de precipitación y temperatura, el modelo puede introducir el efecto de los escenarios de cambio climático. Se incluye también la concentración de dióxido de carbono en la atmósfera. La FAO ha establecido parámetros estándar para los cultivos, con sus correspondientes procedimientos de calibración y validación. Es posible incorporar modificadores asociados a prácticas agrícolas (por ejemplo, riego o fertilización), en función de la información disponible.
-:::
-
 ## 3.7 EVALUACIÓN DEL RIESGO POR SEQUÍA EN EL SECTOR AGROPECUARIO
 
-Como se muestra en la @fig-c3-09, la evaluación probabilista del riesgo se puede resumir en los siguientes pasos (más detalles en la sección de Materiales y Métodos):
+Como se muestra en la @fig-c3-11, la evaluación probabilista del riesgo se puede resumir en los siguientes pasos (más detalles en la sección de Materiales y Métodos):
 
-Para cada evento, se determina la pérdida en todas y cada una de las unidades cultivadas, considerando tipo de suelo, tipo de cultivo, estacionalidad y fase fenológica.
+* Para cada evento, se determina la pérdida en todas y cada una de las unidades cultivadas, considerando tipo de suelo, tipo de cultivo, estacionalidad y fase fenológica.
+* Se calcula la pérdida causada por todo el evento, como la suma de las pérdidas individuales causadas en las unidades cultivadas.
+* Una vez se conocen las pérdidas de todos los escenarios, se calculan las tasas de excedencia.
 
-Se calcula la pérdida causada por todo el evento, como la suma de las pérdidas individuales causadas en las unidades cultivadas.
-
-Una vez se conocen las pérdidas de todos los escenarios, se calculan las tasas de excedencia.
-
-
-
-![Diagrama de flujo para la metodología de evaluación de riesgo por sequía.](images/capitulo_3/img_daa21934.png){#fig-c3-09}
-
-
-::: {#box5 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 5.** Cuantificación del impacto de los desastres en el sector agrícola  En términos generales, la cuantificación del impacto de los desastres en el sector agrícola hace una diferencia importante entre los conceptos de daño y pérdida: Daño: es la destrucción parcial o total de los activos físicos e infraestructura en áreas afectadas por desastres. Se expresa en términos de los costos de reemplazo o reparación. En el sector agrícola, el daño incluye impactos a cultivos permanentes, maquinaria, sistemas de irrigación, refugios de ganado, entre otros. Pérdida: se refiere a los cambios en los flujos económicos derivados de un desastre. En el sector agrícola, las pérdidas incluyen la disminución de ingresos asociado a reducción del rendimiento de la cosecha, disminución de ingresos asociados a reducción en la producción de derivados pecuarios. También se puede considerar el momento después de ocurrido el desastre en el que el incremento de los costos de los insumos, mayores costos operacionales, gastos más altos en imprevistos significan menores ganancias de la actividad agrícola general. La siguiente figura muestra la diferencia que hace la FAO [[29]](#ref-29) en términos de daño y pérdida para la producción y los activos en el sector agrícola y que aplica en la metodología propuesta de evaluación de riesgo por eventos climáticos extremos.   Diferencias entre pérdidas y daños en el sector agrícola (Elaboración propia a partir de [[29]](#ref-29)) En cuanto a la producción, el daño corresponde a los impactos de los desastres a insumos y producción almacenada, así como impactos en cultivos permanentes; mientras que, para la pérdida, los impactos se ven reflejados en la variación de los ingresos al productor asociado con disminuciones en los rendimientos de la cosecha. Por otro lado, para los activos los daños se asocian a impactos en maquinaria, equipo y herramienta y no se consideran pérdidas, al no asociar cambios en flujos económicos a los activos.  La medición se hace a partir de avalúos y costos de reparación/reemplazo estimados en condiciones anteriores al evento y diferencias en ingresos percibidos entre cosecha óptima y cosecha en condición de desastre. La metodología también puede incluir los costos temporales que deben incurrir los productores para mantener las actividades agrícolas durante o luego de la ocurrencia de un desastre. La metodología puede entonces incluir todos estos factores según la disponibilidad de la información y la amenaza analizada (por ejemplo, para el caso de la sequía no se consideran afectaciones a activos).
-:::
-
-### 3.7.1 Riesgo por sequía para el cultivo de maízen Colombia
+### 3.7.1 Riesgo por sequía para el cultivo de maíz en Colombia
 
 Con el fin de ilustrar los resultados de la metodología de evaluación de riesgos con enfoque probabilista, a continuación, se presentan los resultados de una evaluación preliminar de caso de riesgo por sequía para Colombia. Estos resultados son ilustrativos y hacen parte del desarrollo actual de la metodología, por lo que no se consideran definitivos.  
 
+Inicialmente se presentan los resultados para un evento de sequía en la Región Caribe de Colombia. Este evento no es un pronóstico, es una condición que se puede presentar en el futuro en esta región. La @fig-c3-12 muestra los mapas de gravedad del evento de sequía, en términos de su severidad, duración e intensidad. Para este mismo evento se evaluó el rendimiento del cultivo de maíz, y los resultados se presentan en términos de la relación entre la producción real alcanzada bajos las condiciones de estrés hídrico y la producción potencial que se alcanzaría sin restricciones de agua o nutrientes. A partir de estos resultados se puede ver en qué lugares se esperan mayores pérdidas en producción, asociados a un evento de condiciones climáticas desfavorables.
 
-::: {#box6 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 6.** Métricas de riesgo A partir de la curva de excedencia de pérdidas es posible obtener diversas métricas del riesgo, las cuales son útiles para diferentes fines dentro de la toma de decisiones y la gestión del riesgo. Estas métricas pretenden proporcionar una representación integral del riesgo, por lo general condensada en uno o unos pocos números, en lugar de proporcionar todo el conjunto de las pérdidas por escenarios o la curva de excedencia de pérdidas completa. La pérdida anual esperada (PAE) La PAE corresponde al valor esperado de la pérdida anual. Indica el valor anual que debe pagarse para compensar, en el largo plazo, todas las pérdidas futuras. En un esquema simple de seguro, la PAE sería la prima pura anual justa. Se calcula como a partir del conjunto de eventos como: Es decir, se trata del valor esperado de las pérdidas anuales. La PAE se puede obtener también como el área bajo la curva de excelencia de pérdidas.  La pérdida anual esperada es un indicador importante dado que integra en un único valor el efecto, en términos de pérdida, de la ocurrencia de los escenarios de amenaza sobre los elementos expuestos vulnerables. Se considera como el indicador más robusto de riesgo, no solo por su capacidad de resumir el proceso de generación de pérdidas en un solo número, sino por ser relativamente insensible a la incertidumbre.  La pérdida máxima probable (PML) Se denota PML por sus siglas en inglés (Probable Maximum Loss). La PML es una curva que relaciona las pérdidas a su correspondiente periodo de retorno. No obstante, es práctica común definir la PML como un único valor y corresponde a una pérdida que ocurre poco frecuentemente, es decir, que se asocia a un periodo de retorno grande. La selección del periodo de retorno de la PML depende exclusivamente de la aversión al riego del tomador de decisiones. Por ejemplo, en la industria aseguradora el periodo de retorno de la PML se toma usualmente entre 200 y 1,500 años. La selección del periodo de retorno la hace el tomador de decisión, según el objetivo de la evaluación, ya que no existe un estándar aceptado mundialmente. La probabilidad de quiebra (PQ) Asumiendo que el proceso de ocurrencia de las pérdidas en el tiempo sigue un proceso de Poisson, es posible determinar la probabilidad de alcanzar o exceder un nivel de pérdida dado, en un periodo de exposición particular,  en donde Pr(P>p)T es la probabilidad de excedencia de la pérdida p, en el lapso de tiempo T (dado en años). Si la pérdida p corresponde a la PML, entonces el término Pr(P>p)T se conoce como la probabilidad de quiebra (PQ), la cual no es más que la probabilidad de exceder la PML en un lapso de tiempo T.
+
+::: {#box5 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 5. Cuantificación del impacto de los desastres en el sector agrícola**
+
+En términos generales, la cuantificación del impacto de los desastres en el sector agrícola hace una diferencia importante entre los conceptos de daño y pérdida: Daño: es la destrucción parcial o total de los activos físicos e infraestructura en áreas afectadas por desastres. Se expresa en términos de los costos de reemplazo o reparación. En el sector agrícola, el daño incluye impactos a cultivos permanentes, maquinaria, sistemas de irrigación, refugios de ganado, entre otros. Pérdida: se refiere a los cambios en los flujos económicos derivados de un desastre. En el sector agrícola, las pérdidas incluyen la disminución de ingresos asociado a reducción del rendimiento de la cosecha, disminución de ingresos asociados a reducción en la producción de derivados pecuarios. También se puede considerar el momento después de ocurrido el desastre en el que el incremento de los costos de los insumos, mayores costos operacionales, gastos más altos en imprevistos significan menores ganancias de la actividad agrícola general. La siguiente figura muestra la diferencia que hace la FAO [[29]](#ref-29) en términos de daño y pérdida para la producción y los activos en el sector agrícola y que aplica en la metodología propuesta de evaluación de riesgo por eventos climáticos extremos.  
+
+![Diferencias entre pérdidas y daños en el sector agrícola (Elaboración propia a partir de [[29]](#ref-29)).](images/capitulo_3/Caja%205.jpg)
+
+En cuanto a la producción, el daño corresponde a los impactos de los desastres a insumos y producción almacenada, así como impactos en cultivos permanentes; mientras que, para la pérdida, los impactos se ven reflejados en la variación de los ingresos al productor asociado con disminuciones en los rendimientos de la cosecha. Por otro lado, para los activos los daños se asocian a impactos en maquinaria, equipo y herramienta y no se consideran pérdidas, al no asociar cambios en flujos económicos a los activos.  La medición se hace a partir de avalúos y costos de reparación/reemplazo estimados en condiciones anteriores al evento y diferencias en ingresos percibidos entre cosecha óptima y cosecha en condición de desastre. La metodología también puede incluir los costos temporales que deben incurrir los productores para mantener las actividades agrícolas durante o luego de la ocurrencia de un desastre. La metodología puede entonces incluir todos estos factores según la disponibilidad de la información y la amenaza analizada (por ejemplo, para el caso de la sequía no se consideran afectaciones a activos).
 :::
 
-Inicialmente se presentan los resultados para un evento de sequía en la Región Caribe de Colombia. Este evento no es un pronóstico, es una condición que se puede presentar en el futuro en esta región. La @fig-c3-10 muestra los mapas de gravedad del evento de sequía, en términos de su severidad, duración e intensidad. Para este mismo evento se evaluó el rendimiento del cultivo de maíz, y los resultados se presentan en términos de la relación entre la producción real alcanzada bajos las condiciones de estrés hídrico y la producción potencial que se alcanzaría sin restricciones de agua o nutrientes. A partir de estos resultados se puede ver en qué lugares se esperan mayores pérdidas en producción, asociados a un evento de condiciones climáticas desfavorables.
+![Diagrama de flujo para la metodología de evaluación de riesgo por sequía.](images/capitulo_3/img_daa21934.png){#fig-c3-11}
+
+La evaluación del riesgo se completó también a escala nacional, analizando los potenciales eventos de sequía que pueden ocurrir en el país y que fueron identificados en la etapa de la evaluación de la amenaza. El riesgo se estimó para el cultivo de maíz en Colombia, cuya localización y densidad de área sembrada se estimó en la etapa de modelación de la exposición. Haciendo uso de la metodología de la FAO para la evaluación de la vulnerabilidad y la evaluación del riesgo con enfoque probabilista, se obtuvo la curva de Pérdida Máxima Probable que se muestra en la @fig-c3-13. Esta curva relaciona la pérdida relativa (pérdida del evento dividida por el valor expuesto total)
+con el periodo de retorno de esta pérdida.
+
+Entonces, para Colombia se espera una pérdida máxima probable del 5% para un periodo de retorno de 50 años, esto en términos de reducción de los ingresos del productor asociados a la reducción en el rendimiento de su cultivo. Los resultados también se presentan distribuidos espacialmente en los mapas de la @fig-c3-14, en los que se muestra la ubicación de los cultivos de maíz (mapa de la izquierda) y los resultados de la pérdida anual esperada relativa al valor expuesto (mapa de la derecha). A partir de estos mapas se pueden reconocer las zonas en las que el cultivo de maíz está en mayor riesgo (pixeles en rojo). Es interesante notar que, aunque la severidad e intensidad de la sequía en la Región Caribe tiende a ser más baja que en otras zonas del país como se muestra en la @fig-c3-07, los resultados de riesgo indican que las pérdidas relativas pueden ser más altas en esta zona.
+
+::: {#box6 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Caja 6. Métricas de riesgo**
+
+A partir de la curva de excedencia de pérdidas es posible obtener diversas métricas del riesgo, las cuales son útiles para diferentes fines dentro de la toma de decisiones y la gestión del riesgo. Estas métricas pretenden proporcionar una representación integral del riesgo, por lo general condensada en uno o unos pocos números, en lugar de proporcionar todo el conjunto de las pérdidas por escenarios o la curva de excedencia de pérdidas completa.
+
+* **La pérdida anual esperada (PAE)**\
+  La PAE corresponde al valor esperado de la pérdida anual. Indica el valor anual que debe pagarse para compensar, en el largo plazo, todas las pérdidas futuras. En un esquema simple de seguro, la PAE sería la prima pura anual justa. Se calcula como a partir del conjunto de eventos como:
+
+  $$PAE = \frac{\sum_{i=1}^{N} P_i}{T}$$
+
+  Es decir, se trata del valor esperado de las pérdidas anuales. La PAE se puede obtener también como el área bajo la curva de excelencia de pérdidas.
+
+  La pérdida anual esperada es un indicador importante dado que integra en un único valor el efecto, en términos de pérdida, de la ocurrencia de los escenarios de amenaza sobre los elementos expuestos vulnerables. Se considera como el indicador más robusto de riesgo, no solo por su capacidad de resumir el proceso de generación de pérdidas en un solo número, sino por ser relativamente insensible a la incertidumbre.
+
+* **La pérdida máxima probable (PML)**\
+  Se denota PML por sus siglas en inglés (Probable Maximum Loss). La PML es una curva que relaciona las pérdidas a su correspondiente periodo de retorno. No obstante, es práctica común definir la PML como un único valor y corresponde a una pérdida que ocurre poco frecuentemente, es decir, que se asocia a un periodo de retorno grande. La selección del periodo de retorno de la PML depende exclusivamente de la aversión al riego del tomador de decisiones. Por ejemplo, en la industria aseguradora el periodo de retorno de la PML se toma usualmente entre 200 y 1,500 años. La selección del periodo de retorno la hace el tomador de decisión, según el objetivo de la evaluación, ya que no existe un estándar aceptado mundialmente.
+
+* **La probabilidad de quiebra ($P_Q$)**\
+  Asumiendo que el proceso de ocurrencia de las pérdidas en el tiempo sigue un proceso de Poisson, es posible determinar la probabilidad de alcanzar o exceder un nivel de pérdida dado, en un periodo de exposición particular,
+
+  $$Pr(P>p) = 1-e^{-v(p) \cdot T}$$
+
+  en donde $Pr(P>p)_T$ es la probabilidad de excedencia de la pérdida p, en el lapso de tiempo T (dado en años). Si la pérdida p corresponde a la PML, entonces el término $Pr(P>p)_T$ se conoce como la probabilidad de quiebra ($P_Q$), la cual no es más que la probabilidad de exceder la PML en un lapso de tiempo T.
+:::
 
 
+![Caracterización de un evento de sequía en la Región Caribe de Colombia (elaboración propia).](images/capitulo_3/img_f2bded16.png){#fig-c3-12}
 
-![Caracterización de un evento de sequía en la Región Caribe de Colombia (elaboración propia).](images/capitulo_3/img_f2bded16.png){#fig-c3-10}
-
-La evaluación del riesgo se completó también a escala nacional, analizando los potenciales eventos de sequía que pueden ocurrir en el país y que fueron identificados en la etapa de la evaluación de la amenaza. El riesgo se estimó para el cultivo de maíz en Colombia, cuya localización y densidad de área sembrada se estimó en la etapa de modelación de la exposición. Haciendo uso de la metodología de la FAO para la evaluación de la vulnerabilidad y la evaluación del riesgo con enfoque probabilista, se obtuvo la curva de Pérdida Máxima Probable que se muestra en la @fig-c3-11. Esta curva relaciona la pérdida relativa (pérdida del evento dividida por el valor expuesto total) con el periodo de retorno de esta pérdida. Entonces, para Colombia se espera una pérdida máxima probable del 5% para un periodo de retorno de 50 años, esto en términos de reducción de los ingresos del productor asociados a la reducción en el rendimiento de su cultivo. 
-
+![Curva de Pérdida Máxima Probable para el cultivo de Maíz en Colombia (Elaboración propia).](images/capitulo_3/img_2fb71896.png){#fig-c3-13}
 
 
-![Curva de Pérdida Máxima Probable para el cultivo de Maíz en Colombia (Elaboración propia).](images/capitulo_3/img_2fb71896.png){#fig-c3-11}
-
-Los resultados también se presentan distribuidos espacialmente en los mapas de la @fig-c3-12, en los que se muestra la ubicación de los cultivos de maíz (mapa de la izquierda) y los resultados de la pérdida anual esperada relativa al valor expuesto (mapa de la derecha). A partir de estos mapas se pueden reconocer las zonas en las que el cultivo de maíz está en mayor riesgo (pixeles en rojo). Es interesante notar que, aunque la severidad e intensidad de la sequía en la Región Caribe tiende a ser más baja que en otras zonas del país como se muestra en la Figura 7, los resultados de riesgo indican que las pérdidas relativas pueden ser más altas en esta zona. Esta situación refuerza la idea de la necesidad de evaluar tanto la amenaza como el riesgo para brindar insumos a los procesos de gestión de riesgo de desastres. En este caso, la combinación de las condiciones de clima, de calidad del suelo y de superficie sembrada permiten abordar el problema de la sequía desde un enfoque integral.
-
-
-
-![Mapas de ubicación y densidad de área sembrada de maíz (izquierda) y de pérdida anual esperada relativa (derecha) de riesgo por sequía (Elaboración propia).](images/capitulo_3/img_89e73bdb.png){#fig-c3-12}
+![Mapas de ubicación y densidad de área sembrada de maíz (izquierda) y de pérdida anual esperada relativa (derecha) de riesgo por sequía (Elaboración propia).](images/capitulo_3/img_89e73bdb.png){#fig-c3-14}
 
 ### 3.7.2 Alcance de la metodología
 
@@ -302,23 +329,25 @@ La metodología de evaluación de riesgo pretende evaluar las pérdidas en la pr
 
 Otras consideraciones sobre el alcance de la metodología son:
 
-La metodología de amenaza contempla en su alcance la generación estocástica de series de precipitación y temperatura (proceso estadístico de simulación del clima a partir de registros históricos) que no pretende ser un pronóstico. La modelación de otras variables climáticas (humedad, radiación, velocidad del viento) implica el uso de modelos complejos de circulación atmosférica e interacción de sistemas terrestres, que no está dentro del alcance de este estudio.
-
-En la creación del modelo de exposición, la selección de los productos se hace a partir del nivel de detalle de la información disponible, además de considerar los cultivos más importantes y representativos de la economía del país, tanto en términos de subsistencia como producción con fines comerciales. 
-
-Si este modelo se enfoca en la escala nacional, no es posible diferenciar de forma directa áreas cultivadas para subsistencia o explotación agroindustrial si no existe la información correspondiente. El modelo no está en la capacidad de diferencias tipos de pasturas naturales. 
-
-La base de datos de cultivos generada en este estudio también incluye las prácticas agrícolas típicas de la región. El modelo de exposición incluye detalles como las épocas de primera y segunda siembra, ajustando las áreas y duración del ciclo de crecimiento del cultivo en cada caso. Estos modelos no consideran la rotación de cultivos. En el caso de cultivos permanentes, se considera que los cultivos están en etapa productiva, es decir, los árboles ya completaron su crecimiento vegetativo.
-
-El modelo de vulnerabilidad de este estudio sigue la metodología de cálculo de rendimiento de productos agrícolas propuesta por la FAO. En el marco de este estudio, la vulnerabilidad se define en términos de la pérdida de rendimiento que sufre el cultivo durante un período prolongado de escasez de agua. Dado que se aplica un modelo agronómico de respuesta de cultivos, no se emplearán curvas o funciones de vulnerabilidad.
-
-La estimación de impactos económicos para el sector agrícola se limita a la estimación de pérdidas asociadas a la diferencia entre la cosecha óptima y la alcanzada bajo condiciones de estrés hídrico, avaluadas según costos de producción. No se consideran pérdidas asociadas con disminución en la calidad del producto, que puede implicar un menor precio de venta. Las pérdidas se suponen que son producto del evento amenazante y no considera factores externos como variaciones del mercado, brotes de enfermedades, entre otros. 
-
-La metodología hace uso de rendimientos de producción (total de cosecha producida en toneladas por unidad de área en hectáreas) para las condiciones locales. Estos rendimientos, obtenidos de fuentes oficiales, son rendimientos de referencia que permiten verificar los resultados de rendimiento obtenidos con el modelo para estimar las pérdidas. Sin embargo, cabe resaltar que dichos rendimientos se asumen estáticos en el modelo dado que no se tienen en cuenta las mejores prácticas agrícolas que en un futuro puedan adoptarse y que resulten en un incremento del rendimiento de los cultivos.
-
+* La metodología de amenaza contempla en su alcance la generación estocástica de series de precipitación y temperatura (proceso estadístico de simulación del clima a partir de registros históricos) que no pretende ser un pronóstico. La modelación de otras variables climáticas (humedad, radiación, velocidad del viento) implica el uso de modelos complejos de circulación atmosférica e interacción de sistemas terrestres, que no está dentro del alcance de este estudio.
+* En la creación del modelo de exposición, la selección de los productos se hace a partir del nivel de detalle de la información disponible, además de considerar los cultivos más importantes y representativos de la economía del país, tanto en términos de subsistencia como producción con fines comerciales. 
+* Si este modelo se enfoca en la escala nacional, no es posible diferenciar de forma directa áreas cultivadas para subsistencia o explotación agroindustrial si no existe la información correspondiente. El modelo no está en la capacidad de diferencias tipos de pasturas naturales. 
+* La base de datos de cultivos generada en este estudio también incluye las prácticas agrícolas típicas de la región. El modelo de exposición incluye detalles como las épocas de primera y segunda siembra, ajustando las áreas y duración del ciclo de crecimiento del cultivo en cada caso. Estos modelos no consideran la rotación de cultivos. En el caso de cultivos permanentes, se considera que los cultivos están en etapa productiva, es decir, los árboles ya completaron su crecimiento vegetativo.
+* El modelo de vulnerabilidad de este estudio sigue la metodología de cálculo de rendimiento de productos agrícolas propuesta por la FAO. En el marco de este estudio, la vulnerabilidad se define en términos de la pérdida de rendimiento que sufre el cultivo durante un período prolongado de escasez de agua. Dado que se aplica un modelo agronómico de respuesta de cultivos, no se emplearán curvas o funciones de vulnerabilidad.
+* La estimación de impactos económicos para el sector agrícola se limita a la estimación de pérdidas asociadas a la diferencia entre la cosecha óptima y la alcanzada bajo condiciones de estrés hídrico, avaluadas según costos de producción. No se consideran pérdidas asociadas con disminución en la calidad del producto, que puede implicar un menor precio de venta. Las pérdidas se suponen que son producto del evento amenazante y no considera factores externos como variaciones del mercado, brotes de enfermedades, entre otros. 
+* La metodología hace uso de rendimientos de producción (total de cosecha producida en toneladas por unidad de área en hectáreas) para las condiciones locales. Estos rendimientos, obtenidos de fuentes oficiales, son rendimientos de referencia que permiten verificar los resultados de rendimiento obtenidos con el modelo para estimar las pérdidas. Sin embargo, cabe resaltar que dichos rendimientos se asumen estáticos en el modelo dado que no se tienen en cuenta las mejores prácticas agrícolas que en un futuro puedan adoptarse y que resulten en un incremento del rendimiento de los cultivos.
 
 ::: {#box7 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 7.** DroughtPro. Drought Pro es un software desarrollado por INGENIAR Risk Intelligence Ltda, cuyo objetivo es la evaluación de la amenaza, vulnerabilidad y riesgo por sequía y está en desarrollo para incluir otros tipos de amenazas asociadas a eventos climáticos extremos. Permite estimar las pérdidas en los cultivos expuestos a eventos de sequía, haciendo uso de modelos de vulnerabilidad que relacionan el déficit de agua disponible para el cultivo con su crecimiento y producción de cosecha, y la vulnerabilidad del sector pecuario en términos de la disminución de la capacidad de carga de la pastura. A continuación se observa una ventana ejemplo del programa Drought Pro para la evaluación del riesgo por sequía. Drought Pro permite almacenar, editar y actualizar la información de amenazas, exposición, vulnerabilidad y riesgo. Este software es una plataforma independiente, desarrollada con herramientas de programación avanzadas.  Drought Pro integra los módulos de amenaza con los módulos de exposición y vulnerabilidad para hacer una estimación de riesgo, que se presenta en términos de pérdidas económicas o de producción, para el sector agrícola y pecuario. Para calcular el riesgo por sequía en el sector agrícola en primer lugar, se modela la amenaza a partir de los registros históricos de precipitación y temperatura, con el fin de generar series futuras correlacionadas de parámetros climáticos e identificar condiciones de sequía a muy largo plazo. Posteriormente, se ingresa la base de datos de elementos expuestos con datos sobre ubicación, características de los cultivos (parámetros propios, tipo y estacionalidad), área, productividad y costo de producción de cada unidad de tierra cultivada. Luego, la vulnerabilidad de los cultivos se define a partir de parámetros fenológicos y físicos que representan el desarrollo de los cultivos y permiten estimar la diferencia entre la producción óptima de rendimiento (si no hay límites para agua y nutrientes) y producción bajo déficit hídrico. Por último, el riesgo de sequía agrícola se modela en términos de pérdidas económicas derivadas de la pérdida de rendimiento debido a la escasez de agua. El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones. En el caso del cálculo de riesgo del sector pecuario se ingresa la información asociada a la exposición en términos de pasturas y stock ganadero y el programa evalúa su vulnerabilidad en términos de la reducción de capacidad de carga de la pastura natural.  Software Drought Pro para estimación de pérdidas en producción agrícola por sequía. Drought Pro calcula para múltiples escenarios de clima y cultivos las principales métricas de riesgo de forma simultánea. Se obtienen entonces resultados tanto para el portafolio completo de cultivos, como desagregado por producto. Para más información visitar http://www.ingeniar-risk.com/servicios/software/capra/drought-pro
+**Caja 7. DroughtPro.** 
+Drought Pro es un software desarrollado por INGENIAR Risk Intelligence Ltda, cuyo objetivo es la evaluación de la amenaza, vulnerabilidad y riesgo por sequía y está en desarrollo para incluir otros tipos de amenazas asociadas a eventos climáticos extremos. Permite estimar las pérdidas en los cultivos expuestos a eventos de sequía, haciendo uso de modelos de vulnerabilidad que relacionan el déficit de agua disponible para el cultivo con su crecimiento y producción de cosecha, y la vulnerabilidad del sector pecuario en términos de la disminución de la capacidad de carga de la pastura. A continuación se observa una ventana ejemplo del programa Drought Pro para la evaluación del riesgo por sequía. 
+Drought Pro permite almacenar, editar y actualizar la información de amenazas, exposición, vulnerabilidad y riesgo. Este software es una plataforma independiente, desarrollada con herramientas de programación avanzadas.  Drought Pro integra los módulos de amenaza con los módulos de exposición y vulnerabilidad para hacer una estimación de riesgo, que se presenta en términos de pérdidas económicas o de producción, para el sector agrícola y pecuario. 
+Para calcular el riesgo por sequía en el sector agrícola en primer lugar, se modela la amenaza a partir de los registros históricos de precipitación y temperatura, con el fin de generar series futuras correlacionadas de parámetros climáticos e identificar condiciones de sequía a muy largo plazo. 
+Posteriormente, se ingresa la base de datos de elementos expuestos con datos sobre ubicación, características de los cultivos (parámetros propios, tipo y estacionalidad), área, productividad y costo de producción de cada unidad de tierra cultivada. Luego, la vulnerabilidad de los cultivos se define a partir de parámetros fenológicos y físicos que representan el desarrollo de los cultivos y permiten estimar la diferencia entre la producción óptima de rendimiento (si no hay límites para agua y nutrientes) y producción bajo déficit hídrico. 
+Por último, el riesgo de sequía agrícola se modela en términos de pérdidas económicas derivadas de la pérdida de rendimiento debido a la escasez de agua. El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones. En el caso del cálculo de riesgo del sector pecuario se ingresa la información asociada a la exposición en términos de pasturas y stock ganadero y el programa evalúa su vulnerabilidad en términos de la reducción de capacidad de carga de la pastura natural.  
+
+![Software Drought Pro para estimación de pérdidas en producción agrícola por sequía.](images/capitulo_3/Caja%207.jpg)
+
+Drought Pro calcula para múltiples escenarios de clima y cultivos las principales métricas de riesgo de forma simultánea. Se obtienen entonces resultados tanto para el portafolio completo de cultivos, como desagregado por producto. Para más información visitar http://www.ingeniar-risk.com/servicios/software/capra/drought-pro
 :::
 
 ## 3.8 CONCLUSIONES
@@ -332,8 +361,15 @@ En el marco de este estudio, la vulnerabilidad se define en términos de la pér
 Se presenta la aplicación de la metodología de evaluación prospectiva del riesgo asociadas a sequías extremas en las áreas cultivadas de maíz en Colombia. Los resultados del modelo indican que la pérdida anual esperada, en términos de costos relativos al productor, es del 5%. Este no es un modelo de pretenda pronosticar eventos meteorológicos extremos, por lo que no es posible su uso como sistema de alerta temprana.
 
 
-::: {#puntos-clave-1 .callout-important style="background-color: #f4ebffff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Puntos clave.** La identificación del riesgo por eventos hidrometeorológicos sigue la metodología de análisis probabilista que tiene como objetivo estimar la distribución de probabilidad de la pérdida que puede presentarse en un conjunto de elementos expuestos, tras la ocurrencia de un fenómeno natural.  La modelación probabilista permite realizar pronósticos sobre los niveles futuros de pérdida más no de eventos; considerando la amenaza propia de la región de estudio y la incertidumbre en su estimación, así como la vulnerabilidad inherente de los elementos expuestos y su incertidumbre. La amenaza se representa por medio de una colección de escenarios, generados de manera estocástica, los cuales representan de manera integral, y en términos de probabilidad, la amenaza de una región. Cada escenario tiene asociada una frecuencia de ocurrencia y contiene la distribución espacial de parámetros que permiten construir la distribución de probabilidad de las intensidades producidas por su ocurrencia. Los elementos expuestos son la fuente de las pérdidas potenciales debido al hecho de estar expuestos a una amenaza y ser susceptibles de sufrir un daño. Estos elementos se caracterizan por su ubicación geográfica, su valor de reposición y tipo. La vulnerabilidad es una característica intrínseca de los elementos expuestos y que caracteriza el comportamiento de los elementos expuestos (cultivos) durante la ocurrencia de un evento peligroso (sequía, inundación, helada, entre otros). La metodología de vulnerabilidad de respuesta de los cultivos al agua está asociada a reducciones en el rendimiento del cultivo según el uso de parámetros específicos por especie que definen los procesos físicos, químicos y biológicos que interactúan en el modelo de desarrollo de la planta y sus interacciones con los sistemas de atmósfera y suelo. El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones.
+::: {#puntos-clave-1 .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
+
+* La identificación del riesgo por eventos hidrometeorológicos sigue la metodología de análisis probabilista que tiene como objetivo estimar la distribución de probabilidad de la pérdida que puede presentarse en un conjunto de elementos expuestos, tras la ocurrencia de un fenómeno natural.  
+* La modelación probabilista permite realizar pronósticos sobre los niveles futuros de pérdida más no de eventos; considerando la amenaza propia de la región de estudio y la incertidumbre en su estimación, así como la vulnerabilidad inherente de los elementos expuestos y su incertidumbre. 
+* La amenaza se representa por medio de una colección de escenarios, generados de manera estocástica, los cuales representan de manera integral, y en términos de probabilidad, la amenaza de una región. Cada escenario tiene asociada una frecuencia de ocurrencia y contiene la distribución espacial de parámetros que permiten construir la distribución de probabilidad de las intensidades producidas por su ocurrencia. 
+* Los elementos expuestos son la fuente de las pérdidas potenciales debido al hecho de estar expuestos a una amenaza y ser susceptibles de sufrir un daño. Estos elementos se caracterizan por su ubicación geográfica, su valor de reposición y tipo. 
+* La vulnerabilidad es una característica intrínseca de los elementos expuestos y que caracteriza el comportamiento de los elementos expuestos (cultivos) durante la ocurrencia de un evento peligroso (sequía, inundación, helada, entre otros). * La metodología de vulnerabilidad de respuesta de los cultivos al agua está asociada a reducciones en el rendimiento del cultivo según el uso de parámetros específicos por especie que definen los procesos físicos, químicos y biológicos que interactúan en el modelo de desarrollo de la planta y sus interacciones con los sistemas de atmósfera y suelo. 
+* El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones.
 :::
 ## 3.9 MATERIALES Y MÉTODOS
 
@@ -343,45 +379,32 @@ En esta sección se describen en detalle las metodologías utilizadas para la ge
 
 La metodología propuesta utiliza distribuciones paramétricas de probabilidad para definir conjuntos de datos climáticos históricos y estimar la probabilidad de ocurrencia de un determinado valor de precipitación o temperatura fuera del rango de observaciones históricas. La metodología toma cada día o grupo de 10 días del año hidrológico en un análisis separado, y encuentra la distribución de probabilidad que se ajusta mejor a los registros históricos. Posteriormente, se generan números aleatorios para la precipitación diaria y la temperatura para un determinado número de años de simulación, usando los parámetros de las distribuciones seleccionadas. Estas series generadas aleatoriamente se correlacionan en el tiempo y en el espacio para representar las condiciones climáticas de la región de análisis. 
 
-Generación de series aleatorias 
-
-El primer paso es seleccionar las funciones de distribución de probabilidad que pueden ser aplicadas a la modelación de cada variable. Se consideran distribuciones normalmente empleadas en ciencias atmosféricas como son Gamma, Lognormal, Normal, Weibull o Gumbel, entre otras. Posteriormente, para cada día del año, los parámetros de las distribuciones seleccionadas se estiman mediante el método de los momentos o de máxima verosimilitud.
+**Generación de series aleatorias**. El primer paso es seleccionar las funciones de distribución de probabilidad que pueden ser aplicadas a la modelación de cada variable. Se consideran distribuciones normalmente empleadas en ciencias atmosféricas como son Gamma, Lognormal, Normal, Weibull o Gumbel, entre otras. Posteriormente, para cada día del año, los parámetros de las distribuciones seleccionadas se estiman mediante el método de los momentos o de máxima verosimilitud.
 
 El ajuste de las distribuciones de probabilidad se evalúa usando métodos cualitativos y cuantitativos. Los métodos cualitativos incluyen herramientas gráficas para discernir subjetivamente la bondad del ajuste. Se utiliza la superposición de la distribución paramétrica ajustada y el histograma de datos, gráficos cuantil-cuantil, gráficos de distribución acumulativa empírica y teórica (CDF), y gráficos de probabilidad-probabilidad o comparaciones de probabilidad acumulativa. La selección cualitativa se realiza con el Criterio de Información de Akaike (AIC) o el Criterio Bayesiano de Información (BIC), que miden la calidad relativa de los modelos de distribución para un conjunto dado de datos. Está claro que los criterios AIC y BIC no dan ninguna indicación sobre la calidad del modelo, sino que es una comparación entre la bondad de ajuste de cada modelo y su complejidad en términos de un valor de penalización que aumenta con el número creciente de parámetros ajustados [[30]](#ref-30). 
 
-Numerosas alternativas de distribuciones de probabilidad se ponen a prueba para cada día del año hidrológico y cada variable climática.  Un ejemplo de las gráficas para definir la selección cualitativa de la distribución de probabilidad que mejor se ajusta se muestra en la @fig-c3-13, tanto para la temperatura media diaria (izquierda) como para la precipitación total diaria (derecha). El número de datos empíricos de cada gráfica es 300, que en este caso corresponden a 30 años de periodo de registro histórico por 10 días de datos diarios en el acumulado decadal.
+![Ajuste de distribuciones de probabilidad para registros históricos del 1ro enero para un punto de la malla de análisis: Temperatura media (izquierda) y precipitación total diaria (derecha) (Fuente: elaboración propia).](images/capitulo_3/img_ef1b2489.png){#fig-c3-15}
+
+Numerosas alternativas de distribuciones de probabilidad se ponen a prueba para cada día del año hidrológico y cada variable climática.  Un ejemplo de las gráficas para definir la selección cualitativa de la distribución de probabilidad que mejor se ajusta se muestra en la @fig-c3-15, tanto para la temperatura media diaria (izquierda) como para la precipitación total diaria (derecha). El número de datos empíricos de cada gráfica es 300, que en este caso corresponden a 30 años de periodo de registro histórico por 10 días de datos diarios en el acumulado decadal.
 
 Luego de definir la distribución de probabilidad más apropiada para la precipitación y la temperatura (media, máxima y mínima), para cada uno de los 365 días del año o grupo de 10 días consecutivos (decadales), se generan números aleatorios para un determinado número de años de simulación (del orden de 1,000 años o más). Así, se producen series aleatorias de datos climáticos para cada una de las estaciones en el área de estudio. 
 
-
-
-![Ajuste de distribuciones de probabilidad para registros históricos del 1ro enero para un punto de la malla de análisis: Temperatura media (izquierda) y precipitación total diaria (derecha) (Fuente: elaboración propia).](images/capitulo_3/img_ef1b2489.png){#fig-c3-13}
-
 Para evaluar el ajuste de las distribuciones de probabilidad se utilizó la prueba de ajuste con los coeficientes de Anderson-Darling (no está definida para distribuciones Pearson Tipo III o Logísticas) y Kolmogorov-Smirnov. Para definir si la muestra sigue una cierta distribución, se comparó el valor de significancia p-value con un nivel de 0.05, que implica que la probabilidad de concluir que los datos no siguen una distribución de probabilidad definida, cuando si siguen esa distribución, es del 5%. Al obtener valores de p-value por encima del nivel de significancia, no se puede rechazar la hipótesis nula ni concluir que los datos no se ajustan a la distribución considerada.
 
-Series de precipitación
+**Series de precipitación**. Como caso particular, para la generación estocástica de series de precipitación se debe considerar el efecto de los días de no lluvia para el ajuste de la función de distribución de probabilidad. En la @fig-c3-16 se presenta el histograma de valores de precipitación diaria para 1) un día de temporada seca 2) un día de temporada de lluvias. Se puede ver como para la temporada seca más del 95% de los datos se concentran en el valor 0, mientras que para la temporada de lluvias los días secos son menos del 10%. 
+Esto implica que en el momento de la selección de una distribución de probabilidad que mejor se ajuste a los valores de precipitación, se pueden tener inconvenientes cuando la mayoría de los valores son iguales a cero, lo que deriva en un mal ajuste de probabilidades. Por esta razón, para días en temporada seca se hace un procedimiento adicional para el ajuste de la distribución de probabilidad.
 
-Como caso particular, para la generación estocástica de series de precipitación se debe considerar el efecto de los días de no lluvia para el ajuste de la función de distribución de probabilidad. En la @fig-c3-14 se presenta el histograma de valores de precipitación diaria para 1) un día de temporada seca 2) un día de temporada de lluvias. Se puede ver como para la temporada seca más del 95% de los datos se concentran en el valor 0, mientras que para la temporada de lluvias los días secos son menos del 10%. Esto implica que en el momento de la selección de una distribución de probabilidad que mejor se ajuste a los valores de precipitación, se pueden tener inconvenientes cuando la mayoría de los valores son iguales a cero, lo que deriva en un mal ajuste de probabilidades. Por esta razón, para días en temporada seca se hace un procedimiento adicional para el ajuste de la distribución de probabilidad.
+La @fig-c3-17 muestra las funciones de densidad de probabilidad y de probabilidad acumulada para el caso en que el número de días secos en la muestra sea muy alto. En ese caso, se divide la función de densidad de probabilidad en dos partes 1) cuando la precipitación es igual a cero  $(P0)$  2) cuando la precipitación es mayor a cero (1- $P0$ ). La probabilidad de que ocurra un día seco se define como:
 
-
-
-![Histograma para valores de precipitación registrados en día de temporada seca y un día en temporada de lluvias (Fuente: elaboración propia).](images/capitulo_3/img_93d00dcc.png){#fig-c3-14}
-
-La @fig-c3-15 muestra las funciones de densidad de probabilidad y de probabilidad acumulada para el caso en que el número de días secos en la muestra sea muy alto. En ese caso, se divide la función de densidad de probabilidad en dos partes 1) cuando la precipitación es igual a cero  $(P0)$  2) cuando la precipitación es mayor a cero (1- $P0$ ). La probabilidad de que ocurra un día seco se define como:
-
-
-|  | (1) |
-| --- | --- |
-
-
-
-![Funciones de densidad de probabilidad y probabilidad acumulada teniendo en cuenta p = 0 (Fuente: elaboración propia).](images/capitulo_3/img_d463195e.jpeg){#fig-c3-15}
+$$P_0 = \frac{n}{N} = \frac{\#\ días\ secos}{\#\ días\ en\ la\ muestra} \tag{1}$$
 
 Al seguir este procedimiento, se obtienen series de precipitación que mantienen la relación histórica de días de no lluvia con respecto al total de días, según la temporada del régimen de lluvias. Si se utiliza la función de densidad de probabilidad sin hacer este ajuste, no se obtienen días secos en las series aleatorias.
 
-Correlación de series
+![Histograma para valores de precipitación registrados en día de temporada seca y un día en temporada de lluvias (Fuente: elaboración propia).](images/capitulo_3/img_93d00dcc.png){#fig-c3-16}
 
-Enseguida, con el fin de incluir la correlación existente entre valores de precipitación y temperatura en periodos de tiempo sucesivos, se calcula la matriz de autocorrelación para cada una de las series aleatorias generadas. La autocorrelación temporal indica la correlación de una variable con sus valores pasados y futuros [[31]](#ref-31). Además, se incluyen los efectos de la correlación espacial, que representan la aparición de datos simultáneos en múltiples estaciones del área de estudio, utilizando la matriz de autocorrelación espacial entre valores de las diferentes estaciones de registro.
+![Funciones de densidad de probabilidad y probabilidad acumulada teniendo en cuenta p = 0 (Fuente: elaboración propia).](images/capitulo_3/img_d463195e.jpeg){#fig-c3-17}
+
+**Correlación de series**. Enseguida, con el fin de incluir la correlación existente entre valores de precipitación y temperatura en periodos de tiempo sucesivos, se calcula la matriz de autocorrelación para cada una de las series aleatorias generadas. La autocorrelación temporal indica la correlación de una variable con sus valores pasados y futuros [[31]](#ref-31). Además, se incluyen los efectos de la correlación espacial, que representan la aparición de datos simultáneos en múltiples estaciones del área de estudio, utilizando la matriz de autocorrelación espacial entre valores de las diferentes estaciones de registro.
 
 Las series de números aleatorios correlacionados son estadísticamente correspondientes a las series históricas y preservan estadísticos de segundo orden (correlación espacial) al hacerlo de forma forzada sobre los registros históricos. De esta manera, se evitan cambios abruptos en los valores de precipitación y temperatura para días consecutivos. 
 
@@ -411,10 +434,7 @@ Según Jayanthi [[35]](#ref-35), los indicadores de sequía agrícola deben inte
 
 Este estudio no incluye el uso de indicadores que tienen en cuenta parámetros propios del suelo o del cultivo para definir un evento de sequía, como el Indicador de Palmer. Esto se debe a que en el módulo de amenaza del modelo probabilista de sequía se evalúan las condiciones de tiempo (precipitación y temperatura) únicamente, para clasificar los eventos de sequía independientes de sus posibles efectos en elementos socioeconómicos. De esta forma se puede evaluar la amenaza independiente de la vulnerabilidad de los elementos expuestos. Es en el módulo de vulnerabilidad que se incluyen los parámetros propios del suelo y cultivos existentes en cada unidad de tierra cultivada dentro del área de análisis. 
 
-Los indicadores estandarizados de sequía, como el RDI y el SPEI, pueden compararse entre sí en dimensiones espaciales y temporales. La severidad de la sequía caracterizada aplicando estos indicadores, se puede clasificar de acuerdo con lo presentado en la Tabla 9.1.
-
-**Tabla 9.1.** Clasificación de sequías de acuerdo con el valor de indicadores estandarizados.
-
+Los indicadores estandarizados de sequía, como el RDI y el SPEI, pueden compararse entre sí en dimensiones espaciales y temporales. La severidad de la sequía caracterizada aplicando estos indicadores, se puede clasificar de acuerdo con lo presentado en la @tbl-c3-02.
 
 | Clase de sequía | Valor del Indicador |
 | --- | --- |
@@ -422,6 +442,8 @@ Los indicadores estandarizados de sequía, como el RDI y el SPEI, pueden compara
 | Leve | Entre -1 y 0 |
 | Moderada | Entre -1.5 y -1 |
 | Severa | Menor a -1.5 |
+
+: Clasificación de sequías de acuerdo con el valor de indicadores estandarizados. {#tbl-c3-02}
 
 Nótese que, en todos los casos, los indicadores reflejan condiciones de sequía cuando sus valores son negativos, siendo las sequías más severas las asociadas a valores más negativos. Es conveniente evaluar los escenarios de sequía con más de un indicador, ya que ninguno de ellos puede aplicarse universalmente debido a la complejidad de esta amenaza y a las condiciones particulares de las diversas zonas climáticas [[39]](#ref-39). Los indicadores se calculan para cada serie (histórica o simulada) en cada uno de los puntos de la malla de análisis.
 
@@ -463,7 +485,7 @@ Los cultivos se modelan en términos de los procesos biológicos, físicos y qu�
 
 La fenología se refiere a las etapas de desarrollo de los cultivos y su duración, que se puede definir en días de grado de crecimiento (GDD – *Growing Deegre Days*) o días calendario. La cobertura vegetal (CC – *Canopy Cover*) es la representación de la cantidad de follaje, la cual se considera proporcional a la cantidad de agua transpirada y la cantidad de biomasa producida. El subcomponente de profundidad de enraizamiento modela el proceso en el cual las raíces se profundizan a una tasa relativa constante mientras que la planta crece hasta la fase de formación de rendimiento. El modelo puede incluir los efectos de capas de suelo o nivel freático superficial que restringen de crecimiento de las raíces.
 
-En la @fig-c3-16 se muestran las curvas de la cobertura vegetal y profundidad de la raíz. La curva en la parte superior representa el desarrollo de la cobertura vegetal a partir de la expansión (CGC: coeficiente de crecimiento vegetal – *Canopy Growth Coefficient*) y la disminución (CDC: coeficiente de disminución vegetal – *Canopy Decline Coefficient*). La cobertura vegetal se expresa como una fracción de suelo sombreado por las hojas o partes aéreas de las plantas, siendo su nivel máximo (CCx) específico del cultivo. La segunda curva representa la profundidad de enraizamiento efectiva, desde su valor mínimo (Zn) en el momento de la siembra hasta su valor máximo (Zx) en la fecha que se alcanza la madurez del cultivo. Este conjunto de curvas representa el desarrollo del cultivo y su interacción con los sistemas de suelo y aire.
+En la @fig-c3-18 se muestran las curvas de la cobertura vegetal y profundidad de la raíz. La curva en la parte superior representa el desarrollo de la cobertura vegetal a partir de la expansión (CGC: coeficiente de crecimiento vegetal – *Canopy Growth Coefficient*) y la disminución (CDC: coeficiente de disminución vegetal – *Canopy Decline Coefficient*). La cobertura vegetal se expresa como una fracción de suelo sombreado por las hojas o partes aéreas de las plantas, siendo su nivel máximo (CCx) específico del cultivo. La segunda curva representa la profundidad de enraizamiento efectiva, desde su valor mínimo (Zn) en el momento de la siembra hasta su valor máximo (Zx) en la fecha que se alcanza la madurez del cultivo. Este conjunto de curvas representa el desarrollo del cultivo y su interacción con los sistemas de suelo y aire.
 
 El modelo permite calcular la transpiración de los cultivos separadamente de la evaporación del suelo. El subcomponente de transpiración de cultivos determina el uso de agua de la planta cuando no hay estrés que limite la apertura estomática, característica que es específica del tipo de cultivo y cambia durante su desarrollo. La evaporación del suelo considera la pérdida de agua de la superficie del suelo húmedo no sombreado por la vegetación. Los dos últimos subcomponentes, producción de biomasa y rendimiento cosechable, se pueden resumir en las ecuaciones 4 y (5.  La producción de biomasa se define como:
 
@@ -475,7 +497,7 @@ En donde  $B$  es la biomasa producida acumulada,  $Tr$  es la transpiración de
 
 
 
-![Representación esquemática del desarrollo en el tiempo de la cobertura vegetal y la profundidad de enraizamiento (Elaboración propia a partir de [[15]](#ref-15) p. 23).](images/capitulo_3/img_d87e26d7.jpeg){#fig-c3-16}
+![Representación esquemática del desarrollo en el tiempo de la cobertura vegetal y la profundidad de enraizamiento (Elaboración propia a partir de [[15]](#ref-15) p. 23).](images/capitulo_3/img_d87e26d7.jpeg){#fig-c3-18}
 
 Finalmente, se utiliza un índice de cosecha  $HI$  para estimar el rendimiento  $Y$  de la biomasa producida  $B$ . Al hacer esta distinción entre la biomasa y el rendimiento, se pueden evaluar por separado los efectos de las condiciones climáticas sobre la producción de biomasa y la cosecha.
 
@@ -483,48 +505,45 @@ Finalmente, se utiliza un índice de cosecha  $HI$  para estimar el rendimiento 
 |  | (5) |
 | --- | --- |
 
-La @fig-c3-17 muestra la función del cambio del índice de cosecha  $HI$  en el tiempo para cultivos de frutas o granos, para el período de formación del rendimiento (fase de floración hasta la madurez fisiológica).  $HI$  comienza a partir de cero, en un crecimiento lento pero acelerado seguido por una tasa de aumento constante hasta que se alcanza el rango superior  $HIo$ . Este nivel superior es el índice de cosecha de los cultivos en condiciones óptimas, es específico del tipo de cultivo y se dispone de datos para su calibración.
+La @fig-c3-19 muestra la función del cambio del índice de cosecha  $HI$  en el tiempo para cultivos de frutas o granos, para el período de formación del rendimiento (fase de floración hasta la madurez fisiológica).  $HI$  comienza a partir de cero, en un crecimiento lento pero acelerado seguido por una tasa de aumento constante hasta que se alcanza el rango superior  $HIo$ . Este nivel superior es el índice de cosecha de los cultivos en condiciones óptimas, es específico del tipo de cultivo y se dispone de datos para su calibración.
 
 
 
-![Representación esquemática del cambio en el tiempo del índice de cosecha (HI) para cultivos de frutas o granos (Elaboración propia a partir de [[15]](#ref-15) p. 27).](images/capitulo_3/img_9c04b2ea.png){#fig-c3-17}
+![Representación esquemática del cambio en el tiempo del índice de cosecha (HI) para cultivos de frutas o granos (Elaboración propia a partir de [[15]](#ref-15) p. 27).](images/capitulo_3/img_9c04b2ea.png){#fig-c3-19}
 
 Suelo
 
 El componente de suelo incluye su perfil en profundidad y las características del nivel freático dentro del sistema radicular de la planta, expresando la región radicular como un volumen de control en donde se estiman los balances de agua y sal. El suelo puede ser subdividido en capas de profundidad variable, cada una con diferentes características físicas como el contenido de agua en el suelo saturado, el límite superior de agua contenida o capacidad de campo (FC – *Field Capacity*), el punto de marchitamiento permanente (PWP – *Permanent Wilting Point*) o límite inferior del nivel de agua, y la conductividad hidráulica del suelo saturado (Ksat). Estos valores son las entradas para determinar la evaporación del suelo, el drenaje interno, la percolación profunda, el escurrimiento superficial y la capilaridad. El nivel freático debe caracterizarse en términos de su profundidad y salinidad.
 
-La @fig-c3-18 es una representación simplificada del modelo del sistema radicular, donde Dr representa el agotamiento de la raíz y Wr es la profundidad equivalente del agua. El agua disponible total (TAW – *Total Avaliable Water*) es la cantidad de agua retenida en la zona de raíces entre la capacidad de campo (límite superior) y el punto de marchitamiento permanente (límite inferior). 
+La @fig-c3-20 es una representación simplificada del modelo del sistema radicular, donde Dr representa el agotamiento de la raíz y Wr es la profundidad equivalente del agua. El agua disponible total (TAW – *Total Avaliable Water*) es la cantidad de agua retenida en la zona de raíces entre la capacidad de campo (límite superior) y el punto de marchitamiento permanente (límite inferior). 
 
 
 
-![Representación esquemática del volumen de control de la zona radicular (Elaboración propia a partir de [[15]](#ref-15) p. 28).](images/capitulo_3/img_a270ea70.jpeg){#fig-c3-18}
+![Representación esquemática del volumen de control de la zona radicular (Elaboración propia a partir de [[15]](#ref-15) p. 28).](images/capitulo_3/img_a270ea70.jpeg){#fig-c3-20}
 
 El balance hídrico dentro de la zona radicular se calcula día a día, y para cualquier momento del desarrollo del cultivo. Los caudales de agua entrantes considerados en el modelo son provistos por las lluvias, el riego y la capilaridad. Por otro lado, los flujos de agua salientes considerados en el modelo son el escurrimiento, la evapotranspiración y la percolación profunda. 
 
-Los parámetros necesarios para estimar la capacidad de suelo de almacenar y retener agua se muestran en la @fig-c3-19. Dependiendo del nivel del agua en el suelo se define la disponibilidad del agua para la planta. Es así como después de una lluvia, el agua puede quedar en exceso de la cual una fracción se convierte en escorrentía y la otra fracción se infiltra por fuerzas gravitacionales. Esta agua infiltrada pasa de un nivel de saturación (en el cual no hay contenido de aire en el suelo) al nivel que tiene el suelo de retener el agua o capacidad de campo (Field capacity en inglés). A medida que el agua se infiltra en el suelo, las plantas pierden la posibilidad de usar el agua, hasta llegar al punto de marchitamiento definitivo, en el que la planta no cuenta con agua disponible y no se puede recuperar. El rango de agua disponible para la planta se ubica entre la capacidad de campo y el punto de marchitamiento, en el que el suelo es capaz de retener el agua. Entonces el modelo de vulnerabilidad evalúa si el contenido de agua en el suelo se ubica dentro del rango de agua disponible que tiene la planta y ajusta el desarrollo del cultivo según las condiciones de estrés hídrico que sufra.
+Los parámetros necesarios para estimar la capacidad de suelo de almacenar y retener agua se muestran en la @fig-c3-21. Dependiendo del nivel del agua en el suelo se define la disponibilidad del agua para la planta. Es así como después de una lluvia, el agua puede quedar en exceso de la cual una fracción se convierte en escorrentía y la otra fracción se infiltra por fuerzas gravitacionales. Esta agua infiltrada pasa de un nivel de saturación (en el cual no hay contenido de aire en el suelo) al nivel que tiene el suelo de retener el agua o capacidad de campo (Field capacity en inglés). A medida que el agua se infiltra en el suelo, las plantas pierden la posibilidad de usar el agua, hasta llegar al punto de marchitamiento definitivo, en el que la planta no cuenta con agua disponible y no se puede recuperar. El rango de agua disponible para la planta se ubica entre la capacidad de campo y el punto de marchitamiento, en el que el suelo es capaz de retener el agua. Entonces el modelo de vulnerabilidad evalúa si el contenido de agua en el suelo se ubica dentro del rango de agua disponible que tiene la planta y ajusta el desarrollo del cultivo según las condiciones de estrés hídrico que sufra.
 
 
 
-![Esquema de la disponibilidad del agua en el suelo (Elaboración propia).](images/capitulo_3/img_67852172.png){#fig-c3-19}
+![Esquema de la disponibilidad del agua en el suelo (Elaboración propia).](images/capitulo_3/img_67852172.png){#fig-c3-21}
 
-La capacidad de retener el agua en el suelo depende en gran medida de su textura. Como el suelo es un medio poroso, dependiendo del tamaño de los espacios entre partículas, el suelo está en capacidad de almacenar más o menos agua.  El tamaño de las partículas del suelo, o textura se define según su contenido de arena, limo y arcilla. Es así como suelos arenosos tienen poca capacidad de retener agua por su estructura de partículas gruesas con macroporos. De otro lado suelos de partículas finas retienen el agua en microporos y tienen una mayor capacidad de campo [[44]](#ref-44). Esta relación se puede ver de forma esquemática en la @fig-c3-20, en la que se presenta el porcentaje de volumen de agua para la capacidad de campo según la textura de suelo, desde arenas con partículas gruesas hasta arcilla de partículas finas. 
+La capacidad de retener el agua en el suelo depende en gran medida de su textura. Como el suelo es un medio poroso, dependiendo del tamaño de los espacios entre partículas, el suelo está en capacidad de almacenar más o menos agua.  El tamaño de las partículas del suelo, o textura se define según su contenido de arena, limo y arcilla. Es así como suelos arenosos tienen poca capacidad de retener agua por su estructura de partículas gruesas con macroporos. De otro lado suelos de partículas finas retienen el agua en microporos y tienen una mayor capacidad de campo [[44]](#ref-44). Esta relación se puede ver de forma esquemática en la @fig-c3-22, en la que se presenta el porcentaje de volumen de agua para la capacidad de campo según la textura de suelo, desde arenas con partículas gruesas hasta arcilla de partículas finas. 
 
 En la figura se puede ver como la capacidad campo o de retener agua en el suelo aumenta a medida que las partículas de suelo son más finas. Sin embargo, para que el agua sea disponible para las plantas, el contenido de agua en el suelo debe mantenerse sobre el punto de marchitamiento. Como se ve en la figura, el punto de marchitamiento también aumenta en la medida que la textura del suelo es más fina. Esto se debe a que, aunque hay mayor volumen de agua retenida del suelo fino, la fuerza que se ejerce para mantener el agua en los microporos es muy alta y las plantas no tienen capacidad de succionarla. Entonces, para propósitos agrícolas es preferible cultivar en suelos de textura media, tipo francos o franco-limosos, que tienen una alta disponibilidad de agua para las plantas.
 
 
 
-![Esquema de retención de agua según tipo de suelo (Elaboración propia a partir de [[44]](#ref-44)).](images/capitulo_3/img_ef306eb9.png){#fig-c3-20}
+![Esquema de retención de agua según tipo de suelo (Elaboración propia a partir de [[44]](#ref-44)).](images/capitulo_3/img_ef306eb9.png){#fig-c3-22}
 
-La información requerida del suelo incluye su tipo, textura, perfil en profundidad y nivel freático. Para el cálculo de la escorrentía se calcula el número de curva a partir de la información de uso y tipo de suelo. Este procedimiento se muestra de forma esquemática en la @fig-c3-21, en la que también se indica el tipo de información de entrada y los resultados. 
+La información requerida del suelo incluye su tipo, textura, perfil en profundidad y nivel freático. Para el cálculo de la escorrentía se calcula el número de curva a partir de la información de uso y tipo de suelo. Este procedimiento se muestra de forma esquemática en la @fig-c3-23, en la que también se indica el tipo de información de entrada y los resultados. 
 
 
 
-![Esquema metodología aplicada para determinar características del suelo necesarias en el módulo de vulnerabilidad para evaluar riesgo en el sector agrícola. (SCS: Soil Conservation Service) (Fuente: elaboración propia).](images/capitulo_3/img_f5062b50.png){#fig-c3-21}
+![Esquema metodología aplicada para determinar características del suelo necesarias en el módulo de vulnerabilidad para evaluar riesgo en el sector agrícola. (SCS: Soil Conservation Service) (Fuente: elaboración propia).](images/capitulo_3/img_f5062b50.png){#fig-c3-23}
 
 Los valores de contenido volumétrico de agua en suelo para condiciones de saturación, capacidad de campo y punto de marchitamiento se determinan a partir de evaluaciones locales. Sin embargo, en caso de no contar con información, la metodología propuesta hace uso de valores recomendados por el modelo AquaCrop que suministra valores por defecto para estos parámetros [[45]](#ref-45). 
-
-**Tabla 2.** Valores de parámetros de contenido volumétrico de agua por defecto en el modelo AquaCrop.
-
 
 | Tipo suelo | SAT [%vol] | FC [%vol] | PWP [%vol] |
 | --- | --- | --- | --- |
@@ -542,11 +561,13 @@ Los valores de contenido volumétrico de agua en suelo para condiciones de satur
 | arcilla | 55 | 54 | 39 |
 | impermeable | 0.5 | 0.3 | 0.1 |
 
-La determinación de la textura del suelo se hace a partir de las fracciones de arcilla, limo y arenas que lo compongan. Esta clasificación por tipo que se muestra en la tabla anterior se obtiene a partir del triángulo de clase textural del suelo, publicado por el Departamento de Agricultura de los Estados Unidos, USDA por sus siglas en inglés. Este esquema se presenta en la @fig-c3-22.
+: Valores de parámetros de contenido volumétrico de agua por defecto en el modelo AquaCrop. {#tbl-c3-03}
+
+La determinación de la textura del suelo se hace a partir de las fracciones de arcilla, limo y arenas que lo compongan. Esta clasificación por tipo que se muestra en la @tbl-c3-03 se obtiene a partir del triángulo de clase textural del suelo, publicado por el Departamento de Agricultura de los Estados Unidos, USDA por sus siglas en inglés. Este esquema se presenta en la @fig-c3-24.
 
 
 
-![Triángulo de clases texturales básicas de suelos según el tamaño de partículas. Elaborado por el Departamento de Agricultura de los Estados Unidos (USDA).](images/capitulo_3/img_a9f515e1.png){#fig-c3-22}
+![Triángulo de clases texturales básicas de suelos según el tamaño de partículas. Elaborado por el Departamento de Agricultura de los Estados Unidos (USDA).](images/capitulo_3/img_a9f515e1.png){#fig-c3-24}
 
 Manejo
 
@@ -554,31 +575,31 @@ El modelo tiene la capacidad de incorporar las prácticas de manejo en la respue
 
 La dinámica de la respuesta de los cultivos al estrés hídrico o térmico
 
-Las condiciones de estrés hídrico o térmico son representadas por un coeficiente de estrés ( $Ks$ ) y un umbral para los indicadores de estrés.  $Ks$  es un modificador que cuantifica la intensidad del efecto que produce el estrés hídrico en los procesos de crecimiento específicos para un cultivo y etapa de crecimiento. Como se observa en la @fig-c3-23, los valores de  $Ks$  varían entre 0 (estrés total) y 1 (sin estrés), siguiendo una función lineal o convexa (el grado de curvatura se establece durante la calibración del modelo). Los umbrales para el estrés hídrico están relacionados con el agotamiento del agua u oxígeno del suelo, mientras que los umbrales asociados al estrés por temperatura del aire están relacionados con los grados de crecimiento. 
+Las condiciones de estrés hídrico o térmico son representadas por un coeficiente de estrés ( $Ks$ ) y un umbral para los indicadores de estrés.  $Ks$  es un modificador que cuantifica la intensidad del efecto que produce el estrés hídrico en los procesos de crecimiento específicos para un cultivo y etapa de crecimiento. Como se observa en la @fig-c3-25, los valores de  $Ks$  varían entre 0 (estrés total) y 1 (sin estrés), siguiendo una función lineal o convexa (el grado de curvatura se establece durante la calibración del modelo). Los umbrales para el estrés hídrico están relacionados con el agotamiento del agua u oxígeno del suelo, mientras que los umbrales asociados al estrés por temperatura del aire están relacionados con los grados de crecimiento. 
 
 
 
-![Función del coeficiente de estrés (Ks) (Elaboración propia a partir de [[1]](#ref-1) p. 32).](images/capitulo_3/img_cf94b791.png){#fig-c3-23}
+![Función del coeficiente de estrés (Ks) (Elaboración propia a partir de [[1]](#ref-1) p. 32).](images/capitulo_3/img_cf94b791.png){#fig-c3-25}
 
-El modelo permite calcular los efectos del déficit o exceso hídrico (entendido como falta o exceso de agua en la región radicular del suelo) en el crecimiento de la cobertura vegetal, la conductancia estomática, la senescencia temprana, la profundización de la raíz y el índice de cosecha. La @fig-c3-24 muestra estos cinco procesos (líneas punteadas), dentro del esquema general de desarrollo de rendimiento bajo estrés hídrico. Un resumen general del proceso de cálculo se presenta a continuación. Nótese que todos los pasos del proceso se calculan en intervalos de tiempo diarios.
+El modelo permite calcular los efectos del déficit o exceso hídrico (entendido como falta o exceso de agua en la región radicular del suelo) en el crecimiento de la cobertura vegetal, la conductancia estomática, la senescencia temprana, la profundización de la raíz y el índice de cosecha. La @fig-c3-26 muestra estos cinco procesos (líneas punteadas), dentro del esquema general de desarrollo de rendimiento bajo estrés hídrico. Un resumen general del proceso de cálculo se presenta a continuación. Nótese que todos los pasos del proceso se calculan en intervalos de tiempo diarios.
 
 
 
-![Representación esquemática de la respuesta del cultivo al estrés hídrico (Adaptado de [[45]](#ref-45)).](images/capitulo_3/img_cd2247e5.png){#fig-c3-24}
+![Representación esquemática de la respuesta del cultivo al estrés hídrico (Adaptado de [[45]](#ref-45)).](images/capitulo_3/img_cd2247e5.png){#fig-c3-26}
 
 *Balance del agua en el suelo*: determina la cantidad de agua almacenada en la zona radicular, contabilizando los flujos de agua entrante y saliente. El crecimiento del cultivo no se ve afectado y no hay estrés hídrico ( $Ks=1$ ) entre el nivel de capacidad de campo (FC) y el nivel superior de agotamiento de la zona de raíz. En el otro extremo, entre el umbral inferior en el agotamiento de la zona de raíz y el punto de marchitamiento permanente hay tensión total ( $Ks=0$ ) y el crecimiento del cultivo se ve completamente impactado. A medida que se reduce el agua almacenada en el volumen de control del suelo, el coeficiente de estrés disminuye.
 
 *Expansión de la cobertura vegetal*: Se simula el efecto del déficit hídrico en la expansión de la cobertura, mediante la reducción del coeficiente de crecimiento vegetal (CGC) por el coeficiente de estrés hídrico para la expansión de cobertura  $Ks, exp,w$ , y modificando el coeficiente de disminución de cobertura por coeficiente de estrés hídrico de senescencia temprana  $Ks, sen$ .
 
-Por una parte, cuando el agotamiento de la zona radicular está por debajo de los umbrales superiores de contenido de agua,  $Ks, exp,w$  se hace menor que 1 y la cobertura reduce su tasa de expansión. Cuando el agotamiento de la zona radicular está por debajo del límite inferior,  $Ks, exp,w=0$  y se detiene el desarrollo de la cobertura. Por otra parte, cuando el estrés hídrico es severo (agotamiento de la zona radicular cerca del punto de marchitamiento permanente), se desencadena la senescencia temprana. El grado de senescencia está descrito por  $Ks, sen$ . La cobertura vegetal máxima no puede ser alcanzada bajo condiciones de estrés hídrico, o podría alcanzarse en una última etapa de la temporada, como se muestra en la @fig-c3-26.
+Por una parte, cuando el agotamiento de la zona radicular está por debajo de los umbrales superiores de contenido de agua,  $Ks, exp,w$  se hace menor que 1 y la cobertura reduce su tasa de expansión. Cuando el agotamiento de la zona radicular está por debajo del límite inferior,  $Ks, exp,w=0$  y se detiene el desarrollo de la cobertura. Por otra parte, cuando el estrés hídrico es severo (agotamiento de la zona radicular cerca del punto de marchitamiento permanente), se desencadena la senescencia temprana. El grado de senescencia está descrito por  $Ks, sen$ . La cobertura vegetal máxima no puede ser alcanzada bajo condiciones de estrés hídrico, o podría alcanzarse en una última etapa de la temporada, como se muestra en la @fig-c3-28.
 
 
 
-![Representación esquemática del coeficiente de estrés hídrico (Adaptado de [[45]](#ref-45)).](images/capitulo_3/img_885d8ab8.png){#fig-c3-25}
+![Representación esquemática del coeficiente de estrés hídrico (Adaptado de [[45]](#ref-45)).](images/capitulo_3/img_885d8ab8.png){#fig-c3-27}
 
 
 
-![Representación esquemática de la expansión de la cobertura vegetal, bajo condiciones óptimas (gris) y bajo estrés hídrico (verde). (Adaptado de [[45]](#ref-45)).](images/capitulo_3/img_fd5a740c.png){#fig-c3-26}
+![Representación esquemática de la expansión de la cobertura vegetal, bajo condiciones óptimas (gris) y bajo estrés hídrico (verde). (Adaptado de [[45]](#ref-45)).](images/capitulo_3/img_fd5a740c.png){#fig-c3-28}
 
 *Transpiración*: se calcula la potencia de evaporación de la atmósfera considerando un coeficiente de cultivo  $Kcb$  y el coeficiente de estrés hídrico  $Ks$ , como se muestra en la ecuación 6. La evapotranspiración potencial ( $ETo$ ) se calcula usando la ecuación de Penman-Monteith de FAO [[32]](#ref-32).
 
@@ -610,11 +631,11 @@ El índice de cosecha puede ajustarse al déficit hídrico y a las variaciones d
 
 Para la metodología propuesta, el objetivo de la evaluación probabilista del riesgo es evaluar las pérdidas potenciales para el sector agropecuario debido a la ocurrencia natural de condiciones de clima extremo, considerando exposición y vulnerabilidad de cultivos, pasturas y ganado. Este enfoque permite identificar áreas geográficas y tierras cultivadas que se encuentran en riesgo. El riesgo se modela en términos de pérdida económica, definida como una variable aleatoria que incorpora la incertidumbre presente en los componentes de amenaza, vulnerabilidad y exposición del modelo. 
 
-Al realizar la evaluación de riesgo por eventos, las condiciones de clima extremo valorados en el módulo de amenaza se organizan en una gráfica de pérdida vs. tiempo, como se muestra en la @fig-c3-27. Al establecer una pérdida económica  $p$ , se puede identificar en la gráfica todos los eventos cuyas pérdidas exceden  $p$ . Los tiempos entre eventos  $(T1, T2, …,T1n)$  también se estiman a partir de la @fig-c3-27 y se usan para estimar el parámetro  $λ$  de una distribución exponencial, la cual corresponde a la distribución de probabilidad del tiempo entre eventos de un proceso de Poisson. Además, este parámetro de la distribución exponencial tiene la particularidad de ser el mismo*λ* que define el proceso de Poisson completamente (i.e. es la misma tasa de excedencia,  $λ$  = ***v(p)***). Para el caso de la evaluación prospectiva del riesgo, la ventana de tiempo considerada para calcular  $λ$  es igual al número de simulaciones estocásticas de las series climáticas, por ejemplo 1,000 años equivalentes.
+Al realizar la evaluación de riesgo por eventos, las condiciones de clima extremo valorados en el módulo de amenaza se organizan en una gráfica de pérdida vs. tiempo, como se muestra en la @fig-c3-29. Al establecer una pérdida económica  $p$ , se puede identificar en la gráfica todos los eventos cuyas pérdidas exceden  $p$ . Los tiempos entre eventos  $(T1, T2, …,T1n)$  también se estiman a partir de la @fig-c3-29 y se usan para estimar el parámetro  $λ$  de una distribución exponencial, la cual corresponde a la distribución de probabilidad del tiempo entre eventos de un proceso de Poisson. Además, este parámetro de la distribución exponencial tiene la particularidad de ser el mismo*λ* que define el proceso de Poisson completamente (i.e. es la misma tasa de excedencia,  $λ$  = ***v(p)***). Para el caso de la evaluación prospectiva del riesgo, la ventana de tiempo considerada para calcular  $λ$  es igual al número de simulaciones estocásticas de las series climáticas, por ejemplo 1,000 años equivalentes.
 
 
 
-![Pérdidas por evento en una ventana amplia de tiempo (Elaboración propia).](images/capitulo_3/img_f8b6146f.png){#fig-c3-27}
+![Pérdidas por evento en una ventana amplia de tiempo (Elaboración propia).](images/capitulo_3/img_f8b6146f.png){#fig-c3-29}
 
 La tasa de excedencia poblacional ( $λ$ ) es estimada mediante la tasa de excedencia empírica ( $Λ$ ) de la siguiente manera:
 
@@ -628,17 +649,17 @@ En donde *n* es el número de eventos que superan la pérdida  $p$  y  $Ti$ son 
 |  | (10) |
 | --- | --- |
 
-El coeficiente de variación indica la relación entre la desviación estándar y la media de una variable aleatoria. Como se indica en la Ecuación 7, CV disminuye a medida que el número de datos (*n*) aumenta. La Ecuación 7 es una fórmula estándar, aplicable a cualquier problema de estimación del riesgo por eventos, en donde el CV de la tasa de excedencia varía con el tamaño de la muestra cómo se indica en la @fig-c3-28.
+El coeficiente de variación indica la relación entre la desviación estándar y la media de una variable aleatoria. Como se indica en la Ecuación 7, CV disminuye a medida que el número de datos (*n*) aumenta. La Ecuación 7 es una fórmula estándar, aplicable a cualquier problema de estimación del riesgo por eventos, en donde el CV de la tasa de excedencia varía con el tamaño de la muestra cómo se indica en la @fig-c3-30.
 
 
 
-![Variación del coeficiente de variación de la tasa de excedencia con el tamaño de la muestra (Elaboración propia).](images/capitulo_3/img_23c36048.png){#fig-c3-28}
+![Variación del coeficiente de variación de la tasa de excedencia con el tamaño de la muestra (Elaboración propia).](images/capitulo_3/img_23c36048.png){#fig-c3-30}
 
 El CV crece rápidamente a medida que *n* disminuye. Esto quiere decir que, al estimar la tasa de excedencia de pérdidas grandes (eventos catastróficos) a partir de pocos eventos modelados, para los cuales se contará con un valor pequeño de *n* (es decir, pocos eventos que exceden esa pérdida dentro del conjunto de escenarios de sequía), la dispersión de la estimación (i.e. su desviación estándar) es muy grande en comparación a la estimación misma, lo cual implica una mayor incertidumbre. Por el contrario, al estimar la tasa de excedencia de pérdidas con un mayor número de eventos modelados, *n* será necesariamente un número más grande y, en consecuencia, la dispersión de la tasa disminuye a valores incluso despreciables en la práctica. Esto es por lo que, para que el resultado sea estadísticamente suficiente se debe hacer uso de un gran número de años simulados dentro de los cuales se pueda identificar un número considerable de eventos de sequía.
 
 Curva de excedencia de pérdidas
 
-Es así como el riesgo se define por medio de la curva de excedencia de pérdidas (ver @fig-c3-29), la cual establece el número de veces en un año en las que un valor de pérdida se verá excedido. Esta cantidad se conoce como la *tasa anual de excedencia*, la cual es un valor único y específico para cada cuantía de pérdida, e incorpora el aporte de todos los posibles escenarios contenidos en la evaluación de la amenaza. Como se mencionó anteriormente, la tasa de excedencia es igual al parámetro  $λ$  que define la ocurrencia en el tiempo de los eventos de pérdida, es decir:
+Es así como el riesgo se define por medio de la curva de excedencia de pérdidas (ver @fig-c3-31), la cual establece el número de veces en un año en las que un valor de pérdida se verá excedido. Esta cantidad se conoce como la *tasa anual de excedencia*, la cual es un valor único y específico para cada cuantía de pérdida, e incorpora el aporte de todos los posibles escenarios contenidos en la evaluación de la amenaza. Como se mencionó anteriormente, la tasa de excedencia es igual al parámetro  $λ$  que define la ocurrencia en el tiempo de los eventos de pérdida, es decir:
 
 
 |  | (11) |
@@ -650,11 +671,11 @@ en donde  $p$  es la pérdida económica,  $νp$  es su tasa anual de excedencia
 |  | (12) |
 | --- | --- |
 
-El periodo de retorno es el valor esperado del tiempo entre eventos. Es decir, corresponde al periodo de tiempo promedio para el cual, considerando una ventana temporal de observación suficientemente amplia, se verá igualada o excedida una pérdida dada, y se muestra en el eje vertical de la derecha de la curva ejemplo mostrada en la @fig-c3-29.
+El periodo de retorno es el valor esperado del tiempo entre eventos. Es decir, corresponde al periodo de tiempo promedio para el cual, considerando una ventana temporal de observación suficientemente amplia, se verá igualada o excedida una pérdida dada, y se muestra en el eje vertical de la derecha de la curva ejemplo mostrada en la @fig-c3-31.
 
 
 
-![Ejemplo de curva de excedencia de pérdidas. El eje vertical muestra la tasa de excedencia (izquierda) y su valor inverso o periodo de retorno (derecha). El eje horizontal muestra la pérdida asociada (Elaboración propia).](images/capitulo_3/img_7c78a57b.png){#fig-c3-29}
+![Ejemplo de curva de excedencia de pérdidas. El eje vertical muestra la tasa de excedencia (izquierda) y su valor inverso o periodo de retorno (derecha). El eje horizontal muestra la pérdida asociada (Elaboración propia).](images/capitulo_3/img_7c78a57b.png){#fig-c3-31}
 
 El cálculo de la Ecuación (11 corresponde a la estimación de la tasa de excedencia de las cuantías de pérdida que ocurren en todos los activos expuestos (unidades de tierra cultivada) para todos los eventos potencialmente nocivos incluidos en el modelo de amenaza (el conjunto de escenarios estocásticos previamente identificados). La pérdida para un evento se determina mediante la suma de las pérdidas causadas en las unidades individuales cultivadas. 
 
