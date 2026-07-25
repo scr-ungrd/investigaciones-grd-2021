@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -15,10 +15,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -44,10 +47,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-82cb5808e81da3454e8042d903791e03.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-343830dee7e81009abd9657442190b55.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -95,7 +98,7 @@ background-size: cover;
 </style>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -158,7 +161,7 @@ window.Quarto = {
     <div class="quarto-title-meta-heading">Afiliaciones</div>
     
       <div class="quarto-title-meta-contents">
-      <p class="author">Omar Darío Cardona <sup>1,3</sup> <a href="https://orcid.org/0000-0001-8233-5450" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">Omar Darío Cardona <sup>1,3</sup> <a href="https://orcid.org/0000-0001-8233-5450" class="quarto-title-author-orcid" aria-label="ORCID profile for Omar Darío Cardona <sup>1,3</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -166,7 +169,7 @@ window.Quarto = {
             </p>
         </div>
       <div class="quarto-title-meta-contents">
-      <p class="author">Gabriel Bernal <sup>2,3</sup> <a href="https://orcid.org/0000-0001-8522-6022" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">Gabriel Bernal <sup>2,3</sup> <a href="https://orcid.org/0000-0001-8522-6022" class="quarto-title-author-orcid" aria-label="ORCID profile for Gabriel Bernal <sup>2,3</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -174,7 +177,7 @@ window.Quarto = {
             </p>
         </div>
       <div class="quarto-title-meta-contents">
-      <p class="author">María Alejandra Escovar <sup>3</sup> <a href="https://orcid.org/0000-0002-2921-9191" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+      <p class="author">María Alejandra Escovar <sup>3</sup> <a href="https://orcid.org/0000-0002-2921-9191" class="quarto-title-author-orcid" aria-label="ORCID profile for María Alejandra Escovar <sup>3</sup>"> <img alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
     </div>
     <div class="quarto-title-meta-contents">
           <p class="affiliation">
@@ -403,7 +406,7 @@ window.Quarto = {
 <ul>
 <li>Planificación del territorio con el uso de mapas de amenaza integrada: <em>¿dónde y qué sembrar para reducir las pérdidas esperadas? ¿Dónde establecer nuevos proyectos agroindustriales? ¿En qué zonas del país incentivar el uso de semillas resistentes a sequia?</em></li>
 <li>Inversión en proyectos de infraestructura: <em>¿qué distritos de riego priorizar?</em></li>
-<li>Seguros agrícolas para la transferencia del riesgo: <em>¿Cuál es la prima pura de riesgo? </em></li>
+<li>Seguros agrícolas para la transferencia del riesgo: <em>¿Cuál es la prima pura de riesgo?</em></li>
 <li>Análisis costo-beneficio de estrategias de manejo de cultivos como: distritos de riego, construcción de reservorios, uso de fertilizantes, rotación de cultivos.</li>
 <li>Medidas de adaptación a variabilidad climática.</li>
 <li>Estimación de pérdidas en el sector pecuario, relacionado con la disminución en la disponibilidad de alimento (pasto).</li>
@@ -818,7 +821,7 @@ La PAE corresponde al valor esperado de la pérdida anual. Indica el valor anual
 <p>La pérdida anual esperada es un indicador importante dado que integra en un único valor el efecto, en términos de pérdida, de la ocurrencia de los escenarios de amenaza sobre los elementos expuestos vulnerables. Se considera como el indicador más robusto de riesgo, no solo por su capacidad de resumir el proceso de generación de pérdidas en un solo número, sino por ser relativamente insensible a la incertidumbre.</p></li>
 <li><p><strong>La pérdida máxima probable (PML)</strong><br>
 Se denota PML por sus siglas en inglés (Probable Maximum Loss). La PML es una curva que relaciona las pérdidas a su correspondiente periodo de retorno. No obstante, es práctica común definir la PML como un único valor y corresponde a una pérdida que ocurre poco frecuentemente, es decir, que se asocia a un periodo de retorno grande. La selección del periodo de retorno de la PML depende exclusivamente de la aversión al riego del tomador de decisiones. Por ejemplo, en la industria aseguradora el periodo de retorno de la PML se toma usualmente entre 200 y 1,500 años. La selección del periodo de retorno la hace el tomador de decisión, según el objetivo de la evaluación, ya que no existe un estándar aceptado mundialmente.</p></li>
-<li><p><strong>La probabilidad de quiebra (<span class="math inline">\(P_Q\)</span>)</strong><br>
+<li><p><strong>La probabilidad de quiebra (</strong><span class="math inline">\(P_Q\)</span>)<br>
 Asumiendo que el proceso de ocurrencia de las pérdidas en el tiempo sigue un proceso de Poisson, es posible determinar la probabilidad de alcanzar o exceder un nivel de pérdida dado, en un periodo de exposición particular,</p>
 <p><span class="math display">\[Pr(P&gt;p) = 1-e^{-v(p) \cdot T}\]</span></p>
 <p>en donde <span class="math inline">\(Pr(P&gt;p)_T\)</span> es la probabilidad de excedencia de la pérdida p, en el lapso de tiempo T (dado en años). Si la pérdida p corresponde a la PML, entonces el término <span class="math inline">\(Pr(P&gt;p)_T\)</span> se conoce como la probabilidad de quiebra (<span class="math inline">\(P_Q\)</span>), la cual no es más que la probabilidad de exceder la PML en un lapso de tiempo T.</p></li>
@@ -876,14 +879,17 @@ Figura&nbsp;3.14: Mapas de ubicación y densidad de área sembrada de maíz (izq
 <i class="callout-icon no-icon"></i>
 </div>
 <div class="callout-body-container">
-<p><strong>Caja 7. DroughtPro.</strong> Drought Pro es un software desarrollado por INGENIAR Risk Intelligence Ltda, cuyo objetivo es la evaluación de la amenaza, vulnerabilidad y riesgo por sequía y está en desarrollo para incluir otros tipos de amenazas asociadas a eventos climáticos extremos. Permite estimar las pérdidas en los cultivos expuestos a eventos de sequía, haciendo uso de modelos de vulnerabilidad que relacionan el déficit de agua disponible para el cultivo con su crecimiento y producción de cosecha, y la vulnerabilidad del sector pecuario en términos de la disminución de la capacidad de carga de la pastura. A continuación se observa una ventana ejemplo del programa Drought Pro para la evaluación del riesgo por sequía. Drought Pro permite almacenar, editar y actualizar la información de amenazas, exposición, vulnerabilidad y riesgo. Este software es una plataforma independiente, desarrollada con herramientas de programación avanzadas. Drought Pro integra los módulos de amenaza con los módulos de exposición y vulnerabilidad para hacer una estimación de riesgo, que se presenta en términos de pérdidas económicas o de producción, para el sector agrícola y pecuario. Para calcular el riesgo por sequía en el sector agrícola en primer lugar, se modela la amenaza a partir de los registros históricos de precipitación y temperatura, con el fin de generar series futuras correlacionadas de parámetros climáticos e identificar condiciones de sequía a muy largo plazo. Posteriormente, se ingresa la base de datos de elementos expuestos con datos sobre ubicación, características de los cultivos (parámetros propios, tipo y estacionalidad), área, productividad y costo de producción de cada unidad de tierra cultivada. Luego, la vulnerabilidad de los cultivos se define a partir de parámetros fenológicos y físicos que representan el desarrollo de los cultivos y permiten estimar la diferencia entre la producción óptima de rendimiento (si no hay límites para agua y nutrientes) y producción bajo déficit hídrico. Por último, el riesgo de sequía agrícola se modela en términos de pérdidas económicas derivadas de la pérdida de rendimiento debido a la escasez de agua. El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones. En el caso del cálculo de riesgo del sector pecuario se ingresa la información asociada a la exposición en términos de pasturas y stock ganadero y el programa evalúa su vulnerabilidad en términos de la reducción de capacidad de carga de la pastura natural.</p>
+<p><strong>Caja 7. DroughtPro.</strong></p>
+<p>Drought Pro es un software desarrollado por INGENIAR Risk Intelligence Ltda, cuyo objetivo es la evaluación de la amenaza, vulnerabilidad y riesgo por sequía y está en desarrollo para incluir otros tipos de amenazas asociadas a eventos climáticos extremos. Permite estimar las pérdidas en los cultivos expuestos a eventos de sequía, haciendo uso de modelos de vulnerabilidad que relacionan el déficit de agua disponible para el cultivo con su crecimiento y producción de cosecha, y la vulnerabilidad del sector pecuario en términos de la disminución de la capacidad de carga de la pastura. A continuación se observa una ventana ejemplo del programa</p>
+<p>Drought Pro para la evaluación del riesgo por sequía. Drought Pro permite almacenar, editar y actualizar la información de amenazas, exposición, vulnerabilidad y riesgo. Este software es una plataforma independiente, desarrollada con herramientas de programación avanzadas. Drought Pro integra los módulos de amenaza con los módulos de exposición y vulnerabilidad para hacer una estimación de riesgo, que se presenta en términos de pérdidas económicas o de producción, para el sector agrícola y pecuario. Para calcular el riesgo por sequía en el sector agrícola en primer lugar, se modela la amenaza a partir de los registros históricos de precipitación y temperatura, con el fin de generar series futuras correlacionadas de parámetros climáticos e identificar condiciones de sequía a muy largo plazo. Posteriormente, se ingresa la base de datos de elementos expuestos con datos sobre ubicación, características de los cultivos (parámetros propios, tipo y estacionalidad), área, productividad y costo de producción de cada unidad de tierra cultivada. Luego, la vulnerabilidad de los cultivos se define a partir de parámetros fenológicos y físicos que representan el desarrollo de los cultivos y permiten estimar la diferencia entre la producción óptima de rendimiento (si no hay límites para agua y nutrientes) y producción bajo déficit hídrico. Por último, el riesgo de sequía agrícola se modela en términos de pérdidas económicas derivadas de la pérdida de rendimiento debido a la escasez de agua.</p>
+<p>El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones. En el caso del cálculo de riesgo del sector pecuario se ingresa la información asociada a la exposición en términos de pasturas y stock ganadero y el programa evalúa su vulnerabilidad en términos de la reducción de capacidad de carga de la pastura natural.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="images/capitulo_3/Caja 7.jpg" class="img-fluid figure-img"></p>
 <figcaption>Software Drought Pro para estimación de pérdidas en producción agrícola por sequía.</figcaption>
 </figure>
 </div>
-<p>Drought Pro calcula para múltiples escenarios de clima y cultivos las principales métricas de riesgo de forma simultánea. Se obtienen entonces resultados tanto para el portafolio completo de cultivos, como desagregado por producto. Para más información visitar http://www.ingeniar-risk.com/servicios/software/capra/drought-pro</p>
+<p>Drought Pro calcula para múltiples escenarios de clima y cultivos las principales métricas de riesgo de forma simultánea. Se obtienen entonces resultados tanto para el portafolio completo de cultivos, como desagregado por producto. Para más información visitar <a href="http://www.ingeniar-risk.com/servicios/software/capra/drought-pro" class="uri">http://www.ingeniar-risk.com/servicios/software/capra/drought-pro</a></p>
 </div>
 </div>
 </div>
@@ -902,7 +908,7 @@ Figura&nbsp;3.14: Mapas de ubicación y densidad de área sembrada de maíz (izq
 </div>
 <div class="callout-body-container">
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;" class="anchored">
-Puntos Clave
+<p>Puntos Clave</p>
 </h2>
 <ul>
 <li>La identificación del riesgo por eventos hidrometeorológicos sigue la metodología de análisis probabilista que tiene como objetivo estimar la distribución de probabilidad de la pérdida que puede presentarse en un conjunto de elementos expuestos, tras la ocurrencia de un fenómeno natural.<br>
@@ -967,7 +973,7 @@ Figura&nbsp;3.17: Funciones de densidad de probabilidad y probabilidad acumulada
 </section>
 <section id="evapotranspiración-de-referencia" class="level3">
 <h3 class="anchored" data-anchor-id="evapotranspiración-de-referencia">3.9.2 Evapotranspiración de referencia</h3>
-<p>El cálculo de los indicadores de sequía propuestos requiere del cálculo previo de la evapotranspiración de referencia, para evaluar las condiciones atmosféricas que definen si se presenta un exceso de agua en la atmósfera (baja evapotranspiración) o un déficit (alta evapotranspiración y poca lluvia). La evapotranspiración de referencia se estima siguiendo el Manual <em>Crop evapotranspiration: Guidelines for computing crop requirements </em><a href="#ref-32">[32]</a><em>, </em>que es considerado el método estándar y es el más recomendado.</p>
+<p>El cálculo de los indicadores de sequía propuestos requiere del cálculo previo de la evapotranspiración de referencia, para evaluar las condiciones atmosféricas que definen si se presenta un exceso de agua en la atmósfera (baja evapotranspiración) o un déficit (alta evapotranspiración y poca lluvia). La evapotranspiración de referencia se estima siguiendo el Manual <em>Crop evapotranspiration: Guidelines for computing crop requirements</em> <a href="#ref-32">[32]</a><em>,</em> que es considerado el método estándar y es el más recomendado.</p>
 <p>La evapotranspiración de referencia es el potencial de evaporación de la atmósfera; se calcula en una superficie vegetal uniforme sin restricciones hídricas. La superficie de referencia es un cultivo hipotético con una altura asumida de 0,12 m, una resistencia superficial fija de 70 s/m y un albedo de 0,23 <a href="#ref-32">[32]</a>; es independiente del tipo de cultivo, de su desarrollo o de su manejo. Al no tener restricciones en el contenido de agua, las características del suelo tampoco influyen en su resultado. Estas condiciones permiten comparar los resultados en diferentes localizaciones o estaciones para evaluar las condiciones evaporativas de la atmósfera ya que el ETo únicamente varía según las condiciones climáticas presentes.</p>
 <p>Es importante señalar que la evapotranspiración de referencia ( <span class="math inline">\(ET0\)</span> ) es diferente a la evapotranspiración del cultivo bajo condiciones estándar ( <span class="math inline">\(ETc\)</span> ) y a la evapotranspiración del cultivo bajo condiciones no estándar ( <span class="math inline">\(ETc aj\)</span> ). La evapotranspiración del cultivo bajo condiciones estándar ( <span class="math inline">\(ETc\)</span> ) considera características particulares según el tipo de cultivo que se esté evaluando (resistencia del cultivo, albedo, anatomía de las hojas, características de los estomas, propiedades aerodinámicas, entre otros). Por otro lado, la evapotranspiración del cultivo bajo condiciones no estándar ( <span class="math inline">\(ETc aj\)</span> ) considera cultivos que crecen bajo condiciones ambientales y de manejo diferentes a condiciones óptimas de suelo y agua, presencia de enfermedades o fertilización que implican cambios en el rendimiento de la cosecha.</p>
 <p>El método de Penman-Monteith (ver (2) para el cálculo de la evapotranspiración de referencia permite cuantificar los procesos de evaporación (vaporización de agua desde una superficie: suelo, vegetación húmeda) y transpiración (vaporización del agua contenida en los tejidos vegetales), que ocurren simultáneamente. Los parámetros necesarios para el cálculo son el brillo solar, la temperatura, la humedad, la velocidad del viento, el flujo de vapor y la resistencia aerodinámica.</p>
@@ -1033,42 +1039,21 @@ Tabla&nbsp;3.2: Clasificación de sequías de acuerdo con el valor de indicadore
 <h3 class="anchored" data-anchor-id="mapas-de-amenaza-por-sequía">3.9.4 Mapas de amenaza por sequía</h3>
 <p>Los resultados de la modelación de la amenaza se presentan a continuación en formato de mapas de amenaza por escenario, y curvas y mapas de amenaza integrada para toda la región estudio. Los mapas de amenaza por escenario permiten comparar la intensidad y distribución espacial de los efectos de un único evento. Los mapas de amenaza integrada permiten comparar las intensidades según el periodo de retorno y establecer zonas que están más o menos expuestas a la amenaza de sequía dentro de la región.</p>
 <p>La interpolación espacial se realiza utilizando el método kriging, que es método geoestadístico que supone una correlación espacial entre puntos y tienen la capacidad de proporcionar al modelador una medida de certeza o precisión de las predicciones <a href="#ref-41">[41]</a>. Este método permite obtener predicciones de valores de los parámetros que definen la sequía en ubicaciones diferentes a los puntos donde se hicieron las mediciones (en este caso la malla de análisis sobre los tres países). Usando kriging se puede obtener un mapa de formato ráster, en la que se calcula el valor del parámetro en cada pixel. Kriging es un método conveniente porque permite interpolar espacialmente sin conocer la varianza de los parámetros de interés. Al comparar con otros métodos de interpolación espacial, el kriging se considera un método robusto, pero de alta demanda computacional ya que utiliza los datos medidos para modelar el variograma y hacer las predicciones. Por otro lado, métodos más sencillos, como el de la distancia inversa ponderada (IDW) que es un método determinista, no brindan información sobre la certeza de los resultados, o definen una covarianza generalizada sin considerar los datos medidos como el método spline. Para más información sobre metodologías de interpolación espacial se recomienda consultar el manual de ArcGIS disponible en línea <a href="#ref-42">[42]</a> en español que presenta una descripción detallada y sencilla de diferentes métodos, o documentos como el de Li &amp; Heap <a href="#ref-43">[43]</a> que presenta un compilado de los diferentes métodos y sus respectivos alcances (en inglés).</p>
-<p>Mapas de amenaza integrada</p>
-<p>La amenaza se integra mediante un proceso matemático que permite definir las curvas de excedencia de intensidad en cada punto de la malla de cálculo. La tasa de excedencia es una cantidad que mide el número de veces al año que un valor de intensidad es igualado o excedido. Sea <em>a</em> la medida de intensidad calculada (e.g.&nbsp;RDI, severidad, duración, etc), su tasa de excedencia ν(<em>a</em>), para una ubicación en la malla de cálculo, se determina como</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(3)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
-<p>en donde <em>N</em> es el número total de escenarios calculados, Pr (<em>A</em> &gt; <em>a </em>| *E**i<em>) es la probabilidad de exceder </em>a<em>, condicionada a la ocurrencia del escenario </em>i* y *F**i* es la frecuencia anual de ocurrencia del escenario <em>i</em>.</p>
+<p><strong>Mapas de amenaza integrada.</strong> La amenaza se integra mediante un proceso matemático que permite definir las curvas de excedencia de intensidad en cada punto de la malla de cálculo. La tasa de excedencia es una cantidad que mide el número de veces al año que un valor de intensidad es igualado o excedido. Sea <em>a</em> la medida de intensidad calculada (e.g.&nbsp;RDI, severidad, duración, etc), su tasa de excedencia ν(<em>a</em>), para una ubicación en la malla de cálculo, se determina como:</p>
+<p><span class="math display">\[v(a) = \sum_{i=1}^{N} P(A&gt;a \mid E_i)\ F_i \tag{3}\]</span></p>
+<p>en donde <span class="math inline">\(N\)</span> es el número total de escenarios calculados, Pr (<em>A</em> &gt; <em>a</em> | <em>Ei</em>) es la probabilidad de exceder <span class="math inline">\(a\)</span>, condicionada a la ocurrencia del escenario <span class="math inline">\(i\)</span> y <span class="math inline">\(Fi\)</span> es la frecuencia anual de ocurrencia del escenario <span class="math inline">\(i\)</span>.</p>
 <p>Teniendo las tasas de excedencia de la medida de intensidad en todos los puntos de la malla de cálculo, es posible generar mapas de igual periodo de retorno, por medio de la selección de una tasa de excedencia (que es inversa al periodo de retorno) y la lectura en cada curva del correspondiente valor de intensidad. Los valores leídos son entonces mapeados en una malla que tiene el mismo periodo de retorno en todas las ubicaciones. Estos mapas son una herramienta útil para la toma de decisiones, ya que no representan un único evento de amenaza, sino que integran los efectos de todos los eventos que potencialmente pueden ocurrir en el futuro. También permiten comparar los niveles de amenaza con diferentes períodos de retorno y establecer cuáles ubicaciones o regiones en el territorio tienen una mayor o menor propensión a sufrir sequías. Por lo tanto, son un insumo fundamental en el diseño y ejecución de regulaciones de uso de la tierra o proyectos de sistemas de riego en la región de estudio. Los mapas de amenaza uniforme se calculan mediante la aplicación del teorema de la probabilidad total en la colección de escenarios estocásticos de sequía.</p>
 </section>
 <section id="modelo-de-respuesta-de-cultivos-a-eventos-extremos" class="level3">
 <h3 class="anchored" data-anchor-id="modelo-de-respuesta-de-cultivos-a-eventos-extremos">3.9.5 Modelo de respuesta de cultivos a eventos extremos</h3>
 <p>El modelo de respuesta de cultivos tiene cuatro componentes principales: el clima (en términos de temperatura, precipitación, demanda por evaporación y concentración de dióxido de carbono), los cultivos (procesos de desarrollo, crecimiento y rendimiento), el suelo (balance de agua y sal) y el manejo y administración (prácticas agrícolas). Cada uno de los componentes se explica brevemente a continuación, según lo contenido en Steduto et al.&nbsp;<a href="#ref-15">[15]</a>.</p>
-<p>Clima</p>
-<p>La temperatura influye en el desarrollo de los cultivos y la precipitación es determinante para el balance hídrico del suelo en la zona radicular y el estrés hídrico. Por lo tanto, las principales variables climáticas para el modelo son las temperaturas máximas y mínimas diarias del aire, las precipitaciones diarias totales y la demanda evaporativa de la atmósfera, expresadas como evapotranspiración. Para el caso del modelo de evaluación del riesgo aplicado en este estudio, todas estas variables climáticas se calculan previamente en la evaluación de la amenaza y se utilizan para calcular los indicadores de clima extremo.</p>
-<p>Adicionalmente, la concentración de dióxido de carbono (CO2) se incluye en la evaluación, ya que es un aspecto que afecta la expansión del cultivo y la conductancia estomática. Los valores por defecto de las concentraciones anuales de CO2 se miden en el Observatorio Mauna Loa, en Hawái (). Para el caso de la evaluación prospectiva de riesgo, se utiliza la concentración de dióxido de carbono para el último año disponible en la evaluación base y para la evaluación de los modelos con cambio climático se usan las proyecciones de concentración de dióxido de carbono según el escenario de RCP (trayectoria representativa de concentración) analizada.</p>
-<p>Cultivo</p>
-<p>Los cultivos se modelan en términos de los procesos biológicos, físicos y químicos que determinan su rendimiento. El modelo permite evaluar cómo los cultivos crecen y se desarrollan a lo largo de su ciclo de crecimiento específico, creciendo el follaje, profundizando sus raíces y acumulando biomasa. Todas las etapas fenológicas (o etapas de crecimiento) se consideran en el modelo: vegetativo, floración, formación de rendimiento y maduración, incluyendo etapas fenológicas distintas para cultivos herbáceos o forrajeros.</p>
+<p><strong>Clima</strong>. La temperatura influye en el desarrollo de los cultivos y la precipitación es determinante para el balance hídrico del suelo en la zona radicular y el estrés hídrico. Por lo tanto, las principales variables climáticas para el modelo son las temperaturas máximas y mínimas diarias del aire, las precipitaciones diarias totales y la demanda evaporativa de la atmósfera, expresadas como evapotranspiración. Para el caso del modelo de evaluación del riesgo aplicado en este estudio, todas estas variables climáticas se calculan previamente en la evaluación de la amenaza y se utilizan para calcular los indicadores de clima extremo.</p>
+<p>Adicionalmente, la concentración de dióxido de carbono (CO2) se incluye en la evaluación, ya que es un aspecto que afecta la expansión del cultivo y la conductancia estomática. Los valores por defecto de las concentraciones anuales de CO2 se miden en el Observatorio Mauna Loa, en Hawái (<a href="www.esrl.noaa.gov/gmd/obop/mlo">www.esrl.noaa.gov/gmd/obop/mlo</a>). Para el caso de la evaluación prospectiva de riesgo, se utiliza la concentración de dióxido de carbono para el último año disponible en la evaluación base y para la evaluación de los modelos con cambio climático se usan las proyecciones de concentración de dióxido de carbono según el escenario de RCP (trayectoria representativa de concentración) analizada.</p>
+<p><strong>Cultivo</strong>. Los cultivos se modelan en términos de los procesos biológicos, físicos y químicos que determinan su rendimiento. El modelo permite evaluar cómo los cultivos crecen y se desarrollan a lo largo de su ciclo de crecimiento específico, creciendo el follaje, profundizando sus raíces y acumulando biomasa. Todas las etapas fenológicas (o etapas de crecimiento) se consideran en el modelo: vegetativo, floración, formación de rendimiento y maduración, incluyendo etapas fenológicas distintas para cultivos herbáceos o forrajeros.</p>
 <p>La fenología se refiere a las etapas de desarrollo de los cultivos y su duración, que se puede definir en días de grado de crecimiento (GDD – <em>Growing Deegre Days</em>) o días calendario. La cobertura vegetal (CC – <em>Canopy Cover</em>) es la representación de la cantidad de follaje, la cual se considera proporcional a la cantidad de agua transpirada y la cantidad de biomasa producida. El subcomponente de profundidad de enraizamiento modela el proceso en el cual las raíces se profundizan a una tasa relativa constante mientras que la planta crece hasta la fase de formación de rendimiento. El modelo puede incluir los efectos de capas de suelo o nivel freático superficial que restringen de crecimiento de las raíces.</p>
 <p>En la <a href="#fig-c3-18" class="quarto-xref">Figura&nbsp;<span>3.18</span></a> se muestran las curvas de la cobertura vegetal y profundidad de la raíz. La curva en la parte superior representa el desarrollo de la cobertura vegetal a partir de la expansión (CGC: coeficiente de crecimiento vegetal – <em>Canopy Growth Coefficient</em>) y la disminución (CDC: coeficiente de disminución vegetal – <em>Canopy Decline Coefficient</em>). La cobertura vegetal se expresa como una fracción de suelo sombreado por las hojas o partes aéreas de las plantas, siendo su nivel máximo (CCx) específico del cultivo. La segunda curva representa la profundidad de enraizamiento efectiva, desde su valor mínimo (Zn) en el momento de la siembra hasta su valor máximo (Zx) en la fecha que se alcanza la madurez del cultivo. Este conjunto de curvas representa el desarrollo del cultivo y su interacción con los sistemas de suelo y aire.</p>
-<p>El modelo permite calcular la transpiración de los cultivos separadamente de la evaporación del suelo. El subcomponente de transpiración de cultivos determina el uso de agua de la planta cuando no hay estrés que limite la apertura estomática, característica que es específica del tipo de cultivo y cambia durante su desarrollo. La evaporación del suelo considera la pérdida de agua de la superficie del suelo húmedo no sombreado por la vegetación. Los dos últimos subcomponentes, producción de biomasa y rendimiento cosechable, se pueden resumir en las ecuaciones 4 y (5. La producción de biomasa se define como:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(4)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p>El modelo permite calcular la transpiración de los cultivos separadamente de la evaporación del suelo. El subcomponente de transpiración de cultivos determina el uso de agua de la planta cuando no hay estrés que limite la apertura estomática, característica que es específica del tipo de cultivo y cambia durante su desarrollo. La evaporación del suelo considera la pérdida de agua de la superficie del suelo húmedo no sombreado por la vegetación. Los dos últimos subcomponentes, producción de biomasa y rendimiento cosechable, se pueden resumir en las ecuaciones 4 y 5. La producción de biomasa se define como:</p>
+<p><span class="math display">\[B = WP \cdot \sum Tr \tag{4}\]</span></p>
 <p>En donde <span class="math inline">\(B\)</span> es la biomasa producida acumulada, <span class="math inline">\(Tr\)</span> es la transpiración del cultivo sumada durante el período de producción de la biomasa y <span class="math inline">\(WP\)</span> es el parámetro de productividad del agua medido como la cantidad de biomasa seca (kilogramos) por unidad de área (m2) y de agua transpirada (mm). La robustez del modelo depende de la naturaleza conservadora del <span class="math inline">\(WP\)</span> que permanece constante en un rango de ambientes, cuando se normaliza para demandas evaporativas.</p>
 <div id="fig-c3-18" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -1080,17 +1065,7 @@ Figura&nbsp;3.18: Representación esquemática del desarrollo en el tiempo de la
 </figcaption>
 </figure>
 </div>
-<p>Finalmente, se utiliza un índice de cosecha <span class="math inline">\(HI\)</span> para estimar el rendimiento <span class="math inline">\(Y\)</span> de la biomasa producida <span class="math inline">\(B\)</span> . Al hacer esta distinción entre la biomasa y el rendimiento, se pueden evaluar por separado los efectos de las condiciones climáticas sobre la producción de biomasa y la cosecha.</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(5)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p>Finalmente, se utiliza un índice de cosecha <span class="math inline">\(HI\)</span> para estimar el rendimiento <span class="math inline">\(Y\)</span> de la biomasa producida <span class="math inline">\(B\)</span> . Al hacer esta distinción entre la biomasa y el rendimiento, se pueden evaluar por separado los efectos de las condiciones climáticas sobre la producción de biomasa y la cosecha. <span class="math display">\[Y = HI\cdot B \tag{5}\]</span></p>
 <p>La <a href="#fig-c3-19" class="quarto-xref">Figura&nbsp;<span>3.19</span></a> muestra la función del cambio del índice de cosecha <span class="math inline">\(HI\)</span> en el tiempo para cultivos de frutas o granos, para el período de formación del rendimiento (fase de floración hasta la madurez fisiológica). <span class="math inline">\(HI\)</span> comienza a partir de cero, en un crecimiento lento pero acelerado seguido por una tasa de aumento constante hasta que se alcanza el rango superior <span class="math inline">\(HIo\)</span> . Este nivel superior es el índice de cosecha de los cultivos en condiciones óptimas, es específico del tipo de cultivo y se dispone de datos para su calibración.</p>
 <div id="fig-c3-19" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -1102,8 +1077,7 @@ Figura&nbsp;3.19: Representación esquemática del cambio en el tiempo del índi
 </figcaption>
 </figure>
 </div>
-<p>Suelo</p>
-<p>El componente de suelo incluye su perfil en profundidad y las características del nivel freático dentro del sistema radicular de la planta, expresando la región radicular como un volumen de control en donde se estiman los balances de agua y sal. El suelo puede ser subdividido en capas de profundidad variable, cada una con diferentes características físicas como el contenido de agua en el suelo saturado, el límite superior de agua contenida o capacidad de campo (FC – <em>Field Capacity</em>), el punto de marchitamiento permanente (PWP – <em>Permanent Wilting Point</em>) o límite inferior del nivel de agua, y la conductividad hidráulica del suelo saturado (Ksat). Estos valores son las entradas para determinar la evaporación del suelo, el drenaje interno, la percolación profunda, el escurrimiento superficial y la capilaridad. El nivel freático debe caracterizarse en términos de su profundidad y salinidad.</p>
+<p><strong>Suelo</strong>. El componente de suelo incluye su perfil en profundidad y las características del nivel freático dentro del sistema radicular de la planta, expresando la región radicular como un volumen de control en donde se estiman los balances de agua y sal. El suelo puede ser subdividido en capas de profundidad variable, cada una con diferentes características físicas como el contenido de agua en el suelo saturado, el límite superior de agua contenida o capacidad de campo (FC – <em>Field Capacity</em>), el punto de marchitamiento permanente (PWP – <em>Permanent Wilting Point</em>) o límite inferior del nivel de agua, y la conductividad hidráulica del suelo saturado (Ksat). Estos valores son las entradas para determinar la evaporación del suelo, el drenaje interno, la percolación profunda, el escurrimiento superficial y la capilaridad. El nivel freático debe caracterizarse en términos de su profundidad y salinidad.</p>
 <p>La <a href="#fig-c3-20" class="quarto-xref">Figura&nbsp;<span>3.20</span></a> es una representación simplificada del modelo del sistema radicular, donde Dr representa el agotamiento de la raíz y Wr es la profundidad equivalente del agua. El agua disponible total (TAW – <em>Total Avaliable Water</em>) es la cantidad de agua retenida en la zona de raíces entre la capacidad de campo (límite superior) y el punto de marchitamiento permanente (límite inferior).</p>
 <div id="fig-c3-20" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
@@ -1261,10 +1235,8 @@ Figura&nbsp;3.24: Triángulo de clases texturales básicas de suelos según el t
 </figcaption>
 </figure>
 </div>
-<p>Manejo</p>
-<p>El modelo tiene la capacidad de incorporar las prácticas de manejo en la respuesta del rendimiento de los cultivos, incluyendo el riego y manejo de campo. Las opciones de manejo de riego incluyen la selección de métodos de aplicación de agua y la definición de programas de riego. Las opciones de manejo de campo incluyen la fertilización del suelo, la cobertura del suelo para evitar la evaporación y el uso de protecciones para controlar el escurrimiento superficial. Este tipo de características serán incluidas en la modelación en la medida en que la información necesaria esté disponible.</p>
-<p>La dinámica de la respuesta de los cultivos al estrés hídrico o térmico</p>
-<p>Las condiciones de estrés hídrico o térmico son representadas por un coeficiente de estrés ( <span class="math inline">\(Ks\)</span> ) y un umbral para los indicadores de estrés. <span class="math inline">\(Ks\)</span> es un modificador que cuantifica la intensidad del efecto que produce el estrés hídrico en los procesos de crecimiento específicos para un cultivo y etapa de crecimiento. Como se observa en la <a href="#fig-c3-25" class="quarto-xref">Figura&nbsp;<span>3.25</span></a>, los valores de <span class="math inline">\(Ks\)</span> varían entre 0 (estrés total) y 1 (sin estrés), siguiendo una función lineal o convexa (el grado de curvatura se establece durante la calibración del modelo). Los umbrales para el estrés hídrico están relacionados con el agotamiento del agua u oxígeno del suelo, mientras que los umbrales asociados al estrés por temperatura del aire están relacionados con los grados de crecimiento.</p>
+<p><strong>Manejo</strong>. El modelo tiene la capacidad de incorporar las prácticas de manejo en la respuesta del rendimiento de los cultivos, incluyendo el riego y manejo de campo. Las opciones de manejo de riego incluyen la selección de métodos de aplicación de agua y la definición de programas de riego. Las opciones de manejo de campo incluyen la fertilización del suelo, la cobertura del suelo para evitar la evaporación y el uso de protecciones para controlar el escurrimiento superficial. Este tipo de características serán incluidas en la modelación en la medida en que la información necesaria esté disponible.</p>
+<p><strong>La dinámica de la respuesta de los cultivos al estrés hídrico o térmico</strong>. Las condiciones de estrés hídrico o térmico son representadas por un coeficiente de estrés ( <span class="math inline">\(Ks\)</span> ) y un umbral para los indicadores de estrés. <span class="math inline">\(Ks\)</span> es un modificador que cuantifica la intensidad del efecto que produce el estrés hídrico en los procesos de crecimiento específicos para un cultivo y etapa de crecimiento. Como se observa en la <a href="#fig-c3-25" class="quarto-xref">Figura&nbsp;<span>3.25</span></a>, los valores de <span class="math inline">\(Ks\)</span> varían entre 0 (estrés total) y 1 (sin estrés), siguiendo una función lineal o convexa (el grado de curvatura se establece durante la calibración del modelo). Los umbrales para el estrés hídrico están relacionados con el agotamiento del agua u oxígeno del suelo, mientras que los umbrales asociados al estrés por temperatura del aire están relacionados con los grados de crecimiento.</p>
 <div id="fig-c3-25" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-c3-25-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -1310,41 +1282,14 @@ Figura&nbsp;3.28: Representación esquemática de la expansión de la cobertura 
 </figure>
 </div>
 <p><em>Transpiración</em>: se calcula la potencia de evaporación de la atmósfera considerando un coeficiente de cultivo <span class="math inline">\(Kcb\)</span> y el coeficiente de estrés hídrico <span class="math inline">\(Ks\)</span> , como se muestra en la ecuación 6. La evapotranspiración potencial ( <span class="math inline">\(ETo\)</span> ) se calcula usando la ecuación de Penman-Monteith de FAO <a href="#ref-32">[32]</a>.</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(6)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[Tr = K_s (K_{cb}\ CC^*) ET_0 \tag{6}\]</span></p>
 <p>El coeficiente de transpiración del cultivo <span class="math inline">\(Kcb\)</span> es un parámetro que debe ser ajustado continuamente en función de la cobertura vegetal simulada, con el fin de considerar los efectos de envejecimiento y senescencia. El coeficiente de estrés hídrico <span class="math inline">\(Ks\)</span> , utilizado en caso de escasez de agua es un coeficiente de estrés por cierre estomático <span class="math inline">\(Ks, sto\)</span> , también con valores entre 1 (sin estrés) y 0 (total estrés).</p>
 <p><em>Biomasa arriba de la superficie</em>: La relación entre la biomasa producida y el agua consumida por un cultivo específico se conoce es la productividad del agua (WP), la cual tiende a ser lineal para una condición climática dada, como se muestra en la ecuación 7. Para incluir condiciones climáticas alteradas, se emplea la productividad del agua normalizada <span class="math inline">\(WP*\)</span> * en la simulación del desarrollo de biomasa sobre el suelo. Utilizando el parámetro normalizado, el modelo puede aplicarse a diferentes regiones y estaciones. La normalización se realiza para la concentración atmosférica de <span class="math inline">\(CO2\)</span> y la demanda evaporativa de la atmósfera <a href="#ref-45">[45]</a>.</p>
 <p>La producción de biomasa arriba de la superficie se calcula, para un paso de tiempo diario, de la siguiente manera:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(7)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[B = K_{sb} WP^* \cdot \sum \frac{Tr_i}{ET_{0i}} \tag{7}\]</span></p>
 <p>en donde la productividad del agua normalizada <span class="math inline">\(WP*\)</span> se multiplica por la relación entre la transpiración del cultivo y la evapotranspiración de referencia del día de cálculo <span class="math inline">\(TriEToi\)</span> (expresión que se agrega durante todo el periodo de desarrollo del cultivo), y por el coeficiente de estrés por temperatura <span class="math inline">\(Ksb\)</span> . Este coeficiente decrece a medida que la temperatura disminuye, y alcanza un valor de cero cuando hace demasiado frío y se detiene el crecimiento vegetal.</p>
 <p><em>Rendimiento</em>: Como se mencionó anteriormente, el rendimiento se calcula de multiplicar la biomasa sobre el suelo por un índice de cosecha, que depende del tipo de cultivo. Para considerar el estrés hídrico, debe ajustarse el índice de cosecha de su valor de referencia <span class="math inline">\(HIo\)</span> en condiciones óptimas, a su valor en condiciones reales, mediante la inclusión del factor <span class="math inline">\(fHI\)</span> :</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(8)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[Y = f_{HI} \cdot HI_0 \cdot B \tag{8}\]</span></p>
 <p>El índice de cosecha puede ajustarse al déficit hídrico y a las variaciones de la temperatura del aire, y depende de la etapa del cultivo y la intensidad del estrés durante la temporada de crecimiento.</p>
 </section>
 <section id="enfoque-probabilista-en-la-evaluación-del-riesgo" class="level3">
@@ -1354,7 +1299,7 @@ Figura&nbsp;3.28: Representación esquemática de la expansión de la cobertura 
 <div id="fig-c3-29" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-c3-29-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/capitulo_3/img_f8b6146f.png" class="img-fluid figure-img">
+<img src="images/capitulo_3/Figura 29.jpg" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-c3-29-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figura&nbsp;3.29: Pérdidas por evento en una ventana amplia de tiempo (Elaboración propia).
@@ -1362,32 +1307,14 @@ Figura&nbsp;3.29: Pérdidas por evento en una ventana amplia de tiempo (Elaborac
 </figure>
 </div>
 <p>La tasa de excedencia poblacional ( <span class="math inline">\(λ\)</span> ) es estimada mediante la tasa de excedencia empírica ( <span class="math inline">\(Λ\)</span> ) de la siguiente manera:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(9)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[\Lambda = \frac{n-1}{\sum_{i=1}^{n} T_i} \tag{9}\]</span></p>
 <p>En donde <em>n</em> es el número de eventos que superan la pérdida <span class="math inline">\(p\)</span> y <span class="math inline">\(Ti\)</span> son los tiempos observados. Este estimador cumple con los cuatro criterios estadísticos de calidad de la estimación de parámetros de distribuciones de probabilidad: es no sesgado, de varianza mínima, consistente y suficiente. Ahora bien, es posible demostrar que el estimador <span class="math inline">\(Λ\)</span> sigue una distribución de probabilidad <em>Gamma inversa</em> con parámetros <em>n</em> y (<em>n</em>-1) <span class="math inline">\(λ\)</span> , a partir de lo cual se puede determinar su coeficiente de variación (CV) como:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(10)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[CV = \frac{1}{\sqrt{n-2}} \tag{10}\]</span></p>
 <p>El coeficiente de variación indica la relación entre la desviación estándar y la media de una variable aleatoria. Como se indica en la Ecuación 7, CV disminuye a medida que el número de datos (<em>n</em>) aumenta. La Ecuación 7 es una fórmula estándar, aplicable a cualquier problema de estimación del riesgo por eventos, en donde el CV de la tasa de excedencia varía con el tamaño de la muestra cómo se indica en la <a href="#fig-c3-30" class="quarto-xref">Figura&nbsp;<span>3.30</span></a>.</p>
 <div id="fig-c3-30" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-c3-30-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/capitulo_3/img_23c36048.png" class="img-fluid figure-img">
+<img src="images/capitulo_3/Figura 30.png" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-c3-30-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figura&nbsp;3.30: Variación del coeficiente de variación de la tasa de excedencia con el tamaño de la muestra (Elaboración propia).
@@ -1395,34 +1322,15 @@ Figura&nbsp;3.30: Variación del coeficiente de variación de la tasa de exceden
 </figure>
 </div>
 <p>El CV crece rápidamente a medida que <em>n</em> disminuye. Esto quiere decir que, al estimar la tasa de excedencia de pérdidas grandes (eventos catastróficos) a partir de pocos eventos modelados, para los cuales se contará con un valor pequeño de <em>n</em> (es decir, pocos eventos que exceden esa pérdida dentro del conjunto de escenarios de sequía), la dispersión de la estimación (i.e.&nbsp;su desviación estándar) es muy grande en comparación a la estimación misma, lo cual implica una mayor incertidumbre. Por el contrario, al estimar la tasa de excedencia de pérdidas con un mayor número de eventos modelados, <em>n</em> será necesariamente un número más grande y, en consecuencia, la dispersión de la tasa disminuye a valores incluso despreciables en la práctica. Esto es por lo que, para que el resultado sea estadísticamente suficiente se debe hacer uso de un gran número de años simulados dentro de los cuales se pueda identificar un número considerable de eventos de sequía.</p>
-<p>Curva de excedencia de pérdidas</p>
-<p>Es así como el riesgo se define por medio de la curva de excedencia de pérdidas (ver <a href="#fig-c3-31" class="quarto-xref">Figura&nbsp;<span>3.31</span></a>), la cual establece el número de veces en un año en las que un valor de pérdida se verá excedido. Esta cantidad se conoce como la <em>tasa anual de excedencia</em>, la cual es un valor único y específico para cada cuantía de pérdida, e incorpora el aporte de todos los posibles escenarios contenidos en la evaluación de la amenaza. Como se mencionó anteriormente, la tasa de excedencia es igual al parámetro <span class="math inline">\(λ\)</span> que define la ocurrencia en el tiempo de los eventos de pérdida, es decir:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(11)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><strong>Curva de excedencia de pérdidas</strong>. Es así como el riesgo se define por medio de la curva de excedencia de pérdidas (ver <a href="#fig-c3-31" class="quarto-xref">Figura&nbsp;<span>3.31</span></a>), la cual establece el número de veces en un año en las que un valor de pérdida se verá excedido. Esta cantidad se conoce como la <em>tasa anual de excedencia</em>, la cual es un valor único y específico para cada cuantía de pérdida, e incorpora el aporte de todos los posibles escenarios contenidos en la evaluación de la amenaza. Como se mencionó anteriormente, la tasa de excedencia es igual al parámetro <span class="math inline">\(λ\)</span> que define la ocurrencia en el tiempo de los eventos de pérdida, es decir:</p>
+<p><span class="math display">\[v(p) = \frac{n_p - 1}{\sum_{i=1}^{n_p} T_i} \tag{11}\]</span></p>
 <p>en donde <span class="math inline">\(p\)</span> es la pérdida económica, <span class="math inline">\(νp\)</span> es su tasa anual de excedencia, <span class="math inline">\(np\)</span> es el número total de eventos en los cuales se supera <span class="math inline">\(p\)</span> y <span class="math inline">\(Ti\)</span> es el tiempo <span class="math inline">\(i\)</span> entre eventos que superan <span class="math inline">\(p\)</span> . El periodo de retorno <span class="math inline">\(Tr(p)\)</span> se calcula como el inverso de la tasa de excedencia <span class="math inline">\(νp\)</span> .</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(12)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[Tr = \frac{1}{v(p)} \tag{12}\]</span></p>
 <p>El periodo de retorno es el valor esperado del tiempo entre eventos. Es decir, corresponde al periodo de tiempo promedio para el cual, considerando una ventana temporal de observación suficientemente amplia, se verá igualada o excedida una pérdida dada, y se muestra en el eje vertical de la derecha de la curva ejemplo mostrada en la <a href="#fig-c3-31" class="quarto-xref">Figura&nbsp;<span>3.31</span></a>.</p>
 <div id="fig-c3-31" class="quarto-float quarto-figure quarto-figure-center anchored">
 <figure class="quarto-float quarto-float-fig figure">
 <div aria-describedby="fig-c3-31-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/capitulo_3/img_7c78a57b.png" class="img-fluid figure-img">
+<img src="images/capitulo_3/Figura 31.jpg" class="img-fluid figure-img">
 </div>
 <figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-c3-31-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figura&nbsp;3.31: Ejemplo de curva de excedencia de pérdidas. El eje vertical muestra la tasa de excedencia (izquierda) y su valor inverso o periodo de retorno (derecha). El eje horizontal muestra la pérdida asociada (Elaboración propia).
@@ -1431,16 +1339,7 @@ Figura&nbsp;3.31: Ejemplo de curva de excedencia de pérdidas. El eje vertical m
 </div>
 <p>El cálculo de la Ecuación (11 corresponde a la estimación de la tasa de excedencia de las cuantías de pérdida que ocurren en todos los activos expuestos (unidades de tierra cultivada) para todos los eventos potencialmente nocivos incluidos en el modelo de amenaza (el conjunto de escenarios estocásticos previamente identificados). La pérdida para un evento se determina mediante la suma de las pérdidas causadas en las unidades individuales cultivadas.</p>
 <p>Para la evaluación del riesgo de sequía, la pérdida <span class="math inline">\(p\)</span> en la Ecuación (11 se debe a la reducción en los ingresos de producción (lucro cesante) de cultivos debido a la reducción en el rendimiento de cada unidad de tierra cultivada, en donde se conocen el tipo de suelo, tipo de cultivo, su estacionalidad y su valor económico de reposición. La pérdida económica en una unidad cultivada, para un escenario específico, se calcula como:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th></th>
-<th>(13)</th>
-</tr>
-</thead>
-<tbody>
-</tbody>
-</table>
+<p><span class="math display">\[P_i = A \cdot PV \cdot (Y_x - Y_i) \tag{13}\]</span></p>
 <p>en donde <span class="math inline">\(Pi\)</span> es la pérdida económica para el escenario <span class="math inline">\(i\)</span> , <span class="math inline">\(A\)</span> es el área de la unidad de tierra cultivada, <span class="math inline">\(PV\)</span> es la valoración económica del cultivo, <span class="math inline">\(Yx\)</span> es el rendimiento máximo (calculado bajo condiciones óptimas) y <span class="math inline">\(Yi\)</span> es el rendimiento para el escenario <span class="math inline">\(i\)</span> bajo condiciones de déficit hídrico.</p>
 </section>
 </section>
@@ -1450,240 +1349,238 @@ Figura&nbsp;3.31: Ejemplo de curva de excedencia de pérdidas. El eje vertical m
 </section>
 <section id="identificación-del-autor" class="level2">
 <h2 class="anchored" data-anchor-id="identificación-del-autor">3.11 IDENTIFICACIÓN DEL AUTOR</h2>
-<p>Omar Darío Cardona</p>
-<p>Gabriel Bernal</p>
-<p>María Alejandra Escovar https://scholar.google.com/citations?hl=en&amp;user=Ac5JYNoAAAAJ</p>
+<p>Omar Darío Cardona &nbsp;&nbsp;<a href="https://orcid.org/0000-0001-8233-5450">https://orcid.org/0000-0001-8233-5450</a></p>
+<p>Gabriel Bernal &nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=wYtazboAAAAJ">https://scholar.google.com/citations?user=wYtazboAAAAJ</a></p>
+<p>María Alejandra Escovar &nbsp;&nbsp;<a href="https://scholar.google.com/citations?hl=en&amp;user=Ac5JYNoAAAAJ">https://scholar.google.com/citations?hl=en&amp;user=Ac5JYNoAAAAJ</a></p>
 </section>
 <section id="bibliográfia" class="level2">
 <h2 class="anchored" data-anchor-id="bibliográfia">3.12 BIBLIOGRÁFIA</h2>
 <div id="ref-1">
 <ol type="1">
-<li>Wilhite, D. A. (1993). The Enigma of Drought. En: D. A. Wilhite (ed.), <em>Drought Assessment, Management, and Planning: Theory and Case Studies</em>. Boston, MA: Springer US; pp.&nbsp;3-15. https://doi.org/10.1007/978-1-4615-3224-8_1
+<li><p>Wilhite, D. A. (1993). The Enigma of Drought. En: D. A. Wilhite (ed.), <em>Drought Assessment, Management, and Planning: Theory and Case Studies</em>. Boston, MA: Springer US; pp.&nbsp;3-15. https://doi.org/10.1007/978-1-4615-3224-8_1</p>
 </li></ol></div>
 
 <div id="ref-2">
 <ol start="2" type="1">
-<li>UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres), Ingeniar Risk Intelligence. (2018). <em>Atlas de Riesgo de Colombia: revelando desastres latentes</em>. Bogotá. 264 p.
+<li><p>UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres), Ingeniar Risk Intelligence. (2018). <em>Atlas de Riesgo de Colombia: revelando desastres latentes</em>. Bogotá. 264 p.</p>
 </li></ol></div>
 
 <div id="ref-3">
 <ol start="3" type="1">
-<li>Mckee, T. B., Doesken, N. J. &amp; Kleist, J. (1993, January). <em>The relationship of drought frequency and duration to time scales</em>. AMS 8th Conference on Applied Climatology. Anaheim, California.
+<li><p>Mckee, T. B., Doesken, N. J. &amp; Kleist, J. (1993, January). <em>The relationship of drought frequency and duration to time scales</em>. AMS 8th Conference on Applied Climatology. Anaheim, California.</p>
 </li></ol></div>
 
 <div id="ref-4">
 <ol start="4" type="1">
-<li>IDEAM. (2019). <em>Estudio Nacional del Agua 2018</em>. Bogota. 452 p.
+<li><p>IDEAM. (2019). <em>Estudio Nacional del Agua 2018</em>. Bogota. 452 p.</p>
 </li></ol></div>
 
 <div id="ref-5">
 <ol start="5" type="1">
-<li>UNGRD - (Unidad Nacional para la Gestión del Riesgo de Desastres). (2016). <em>Fenómeno El Niño: Análisis comparativo 1997-1998/2014-2016</em>. Bogotá.142 p.
+<li><p>UNGRD - (Unidad Nacional para la Gestión del Riesgo de Desastres). (2016). <em>Fenómeno El Niño: Análisis comparativo 1997-1998/2014-2016</em>. Bogotá.142 p.</p>
 </li></ol></div>
 
 <div id="ref-6">
 <ol start="6" type="1">
-<li>Melo, S., Riveros, L., Romero, G., Álvarez, A., Diaz, C. &amp; Calderon, S. (2017). <em>Efectos Económicos de Futuras Sequías en Colombia: Estimación a partir del Fenómeno El Niño 2015</em>. Bogotá.
+<li><p>Melo, S., Riveros, L., Romero, G., Álvarez, A., Diaz, C. &amp; Calderon, S. (2017). <em>Efectos Económicos de Futuras Sequías en Colombia: Estimación a partir del Fenómeno El Niño 2015</em>. Bogotá.</p>
 </li></ol></div>
 
 <div id="ref-7">
 <ol start="7" type="1">
-<li>Salgado-Gálvez, M.A., Bernal, G.A., Zuloaga, D., Marulanda, M. C., Cardona, O-D. &amp; Henao, S. (2017). Probabilistic Seismic Risk Assessment in Manizales, Colombia: Quantifying Losses for Insurance Purposes. <em>International Journal of Disaster Risk Science</em>, 8, 296–307. https://doi.org/10.1007/s13753-017-0137-6
+<li><p>Salgado-Gálvez, M.A., Bernal, G.A., Zuloaga, D., Marulanda, M. C., Cardona, O-D. &amp; Henao, S. (2017). Probabilistic Seismic Risk Assessment in Manizales, Colombia: Quantifying Losses for Insurance Purposes. <em>International Journal of Disaster Risk Science</em>, 8, 296–307. https://doi.org/10.1007/s13753-017-0137-6</p>
 </li></ol></div>
 
 <div id="ref-8">
 <ol start="8" type="1">
-<li>Bernal GA, Salgado-Gálvez MA, Zuloaga D, Tristancho J, González D, Cardona O-D. (2017). Integration of Probabilistic and Multi-Hazard Risk Assessment Within Urban Development Planning and Emergency Preparedness and Response: Application to Manizales, Colombia. <em>International Journal of Disaster Risk Science, </em>8(3), 270-83. https://doi.org/10.1007/s13753-017-0135-8
+<li><p>Bernal GA, Salgado-Gálvez MA, Zuloaga D, Tristancho J, González D, Cardona O-D. (2017). Integration of Probabilistic and Multi-Hazard Risk Assessment Within Urban Development Planning and Emergency Preparedness and Response: Application to Manizales, Colombia. <em>International Journal of Disaster Risk Science,</em> 8(3), 270-83. https://doi.org/10.1007/s13753-017-0135-8</p>
 </li></ol></div>
 
 <div id="ref-9">
 <ol start="9" type="1">
-<li>Cardona, O-D., Ordaz, M. G., Mora, M. G., Salgado-Gálvez, M. A, Bernal, G. A., Zuloaga-Romero, D, et&nbsp;al.&nbsp;(2014). Global risk assessment: A fully probabilistic seismic and tropical cyclone wind risk assessment. <em>International Journal of Disaster Risk Reduction</em>, 10, Part B, 461-76. https://doi.org/10.1016/j.ijdrr.2014.05.006
+<li><p>Cardona, O-D., Ordaz, M. G., Mora, M. G., Salgado-Gálvez, M. A, Bernal, G. A., Zuloaga-Romero, D, et&nbsp;al.&nbsp;(2014). Global risk assessment: A fully probabilistic seismic and tropical cyclone wind risk assessment. <em>International Journal of Disaster Risk Reduction</em>, 10, Part B, 461-76. https://doi.org/10.1016/j.ijdrr.2014.05.006</p>
 </li></ol></div>
 
 <div id="ref-10">
 <ol start="10" type="1">
-<li>Salgado-Gálvez MA, Cardona OD, Carreño M, Barbat A. (2015). Probabilistic seismic hazard and risk assessment in Spain. En A. H. Barbat (Ed). <em>Monograph Series in Earthquake Engineering</em>. https://www.scipedia.com/public/Salgado-Galvez_et_al_2015a
+<li><p>Salgado-Gálvez MA, Cardona OD, Carreño M, Barbat A. (2015). Probabilistic seismic hazard and risk assessment in Spain. En A. H. Barbat (Ed). <em>Monograph Series in Earthquake Engineering</em>. https://www.scipedia.com/public/Salgado-Galvez_et_al_2015a</p>
 </li></ol></div>
 
 <div id="ref-11">
 <ol start="11" type="1">
-<li>Torres, M. A., Jaimes, M. A., Reinoso, E. &amp; Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. <em>International Journal of River Basin Management, </em>12(4), 377-89. https://doi.org/10.1080/15715124.2013.847844
+<li><p>Torres, M. A., Jaimes, M. A., Reinoso, E. &amp; Ordaz, M. (2014). Event-based approach for probabilistic flood risk assessment. <em>International Journal of River Basin Management,</em> 12(4), 377-89. https://doi.org/10.1080/15715124.2013.847844</p>
 </li></ol></div>
 
 <div id="ref-12">
 <ol start="12" type="1">
-<li>Jenkins, S., Magill, C., McAneney. J. &amp; Blong, R. (2012). Regional ash fall hazard I: a probabilistic assessment methodology. <em>Bulletin of Volcanology</em>, 74(7), 1699-712. https://doi.org/10.1007/s00445-012-0627-8
+<li><p>Jenkins, S., Magill, C., McAneney. J. &amp; Blong, R. (2012). Regional ash fall hazard I: a probabilistic assessment methodology. <em>Bulletin of Volcanology</em>, 74(7), 1699-712. https://doi.org/10.1007/s00445-012-0627-8</p>
 </li></ol></div>
 
 <div id="ref-13">
 <ol start="13" type="1">
-<li>Quijano, J. A., Jaimes, M. A , Torres, M. A., Reinoso, E., Castellanos, L., Escamilla, J., et&nbsp;al.&nbsp;(2015). Event-based approach for probabilistic agricultural drought risk assessment under rainfed conditions. <em>Natural Hazards</em>, 76(2), 1297-318. https://doi.org/10.1007/s11069-014-1550-4
+<li><p>Quijano, J. A., Jaimes, M. A , Torres, M. A., Reinoso, E., Castellanos, L., Escamilla, J., et&nbsp;al.&nbsp;(2015). Event-based approach for probabilistic agricultural drought risk assessment under rainfed conditions. <em>Natural Hazards</em>, 76(2), 1297-318. https://doi.org/10.1007/s11069-014-1550-4</p>
 </li></ol></div>
 
 <div id="ref-14">
 <ol start="14" type="1">
-<li>Bernal, G. A., Escovar, M. A., Zuloaga, D., &amp; Cardona, O. D. (2017). Agricultural Drought Risk Assessment in Northern Brazil: An Innovative Fully Probabilistic Approach. En V. Marchezini, B. Wiesner, S. Saito, L. Londe (Eds.), <em>Reduction of Vulnerability to Disasters: from Knowledge to Action</em>. RiMa Edito, pp.&nbsp;331-56.
+<li><p>Bernal, G. A., Escovar, M. A., Zuloaga, D., &amp; Cardona, O. D. (2017). Agricultural Drought Risk Assessment in Northern Brazil: An Innovative Fully Probabilistic Approach. En V. Marchezini, B. Wiesner, S. Saito, L. Londe (Eds.), <em>Reduction of Vulnerability to Disasters: from Knowledge to Action</em>. RiMa Edito, pp.&nbsp;331-56.</p>
 </li></ol></div>
 
 <div id="ref-15">
 <ol start="15" type="1">
-<li>Steduto, P., Hsiao, T. C., Fereres, E. &amp; Raes, D. (2012). <em>Crop yield response to water.</em> FAO Irrigation and Drainage Paper 66, pp 174-180.
+<li><p>Steduto, P., Hsiao, T. C., Fereres, E. &amp; Raes, D. (2012). <em>Crop yield response to water.</em> FAO Irrigation and Drainage Paper 66, pp 174-180.</p>
 </li></ol></div>
 
 <div id="ref-16">
 <ol start="16" type="1">
-<li>UNISDR (United Nations International Strategy for Disaster Reduction). (2009). <em>Terminología sobre Reducción del Riesgo de Desastres.</em> Estrategia Internacional para la Reducción Desastres de las Naciones Unidas, 43 p.
+<li><p>UNISDR (United Nations International Strategy for Disaster Reduction). (2009). <em>Terminología sobre Reducción del Riesgo de Desastres.</em> Estrategia Internacional para la Reducción Desastres de las Naciones Unidas, 43 p.</p>
 </li></ol></div>
 
 <div id="ref-17">
 <ol start="17" type="1">
-<li>Funk, C., Peterson, P., Landsfeld, M., Pedreros, D., Verdin, J., Shukla, S., et&nbsp;al.&nbsp;(2015) The climate hazards infrared precipitation with stations - A new environmental record for monitoring extremes. <em>Scientific Data</em>, <em>2</em>, 150066, 1-21. https://doi.org/10.1038/sdata.2015.66
+<li><p>Funk, C., Peterson, P., Landsfeld, M., Pedreros, D., Verdin, J., Shukla, S., et&nbsp;al.&nbsp;(2015) The climate hazards infrared precipitation with stations - A new environmental record for monitoring extremes. <em>Scientific Data</em>, <em>2</em>, 150066, 1-21. https://doi.org/10.1038/sdata.2015.66</p>
 </li></ol></div>
 
 <div id="ref-18">
 <ol start="18" type="1">
-<li>Sheffield, J., Goteti. G. &amp; Wood, E. F. (2006) Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling.* Journal of Climate, 19*(13), 3088-111. https://doi.org/10.1175/JCLI3790.1
+<li><p>Sheffield, J., Goteti. G. &amp; Wood, E. F. (2006) Development of a 50-year high-resolution global dataset of meteorological forcings for land surface modeling.* Journal of Climate, 19*(13), 3088-111. https://doi.org/10.1175/JCLI3790.1</p>
 </li></ol></div>
 
 <div id="ref-19">
 <ol start="19" type="1">
-<li>Copernicus Climate Change Service. (2017). <em>ERA5: Fifth generation of ECMWF atmospheric reanalyses of the global climate.</em> Copernicus Climate Change Service Climate Data Store (CDS). https://cds.climate.copernicus.eu/cdsapp#!/home
+<li><p>Copernicus Climate Change Service. (2017). <em>ERA5: Fifth generation of ECMWF atmospheric reanalyses of the global climate.</em> Copernicus Climate Change Service Climate Data Store (CDS). https://cds.climate.copernicus.eu/cdsapp#!/home</p>
 </li></ol></div>
 
 <div id="ref-20">
 <ol start="20" type="1">
-<li>Urrea, V., Ochoa, A. &amp; Mesa, O. (2017). V<em>alidación de la base de datos de precipitación CHIRPS para Colombia a escala diaria, mensual y anual en el periodo 1981-2014.</em> Universidad Nacional de Colombia Sede Medellín.
+<li><p>Urrea, V., Ochoa, A. &amp; Mesa, O. (2017). V<em>alidación de la base de datos de precipitación CHIRPS para Colombia a escala diaria, mensual y anual en el periodo 1981-2014.</em> Universidad Nacional de Colombia Sede Medellín.</p>
 </li></ol></div>
 
 <div id="ref-21">
 <ol start="21" type="1">
-<li>Verdin, A, Rajagopalan, B., Kleiber, W. &amp; Funk. C. (2015). A Bayesian kriging approach for blending satellite and ground precipitation observations. <em>Water Resources Ressearch, 51</em>(2), 908-21. https://doi.org/10.1002/2014WR015963
+<li><p>Verdin, A, Rajagopalan, B., Kleiber, W. &amp; Funk. C. (2015). A Bayesian kriging approach for blending satellite and ground precipitation observations. <em>Water Resources Ressearch, 51</em>(2), 908-21. https://doi.org/10.1002/2014WR015963</p>
 </li></ol></div>
 
 <div id="ref-22">
 <ol start="22" type="1">
-<li>IPCC (Intergovernmental Panel on Climate Change). (2013). <em>Climate Change 2013 - The Physical Science Basis</em>. Cambridge: Cambridge University Press; 1535 p.
+<li><p>IPCC (Intergovernmental Panel on Climate Change). (2013). <em>Climate Change 2013 - The Physical Science Basis</em>. Cambridge: Cambridge University Press; 1535 p.</p>
 </li></ol></div>
 
 <div id="ref-23">
 <ol start="23" type="1">
-<li>Mishra, A. K. &amp; Singh, V. P. (2010). A review of drought concepts. <em>Journal of Hydrology, 391</em>,1-2, 202-16. https://doi.org/10.1016/j.jhydrol.2010.07.012
+<li><p>Mishra, A. K. &amp; Singh, V. P. (2010). A review of drought concepts. <em>Journal of Hydrology, 391</em>,1-2, 202-16. https://doi.org/10.1016/j.jhydrol.2010.07.012</p>
 </li></ol></div>
 
 <div id="ref-24">
 <ol start="24" type="1">
-<li>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). <em>Coberturas Nacionales. Mapas de coberturas de la tierra. Ecosistemas. Monitoreo de suelos y coberturas de la tierra</em>. http://www.ideam.gov.co/web/ecosistemas/coberturas-nacionales
+<li><p>IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales). (2020). <em>Coberturas Nacionales. Mapas de coberturas de la tierra. Ecosistemas. Monitoreo de suelos y coberturas de la tierra</em>. http://www.ideam.gov.co/web/ecosistemas/coberturas-nacionales</p>
 </li></ol></div>
 
 <div id="ref-25">
 <ol start="25" type="1">
-<li>DANE (Departamento Administrativo Nacional de Estadística). (2016). <em>III Censo Nacional Agropecuario 2014.</em> Tomo 2, Resultados.
+<li><p>DANE (Departamento Administrativo Nacional de Estadística). (2016). <em>III Censo Nacional Agropecuario 2014.</em> Tomo 2, Resultados.</p>
 </li></ol></div>
 
 <div id="ref-26">
 <ol start="26" type="1">
-<li>DANE (Departamento Administrativo Nacional de Estadística). (2019). <em>Encuesta Nacional Agropecuaria - ENA 2017</em>. Bogotá, pp.&nbsp;1-31.
+<li><p>DANE (Departamento Administrativo Nacional de Estadística). (2019). <em>Encuesta Nacional Agropecuaria - ENA 2017</em>. Bogotá, pp.&nbsp;1-31.</p>
 </li></ol></div>
 
 <div id="ref-27">
 <ol start="27" type="1">
-<li>MADR (Ministerio de Agricultura y Desarrollo Rural). (2016). <em>Producción nacional por producto</em>. Evaluaciones Agropecuarias del Ministerio de Agricultura y Desarrollo Rural. Agronet.
+<li><p>MADR (Ministerio de Agricultura y Desarrollo Rural). (2016). <em>Producción nacional por producto</em>. Evaluaciones Agropecuarias del Ministerio de Agricultura y Desarrollo Rural. Agronet.</p>
 </li></ol></div>
 
 <div id="ref-28">
 <ol start="28" type="1">
-<li>FAO/IIASA/ISRIC/ISSCAS/JRC. <em>Harmonized World Soil Database (version 1.2)</em>. (2012). FAO, Rome, Italy and IIASA, Laxenburg, Austria.
+<li><p>FAO/IIASA/ISRIC/ISSCAS/JRC. <em>Harmonized World Soil Database (version 1.2)</em>. (2012). FAO, Rome, Italy and IIASA, Laxenburg, Austria.</p>
 </li></ol></div>
 
 <div id="ref-29">
 <ol start="29" type="1">
-<li>FAO (Food and Agriculture Organization of the United Nations) (2018). <em>The impact of disasters and crises on agriculture and food security</em>. 168 p.
+<li><p>FAO (Food and Agriculture Organization of the United Nations) (2018). <em>The impact of disasters and crises on agriculture and food security</em>. 168 p.</p>
 </li></ol></div>
 
 <div id="ref-30">
 <ol start="30" type="1">
-<li>Banimahd, S. A. &amp; Khalili, D. (2013). Factors Influencing Markov Chains Predictability Characteristics, Utilizing SPI, RDI, EDI and SPEI Drought Indices in Different Climatic Zones. <em>Water Resources Management, 27</em>(11), 3911-28. https://doi.org/10.1007/s11269-013-0387-z
+<li><p>Banimahd, S. A. &amp; Khalili, D. (2013). Factors Influencing Markov Chains Predictability Characteristics, Utilizing SPI, RDI, EDI and SPEI Drought Indices in Different Climatic Zones. <em>Water Resources Management, 27</em>(11), 3911-28. https://doi.org/10.1007/s11269-013-0387-z</p>
 </li></ol></div>
 
 <div id="ref-31">
 <ol start="31" type="1">
-<li>Wilks, D. S. (2006). <em>Statistical methods in the atmospheric sciences</em>. International Geophysics Series. 464 p.
+<li><p>Wilks, D. S. (2006). <em>Statistical methods in the atmospheric sciences</em>. International Geophysics Series. 464 p.</p>
 </li></ol></div>
 
 <div id="ref-32">
 <ol start="32" type="1">
-<li>Allen, R. G., Pereira, L. S., Raes, D. &amp; Smith, M. (1998). Crop evapotranspiration: Guidelines for computing crop requirements. <em>Irrigation and Drainage Paper No 56</em>, FAO. 300 p.
+<li><p>Allen, R. G., Pereira, L. S., Raes, D. &amp; Smith, M. (1998). Crop evapotranspiration: Guidelines for computing crop requirements. <em>Irrigation and Drainage Paper No 56</em>, FAO. 300 p.</p>
 </li></ol></div>
 
 <div id="ref-33">
 <ol start="33" type="1">
-<li>Raes, D. (2009). <em>The ETo Calculator Reference Manual.</em> Food and Agricultural Organization of the United Nations (FAO), Rome, pp 1-38.
+<li><p>Raes, D. (2009). <em>The ETo Calculator Reference Manual.</em> Food and Agricultural Organization of the United Nations (FAO), Rome, pp 1-38.</p>
 </li></ol></div>
 
 <div id="ref-34">
 <ol start="34" type="1">
-<li>Wilhite, D. A. &amp; Glantz, M. H. (1985). Understanding the Drought Phenomenon: The Role of Definitions. <em>Water International, 10</em>(3), 111-20. https://doi.org/10.1080/02508068508686328
+<li><p>Wilhite, D. A. &amp; Glantz, M. H. (1985). Understanding the Drought Phenomenon: The Role of Definitions. <em>Water International, 10</em>(3), 111-20. https://doi.org/10.1080/02508068508686328</p>
 </li></ol></div>
 
 <div id="ref-35">
 <ol start="35" type="1">
-<li>Jayanthi, H. Assessing the agricultural drought risks for principal rainfed crops due to changing climate scenarios using satellite estimated rainfall in Africa. <em>Background Paper GAR Global Assessment Report on Disaster Risk Reduction. </em>28 p.
+<li><p>Jayanthi, H. Assessing the agricultural drought risks for principal rainfed crops due to changing climate scenarios using satellite estimated rainfall in Africa. <em>Background Paper GAR Global Assessment Report on Disaster Risk Reduction.</em> 28 p.</p>
 </li></ol></div>
 
 <div id="ref-36">
 <ol start="36" type="1">
-<li>Palmer W. C. (1965).* Meteorological Drought.* U.S. Weather Bureau, Research Paper No.&nbsp;45. 58 p.
+<li><p>Palmer W. C. (1965).* Meteorological Drought.* U.S. Weather Bureau, Research Paper No.&nbsp;45. 58 p.</p>
 </li></ol></div>
 
 <div id="ref-37">
 <ol start="37" type="1">
-<li>Mckee, T. B., Doesken, N. J. &amp; Kleist, J. (1993). The relationship of drought frequency and duration to time scales. <em>8th Conference Applied Climatology</em>, pp.&nbsp;179-84.
+<li><p>Mckee, T. B., Doesken, N. J. &amp; Kleist, J. (1993). The relationship of drought frequency and duration to time scales. <em>8th Conference Applied Climatology</em>, pp.&nbsp;179-84.</p>
 </li></ol></div>
 
 <div id="ref-38">
 <ol start="38" type="1">
-<li>Byun, H. R. &amp; Wilhite, D. A. (1999). Objective quantification of drought severity and duration. <em>Journal of Climate, 12</em>(9):2747-56. https://doi.org/10.1175/1520-0442(1999)012&lt;2747:OQODSA&gt;2.0.CO;2
+<li><p>Byun, H. R. &amp; Wilhite, D. A. (1999). Objective quantification of drought severity and duration. <em>Journal of Climate, 12</em>(9):2747-56. https://doi.org/10.1175/1520-0442(1999)012&lt;2747:OQODSA&gt;2.0.CO;2</p>
 </li></ol></div>
 
 <div id="ref-39">
 <ol start="39" type="1">
-<li>Tsakiris, G., Pangalou, D. &amp; Vangelis, H. (2007). Regional drought assessment based on the Reconnaissance Drought Index (RDI). <em>Water Resour Managament, 21</em>(5), 821-33. https://doi.org/10.1007/s11269-006-9105-4
+<li><p>Tsakiris, G., Pangalou, D. &amp; Vangelis, H. (2007). Regional drought assessment based on the Reconnaissance Drought Index (RDI). <em>Water Resour Managament, 21</em>(5), 821-33. https://doi.org/10.1007/s11269-006-9105-4</p>
 </li></ol></div>
 
 <div id="ref-40">
 <ol start="40" type="1">
-<li>Vicente-Serrano, S. M., Beguería, S. &amp; López-Moreno, J. I. (2010). A multiscalar drought index sensitive to global warming: The standardized precipitation evapotranspiration index. *Journal of **Climate, 23*(7), 1696-718. https://doi.org/10.1175/2009JCLI2909.1
+<li><p>Vicente-Serrano, S. M., Beguería, S. &amp; López-Moreno, J. I. (2010). A multiscalar drought index sensitive to global warming: The standardized precipitation evapotranspiration index. *Journal of **Climate, 23*(7), 1696-718. https://doi.org/10.1175/2009JCLI2909.1</p>
 </li></ol></div>
 
 <div id="ref-41">
 <ol start="41" type="1">
-<li>Verdin, A., Funk, C., Rajagopalan, B. &amp; Kleiber, W. (2016). Kriging and local polynomial methods for blending satellite-derived and gauge precipitation estimates to support hydrologic early warning systems. <em>IEEE Transactions on Geoscience and Remote Sensing, 54</em>(5), 2552-62. https://doi.org/10.1109/TGRS.2015.2502956
+<li><p>Verdin, A., Funk, C., Rajagopalan, B. &amp; Kleiber, W. (2016). Kriging and local polynomial methods for blending satellite-derived and gauge precipitation estimates to support hydrologic early warning systems. <em>IEEE Transactions on Geoscience and Remote Sensing, 54</em>(5), 2552-62. https://doi.org/10.1109/TGRS.2015.2502956</p>
 </li></ol></div>
 
 <div id="ref-42">
 <ol start="42" type="1">
-<li>ArcGIS. (2020). C<em>ómo funcional el kriging. Conceptos del conjunto de herramientas de interpolación ráster</em>. https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-interpolation-analysis.htm
+<li><p>ArcGIS. (2020). C<em>ómo funcional el kriging. Conceptos del conjunto de herramientas de interpolación ráster</em>. https://desktop.arcgis.com/es/arcmap/10.3/tools/spatial-analyst-toolbox/understanding-interpolation-analysis.htm</p>
 </li></ol></div>
 
 <div id="ref-43">
 <ol start="43" type="1">
-<li>Li, J. &amp; Heap, A. D. (2008). A Review of Spatial Interpolation Methods for Environmental Scientists. <em>Geoscience Australia,</em> Record 2008/23, 137.
+<li><p>Li, J. &amp; Heap, A. D. (2008). A Review of Spatial Interpolation Methods for Environmental Scientists. <em>Geoscience Australia,</em> Record 2008/23, 137.</p>
 </li></ol></div>
 
 <div id="ref-44">
 <ol start="44" type="1">
-<li>Sheppard, J. &amp; Hoyle, F. (2018). <em>Water availability. Healthy Soils for Sustainable Farms programme</em>. Avon Catchment Council, Department of Agriculture and Food, Western Australia. http://soilquality.org.au/factsheets/water-availability
+<li><p>Sheppard, J. &amp; Hoyle, F. (2018). <em>Water availability. Healthy Soils for Sustainable Farms programme</em>. Avon Catchment Council, Department of Agriculture and Food, Western Australia. http://soilquality.org.au/factsheets/water-availability</p>
 </li></ol></div>
 
 <div id="ref-45">
 <ol start="45" type="1">
-<li>Raes, D., Steduto, P., Hsiao. T. C. &amp; Fereres, E. (2011). <em>FAO cropwater productivity model to simulate yield response to water AquaCrop.</em> Reference Manual of AQUACROP. 56 p.
+<li><p>Raes, D., Steduto, P., Hsiao. T. C. &amp; Fereres, E. (2011). <em>FAO cropwater productivity model to simulate yield response to water AquaCrop.</em> Reference Manual of AQUACROP. 56 p.</p>
 </li></ol></div>
 
 <p><strong>4</strong></p>
-
-
 </section></main></div>
 
 
@@ -1730,9 +1627,11 @@ Figura&nbsp;3.31: Ejemplo de curva de excedencia de pérdidas. El eje vertical m
 
 
 
+<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2021/blob/main/03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2021/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></div></div></footer>
+
 
  <!-- /main -->
-<footer class="footer"><div class="nav-footer"><div class="nav-footer-center"><div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2021/blob/main/03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd" class="toc-action"><i class="bi bi-github"></i>Ver el código</a></li><li><a href="https://github.com/scr-ungrd/investigaciones-grd-2021/issues/new" class="toc-action"><i class="bi empty"></i>Informar sobre problema</a></li></ul></div></div></div></footer><script id="quarto-html-after-body" type="application/javascript">
+<script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
     const anchorJS = new window.AnchorJS();
