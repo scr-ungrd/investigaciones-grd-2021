@@ -241,56 +241,160 @@ Julio Rubio
 
 **BIBLIOGRÁFIA**
 
-<div id="ref-1">1. Carey, J. (1992). *Communication as Culture. Essays on Media and Society*. Nueva York, Routledge.</div>
+:::::::::::::::::::::::::::: {#ref-1}
+1.  Carey, J. (1992). *Communication as Culture. Essays on Media and Society*. Nueva York, Routledge.
 
-<div id="ref-2">2. Anderson, J. (1996). *Communication Theory: Epistemological Foundations*. Londres, Guilford Press.</div>
+    </div>
 
-<div id="ref-3">3. Holmes, D. (2005). *Communication Theory. Media Technology and Society*. Londres Sage.</div>
+::::::::::::::::::::::::::: {#ref-2}
+2.  Anderson, J. (1996). *Communication Theory: Epistemological Foundations*. Londres, Guilford Press.
 
-<div id="ref-4">4. Lunenburg, F. (2010). *Communication: The Process, Barriers, And Improving Effectiveness*. Sam Houston State University, 3-6.</div>
+    </div>
 
-<div id="ref-5">5. Luhmann, N. (2006). *Sociología del Riesgo*. Universidad Iberoamericana, México, D.F.</div>
+:::::::::::::::::::::::::: {#ref-3}
+3.  Holmes, D. (2005). *Communication Theory. Media Technology and Society*. Londres Sage.
 
-<div id="ref-6">6. Beck, U. (2008). *La sociedad del riesgo mundial: En busca de la seguridad perdida*. Paidós Estado y Sociedad.</div>
+    </div>
 
-<div id="ref-7">7. Gonzalo, J. & Farré, J. (2011). *Teoría de la comunicación del riesgo*. Barcelona, Editorial UOC.</div>
+::::::::::::::::::::::::: {#ref-4}
+4.  Lunenburg, F. (2010). *Communication: The Process, Barriers, And Improving Effectiveness*. Sam Houston State University, 3-6.
 
-<div id="ref-8">8. Thomas, J., Rubio, J. & Muñoz, I. (2018). El Fanzine y la comunicación del riesgo: Una propuesta para el Valle del Cauca, Colombia. *REDER*, 2(1), 53-70.</div>
+    </div>
 
-<div id="ref-9">9. Shannon, C (1948). A Mathematical Theory of Communication. *The Bell System Technical Journal*, 27(4), 623-656.</div>
+:::::::::::::::::::::::: {#ref-5}
+5.  Luhmann, N. (2006). *Sociología del Riesgo*. Universidad Iberoamericana, México, D.F.
 
-<div id="ref-10">10. Algarra, M. (2009). La comunicación como objeto de estudio de la teoría de la comunicación, en *Revista Anàlisi* 38, 2009, 151-172.</div>
+    </div>
 
-<div id="ref-11">11. Gifreu, J. (1991). *Estructura general de la comunicación pública*. Barcelona: Pòrtic.</div>
+::::::::::::::::::::::: {#ref-6}
+6.  Beck, U. (2008). *La sociedad del riesgo mundial: En busca de la seguridad perdida*. Paidós Estado y Sociedad.
 
-<div id="ref-12">12. Burke, K. (1969). *A Rhetoric of Motives*. University of California Press.</div>
+    </div>
 
-<div id="ref-13">13. Bateson, G. & Ruesch, J. (1986). Comunicación. La matriz social de la psiquiatría. *Revista Española de Investigaciones Sociológicas*, 33, 241-243.</div>
+:::::::::::::::::::::: {#ref-7}
+7.  Gonzalo, J. & Farré, J. (2011). *Teoría de la comunicación del riesgo*. Barcelona, Editorial UOC.
 
-<div id="ref-14">14. Beck, U. (2002*). La sociedad del riesgo global*. Siglo XXI. Madrid.</div>
+    </div>
 
-<div id="ref-15">15. Giddens, A. & Pierson, C. (1998). *Making Sense of Modernity. Conversations with Anthony Giddens*. Cambridge: Cambridge University Press.</div>
+::::::::::::::::::::: {#ref-8}
+8.  Thomas, J., Rubio, J. & Muñoz, I. (2018). El Fanzine y la comunicación del riesgo: Una propuesta para el Valle del Cauca, Colombia. *REDER*, 2(1), 53-70.
 
-<div id="ref-16">16. Sandman, P. (2003), Four Kinds of Risk Communication. *The Synergist, Journal of the American Industrial Hygiene Association*, 26–27.</div>
+    </div>
 
-<div id="ref-17">17. Renn, O. (1990). Risk perception and risk management: A review. Pt. 2, Lessons for risk management. *Risk Abstracts*, 8 (1), 1-9. https://doi.org/10.1007/978-1-4757-4891-8_6</div>
+:::::::::::::::::::: {#ref-9}
+9.  Shannon, C (1948). A Mathematical Theory of Communication. *The Bell System Technical Journal*, 27(4), 623-656.
 
-<div id="ref-18">18. Rohrmann B. & Renn O. (2000). Risk Perception Research. En: O. Renn & B. Rohrmann B. (Eds.), *Cross-Cultural Risk Perception. Technology, Risk, and Society* *(An International Series in Risk Analysis) *(pp. 11-53*)*, vol 13. Springer, Boston, MA.</div>
+    </div>
 
-<div id="ref-19">19. Sjöberg, L. (1997). Explaining risk perception: An empirical evaluation of cultural theory. *Risk Decision and Policy*, 2, 113-130.</div>
+::::::::::::::::::: {#ref-10}
+10. Algarra, M. (2009). La comunicación como objeto de estudio de la teoría de la comunicación, en *Revista Anàlisi* 38, 2009, 151-172.
 
-<div id="ref-20">20. Kals, Elisabeth; Schumacher, Daniel & Montada, Leo. (1999). Emotional affinity toward nature as motivational basis to protect nature. *Environment & Behavior*, 31(2), 178-202. https://doi.org/10.1177/00139169921972056</div>
+    </div>
 
-<div id="ref-21">21. Linnerooth-Bayer, Joanne & Fitzgerald, Kevin. (1996). Conflicting views on fair siting processes: Evidence from Austria and the U.S. *Risk: Health, Safety & Environment*, 7(2), 119-134.</div>
+:::::::::::::::::: {#ref-11}
+11. Gifreu, J. (1991). *Estructura general de la comunicación pública*. Barcelona: Pòrtic.
 
-<div id="ref-22">22. Luhmann Niklas. (1990), Technology, environment, and social risk: a systems perspective.  *Industrial Crisis Quarterly*, 4, 223-231.</div>
+    </div>
 
-<div id="ref-23">23. Giddens, Anthony. (1990). *The consequences of modernity*. Stanford: Stanford University Press.</div>
+::::::::::::::::: {#ref-12}
+12. Burke, K. (1969). *A Rhetoric of Motives*. University of California Press.
 
-<div id="ref-24">24. Renn O., Rohrmann B. (2000) Cross-Cultural Risk Perception: State and Challenges. En: O. Renn O. & B. Rohrmann (eds), *Cross-Cultural Risk Perception. Technology, Risk, and Society (An International Series in Risk Analysis) *(pp. 211-233), vol 13. Springer, Boston, MA.</div>
+    </div>
 
-<div id="ref-25">25. Montoya, John. (2003). Geografía contemporánea y geografía escolar: algunas ideas para una agenda en Colombia. *Cuadernos de Geografía*, XII (1-2), Universidad Nacional de Colombia.</div>
+:::::::::::::::: {#ref-13}
+13. Bateson, G. & Ruesch, J. (1986). Comunicación. La matriz social de la psiquiatría. *Revista Española de Investigaciones Sociológicas*, 33, 241-243.
 
-<div id="ref-26">26. Lindón, Alicia. (2008). De las geografías constructivistas a las narrativas de vida espaciales como metodologías geográficas cualitativas. *Revista ANPEGE*, 4(4).</div>
+    </div>
+
+::::::::::::::: {#ref-14}
+14. Beck, U. (2002*). La sociedad del riesgo global*. Siglo XXI. Madrid.
+
+    </div>
+
+:::::::::::::: {#ref-15}
+15. Giddens, A. & Pierson, C. (1998). *Making Sense of Modernity. Conversations with Anthony Giddens*. Cambridge: Cambridge University Press.
+
+    </div>
+
+::::::::::::: {#ref-16}
+16. Sandman, P. (2003), Four Kinds of Risk Communication. *The Synergist, Journal of the American Industrial Hygiene Association*, 26–27.
+
+    </div>
+
+:::::::::::: {#ref-17}
+17. Renn, O. (1990). Risk perception and risk management: A review. Pt. 2, Lessons for risk management. *Risk Abstracts*, 8 (1), 1-9. https://doi.org/10.1007/978-1-4757-4891-8_6
+
+    </div>
+
+::::::::::: {#ref-18}
+18. Rohrmann B. & Renn O. (2000). Risk Perception Research. En: O. Renn & B. Rohrmann B. (Eds.), *Cross-Cultural Risk Perception. Technology, Risk, and Society* *(An International Series in Risk Analysis) *(pp. 11-53*)*, vol 13. Springer, Boston, MA.
+
+    </div>
+
+:::::::::: {#ref-19}
+19. Sjöberg, L. (1997). Explaining risk perception: An empirical evaluation of cultural theory. *Risk Decision and Policy*, 2, 113-130.
+
+    </div>
+
+::::::::: {#ref-20}
+20. Kals, Elisabeth; Schumacher, Daniel & Montada, Leo. (1999). Emotional affinity toward nature as motivational basis to protect nature. *Environment & Behavior*, 31(2), 178-202. https://doi.org/10.1177/00139169921972056
+
+    </div>
+
+:::::::: {#ref-21}
+21. Linnerooth-Bayer, Joanne & Fitzgerald, Kevin. (1996). Conflicting views on fair siting processes: Evidence from Austria and the U.S. *Risk: Health, Safety & Environment*, 7(2), 119-134.
+
+    </div>
+
+::::::: {#ref-22}
+22. Luhmann Niklas. (1990), Technology, environment, and social risk: a systems perspective.  *Industrial Crisis Quarterly*, 4, 223-231.
+
+    </div>
+
+:::::: {#ref-23}
+23. Giddens, Anthony. (1990). *The consequences of modernity*. Stanford: Stanford University Press.
+
+    </div>
+
+::::: {#ref-24}
+24. Renn O., Rohrmann B. (2000) Cross-Cultural Risk Perception: State and Challenges. En: O. Renn O. & B. Rohrmann (eds), *Cross-Cultural Risk Perception. Technology, Risk, and Society (An International Series in Risk Analysis) *(pp. 211-233), vol 13. Springer, Boston, MA.
+
+    </div>
+
+:::: {#ref-25}
+25. Montoya, John. (2003). Geografía contemporánea y geografía escolar: algunas ideas para una agenda en Colombia. *Cuadernos de Geografía*, XII (1-2), Universidad Nacional de Colombia.
+
+    </div>
+
+::: {#ref-26}
+26. Lindón, Alicia. (2008). De las geografías constructivistas a las narrativas de vida espaciales como metodologías geográficas cualitativas. *Revista ANPEGE*, 4(4).
+
+    </div>
 
 **9**
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::

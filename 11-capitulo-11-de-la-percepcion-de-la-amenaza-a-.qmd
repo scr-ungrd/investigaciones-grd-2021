@@ -431,38 +431,106 @@ Alexander Padilla González
 
 ------------------------------------------------------------------------
 
-<div id="ref-1">1. El Tiempo. (2000). *Por segunda vez se cae el puente*. Consultado el 03 de octubre de 2017.</div>
+::::::::::::::::::: {#ref-1}
+1.  El Tiempo. (2000). *Por segunda vez se cae el puente*. Consultado el 03 de octubre de 2017.
 
-<div id="ref-2">2. Desinventar. (2018). *Sistema de inventario de efectos de desastres*. Consultado el 03 de octubre de 2017. https://online.desinventar.org/desinventar/#COL-1250694506-  colombia_inventario_historico_de_desastres.</div>
+    </div>
 
-<div id="ref-3">3. Caracol Radio. (2016). *Avalancha en el río Unete incomunica a Boyacá y Casanare*. Consultado el 03 de octubre de 2017. https://caracol.com.co/emisora/2016/09/01/tunja/1472737110_176330.html</div>
+:::::::::::::::::: {#ref-2}
+2.  Desinventar. (2018). *Sistema de inventario de efectos de desastres*. Consultado el 03 de octubre de 2017. https://online.desinventar.org/desinventar/#COL-1250694506-  colombia_inventario_historico_de_desastres.
 
-<div id="ref-4">4. IDIGER (Instituto Distrital de Gestión de Riesgo y Cambio Climático). (2018). *Riesgo por Inundación*. Consultado el 31 de marzo de 2018.</div>
+    </div>
 
-<div id="ref-5">5. UNGRD (Unidad Nacional pala la Gestión del Riesgo de Desastres). (2014). *Plan Estratégico Institucional (2014 – 2018).* Bogotá: UNGRD.</div>
+::::::::::::::::: {#ref-3}
+3.  Caracol Radio. (2016). *Avalancha en el río Unete incomunica a Boyacá y Casanare*. Consultado el 03 de octubre de 2017. https://caracol.com.co/emisora/2016/09/01/tunja/1472737110_176330.html
 
-<div id="ref-6">6. Alcaldía Municipal de Aguazul. (2016). *Plan Municipal de Gestión de Riegos y Desastres*. Aguazul, Casanare: Alcaldía Municipal de Aguazul.</div>
+    </div>
 
-<div id="ref-7">7. E. Blade, L. Cea, G. Corestein, J. Puertas, E Vásquez-Cendón, J. Dolz & A. Coll. (2012). *Iber: herramienta de simulación numérica del flujo en ríos*. España, Elsevier.</div>
+:::::::::::::::: {#ref-4}
+4.  IDIGER (Instituto Distrital de Gestión de Riesgo y Cambio Climático). (2018). *Riesgo por Inundación*. Consultado el 31 de marzo de 2018.
 
-<div id="ref-8">8. J. Pinos & L. Tumbe, (2019). Evaluación del desempeño de modelos hidráulicos  bidimensionales para la generación de mapas de inundación en ríos de montaña. *Ciencia e ingeniería del agua*. 12(1). 11-18. Ecuador. Elsevier.</div>
+    </div>
 
-<div id="ref-9">9. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2012). *Programa de Naciones Unidas para el desarrollo Colombia., y Proyecto gestión integral del riesgo y **adaptación al cambio climático caribe. Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo*. Bogotá: UNGRD.</div>
+::::::::::::::: {#ref-5}
+5.  UNGRD (Unidad Nacional pala la Gestión del Riesgo de Desastres). (2014). *Plan Estratégico Institucional (2014 – 2018).* Bogotá: UNGRD.
 
-<div id="ref-10">10. E. Blade, L. Cea & G. Corestein. (2014). Modelación numérica de inundaciones fluviales. *Ingeniería del agua,* 18(1), 71-82.</div>
+    </div>
 
-<div id="ref-11">11. Ministerio de Medio Ambiente y Medio Rural & Marino de España, CEDEX, Grupo de Ingeniería del Agua y del Medio Ambiente & Flumen. (2010). *Iber, Modelización bidimensional del flujo en lámina libre de aguas poco profundas: Manual básico de usuario*. España, Ceres.</div>
+:::::::::::::: {#ref-6}
+6.  Alcaldía Municipal de Aguazul. (2016). *Plan Municipal de Gestión de Riegos y Desastres*. Aguazul, Casanare: Alcaldía Municipal de Aguazul.
 
-<div id="ref-12">12. Instituto Nicaragüense de Estudios Territoriales & Agencia Suiza para el Desarrollo yla Cooperación. (2005). Inundaciones fluviales: Mapas de amenazas. Recomendaciones técnicas para su elaboración. Managua, Nicaragua, Proyecto Met-Alarn.</div>
+    </div>
 
-<div id="ref-13">13. Ven Te Chow. (1994). *Hidráulica de canales abiertos.* McGraw Hill, México.</div>
+::::::::::::: {#ref-7}
+7.  E. Blade, L. Cea, G. Corestein, J. Puertas, E Vásquez-Cendón, J. Dolz & A. Coll. (2012). *Iber: herramienta de simulación numérica del flujo en ríos*. España, Elsevier.
 
-<div id="ref-14">14. IDEAM (Instituto de Hidrología, Meteorología y Estudios Amiéntales). (2018). *Solicitud de información*. Consultado el 09 de enero de 2018. .</div>
+    </div>
 
-<div id="ref-15">15. J, Pérez, I, Escobar & J, Frangozo. (2018). Modelación Hidráulica 2D de Inundaciones en Regiones con Escacez de Datos: El Caso del Delta del Río Ranchería, Riohacha-Colombia. *Información tecnológica*, 29(4), 143-146.</div>
+:::::::::::: {#ref-8}
+8.  J. Pinos & L. Tumbe, (2019). Evaluación del desempeño de modelos hidráulicos  bidimensionales para la generación de mapas de inundación en ríos de montaña. *Ciencia e ingeniería del agua*. 12(1). 11-18. Ecuador. Elsevier.
 
-<div id="ref-16">16. ALOS PALSAR L 1.0: © JAXA / METI ALOS PALSAR [ALPSRS270523500] [2018] Accedido a través de ASF DAAC, https://j.mp/2ON8GK4 [28 de enero de 2018].</div>
+    </div>
 
-<div id="ref-17">17. Alcaldía Municipal de Aguazul. (2011). *Esquema de Ordenamiento Territorial del Municipio de Aguazul, Casanare*. Aguazul, Casanare: Alcaldía Municipal de Aguazul.</div>
+::::::::::: {#ref-9}
+9.  UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2012). *Programa de Naciones Unidas para el desarrollo Colombia., y Proyecto gestión integral del riesgo y **adaptación al cambio climático caribe. Guía metodológica para la elaboración de planes departamentales para la gestión del riesgo*. Bogotá: UNGRD.
+
+    </div>
+
+:::::::::: {#ref-10}
+10. E. Blade, L. Cea & G. Corestein. (2014). Modelación numérica de inundaciones fluviales. *Ingeniería del agua,* 18(1), 71-82.
+
+    </div>
+
+::::::::: {#ref-11}
+11. Ministerio de Medio Ambiente y Medio Rural & Marino de España, CEDEX, Grupo de Ingeniería del Agua y del Medio Ambiente & Flumen. (2010). *Iber, Modelización bidimensional del flujo en lámina libre de aguas poco profundas: Manual básico de usuario*. España, Ceres.
+
+    </div>
+
+:::::::: {#ref-12}
+12. Instituto Nicaragüense de Estudios Territoriales & Agencia Suiza para el Desarrollo yla Cooperación. (2005). Inundaciones fluviales: Mapas de amenazas. Recomendaciones técnicas para su elaboración. Managua, Nicaragua, Proyecto Met-Alarn.
+
+    </div>
+
+::::::: {#ref-13}
+13. Ven Te Chow. (1994). *Hidráulica de canales abiertos.* McGraw Hill, México.
+
+    </div>
+
+:::::: {#ref-14}
+14. IDEAM (Instituto de Hidrología, Meteorología y Estudios Amiéntales). (2018). *Solicitud de información*. Consultado el 09 de enero de 2018. .
+
+    </div>
+
+::::: {#ref-15}
+15. J, Pérez, I, Escobar & J, Frangozo. (2018). Modelación Hidráulica 2D de Inundaciones en Regiones con Escacez de Datos: El Caso del Delta del Río Ranchería, Riohacha-Colombia. *Información tecnológica*, 29(4), 143-146.
+
+    </div>
+
+:::: {#ref-16}
+16. ALOS PALSAR L 1.0: © JAXA / METI ALOS PALSAR [ALPSRS270523500] [2018] Accedido a través de ASF DAAC, https://j.mp/2ON8GK4 [28 de enero de 2018].
+
+    </div>
+
+::: {#ref-17}
+17. Alcaldía Municipal de Aguazul. (2011). *Esquema de Ordenamiento Territorial del Municipio de Aguazul, Casanare*. Aguazul, Casanare: Alcaldía Municipal de Aguazul.
+
+    </div>
 
 12
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::

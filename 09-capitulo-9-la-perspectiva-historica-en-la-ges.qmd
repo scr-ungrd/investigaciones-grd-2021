@@ -384,150 +384,442 @@ Elkin de J. Salcedo Hurtado
 
 ------------------------------------------------------------------------
 
-<div id="ref-1">1. García-Acosta, V. (1996). El estudio histórico de los desastres. *Historia y Desastres en América Latina*, 1, 15–37.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-1}
+1.  García-Acosta, V. (1996). El estudio histórico de los desastres. *Historia y Desastres en América Latina*, 1, 15–37.
 
-<div id="ref-2">2. Girola, L. (2011). Historicidad y temporalidad de los conceptos sociológicos. *Sociológica*, 26(73), 13-46.</div>
+    </div>
 
-<div id="ref-3">3. Salcedo-Hurtado, E. (2002). Sismicidad Histórica y Análisis Macrosísmico de Bucaramanga. Boletín Geológico. *Boletín Geológico*, 40 (1).</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-2}
+2.  Girola, L. (2011). Historicidad y temporalidad de los conceptos sociológicos. *Sociológica*, 26(73), 13-46.
 
-<div id="ref-4">4. DAP (Departamento Administrativo de Planeación Municipal). (2014). *Plan de Ordenamiento Territorial de Santiago de Cali*. Documento Técnico de Soporte. 1170 p.</div>
+    </div>
 
-<div id="ref-5">5. DAP (Departamento Administrativo de Planeación Municipal). (2016). *Cali en cifras 2016*. 244 p.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-3}
+3.  Salcedo-Hurtado, E. (2002). Sismicidad Histórica y Análisis Macrosísmico de Bucaramanga. Boletín Geológico. *Boletín Geológico*, 40 (1).
 
-<div id="ref-6">6. INGEOMINAS & DAGMA. (2005). *Estudio de Microzonificación Sísmica de Santiago de Cali*</div>
+    </div>
 
-<div id="ref-7">7. Rodríguez de la Torre, F. (1993). Lecturas sistemáticas de prensa periódica. Hacia una revisión de la sismicidad europea durante los siglos XVII y XVIII. En *Historical investigation of European earthquakes. Materials of the CEC project Review of Historical Seismicity in Europe*. pp. 247-258.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-4}
+4.  DAP (Departamento Administrativo de Planeación Municipal). (2014). *Plan de Ordenamiento Territorial de Santiago de Cali*. Documento Técnico de Soporte. 1170 p.
 
-<div id="ref-8">8. Tarbuck, E. J., Lutgens, F. K., Tasa, D., & Científicas, A. T. (2005). *Ciencias de la Tierra*. Madrid: Pearson Educación.</div>
+    </div>
 
-<div id="ref-9">9. Olcina Cantos, J., & Ayala-Carcedo, F. J. (2002*). Riesgos naturales*. *Ariel SA*.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-5}
+5.  DAP (Departamento Administrativo de Planeación Municipal). (2016). *Cali en cifras 2016*. 244 p.
 
-<div id="ref-10">10. Muñoz, D (1989). Conceptos básicos en riesgo sísmico.  *Física de la Tierra. 1*. 199-215.</div>
+    </div>
 
-<div id="ref-11">11. Arboleda, G. (1956). *Historia de Cali: desde los orígenes de la ciudad hasta la expiración del período colonial*. Tomo II, Capitulo LI. Cali. Universidad del Valle. 420 pp.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-6}
+6.  INGEOMINAS & DAGMA. (2005). *Estudio de Microzonificación Sísmica de Santiago de Cali*
 
-<div id="ref-12">12. Arroyo, J. (1955*). Historia de la Gobernación de Popayán*. Bogotá. Santafe. 264 pp.</div>
+    </div>
 
-<div id="ref-13">13. CERESIS (Centro Regional de Sismología e Intensidades). (1985). *Datos e Intensidades*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-7}
+7.  Rodríguez de la Torre, F. (1993). Lecturas sistemáticas de prensa periódica. Hacia una revisión de la sismicidad europea durante los siglos XVII y XVIII. En *Historical investigation of European earthquakes. Materials of the CEC project Review of Historical Seismicity in Europe*. pp. 247-258.
 
-<div id="ref-14">14. Servicio Geológico Colombiano (2018). *Sismicidad Histórica de Colombia*. Disponible en línea</div>
+    </div>
 
-<div id="ref-15">15. Diario Correo del Cauca (1925 a). *Cali al influjo de un terremoto. - la catástrofe sísmica de anoche - el fatídico domingo 7*.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-8}
+8.  Tarbuck, E. J., Lutgens, F. K., Tasa, D., & Científicas, A. T. (2005). *Ciencias de la Tierra*. Madrid: Pearson Educación.
 
-<div id="ref-16">16. Diario Correo del Cauca (1925 b). *Ecos del terremoto.*</div>
+    </div>
 
-<div id="ref-17">17. Diario Correo ABC (1925).  *El domingo a las 7 menos 10 minutos de la noche, se sintió un fuerte temblor.*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-9}
+9.  Olcina Cantos, J., & Ayala-Carcedo, F. J. (2002*). Riesgos naturales*. *Ariel SA*.
 
-<div id="ref-18">18. Diario El Espectador (junio 9 de 1925). *Nuevas informaciones sobre los temblores del domingo*</div>
+    </div>
 
-<div id="ref-19">19. Diario El Relator (1925 a). *El pavoroso terremoto de anoche. *</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-10}
+10. Muñoz, D (1989). Conceptos básicos en riesgo sísmico.  *Física de la Tierra. 1*. 199-215.
 
-<div id="ref-20">20. Diario El Relator (1925 b). *Resumen noticioso de la semana.*</div>
+    </div>
 
-<div id="ref-21">21. Diario El Tiempo (1925 a). *Ayer se sintieron fortísimos temblores en casi todo el país.*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-11}
+11. Arboleda, G. (1956). *Historia de Cali: desde los orígenes de la ciudad hasta la expiración del período colonial*. Tomo II, Capitulo LI. Cali. Universidad del Valle. 420 pp.
 
-<div id="ref-22">22. Diario El Tiempo (1925 b). *El temblor del domingo.*</div>
+    </div>
 
-<div id="ref-23">23. Diario Occidente (1962). *Instantes de terror vivió Cali con el terremoto.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-12}
+12. Arroyo, J. (1955*). Historia de la Gobernación de Popayán*. Bogotá. Santafe. 264 pp.
 
-<div id="ref-24">24. Diario El País (1962). *Drama de Cali Instantes Después del Sismo. Muerte y desesperación.*</div>
+    </div>
 
-<div id="ref-25">25. Diario El Tiempo 1962). *Pánico por el terremoto Calda, Valle, y Antioquia resultaron los sectores más castigados por la tragedia. Cuarenta muertos y cuantiosos daños. *</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-13}
+13. CERESIS (Centro Regional de Sismología e Intensidades). (1985). *Datos e Intensidades*
 
-<div id="ref-26">26. Diario El País (1979 a). *35 muertos. Tembló durante sesenta segundos en Colombia.*</div>
+    </div>
 
-<div id="ref-27">27. Diario El País (1979 b). *Cali se defendió bien “Hubo daños **costosos** pero no graves”, dicen arquitectos.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-14}
+14. Servicio Geológico Colombiano (2018). *Sismicidad Histórica de Colombia*. Disponible en línea
 
-<div id="ref-28">28. Diario El País (1979 c). *Temblor afectó la normal de señoritas.*</div>
+    </div>
 
-<div id="ref-29">29. Diario El Pueblo (1979). *Manizales, epicentro del terremoto.*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-15}
+15. Diario Correo del Cauca (1925 a). *Cali al influjo de un terremoto. - la catástrofe sísmica de anoche - el fatídico domingo 7*.
 
-<div id="ref-30">30. Diario El País (1995 a). *Sismo, muerte y destrucción. Más de una veintena de muertos y alrededor de 250 heridos. Pereira en emergencia*.</div>
+    </div>
 
-<div id="ref-31">31. Diario El País (1995 b). *Daños en 77 edificaciones. El CLE hizo el balance de los efectos en Cali del sismo del 8 febrero.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-16}
+16. Diario Correo del Cauca (1925 b). *Ecos del terremoto.*
 
-<div id="ref-32">32. Diario El País (2004). *Caleños vivieron madrugada de pánico*.</div>
+    </div>
 
-<div id="ref-33">33. Diario El Tiempo (2004). *Sismo sacude a Valle y Chocó*.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-17}
+17. Diario Correo ABC (1925).  *El domingo a las 7 menos 10 minutos de la noche, se sintió un fuerte temblor.*
 
-<div id="ref-34">34. Diario El Caleño (2004). *En Cali amaneció temblando. Segundos de terror vivió la población.*</div>
+    </div>
 
-<div id="ref-35">35. Moncayo J., Castro Marín E., Valencia Núñez A., y Fonseca González S. (2001). *Evaluación de riesgo por fenómenos de remoción en masa: Guía Metodológica*. Colombia: Escuela Colombiana de Ingeniería. 166p.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-18}
+18. Diario El Espectador (junio 9 de 1925). *Nuevas informaciones sobre los temblores del domingo*
 
-<div id="ref-36">36. Calvo García, Francisco (2001). *Sociedades y territorios en riesgo*. Barcelona, España: Ediciones el Serbal. 186p.</div>
+    </div>
 
-<div id="ref-37">37. Diario El País. (1955). *Tragedia en Golondrinas: Un minero muerto y varios heridos por un alud de rocas en las minas.*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-19}
+19. Diario El Relator (1925 a). *El pavoroso terremoto de anoche. *
 
-<div id="ref-38">38. Diario El País. (1965). *Mueren dos niños al derrumbarse una casa en la parte alta de Cali, menor*.</div>
+    </div>
 
-<div id="ref-39">39. Diario El País. (1970). *11 muertos en explosión y derrumbe.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-20}
+20. Diario El Relator (1925 b). *Resumen noticioso de la semana.*
 
-<div id="ref-40">40. Diario El País. (1973). *En Terrón Colorado dos niñas heridas al desplomarse vivienda.*</div>
+    </div>
 
-<div id="ref-41">41. Diario El País. (1984 a). *Deslizamiento en Siloé.*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-21}
+21. Diario El Tiempo (1925 a). *Ayer se sintieron fortísimos temblores en casi todo el país.*
 
-<div id="ref-42">42. Diario El Pueblo. (1984 b). *Drama en Lleras Restrepo: Emergencia en Siloé por deslizamientos.*</div>
+    </div>
 
-<div id="ref-43">43. Diario El País. (1989). *Seis los muertos por el invierno: Alud mató a cuatro miembros de una familia en El Aguacatal.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-22}
+22. Diario El Tiempo (1925 b). *El temblor del domingo.*
 
-<div id="ref-44">44. Diario El País. (1993). *Familias de los cerros en la calle. Crece emergencia en las laderas.*</div>
+    </div>
 
-<div id="ref-45">45. Diario El País. (1995). *Derrumbe en la obra tumbó dos casas: Canal de Nápoles causa accidente.*</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-23}
+23. Diario Occidente (1962). *Instantes de terror vivió Cali con el terremoto.*
 
-<div id="ref-46">46. Diario El País. (1996). *El invierno afectó a cuatro familias en laderas de Cali.*</div>
+    </div>
 
-<div id="ref-47">47. Diario El País. (1997). *Se desmoronan 20 casas.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-24}
+24. Diario El País (1962). *Drama de Cali Instantes Después del Sismo. Muerte y desesperación.*
 
-<div id="ref-48">48. Diario El País. (1999). *Deslizamientos en la Comuna 20.*</div>
+    </div>
 
-<div id="ref-49">49. Diario El País. (1999). *La vía a Pance se desmorona.   *</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-25}
+25. Diario El Tiempo 1962). *Pánico por el terremoto Calda, Valle, y Antioquia resultaron los sectores más castigados por la tragedia. Cuarenta muertos y cuantiosos daños. *
 
-<div id="ref-50">50. Diario El País. (1999). *Tragedia en la loma de Belén.*</div>
+    </div>
 
-<div id="ref-51">51. Diario El País. (2004). *Los Chorros, en alto riesgo.*</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-26}
+26. Diario El País (1979 a). *35 muertos. Tembló durante sesenta segundos en Colombia.*
 
-<div id="ref-52">52. Diario El País. (2006). *Zona de ladera, en alerta por deslizamientos.*</div>
+    </div>
 
-<div id="ref-53">53. Diario El País. (2013). *Lluvias causaron estragos. Lluvias causaron deslizamientos*.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-27}
+27. Diario El País (1979 b). *Cali se defendió bien “Hubo daños **costosos** pero no graves”, dicen arquitectos.*
 
-<div id="ref-54">54. Ministerio de Medio Ambiente y Desarrollo Sostenible (2014). *Guía técnica para la formulación de los planes de ordenación y manejo de cuencas hidrográficas*.</div>
+    </div>
 
-<div id="ref-55">55. Ministerio de Hacienda y Crédito Público. (2013). *Estrategia de protección financiera para la reducción de la vulnerabilidad fiscal ante la ocurrencia de desastres naturales en Colombia*. Bogotá D.C. Colombia.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::: {#ref-28}
+28. Diario El País (1979 c). *Temblor afectó la normal de señoritas.*
 
-<div id="ref-56">56. Aparicio, J. (2003). *Lluvias e inundaciones*. Recuperado el 24 de febrero del 2012 de la Web:</div>
+    </div>
 
-<div id="ref-57">57. Corporación OSSO- Colombia, LA RED y UNIDR (2017). *Desinventar. Sistema de inventario de efectos de desastres. *Recuperado de</div>
+::::::::::::::::::::::::::::::::::::::::::::::: {#ref-29}
+29. Diario El Pueblo (1979). *Manizales, epicentro del terremoto.*
 
-<div id="ref-58">58. Diario el País (20 de abril de 1998). *Un muerto y cien viviendas inundadas dejó el aguacero de ayer. Cali, en emergencia invernal un muerto*.</div>
+    </div>
 
-<div id="ref-59">59. Diario el País. (05 de mayo de 2010). *Invierno sigue causando estragos. El invierno colapsó al Nororiente. Altos niveles del rio Cauca provocaron la emergencia. Una mujer habría muerto electrocutada en Calimio. *</div>
+:::::::::::::::::::::::::::::::::::::::::::::: {#ref-30}
+30. Diario El País (1995 a). *Sismo, muerte y destrucción. Más de una veintena de muertos y alrededor de 250 heridos. Pereira en emergencia*.
 
-<div id="ref-60">60. Diario el País. (07 de noviembre de 2011). *Baño dominical en el río terminó en tragedia*.</div>
+    </div>
 
-<div id="ref-61">61. Diario el País. (18 de abril de 2018). *Trágico aguacero causó dos muertos y generó caos*.</div>
+::::::::::::::::::::::::::::::::::::::::::::: {#ref-31}
+31. Diario El País (1995 b). *Daños en 77 edificaciones. El CLE hizo el balance de los efectos en Cali del sismo del 8 febrero.*
 
-<div id="ref-62">62. Diario el País. (21 de mayo de 1971). *Cali baja la furia de las aguas. Estragos por las inundaciones en la ciudad*.</div>
+    </div>
 
-<div id="ref-63">63. Diario el País. (24 de febrero de 1999). *Emergencia por ola invernal.*</div>
+:::::::::::::::::::::::::::::::::::::::::::: {#ref-32}
+32. Diario El País (2004). *Caleños vivieron madrugada de pánico*.
 
-<div id="ref-64">64. Diario el País. (29 de junio de 1959). *Rescatados sin vida los 4 menores.*</div>
+    </div>
 
-<div id="ref-65">65. Diario El Pueblo. (01 de julio de 1984). *Por desbordamiento del rio Cali. Más de $500 millones en pérdidas.*</div>
+::::::::::::::::::::::::::::::::::::::::::: {#ref-33}
+33. Diario El Tiempo (2004). *Sismo sacude a Valle y Chocó*.
 
-<div id="ref-66">66. Castillo, C. (2014). *El Control Territorial en el Departamento del Valle del Cauca*. Primera edición. Programa Editorial Universidad del Valle. Cali.</div>
+    </div>
 
-<div id="ref-67">67. Vásquez, H. (1985). *El proceso de urbanización en la historia colombiana. *Primera edición.  Bogotá. Universidad Externado de Colombia.</div>
+:::::::::::::::::::::::::::::::::::::::::: {#ref-34}
+34. Diario El Caleño (2004). *En Cali amaneció temblando. Segundos de terror vivió la población.*
 
-<div id="ref-68">68. Mosquera, G. (2011). *Expansión urbana y políticas estatales en Cali*. POLIS. Observatorio De Políticas Públicas. Sexta edición.</div>
+    </div>
 
-<div id="ref-69">69. Fondo de Emergencia Ciudadana (FES) & Comité Operativo de Emergencia (COE) (1989). *Plan General para la Atención de Emergencias en Cali.*</div>
+::::::::::::::::::::::::::::::::::::::::: {#ref-35}
+35. Moncayo J., Castro Marín E., Valencia Núñez A., y Fonseca González S. (2001). *Evaluación de riesgo por fenómenos de remoción en masa: Guía Metodológica*. Colombia: Escuela Colombiana de Ingeniería. 166p.
 
-<div id="ref-70">70. Alcaldía de Santiago de Cali & CORPORIESGOS (2009). *Plan Local de Emergencias y Contingencias del municipio de Santiago de Cali* (PLEC). 253 pp.</div>
+    </div>
 
-<div id="ref-71">71. República de Colombia. Congreso de la República (2012). *Ley 1523 de 2012*. Bogotá, Colombia.</div>
+:::::::::::::::::::::::::::::::::::::::: {#ref-36}
+36. Calvo García, Francisco (2001). *Sociedades y territorios en riesgo*. Barcelona, España: Ediciones el Serbal. 186p.
 
-<div id="ref-72">72. República de Colombia. Ministerio de Vivienda, Ciudad y Territorio (2014). *Decreto número 1807 de 2014*. Bogotá, Colombia.</div>
+    </div>
 
-<div id="ref-73">73. Alcaldía de Santiago de Cali (2012). *Decreto 411.020.0681*. Cali, Colombia.</div>
+::::::::::::::::::::::::::::::::::::::: {#ref-37}
+37. Diario El País. (1955). *Tragedia en Golondrinas: Un minero muerto y varios heridos por un alud de rocas en las minas.*
+
+    </div>
+
+:::::::::::::::::::::::::::::::::::::: {#ref-38}
+38. Diario El País. (1965). *Mueren dos niños al derrumbarse una casa en la parte alta de Cali, menor*.
+
+    </div>
+
+::::::::::::::::::::::::::::::::::::: {#ref-39}
+39. Diario El País. (1970). *11 muertos en explosión y derrumbe.*
+
+    </div>
+
+:::::::::::::::::::::::::::::::::::: {#ref-40}
+40. Diario El País. (1973). *En Terrón Colorado dos niñas heridas al desplomarse vivienda.*
+
+    </div>
+
+::::::::::::::::::::::::::::::::::: {#ref-41}
+41. Diario El País. (1984 a). *Deslizamiento en Siloé.*
+
+    </div>
+
+:::::::::::::::::::::::::::::::::: {#ref-42}
+42. Diario El Pueblo. (1984 b). *Drama en Lleras Restrepo: Emergencia en Siloé por deslizamientos.*
+
+    </div>
+
+::::::::::::::::::::::::::::::::: {#ref-43}
+43. Diario El País. (1989). *Seis los muertos por el invierno: Alud mató a cuatro miembros de una familia en El Aguacatal.*
+
+    </div>
+
+:::::::::::::::::::::::::::::::: {#ref-44}
+44. Diario El País. (1993). *Familias de los cerros en la calle. Crece emergencia en las laderas.*
+
+    </div>
+
+::::::::::::::::::::::::::::::: {#ref-45}
+45. Diario El País. (1995). *Derrumbe en la obra tumbó dos casas: Canal de Nápoles causa accidente.*
+
+    </div>
+
+:::::::::::::::::::::::::::::: {#ref-46}
+46. Diario El País. (1996). *El invierno afectó a cuatro familias en laderas de Cali.*
+
+    </div>
+
+::::::::::::::::::::::::::::: {#ref-47}
+47. Diario El País. (1997). *Se desmoronan 20 casas.*
+
+    </div>
+
+:::::::::::::::::::::::::::: {#ref-48}
+48. Diario El País. (1999). *Deslizamientos en la Comuna 20.*
+
+    </div>
+
+::::::::::::::::::::::::::: {#ref-49}
+49. Diario El País. (1999). *La vía a Pance se desmorona.   *
+
+    </div>
+
+:::::::::::::::::::::::::: {#ref-50}
+50. Diario El País. (1999). *Tragedia en la loma de Belén.*
+
+    </div>
+
+::::::::::::::::::::::::: {#ref-51}
+51. Diario El País. (2004). *Los Chorros, en alto riesgo.*
+
+    </div>
+
+:::::::::::::::::::::::: {#ref-52}
+52. Diario El País. (2006). *Zona de ladera, en alerta por deslizamientos.*
+
+    </div>
+
+::::::::::::::::::::::: {#ref-53}
+53. Diario El País. (2013). *Lluvias causaron estragos. Lluvias causaron deslizamientos*.
+
+    </div>
+
+:::::::::::::::::::::: {#ref-54}
+54. Ministerio de Medio Ambiente y Desarrollo Sostenible (2014). *Guía técnica para la formulación de los planes de ordenación y manejo de cuencas hidrográficas*.
+
+    </div>
+
+::::::::::::::::::::: {#ref-55}
+55. Ministerio de Hacienda y Crédito Público. (2013). *Estrategia de protección financiera para la reducción de la vulnerabilidad fiscal ante la ocurrencia de desastres naturales en Colombia*. Bogotá D.C. Colombia.
+
+    </div>
+
+:::::::::::::::::::: {#ref-56}
+56. Aparicio, J. (2003). *Lluvias e inundaciones*. Recuperado el 24 de febrero del 2012 de la Web:
+
+    </div>
+
+::::::::::::::::::: {#ref-57}
+57. Corporación OSSO- Colombia, LA RED y UNIDR (2017). *Desinventar. Sistema de inventario de efectos de desastres. *Recuperado de
+
+    </div>
+
+:::::::::::::::::: {#ref-58}
+58. Diario el País (20 de abril de 1998). *Un muerto y cien viviendas inundadas dejó el aguacero de ayer. Cali, en emergencia invernal un muerto*.
+
+    </div>
+
+::::::::::::::::: {#ref-59}
+59. Diario el País. (05 de mayo de 2010). *Invierno sigue causando estragos. El invierno colapsó al Nororiente. Altos niveles del rio Cauca provocaron la emergencia. Una mujer habría muerto electrocutada en Calimio. *
+
+    </div>
+
+:::::::::::::::: {#ref-60}
+60. Diario el País. (07 de noviembre de 2011). *Baño dominical en el río terminó en tragedia*.
+
+    </div>
+
+::::::::::::::: {#ref-61}
+61. Diario el País. (18 de abril de 2018). *Trágico aguacero causó dos muertos y generó caos*.
+
+    </div>
+
+:::::::::::::: {#ref-62}
+62. Diario el País. (21 de mayo de 1971). *Cali baja la furia de las aguas. Estragos por las inundaciones en la ciudad*.
+
+    </div>
+
+::::::::::::: {#ref-63}
+63. Diario el País. (24 de febrero de 1999). *Emergencia por ola invernal.*
+
+    </div>
+
+:::::::::::: {#ref-64}
+64. Diario el País. (29 de junio de 1959). *Rescatados sin vida los 4 menores.*
+
+    </div>
+
+::::::::::: {#ref-65}
+65. Diario El Pueblo. (01 de julio de 1984). *Por desbordamiento del rio Cali. Más de $500 millones en pérdidas.*
+
+    </div>
+
+:::::::::: {#ref-66}
+66. Castillo, C. (2014). *El Control Territorial en el Departamento del Valle del Cauca*. Primera edición. Programa Editorial Universidad del Valle. Cali.
+
+    </div>
+
+::::::::: {#ref-67}
+67. Vásquez, H. (1985). *El proceso de urbanización en la historia colombiana. *Primera edición.  Bogotá. Universidad Externado de Colombia.
+
+    </div>
+
+:::::::: {#ref-68}
+68. Mosquera, G. (2011). *Expansión urbana y políticas estatales en Cali*. POLIS. Observatorio De Políticas Públicas. Sexta edición.
+
+    </div>
+
+::::::: {#ref-69}
+69. Fondo de Emergencia Ciudadana (FES) & Comité Operativo de Emergencia (COE) (1989). *Plan General para la Atención de Emergencias en Cali.*
+
+    </div>
+
+:::::: {#ref-70}
+70. Alcaldía de Santiago de Cali & CORPORIESGOS (2009). *Plan Local de Emergencias y Contingencias del municipio de Santiago de Cali* (PLEC). 253 pp.
+
+    </div>
+
+::::: {#ref-71}
+71. República de Colombia. Congreso de la República (2012). *Ley 1523 de 2012*. Bogotá, Colombia.
+
+    </div>
+
+:::: {#ref-72}
+72. República de Colombia. Ministerio de Vivienda, Ciudad y Territorio (2014). *Decreto número 1807 de 2014*. Bogotá, Colombia.
+
+    </div>
+
+::: {#ref-73}
+73. Alcaldía de Santiago de Cali (2012). *Decreto 411.020.0681*. Cali, Colombia.
+
+    </div>
 
 10
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

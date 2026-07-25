@@ -224,36 +224,100 @@ Víctor Leonardo López Jiménez
 
 ------------------------------------------------------------------------
 
-<div id="ref-1">1. Gómez Restrepo, Fsc., H. G. (2010). La responsabilidad social de la universidad lasallista: elementos para la reflexión y el debate. *Revista de la Universidad de La Salle*, 51, 15-53.</div>
+:::::::::::::::::: {#ref-1}
+1.  Gómez Restrepo, Fsc., H. G. (2010). La responsabilidad social de la universidad lasallista: elementos para la reflexión y el debate. *Revista de la Universidad de La Salle*, 51, 15-53.
 
-<div id="ref-2">2. Banco Mundial. (2012). *Análisis de la gestión del riesgo de desastres en Colombia: un aporte para la construcción de políticas públicas.* Banco Internacional de Reconstrucción y Fomento / Banco Mundial. Región de América Latina y El Caribe. Primera edición, Bogotá.</div>
+    </div>
 
-<div id="ref-3">3. Gallardo O., Vega L. (2012). *Diplomado Geo-diversidad, Gestión de Riesgos y Cambio Climático en Centroamérica Modulo V: Visión Social de la prevención*. Consulta en: http://www. slideshare.net/comunicacionespfc/ visin-social-de-la-prevencin</div>
+::::::::::::::::: {#ref-2}
+2.  Banco Mundial. (2012). *Análisis de la gestión del riesgo de desastres en Colombia: un aporte para la construcción de políticas públicas.* Banco Internacional de Reconstrucción y Fomento / Banco Mundial. Región de América Latina y El Caribe. Primera edición, Bogotá.
 
-<div id="ref-4">4. Universidad de La Salle (2007). *Proyecto Educativo Universitario Lasallista, PEUL*. Acuerdo N° 007, 03/07. Ediciones Unisalle. Bogotá.</div>
+    </div>
 
-<div id="ref-5">5. Comisión Económica para América Latina y el Caribe – CEPAL. (2012).  *Valoración de daños y pérdidas, Ola invernal en Colombia 2010-2011*. Misión BID – CEPAL, Bogotá.</div>
+:::::::::::::::: {#ref-3}
+3.  Gallardo O., Vega L. (2012). *Diplomado Geo-diversidad, Gestión de Riesgos y Cambio Climático en Centroamérica Modulo V: Visión Social de la prevención*. Consulta en: http://www. slideshare.net/comunicacionespfc/ visin-social-de-la-prevencin
 
-<div id="ref-6">6. Vallaeys François. (2007). *Responsabilidad Social Universitaria Propuesta para una definición madura y eficiente. Tecnológico de Monterrey – Programa para la Formación en Humanidades*. Consulta en octubre de 2016: http://www. bibliotecavirtual. info/2011/12/responsabilidad-social-universitaria-propuesta-para-una-definición-madura-y-eficiente/</div>
+    </div>
 
-<div id="ref-7">7. Wilches Chaux, G. (1988) “La Vulnerabilidad Global” in Maskrey, A. (ed) *Los desastres no son Naturales*. LA RED. Tercer Mundo Editores. 1993.</div>
+::::::::::::::: {#ref-4}
+4.  Universidad de La Salle (2007). *Proyecto Educativo Universitario Lasallista, PEUL*. Acuerdo N° 007, 03/07. Ediciones Unisalle. Bogotá.
 
-<div id="ref-8">8. Brenson G. (2010) *El camino organizacional al siglo XXI. Mitos y estrategias de la adaptación laboral*. Fundación Neo-humanista, Bogotá.</div>
+    </div>
 
-<div id="ref-9">9. ASCUN (Asociación Colombiana de Universidades) (2011). Documentos Responsabilidad Social Universitaria (RSU). *Pensamiento Universitario Nº 21*. Bogotá.</div>
+:::::::::::::: {#ref-5}
+5.  Comisión Económica para América Latina y el Caribe – CEPAL. (2012).  *Valoración de daños y pérdidas, Ola invernal en Colombia 2010-2011*. Misión BID – CEPAL, Bogotá.
 
-<div id="ref-10">10. Vallaeys, F. (2014). La Responsabilidad Social Universitaria: un nuevo modelo universitario contra la mercantilización. *Revista Iberoamericana de Educación Superior*, 5(12). https://doi.org/10.22201/iisue.20072872e.2014.12.112</div>
+    </div>
 
-<div id="ref-11">11. Pbro. Rodríguez J. (2012) *La Responsabilidad Social es inherente a la naturaleza y misión de la Universidad*. Universidad Católica Los Ángeles de Chimbote, Perú.</div>
+::::::::::::: {#ref-6}
+6.  Vallaeys François. (2007). *Responsabilidad Social Universitaria Propuesta para una definición madura y eficiente. Tecnológico de Monterrey – Programa para la Formación en Humanidades*. Consulta en octubre de 2016: http://www. bibliotecavirtual. info/2011/12/responsabilidad-social-universitaria-propuesta-para-una-definición-madura-y-eficiente/
 
-<div id="ref-12">12. Vallaeys, F. & De la Cruz C. S. (2009). *Responsabilidad social universitaria. Manual de primeros pasos.* McGraw-Hill Interamericana Editores, S.A. de C.V. México.</div>
+    </div>
 
-<div id="ref-13">13. López, V. (2010). La práctica pedagógica como alternativa para aumentar la resiliencia de la comunidad frente a la ocurrencia de un evento potencialmente catastrófico. *Prácticas Docentes en el ámbito universitario.* Universidad de La Salle. Bogotá.</div>
+:::::::::::: {#ref-7}
+7.  Wilches Chaux, G. (1988) “La Vulnerabilidad Global” in Maskrey, A. (ed) *Los desastres no son Naturales*. LA RED. Tercer Mundo Editores. 1993.
 
-<div id="ref-14">14. López, V. (2005). *Base de datos del Sistema de Información sobre Desastres, Hidrometeorología y Medio Ambiente, SIDHMA*. Plataforma Universidad de La Salle. Bogotá.</div>
+    </div>
 
-<div id="ref-15">15. IPCC (Intergovernmental Panel on Climate Change). (2018). Resumen para responsables de políticas. En *Calentamiento global de 1,5 °C, Informe especial del IPCC sobre los impactos del calentamiento global de 1,5 ºC con respecto a los niveles preindustriales y las trayectorias correspondientes que deberían seguir las emisiones mundiales de gases de efecto invernadero, en el contexto del reforzamiento de la respuesta mundial a la amenaza del cambio climático, el desarrollo sostenible y los esfuerzos por erradicar la pobreza*, Masson-Delmotte V., P. Zhai, H.-O. Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor y T. Waterfield (Eds.).</div>
+::::::::::: {#ref-8}
+8.  Brenson G. (2010) *El camino organizacional al siglo XXI. Mitos y estrategias de la adaptación laboral*. Fundación Neo-humanista, Bogotá.
 
-<div id="ref-16">16. Nolan A. (2007). *Una espiritualidad de libertad radical*. Editorial Sal Terrae. Santander.</div>
+    </div>
+
+:::::::::: {#ref-9}
+9.  ASCUN (Asociación Colombiana de Universidades) (2011). Documentos Responsabilidad Social Universitaria (RSU). *Pensamiento Universitario Nº 21*. Bogotá.
+
+    </div>
+
+::::::::: {#ref-10}
+10. Vallaeys, F. (2014). La Responsabilidad Social Universitaria: un nuevo modelo universitario contra la mercantilización. *Revista Iberoamericana de Educación Superior*, 5(12). https://doi.org/10.22201/iisue.20072872e.2014.12.112
+
+    </div>
+
+:::::::: {#ref-11}
+11. Pbro. Rodríguez J. (2012) *La Responsabilidad Social es inherente a la naturaleza y misión de la Universidad*. Universidad Católica Los Ángeles de Chimbote, Perú.
+
+    </div>
+
+::::::: {#ref-12}
+12. Vallaeys, F. & De la Cruz C. S. (2009). *Responsabilidad social universitaria. Manual de primeros pasos.* McGraw-Hill Interamericana Editores, S.A. de C.V. México.
+
+    </div>
+
+:::::: {#ref-13}
+13. López, V. (2010). La práctica pedagógica como alternativa para aumentar la resiliencia de la comunidad frente a la ocurrencia de un evento potencialmente catastrófico. *Prácticas Docentes en el ámbito universitario.* Universidad de La Salle. Bogotá.
+
+    </div>
+
+::::: {#ref-14}
+14. López, V. (2005). *Base de datos del Sistema de Información sobre Desastres, Hidrometeorología y Medio Ambiente, SIDHMA*. Plataforma Universidad de La Salle. Bogotá.
+
+    </div>
+
+:::: {#ref-15}
+15. IPCC (Intergovernmental Panel on Climate Change). (2018). Resumen para responsables de políticas. En *Calentamiento global de 1,5 °C, Informe especial del IPCC sobre los impactos del calentamiento global de 1,5 ºC con respecto a los niveles preindustriales y las trayectorias correspondientes que deberían seguir las emisiones mundiales de gases de efecto invernadero, en el contexto del reforzamiento de la respuesta mundial a la amenaza del cambio climático, el desarrollo sostenible y los esfuerzos por erradicar la pobreza*, Masson-Delmotte V., P. Zhai, H.-O. Pörtner, D. Roberts, J. Skea, P.R. Shukla, A. Pirani, W. Moufouma-Okia, C. Péan, R. Pidcock, S. Connors, J.B.R. Matthews, Y. Chen, X. Zhou, M.I. Gomis, E. Lonnoy, T. Maycock, M. Tignor y T. Waterfield (Eds.).
+
+    </div>
+
+::: {#ref-16}
+16. Nolan A. (2007). *Una espiritualidad de libertad radical*. Editorial Sal Terrae. Santander.
+
+    </div>
 
 8
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::

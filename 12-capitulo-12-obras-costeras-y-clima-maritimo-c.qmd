@@ -195,46 +195,130 @@ Julio Monroy
 
 ------------------------------------------------------------------------
 
-<div id="ref-1">1. Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. https://doi.org/10.1029/91JC00064</div>
+::::::::::::::::::::::: {#ref-1}
+1.  Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. https://doi.org/10.1029/91JC00064
 
-<div id="ref-2">2. Rahmstorf, S. (2007). A semi-empirical approach to projecting future sea-level rise. *Science*, 315(5810), 368-370.</div>
+    </div>
 
-<div id="ref-3">3. Cazenave, A., & Llovel, W. (2010). Contemporary sea level rise. *Annual review of marine science*, 2, 145-173. https://doi.org/10.1146/annurev-marine-120308-081105</div>
+:::::::::::::::::::::: {#ref-2}
+2.  Rahmstorf, S. (2007). A semi-empirical approach to projecting future sea-level rise. *Science*, 315(5810), 368-370.
 
-<div id="ref-4">4. DeConto, R. M., & Pollard, D. (2016). Contribution of Antarctica to past and future sea-level rise. *Nature*, 531(7596), 591.</div>
+    </div>
 
-<div id="ref-5">5. Bruun, P. (1988). The Bruun rule of erosion by sea-level rise. *Journal of Coastal Research,* 4(4), 627-648.</div>
+::::::::::::::::::::: {#ref-3}
+3.  Cazenave, A., & Llovel, W. (2010). Contemporary sea level rise. *Annual review of marine science*, 2, 145-173. https://doi.org/10.1146/annurev-marine-120308-081105
 
-<div id="ref-6">6. Corredor, H., J.C. Mantilla, G. Vargas (2008) Caracterización hidráulica y Sedimentológica del Río Magdalena entre El Puente Pumarejo (k22) y Bocas de Ceniza (k0). En M. Alvarado (Ed.) *Río Magdalena. Navegación Marítima y Fluvial* (1986-2008). Ediciones Uninorte, Barranquilla, Colombia.</div>
+    </div>
 
-<div id="ref-7">7. Promigas (2003). *Estudio de la línea de costa entre Bocas de Ceniza y la boca del río Toribio*. Informe técnico CIOH, mayo de 2003.</div>
+:::::::::::::::::::: {#ref-4}
+4.  DeConto, R. M., & Pollard, D. (2016). Contribution of Antarctica to past and future sea-level rise. *Nature*, 531(7596), 591.
 
-<div id="ref-8">8. Rangel-Buitrago, N.G., Anfuso, G., & Williams, A.T. (2015). Coastal erosion along the Caribbean coast of Colombia: Magnitudes, causes and management. *Ocean & Coastal Management*, 114, 129-144.</div>
+    </div>
 
-<div id="ref-9">9. Van Rijn, L.C. (1998). *Principles of Coastal Morphology*. Aqua Publ. The Netherlands.</div>
+::::::::::::::::::: {#ref-5}
+5.  Bruun, P. (1988). The Bruun rule of erosion by sea-level rise. *Journal of Coastal Research,* 4(4), 627-648.
 
-<div id="ref-10">10. Molina, A., Molina, C., Thomas, Y., & Molina, L. E. (2001). Comportamiento de la línea de costa del Caribe colombiano (Sector entre Barranquilla, desde Bocas de Ceniza hasta la Flecha de Galerazamba 1935-1996). *Boletín Científico CIOH*, 19, 68-79.</div>
+    </div>
 
-<div id="ref-11">11. Martinez, J. O., Pilkey, O. H., & Neal, W. J. (1990). Rapid formation of large coastal sand bodies after emplacement of Magdalena river jetties, Northern Colombia. *Environmental Geology and Water Sciences*, 16(3), 187-194.</div>
+:::::::::::::::::: {#ref-6}
+6.  Corredor, H., J.C. Mantilla, G. Vargas (2008) Caracterización hidráulica y Sedimentológica del Río Magdalena entre El Puente Pumarejo (k22) y Bocas de Ceniza (k0). En M. Alvarado (Ed.) *Río Magdalena. Navegación Marítima y Fluvial* (1986-2008). Ediciones Uninorte, Barranquilla, Colombia.
 
-<div id="ref-12">12. Oceanmet (2011). *Estudio Oceanográfico para el área de Los Morros. Empresa de Desarrollo de Los Morros, Sucursal Colombia*. Informe Técnico.</div>
+    </div>
 
-<div id="ref-13">13. Pronósticos meteomarinos del CIOH:</div>
+::::::::::::::::: {#ref-7}
+7.  Promigas (2003). *Estudio de la línea de costa entre Bocas de Ceniza y la boca del río Toribio*. Informe técnico CIOH, mayo de 2003.
 
-<div id="ref-14">14. Anduckia, J.C. & Lonin, S. (2014). Acople entre modelos numéricos en el Sistema de Pronósticos Oceánicos y Atmosféricos (SPOA). *Boletín Científico CIOH*, 32, 197-210.</div>
+    </div>
 
-<div id="ref-15">15. Lonin, S. (2010). *Informe pericial de la Capitanía de Puerto de Cartagena*. Diciembre de 2010.</div>
+:::::::::::::::: {#ref-8}
+8.  Rangel-Buitrago, N.G., Anfuso, G., & Williams, A.T. (2015). Coastal erosion along the Caribbean coast of Colombia: Magnitudes, causes and management. *Ocean & Coastal Management*, 114, 129-144.
 
-<div id="ref-16">16. Lorin et al. (1973). *Estudio del régimen del Golfo de Morrosquillo, Protección de playas en Tolú. Informe General*. Cartagena.</div>
+    </div>
 
-<div id="ref-17">17. Lonin, S.A. (2002). Aplicación del modelo LIZC (CIOH) para el estudio de la dinámica de playa en un sector del Golfo de Morrosquillo. *Boletín Científico CIOH*, 20, 18-27.</div>
+::::::::::::::: {#ref-9}
+9.  Van Rijn, L.C. (1998). *Principles of Coastal Morphology*. Aqua Publ. The Netherlands.
 
-<div id="ref-18">18. Robertson, K., & Chaparro, J. (1998). Evolución histórica del delta del río Sinú. *Cuadernos de Geografía*, VII(1-2), 70-86.</div>
+    </div>
 
-<div id="ref-19">19. N&M (2005). *Estudio de factibilidad de construcción de un puerto marítimo en el Golfo de Urabá*. Informe técnico - Naval & Marítima Ingeniería Ltda.</div>
+:::::::::::::: {#ref-10}
+10. Molina, A., Molina, C., Thomas, Y., & Molina, L. E. (2001). Comportamiento de la línea de costa del Caribe colombiano (Sector entre Barranquilla, desde Bocas de Ceniza hasta la Flecha de Galerazamba 1935-1996). *Boletín Científico CIOH*, 19, 68-79.
 
-<div id="ref-20">20. Alcántara-Carrió, J., Caicedo, A., Hernández, J.C., Jaramillo-Vélez, A., & Manzolli, R.P. (2019). Sediment Bypassing from the New Human-Induced Lobe to the Ancient Lobe of the Turbo Delta (Gulf of Urabá, Southern Caribbean Sea). *Journal of Coastal Research*, 35(1), 196-209.</div>
+    </div>
 
-<div id="ref-21">21. Kamphuis, J.W. (2011). Coastal Engineering – Theory and Practice. *The Proceedings of the Coastal Sediments 2011*, Miami, FL, 02-06 May 2011, 1-14.</div>
+::::::::::::: {#ref-11}
+11. Martinez, J. O., Pilkey, O. H., & Neal, W. J. (1990). Rapid formation of large coastal sand bodies after emplacement of Magdalena river jetties, Northern Colombia. *Environmental Geology and Water Sciences*, 16(3), 187-194.
+
+    </div>
+
+:::::::::::: {#ref-12}
+12. Oceanmet (2011). *Estudio Oceanográfico para el área de Los Morros. Empresa de Desarrollo de Los Morros, Sucursal Colombia*. Informe Técnico.
+
+    </div>
+
+::::::::::: {#ref-13}
+13. Pronósticos meteomarinos del CIOH:
+
+    </div>
+
+:::::::::: {#ref-14}
+14. Anduckia, J.C. & Lonin, S. (2014). Acople entre modelos numéricos en el Sistema de Pronósticos Oceánicos y Atmosféricos (SPOA). *Boletín Científico CIOH*, 32, 197-210.
+
+    </div>
+
+::::::::: {#ref-15}
+15. Lonin, S. (2010). *Informe pericial de la Capitanía de Puerto de Cartagena*. Diciembre de 2010.
+
+    </div>
+
+:::::::: {#ref-16}
+16. Lorin et al. (1973). *Estudio del régimen del Golfo de Morrosquillo, Protección de playas en Tolú. Informe General*. Cartagena.
+
+    </div>
+
+::::::: {#ref-17}
+17. Lonin, S.A. (2002). Aplicación del modelo LIZC (CIOH) para el estudio de la dinámica de playa en un sector del Golfo de Morrosquillo. *Boletín Científico CIOH*, 20, 18-27.
+
+    </div>
+
+:::::: {#ref-18}
+18. Robertson, K., & Chaparro, J. (1998). Evolución histórica del delta del río Sinú. *Cuadernos de Geografía*, VII(1-2), 70-86.
+
+    </div>
+
+::::: {#ref-19}
+19. N&M (2005). *Estudio de factibilidad de construcción de un puerto marítimo en el Golfo de Urabá*. Informe técnico - Naval & Marítima Ingeniería Ltda.
+
+    </div>
+
+:::: {#ref-20}
+20. Alcántara-Carrió, J., Caicedo, A., Hernández, J.C., Jaramillo-Vélez, A., & Manzolli, R.P. (2019). Sediment Bypassing from the New Human-Induced Lobe to the Ancient Lobe of the Turbo Delta (Gulf of Urabá, Southern Caribbean Sea). *Journal of Coastal Research*, 35(1), 196-209.
+
+    </div>
+
+::: {#ref-21}
+21. Kamphuis, J.W. (2011). Coastal Engineering – Theory and Practice. *The Proceedings of the Coastal Sediments 2011*, Miami, FL, 02-06 May 2011, 1-14.
+
+    </div>
 
 13
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+:::::::::::::::::::::::

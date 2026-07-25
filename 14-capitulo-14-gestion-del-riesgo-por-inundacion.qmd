@@ -379,62 +379,182 @@ Nelson Obregón Neira
 
 ------------------------------------------------------------------------
 
-<div id="ref-1">1. Congreso de Colombia. (2012). Ley 1523 de 2012. 58 p.</div>
+:::::::::::::::::::::::::::::::: {#ref-1}
+1.  Congreso de Colombia. (2012). Ley 1523 de 2012. 58 p.
 
-<div id="ref-2">2. Ministerio de Vivienda Ciudad y Territorio (2014). Decreto 1807 de 2014. Bogotá. D.C. 19 p.</div>
+    </div>
 
-<div id="ref-3">3. Medina-Sanson, L., Guevara-Hernández. F. & Tejeda-Cruz C. (2014). Urbis: Revisión crítica y propuesta para integrar los conceptos de tierra, paisaje y territorio. *Boletín Científico Sapiens Research*, 4(1), 54–60.</div>
+::::::::::::::::::::::::::::::: {#ref-2}
+2.  Ministerio de Vivienda Ciudad y Territorio (2014). Decreto 1807 de 2014. Bogotá. D.C. 19 p.
 
-<div id="ref-4">4. Schneider, S. & Peyré Tartaruga, I. (2006). Territorio y enfoque territorial: de las referencias cognitivas a los aportes aplicados al análisis de los procesos. *Desarro Rural Organizaciones, Instituciones y Territorio*, 71–102.</div>
+    </div>
 
-<div id="ref-5">5. Halliday, A., & Glaser M. A. (2011). Management Perspective on Social Ecological Systems: A generic system model and its application to a case study from Peru. *Human Ecology Review*, 18(1), 1–18.</div>
+:::::::::::::::::::::::::::::: {#ref-3}
+3.  Medina-Sanson, L., Guevara-Hernández. F. & Tejeda-Cruz C. (2014). Urbis: Revisión crítica y propuesta para integrar los conceptos de tierra, paisaje y territorio. *Boletín Científico Sapiens Research*, 4(1), 54–60.
 
-<div id="ref-6">6. Vanhulst, J., & Beling, A. E. (2013). El Buen vivir: una utopía latinoamericana en el campo discursivo global de la sustentabilidad. *Polis*, 36.</div>
+    </div>
 
-<div id="ref-7">7. Remolina, G. (2014). *Del BIG BANG de las ciencias a su integración en el pensamiento complejo*. 17 p.</div>
+::::::::::::::::::::::::::::: {#ref-4}
+4.  Schneider, S. & Peyré Tartaruga, I. (2006). Territorio y enfoque territorial: de las referencias cognitivas a los aportes aplicados al análisis de los procesos. *Desarro Rural Organizaciones, Instituciones y Territorio*, 71–102.
 
-<div id="ref-8">8. DNP (Departamento Nacional de Planeación), FAO (Organización de las Naciones Unidas para la Agricultura y la Alimentación). (2003). *Programa de desarrollo sostenible de la región de la Mojana, Colombia*. Primera edición. Comunicaciones IG, editor. Bogotá. 48 p.</div>
+    </div>
 
-<div id="ref-9">9. DNP (Departamento Nacional de Planeación). (2012). *Plan integral de ordenamiento ambiental y desarrollo territorial de la región de la Mojana: caracterización territorial*. 91 p.</div>
+:::::::::::::::::::::::::::: {#ref-5}
+5.  Halliday, A., & Glaser M. A. (2011). Management Perspective on Social Ecological Systems: A generic system model and its application to a case study from Peru. *Human Ecology Review*, 18(1), 1–18.
 
-<div id="ref-10">10. Aguilera, M. (2004) *La Mojana: riqueza natural y potencial económico*. Documentos de trabajo sobre economía regional.</div>
+    </div>
 
-<div id="ref-11">11. Villegas-González, P. A., Triviño-León, N., Escobar-Vargas, J. A., Obregón-Neira, N., González-Méndez, M., González-Salazar, R. E., et al. (2016). Modelación Integrada de Sistemas socio-ecologicos Complejos: Caso de Estudio la Ecorregión de la Mojana. *Revista de Ingenieria Universidad Distrital*, 391–410.</div>
+::::::::::::::::::::::::::: {#ref-6}
+6.  Vanhulst, J., & Beling, A. E. (2013). El Buen vivir: una utopía latinoamericana en el campo discursivo global de la sustentabilidad. *Polis*, 36.
 
-<div id="ref-12">12. Kroes, P. (2012). Engineering design. En P. Kroes (Ed.), *Technical Artefacts: Creations of Mind and Matter: A Philosophy of Engineering Design* (pp. 127-161). Dordrecht: Springer Netherlands.</div>
+    </div>
 
-<div id="ref-13">13. Arendt H. (2009). *La condición humana*. Editorial Paidos. Buenos aires.</div>
+:::::::::::::::::::::::::: {#ref-7}
+7.  Remolina, G. (2014). *Del BIG BANG de las ciencias a su integración en el pensamiento complejo*. 17 p.
 
-<div id="ref-14">14. Epstein, J. (2008). Why model? *Journal of Artificial Societies and Social Simulation*, 11(4), 12.</div>
+    </div>
 
-<div id="ref-15">15. Voinov, A., & Bousquet, F. (2010). Modelling with stakeholders. *Environmental Modelling & Software*, 25(11), 1268-1281. https://doi.org/10.1016/j.envsoft.2010.03.007</div>
+::::::::::::::::::::::::: {#ref-8}
+8.  DNP (Departamento Nacional de Planeación), FAO (Organización de las Naciones Unidas para la Agricultura y la Alimentación). (2003). *Programa de desarrollo sostenible de la región de la Mojana, Colombia*. Primera edición. Comunicaciones IG, editor. Bogotá. 48 p.
 
-<div id="ref-16">16. Abel, N., Ross, H., Herbert, A., Manning, M., Walker, P. & Wheeler, H. (1998). *Mental models and communication in agriculture*. 90 p.</div>
+    </div>
 
-<div id="ref-17">17. Molero Melgarejo, E. (2018) *La modelización hidrológica-hidráulica y los sistemas de información geográfica* (pp 1–5).</div>
+:::::::::::::::::::::::: {#ref-9}
+9.  DNP (Departamento Nacional de Planeación). (2012). *Plan integral de ordenamiento ambiental y desarrollo territorial de la región de la Mojana: caracterización territorial*. 91 p.
 
-<div id="ref-18">18. Escobar-Vargas, J. A. (2015). *Notas de clase Mecánica de Fluidos Computacional*.</div>
+    </div>
 
-<div id="ref-19">19. Wirasaet, D., Kubatko, E. J., Michoski, C. E., Tanaka, S., Westerink, J. J. & Dawson, C. (2014) Discontinuous Galerkin methods with nodal and hybrid modal/nodal triangular, quadrilateral, and polygonal elements for nonlinear shallow water flow. *Computer Methods in Applied Mechanics and Engineering*, 270(1), 113–49.  https://doi.org/10.1016/j.cma.2013.11.006</div>
+::::::::::::::::::::::: {#ref-10}
+10. Aguilera, M. (2004) *La Mojana: riqueza natural y potencial económico*. Documentos de trabajo sobre economía regional.
 
-<div id="ref-20">20. Filatova, T., Verburg, P. H., Parker, D. C., & Stannard, C. A. (2013). Spatial agent-based models for socio-ecological systems: Challenges and prospects. *Environmental Modelling & Software*, 45, 1-7.</div>
+    </div>
 
-<div id="ref-21">21. González-Pérez C, Henderson-Sellers B. (2008). *Metamodelling for Software Engineering*. John Wiley & Sons. 219 p.</div>
+:::::::::::::::::::::: {#ref-11}
+11. Villegas-González, P. A., Triviño-León, N., Escobar-Vargas, J. A., Obregón-Neira, N., González-Méndez, M., González-Salazar, R. E., et al. (2016). Modelación Integrada de Sistemas socio-ecologicos Complejos: Caso de Estudio la Ecorregión de la Mojana. *Revista de Ingenieria Universidad Distrital*, 391–410.
 
-<div id="ref-22">22. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Evaluación probabilista del riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolívar)*. Bogotá, D.C.</div>
+    </div>
 
-<div id="ref-23">23. Villegas González, P. A. (2018). *Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos Modelos integrados de sistemas socio-ecológicos: caso de estudio en la ecorregión de la Mojana*. Pontificia Universidad Javeriana.</div>
+::::::::::::::::::::: {#ref-12}
+12. Kroes, P. (2012). Engineering design. En P. Kroes (Ed.), *Technical Artefacts: Creations of Mind and Matter: A Philosophy of Engineering Design* (pp. 127-161). Dordrecht: Springer Netherlands.
 
-<div id="ref-24">24. Villegas-González, P. A., Ramos-Cañón. A. M., González-Méndez, M., González-Salazar, R. E., Durán Gaviria, E. D., De Plaza Solórzano, J. S., et al. (2017). *Gestión del riesgo en Colombia: vulnerabilidad, reducción y manejo de desastres*. Bogotá, D. C. 111 p.</div>
+    </div>
 
-<div id="ref-25">25. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Evaluación probabilística del riesgo por inundación lenta en municipios priorizados*. Bogotá.</div>
+:::::::::::::::::::: {#ref-13}
+13. Arendt H. (2009). *La condición humana*. Editorial Paidos. Buenos aires.
 
-<div id="ref-26">26. Wooldridge, M., Jennings, N. R., & Kinny, D. (2000). The Gaia Methodology for Agent-Oriented Analysis and Design. *Autonomous Agents and Multi-Agent Systems*, 3(3), 285-312. https://doi.org/10.1023/A:1010071910869</div>
+    </div>
 
-<div id="ref-27">27. Villegas, P. A., Melgarejo, M. & Pérez, E. (2014). *MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua*. Pontificia Universidad Javeriana</div>
+::::::::::::::::::: {#ref-14}
+14. Epstein, J. (2008). Why model? *Journal of Artificial Societies and Social Simulation*, 11(4), 12.
 
-<div id="ref-28">28. Pulido, H. A. (2015). *Modelo de interacción social para agentes artificiales en la arquitectura Mojana* (Tesis de grado). Universidad Distrital Francisco José de Caldas. Bogotá, D.C.</div>
+    </div>
 
-<div id="ref-29">29. DNP (Departamento Nacional de Planeación). (2010). *Orientaciones conceptuales y metodológicas para la formulación de visiones de desarrollo territorial*. Dirección de Desarrollo Territorial Sostenible, Subdirección de Ordenamiento y Desarrollo Territorial. Bogotá, D.C.</div>
+:::::::::::::::::: {#ref-15}
+15. Voinov, A., & Bousquet, F. (2010). Modelling with stakeholders. *Environmental Modelling & Software*, 25(11), 1268-1281. https://doi.org/10.1016/j.envsoft.2010.03.007
 
-<div id="ref-30">30. Berger, T., Birner, R., McCarthy, N., DíAz, J., & Wittmer, H. (2007). Capturing the complexity of water uses and water users within a multi-agent framework. *Water Resources Management*, 21(1), 129-148.</div>
+    </div>
+
+::::::::::::::::: {#ref-16}
+16. Abel, N., Ross, H., Herbert, A., Manning, M., Walker, P. & Wheeler, H. (1998). *Mental models and communication in agriculture*. 90 p.
+
+    </div>
+
+:::::::::::::::: {#ref-17}
+17. Molero Melgarejo, E. (2018) *La modelización hidrológica-hidráulica y los sistemas de información geográfica* (pp 1–5).
+
+    </div>
+
+::::::::::::::: {#ref-18}
+18. Escobar-Vargas, J. A. (2015). *Notas de clase Mecánica de Fluidos Computacional*.
+
+    </div>
+
+:::::::::::::: {#ref-19}
+19. Wirasaet, D., Kubatko, E. J., Michoski, C. E., Tanaka, S., Westerink, J. J. & Dawson, C. (2014) Discontinuous Galerkin methods with nodal and hybrid modal/nodal triangular, quadrilateral, and polygonal elements for nonlinear shallow water flow. *Computer Methods in Applied Mechanics and Engineering*, 270(1), 113–49.  https://doi.org/10.1016/j.cma.2013.11.006
+
+    </div>
+
+::::::::::::: {#ref-20}
+20. Filatova, T., Verburg, P. H., Parker, D. C., & Stannard, C. A. (2013). Spatial agent-based models for socio-ecological systems: Challenges and prospects. *Environmental Modelling & Software*, 45, 1-7.
+
+    </div>
+
+:::::::::::: {#ref-21}
+21. González-Pérez C, Henderson-Sellers B. (2008). *Metamodelling for Software Engineering*. John Wiley & Sons. 219 p.
+
+    </div>
+
+::::::::::: {#ref-22}
+22. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Evaluación probabilista del riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolívar)*. Bogotá, D.C.
+
+    </div>
+
+:::::::::: {#ref-23}
+23. Villegas González, P. A. (2018). *Gestión del riesgo por inundaciones: un metamodelo para el desarrollo de artefactos participativos Modelos integrados de sistemas socio-ecológicos: caso de estudio en la ecorregión de la Mojana*. Pontificia Universidad Javeriana.
+
+    </div>
+
+::::::::: {#ref-24}
+24. Villegas-González, P. A., Ramos-Cañón. A. M., González-Méndez, M., González-Salazar, R. E., Durán Gaviria, E. D., De Plaza Solórzano, J. S., et al. (2017). *Gestión del riesgo en Colombia: vulnerabilidad, reducción y manejo de desastres*. Bogotá, D. C. 111 p.
+
+    </div>
+
+:::::::: {#ref-25}
+25. UNGRD (Unidad Nacional para la Gestión del Riesgo de Desastres). (2018). *Evaluación probabilística del riesgo por inundación lenta en municipios priorizados*. Bogotá.
+
+    </div>
+
+::::::: {#ref-26}
+26. Wooldridge, M., Jennings, N. R., & Kinny, D. (2000). The Gaia Methodology for Agent-Oriented Analysis and Design. *Autonomous Agents and Multi-Agent Systems*, 3(3), 285-312. https://doi.org/10.1023/A:1010071910869
+
+    </div>
+
+:::::: {#ref-27}
+27. Villegas, P. A., Melgarejo, M. & Pérez, E. (2014). *MOJANA: Modelo Organizacional Jerárquico de Agentes Naturales del Agua*. Pontificia Universidad Javeriana
+
+    </div>
+
+::::: {#ref-28}
+28. Pulido, H. A. (2015). *Modelo de interacción social para agentes artificiales en la arquitectura Mojana* (Tesis de grado). Universidad Distrital Francisco José de Caldas. Bogotá, D.C.
+
+    </div>
+
+:::: {#ref-29}
+29. DNP (Departamento Nacional de Planeación). (2010). *Orientaciones conceptuales y metodológicas para la formulación de visiones de desarrollo territorial*. Dirección de Desarrollo Territorial Sostenible, Subdirección de Ordenamiento y Desarrollo Territorial. Bogotá, D.C.
+
+    </div>
+
+::: {#ref-30}
+30. Berger, T., Birner, R., McCarthy, N., DíAz, J., & Wittmer, H. (2007). Capturing the complexity of water uses and water users within a multi-agent framework. *Water Resources Management*, 21(1), 129-148.
+
+    </div>
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::

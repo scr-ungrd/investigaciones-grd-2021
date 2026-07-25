@@ -398,108 +398,316 @@ David F. Morales Giraldo
 
 ------------------------------------------------------------------------
 
-<div id="ref-1">1. Martínez-Iglesias, J. C., Areces, A. J., Quintana, M., Viña, L., Zúñiga, A., y Beyris, A. (2007). Lineamientos metodológicos para la gestión integrada de la zona marina–costera (GIZMC) Cuba. *Serie Oceanológica*, (3), 1–37.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-1}
+1.  Martínez-Iglesias, J. C., Areces, A. J., Quintana, M., Viña, L., Zúñiga, A., y Beyris, A. (2007). Lineamientos metodológicos para la gestión integrada de la zona marina–costera (GIZMC) Cuba. *Serie Oceanológica*, (3), 1–37.
 
-<div id="ref-2">2. Yáñez-Arancibia, A., y W. Day, J. (2010). La zona costera frente al cambio climático: vulnerabilidad de un sistema biocomplejo e implicaciones en el manejo costero. En: *Cambio climático en México un enfoque costero-marino. Elementos ambientales para tomadores de decisiones*, 33–60. Estado de Campeche: Universidad Autónoma de Campeche Cetys-Universidad.</div>
+    </div>
 
-<div id="ref-3">3. Merlotto, A., Bértola, G. (2007). Consecuencias socio-económicas asociadas a la erosión costera en el Balneario Parque Mar Chiquita, Argentina. Investigaciones Geográficas, 43, 143–160.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-2}
+2.  Yáñez-Arancibia, A., y W. Day, J. (2010). La zona costera frente al cambio climático: vulnerabilidad de un sistema biocomplejo e implicaciones en el manejo costero. En: *Cambio climático en México un enfoque costero-marino. Elementos ambientales para tomadores de decisiones*, 33–60. Estado de Campeche: Universidad Autónoma de Campeche Cetys-Universidad.
 
-<div id="ref-4">4. Ricaurte-Villota, C., Coca-Domínguez, O., González, M.E., Bejarano-Espinosa, M., Morales, D.F., Correa-Rojas, C., Briceño-Zuluaga, F., Legarda, G.A. y Arteaga, M.E. (2018). *Amenaza y vulnerabilidad por erosión costera en Colombia: enfoque regional para la gestión del riesgo*. Instituto de Investigaciones Marinas y Costeras “José Benito Vives De Andréis” –INVEMAR–. Serie de Publicaciones Especiales de INVEMAR # 33. Santa Marta, Colombia. 268 p.</div>
+    </div>
 
-<div id="ref-5">5. Política nacional ambiental para el desarrollo sostenible de los espacios oceánicos y las zonas Costeras e insulares de Colombia (PNAOCI), 2009.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-3}
+3.  Merlotto, A., Bértola, G. (2007). Consecuencias socio-económicas asociadas a la erosión costera en el Balneario Parque Mar Chiquita, Argentina. Investigaciones Geográficas, 43, 143–160.
 
-<div id="ref-6">6. Charles, E., Douvere, F. (2009). *Planificación especial marina una guía paso a paso hacia la gestión ecosistémica. *Planificación especial marina una guía paso a paso hacia la gestión ecosistémica. 99 p.</div>
+    </div>
 
-<div id="ref-7">7. Rangel-Buitrago, N., Williams, A. T. Pranzini, E., Anfuso, G. (2018). Preface to the special issue: management strategies for coastal erosion processes. *Ocean and coastal management*, 156, 1.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-4}
+4.  Ricaurte-Villota, C., Coca-Domínguez, O., González, M.E., Bejarano-Espinosa, M., Morales, D.F., Correa-Rojas, C., Briceño-Zuluaga, F., Legarda, G.A. y Arteaga, M.E. (2018). *Amenaza y vulnerabilidad por erosión costera en Colombia: enfoque regional para la gestión del riesgo*. Instituto de Investigaciones Marinas y Costeras “José Benito Vives De Andréis” –INVEMAR–. Serie de Publicaciones Especiales de INVEMAR # 33. Santa Marta, Colombia. 268 p.
 
-<div id="ref-8">8. Simm, J.D.and Samuels, M. (2006). Telling good stories: engaging in dialogue with communities about flood and coastal erosion risk management in a post-modern society. En *41st Defra Flood and Coastal Management Conference*, 4 - 6 July 2006, York, UK.</div>
+    </div>
 
-<div id="ref-9">9. Rangel-Buitrago, N., Anfuso, G., Williams, A. (2015). Coastal erosion along the Caribbean coast of Colombia: Magnitudes, causes and management. *Ocean & Coastal Management,* 114, 129-144.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-5}
+5.  Política nacional ambiental para el desarrollo sostenible de los espacios oceánicos y las zonas Costeras e insulares de Colombia (PNAOCI), 2009.
 
-<div id="ref-10">10. MADS-DELTARES-INVEMAR. (2013). *A quickscan of building-with-nature solutions to mitigate coastal erosión in Colombia. **Interim report*. Delft, Holanda. 85 p.</div>
+    </div>
 
-<div id="ref-11">11. Stronkhorst, J., Levering, A., Hendriksen, G., Rangel-Buitrago, N., Rosendahl Appelquist, L. (2018). Regional coastal erosion assessment based on global open access data: A case study for Colombia. J. Coast. Conserv. 2018, 22, 787–798.</div>
+::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-6}
+6.  Charles, E., Douvere, F. (2009). *Planificación especial marina una guía paso a paso hacia la gestión ecosistémica. *Planificación especial marina una guía paso a paso hacia la gestión ecosistémica. 99 p.
 
-<div id="ref-12">12. Karl F. Nordstrom a, Bingyi Liang b, Emir S. Garilao b, Nancy L. Jackson b, (2018). Topography, vegetation cover and below ground biomass of spatially constrained and unconstrained foredunes in New Jersey, USA*. **Ocean & Coastal Management*. Vol 156.</div>
+    </div>
 
-<div id="ref-13">13. Dodds, W., Cooper, J.A.G., McKenna, J. (2010). Flood and coastal erosion risk management policy evolution in Northern Ireland: “Incremental or leapfrogging?”. *Ocean & Coastal Management,* 53(12), 779-786.</div>
+:::::::::::::::::::::::::::::::::::::::::::::::: {#ref-7}
+7.  Rangel-Buitrago, N., Williams, A. T. Pranzini, E., Anfuso, G. (2018). Preface to the special issue: management strategies for coastal erosion processes. *Ocean and coastal management*, 156, 1.
 
-<div id="ref-14">14. Souza, C.R.G., Suguio, K. (2003). The Coastal Erosion Risk Zoning and the São Paulo State Plan for Coastal Management. Journal of Coastal Research, SI 35. *Proceedings of the Brazilian Symposium on Sandy Beaches: Morphodynamics, Ecology, Uses, Hazards and Managemen*t, 530- 547. Itajaí, SC – Brazil.</div>
+    </div>
 
-<div id="ref-15">15. Coca-Domínguez, O., Ricaurte-Villota, C. (2019). Validation of the Hazard and Vulnerability Analysis of Coastal Erosion in the Caribbean and Pacific Coast of Colombia. J. Mar. Sci. Eng. 2019, 7, 260.</div>
+::::::::::::::::::::::::::::::::::::::::::::::: {#ref-8}
+8.  Simm, J.D.and Samuels, M. (2006). Telling good stories: engaging in dialogue with communities about flood and coastal erosion risk management in a post-modern society. En *41st Defra Flood and Coastal Management Conference*, 4 - 6 July 2006, York, UK.
 
-<div id="ref-16">16. Wang, L., Li, C., Ying Q., Cheng, X., Wang, X., Li, X., Hu, L., Liang, L., Yu, L., Huang, H., Gong, P. (2012). Urban expansion from 1990 to 2010 determined with satellite remote sensing. *Chinese Science Bulletin*, 57, 2802-2812. https://doi.org/10.1007/s11434-012-5235-7</div>
+    </div>
 
-<div id="ref-17">17. Serrano-Suarez, B.E. (2004). The Sinú river delta on the northwestern Caribbean coast of Colombia: Bay infilling associated with delta development. *Journal of South American Earth Sciences*, 16, 623–631. https://doi.org/10.1016/j.jsames.2003.10.005</div>
+:::::::::::::::::::::::::::::::::::::::::::::: {#ref-9}
+9.  Rangel-Buitrago, N., Anfuso, G., Williams, A. (2015). Coastal erosion along the Caribbean coast of Colombia: Magnitudes, causes and management. *Ocean & Coastal Management,* 114, 129-144.
 
-<div id="ref-18">18. Morris, R.L., Strain, M.A., Konlechner, T., Fest, B., Kennedy, D., Arndt, E., Swearer, E. (2018). Developing a nature-based coastal defence strategy for Australia. *Australian Journal of Civil Engineering*, 17(2), 167-176. https://doi.org/10.1080/14488353.2019.1661062</div>
+    </div>
 
-<div id="ref-19">19. Isla, F., Lasta, C. (2006). *Manual de manejo costero para la Provincia de Buenos Aires*. Eudem.</div>
+::::::::::::::::::::::::::::::::::::::::::::: {#ref-10}
+10. MADS-DELTARES-INVEMAR. (2013). *A quickscan of building-with-nature solutions to mitigate coastal erosión in Colombia. **Interim report*. Delft, Holanda. 85 p.
 
-<div id="ref-20">20. Moreira, R. (2007). O espaco e o contra-espaco: as dimensoes territoriais da sociedade civil e do estado; do privado ao público na orden especial burguesa. En *Território, territórios: ensaios sobre o ordenamento territorial*, Milton Santos (Ed), 72-107. Río de Janeiro: Lamparina.</div>
+    </div>
 
-<div id="ref-21">21. Aravena, R., Romero-Toledo, H., Opazo, D. (2018). Topoclimatología cultural y ciclos hidrosociales de comunidades andinas chilenas: híbridos geográficos para la ordenación de los territorios. *Cuadernos de Geografía: Revista Colombiana de Geografía,* 27(2): 242-261.</div>
+:::::::::::::::::::::::::::::::::::::::::::: {#ref-11}
+11. Stronkhorst, J., Levering, A., Hendriksen, G., Rangel-Buitrago, N., Rosendahl Appelquist, L. (2018). Regional coastal erosion assessment based on global open access data: A case study for Colombia. J. Coast. Conserv. 2018, 22, 787–798.
 
-<div id="ref-22">22. Meza, C. A. (2010). *Tradiciones elaboradas y modernizaciones vividas por pueblos Afrochocoanos en la vía al mar*. Bogotá, Colombia: Instituto Colombiano de Antropología e Historia.</div>
+    </div>
 
-<div id="ref-23">23. Coca Domínguez, O y Ricaurte Villota, C. (2019). Análisis de la evolución litoral y respuesta de las comunidades afro-descendientes asentadas en la zona costera: caso de estudio La Barra, Buenaventura, Pacífico colombiano. *Revista Entorno Geográfico*, 17, 7-26.</div>
+::::::::::::::::::::::::::::::::::::::::::: {#ref-12}
+12. Karl F. Nordstrom a, Bingyi Liang b, Emir S. Garilao b, Nancy L. Jackson b, (2018). Topography, vegetation cover and below ground biomass of spatially constrained and unconstrained foredunes in New Jersey, USA*. **Ocean & Coastal Management*. Vol 156.
 
-<div id="ref-24">24. MADS-INVEMAR. (2014). Componente N°9. Formular el Programa Nacional de Monitoreo, Prevención, Mitigación y Control de la erosión costera. Convenio interadministrativo No 190 de 2014 entre el MADS y el INVEMAR: elementos técnicos que permitan establecer medidas de manejo, control, uso sostenible y restauración de los ecosistemas costeros y marinos del país. Código: ACT-BEM-001-014. Informe técnico. 63 p.</div>
+    </div>
 
-<div id="ref-25">25. Ricaurte-Villota, C., Bastidas-Salamanca, M., (Eds.). (2017). *Regionalización oceanográfica: una visión dinámica del Caribe*. Instituto de Investigaciones Marinas y Costeras – INVEMAR. Serie de publicaciones especiales # 14. Santa Marta, Colombia 180 p.</div>
+:::::::::::::::::::::::::::::::::::::::::: {#ref-13}
+13. Dodds, W., Cooper, J.A.G., McKenna, J. (2010). Flood and coastal erosion risk management policy evolution in Northern Ireland: “Incremental or leapfrogging?”. *Ocean & Coastal Management,* 53(12), 779-786.
 
-<div id="ref-26">26. Ojeda-Zújar, J., Díaz-Cuevas, M.P., Prieto-Campos, A., Álvarez-Francoso, J. (2013). Línea de costa y Sistemas de Información Geográfica: modelo de datos para la caracterización y cálculo de indicadores en la costa andaluza. *Investigaciones Geográficas*, 60: 37 – 52.</div>
+    </div>
 
-<div id="ref-27">27. Thieler E., Himmelstoss E., Zichichi J., Ergul, A. (2010). *The Digital Shoreline Analysis System (DSAS) Version 4.0 - An ArcGIS extension for calculating shoreline change (2008-1278). *https://doi.org/10.3133/ofr20081278</div>
+::::::::::::::::::::::::::::::::::::::::: {#ref-14}
+14. Souza, C.R.G., Suguio, K. (2003). The Coastal Erosion Risk Zoning and the São Paulo State Plan for Coastal Management. Journal of Coastal Research, SI 35. *Proceedings of the Brazilian Symposium on Sandy Beaches: Morphodynamics, Ecology, Uses, Hazards and Managemen*t, 530- 547. Itajaí, SC – Brazil.
 
-<div id="ref-28">28. Thieler E. R. y Danforth W. (2005). Historical shoreline mapping: improving techniques and reducing positioning errors*. **Journal of Coastal Research*, 10(3), 549-563.</div>
+    </div>
 
-<div id="ref-29">29. Posada-Posada, B. O., y Henao P., W. (2008). *Diagnóstico de la erosión en la zona costera del Caribe colombiano*. INVEMAR, serie Publicaciones Especiales N°13, Santa Marta ,124 pp.</div>
+:::::::::::::::::::::::::::::::::::::::: {#ref-15}
+15. Coca-Domínguez, O., Ricaurte-Villota, C. (2019). Validation of the Hazard and Vulnerability Analysis of Coastal Erosion in the Caribbean and Pacific Coast of Colombia. J. Mar. Sci. Eng. 2019, 7, 260.
 
-<div id="ref-30">30. EUROSION. (2005). *Vivir con la erosión costera en Europa, Sedimentos y espacios para la sostenibilidad*. Luxembourg: Office for Official Publications of the European Communities.  http://www.eurosion.org/project/eurosion_en.pdf</div>
+    </div>
 
-<div id="ref-31">31. GREENPEACE. (1999). *El cambio climático y los arrecifes coralinos del planeta*. Recuperado de http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/el-cambio-climatico-y-los-arre.pdf.</div>
+::::::::::::::::::::::::::::::::::::::: {#ref-16}
+16. Wang, L., Li, C., Ying Q., Cheng, X., Wang, X., Li, X., Hu, L., Liang, L., Yu, L., Huang, H., Gong, P. (2012). Urban expansion from 1990 to 2010 determined with satellite remote sensing. *Chinese Science Bulletin*, 57, 2802-2812. https://doi.org/10.1007/s11434-012-5235-7
 
-<div id="ref-32">32. Romero Rodríguez, D. A. (2014). *Variables ambientales durante eventos de blanqueamiento coralino en el Caribe colombiano*. Universidad Nacional de Colombia, Medellín. https://doi.org/</div>
+    </div>
 
-<div id="ref-33">33. Westmacott, S., Teleki, K., Wells, S and West, J. M. (2000). *Manejo de arrecifes de coral blanqueados o severamente dañados*. UICN, Gland, Suiza y Cambridge, Reino Unido. VII + 36 pp.</div>
+:::::::::::::::::::::::::::::::::::::: {#ref-17}
+17. Serrano-Suarez, B.E. (2004). The Sinú river delta on the northwestern Caribbean coast of Colombia: Bay infilling associated with delta development. *Journal of South American Earth Sciences*, 16, 623–631. https://doi.org/10.1016/j.jsames.2003.10.005
 
-<div id="ref-34">34. Riveron-Enzastiga, M. L., Carbajal, N., y Salas-Monreal, D. (2016). Tropical coral reef system hydrodynamics in the western Gulf of Mexico. *Scientia Marina*, 802, 237-246. https://doi.org/</div>
+    </div>
 
-<div id="ref-35">35. Noor, T., Batool, N., Mazhar, N., Ilyas, N. (2015). Effects of siltation, temperature and salinity on mangrove plants. European Academic Research, 2, 14172-14179.</div>
+::::::::::::::::::::::::::::::::::::: {#ref-18}
+18. Morris, R.L., Strain, M.A., Konlechner, T., Fest, B., Kennedy, D., Arndt, E., Swearer, E. (2018). Developing a nature-based coastal defence strategy for Australia. *Australian Journal of Civil Engineering*, 17(2), 167-176. https://doi.org/10.1080/14488353.2019.1661062
 
-<div id="ref-36">36. Ahmed, N. Amir, R. y Talat, M. (1993). Salt-tolerance in mangrove soil bacteria. *Pakistan Journal of Marine Sciences*, 2(2), 129-135.</div>
+    </div>
 
-<div id="ref-37">37. Sánchez-Páez, H., Ulloa-Delgado, G. A., Tavera-Escobar, H. A., Gil-Torres, W. O. (2005). *Plan de manejo integral de los manglares de la zona de uso sostenible del sector estuarino de la Bahía de Cispatá: Departamento de Córdoba No. 333.91809861 S211p*. OIMT, Santa Fé de Bogotá Colombia. Proyecto Conservación y Manejo para el Desarrollo de los Manglares en Colombia Corporación Autónoma Regional de los Valles del Sinú y del San Jorge, Córdoba Colombia Corporación Nacional de Investigación y Fomento Forestal, Bogotá Colombia Proyecto PD 60/01 Rev. 1 F Manejo Sostenible y Restauración de los Manglares por Comunidades Locales del Caribe de Colombia, Bogotá Colombia Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Bogotá Colombia.</div>
+:::::::::::::::::::::::::::::::::::: {#ref-19}
+19. Isla, F., Lasta, C. (2006). *Manual de manejo costero para la Provincia de Buenos Aires*. Eudem.
 
-<div id="ref-38">38. Giri, C., Ochieng, E., Tieszen, L. L., Zhu, Z., Singh, A., Loveland, T., Duke, N. (2011). Status and distribution of mangrove forests of the world using earth observation satellite data. *Global Ecology and Biogeography*, 201, 154-159. https://doi.org/</div>
+    </div>
 
-<div id="ref-39">39. Arellano, V.A. 2011. *Arrecifes artificiales de enrocamiento para protección de playas*.  Tesis de grado para obtener el título de Maestro en Ingeniería Civil. Instituto Politécnico Nacional. México. 132 p.</div>
+::::::::::::::::::::::::::::::::::: {#ref-20}
+20. Moreira, R. (2007). O espaco e o contra-espaco: as dimensoes territoriais da sociedade civil e do estado; do privado ao público na orden especial burguesa. En *Território, territórios: ensaios sobre o ordenamento territorial*, Milton Santos (Ed), 72-107. Río de Janeiro: Lamparina.
 
-<div id="ref-40">40. Consejo Comunitario La Barra. (2015*). Plan de Etnodesarrollo 2014 – 2017*. Consejo Comunitario Comunidad Negra de La Barra, Buenaventura, Colombia. Buenaventura, Colombia: Fundación Suiza de cooperación al desarrollo SWISSAID.</div>
+    </div>
 
-<div id="ref-41">41. Rangel-Buitrago, N., de Jongeb, V., Nealc, W., (2018). How to make Integrated Coastal Erosion Management a reality. *Ocean and Coastal Management*, 156, 290-299.</div>
+:::::::::::::::::::::::::::::::::: {#ref-21}
+21. Aravena, R., Romero-Toledo, H., Opazo, D. (2018). Topoclimatología cultural y ciclos hidrosociales de comunidades andinas chilenas: híbridos geográficos para la ordenación de los territorios. *Cuadernos de Geografía: Revista Colombiana de Geografía,* 27(2): 242-261.
 
-<div id="ref-42">42. Williams, A.T., Rangel-Buitrago, N., Pranzini, E., Anfuso, G. (2018). The management of coastal erosion. *Ocean and Coastal Management*, 156, 4-20. https://doi.org/10.1016/j.ocecoaman.2017.03.022</div>
+    </div>
 
-<div id="ref-43">43. Pranzini, E. (2018) Shore protection in Italy: From hard to soft engineering … and back. *Ocean and Coastal Management,* 156, 43-57.</div>
+::::::::::::::::::::::::::::::::: {#ref-22}
+22. Meza, C. A. (2010). *Tradiciones elaboradas y modernizaciones vividas por pueblos Afrochocoanos en la vía al mar*. Bogotá, Colombia: Instituto Colombiano de Antropología e Historia.
 
-<div id="ref-44">44. Isla, F., Cortizo, L., Merlotto, A., Bertola, G., Pontrelli, M., Finocchietti, C. (2018). Erosion in Buenos Aires province: Coastal-management policy revisited. *Ocean and Coastal Management*,156, 107-116. https://doi.org/10.1016/j.ocecoaman.2017.09.008</div>
+    </div>
 
-<div id="ref-45">45. Neelamani, S. (2018). Coastal erosion and accretion in Kuwait e Problems and management strategies. *Ocean and Coastal Management*, 156, 76-91.</div>
+:::::::::::::::::::::::::::::::: {#ref-23}
+23. Coca Domínguez, O y Ricaurte Villota, C. (2019). Análisis de la evolución litoral y respuesta de las comunidades afro-descendientes asentadas en la zona costera: caso de estudio La Barra, Buenaventura, Pacífico colombiano. *Revista Entorno Geográfico*, 17, 7-26.
 
-<div id="ref-46">46. Gracia, A., Rangel-Buitrago, N., Oakley, J., Williams, A.T. (2018). Use of ecosystems in coastal erosion management. *Ocean and Coastal Management*, 156, 277-289. https://doi.org/10.1016/j.ocecoaman.2017.07.009</div>
+    </div>
 
-<div id="ref-47">47. Neal, W., Pilkey, O., Cooper, A., Longo, N. (2018). Why coastal regulations fail. *Ocean and Coastal Management*, 156, 21-34. https://doi.org/10.1016/j.ocecoaman.2017.05.003</div>
+::::::::::::::::::::::::::::::: {#ref-24}
+24. MADS-INVEMAR. (2014). Componente N°9. Formular el Programa Nacional de Monitoreo, Prevención, Mitigación y Control de la erosión costera. Convenio interadministrativo No 190 de 2014 entre el MADS y el INVEMAR: elementos técnicos que permitan establecer medidas de manejo, control, uso sostenible y restauración de los ecosistemas costeros y marinos del país. Código: ACT-BEM-001-014. Informe técnico. 63 p.
 
-<div id="ref-48">48. Leatherman, S. (2018). Coastal Erosion and the United States National Flood Insurance Program. *Ocean and Coastal Management*, 156, 35-42.</div>
+    </div>
 
-<div id="ref-49">49. Ndour, Raoul, A. Laïbi, Sadio, M., Degbe, C., Diaw, A., Oy, M., Anthony, E., Dussouillez, P., Sambou, H., Balla Di, E. (2018). Management strategies for coastal erosion problems in west Africa: Analysis, issues, and constraints drawn from the examples of Senegal and Benin. Abdoulaye. *Ocean and Coastal Management*, 156, 92-106. https://doi.org/10.1016/j.ocecoaman.2017.09.001</div>
+:::::::::::::::::::::::::::::: {#ref-25}
+25. Ricaurte-Villota, C., Bastidas-Salamanca, M., (Eds.). (2017). *Regionalización oceanográfica: una visión dinámica del Caribe*. Instituto de Investigaciones Marinas y Costeras – INVEMAR. Serie de publicaciones especiales # 14. Santa Marta, Colombia 180 p.
 
-<div id="ref-50">50. Psuty, N., Ames, K., Habeck, A., Schmelz, W.  (2018). Responding to coastal change: Creation of a regional approach to monitoring and management, northeastern region, U.S.A. *Ocean and Coastal Management*, 156, 170-182. https://doi.org/10.1016/j.ocecoaman.2017.08.004</div>
+    </div>
 
-<div id="ref-51">51. Pikelja, K., Ružić, I., Ilića, S., Jamesa, M., Kordićd, B. (2018). Implementing an efficient beach erosion monitoring system for coastal management in Croatia. *Ocean and Coastal Management*, 156, 223-238.</div>
+::::::::::::::::::::::::::::: {#ref-26}
+26. Ojeda-Zújar, J., Díaz-Cuevas, M.P., Prieto-Campos, A., Álvarez-Francoso, J. (2013). Línea de costa y Sistemas de Información Geográfica: modelo de datos para la caracterización y cálculo de indicadores en la costa andaluza. *Investigaciones Geográficas*, 60: 37 – 52.
 
-<div id="ref-52">52. Gutiérrez, J., Carvajal, A., Pabón, J., Ruiz, F., Cusva, A., Verdugo, F., Nieto, V., Lecanda, A., Rodríguez, J., Mendoza, J., Álvarez, J., Quimbayo, G., Dorado, J., Camacho, A., Sierra, P., Zamora, A., Ricaurte-Villota, C., Bastidas-Salamanca, M., Ordóñez, S., Navia, j., Coca-Domínguez, O., Andrade, C., Tigreros, P., Rojas, X., Hernández, D., Hernández, T., Vega, A., Romero, D., Pizarro, J. (2017). Capítulo 4: Vulnerabilidad y riesgo por cambio climático. En: IDEAM, PNUD, MADS, DNP, CANCILLERÍA. (2017). *Tercera Comunicación Nacional de Colombia a la Convención Marco De Las Naciones Unidas Sobre Cambio Climático (CMNUCC).* Tercera Comunicación Nacional de Cambio Climático. IDEAM, PNUD, MADS, DNP, CANCILLERÍA, FMAM. Bogotá D.C., Colombia.</div>
+    </div>
+
+:::::::::::::::::::::::::::: {#ref-27}
+27. Thieler E., Himmelstoss E., Zichichi J., Ergul, A. (2010). *The Digital Shoreline Analysis System (DSAS) Version 4.0 - An ArcGIS extension for calculating shoreline change (2008-1278). *https://doi.org/10.3133/ofr20081278
+
+    </div>
+
+::::::::::::::::::::::::::: {#ref-28}
+28. Thieler E. R. y Danforth W. (2005). Historical shoreline mapping: improving techniques and reducing positioning errors*. **Journal of Coastal Research*, 10(3), 549-563.
+
+    </div>
+
+:::::::::::::::::::::::::: {#ref-29}
+29. Posada-Posada, B. O., y Henao P., W. (2008). *Diagnóstico de la erosión en la zona costera del Caribe colombiano*. INVEMAR, serie Publicaciones Especiales N°13, Santa Marta ,124 pp.
+
+    </div>
+
+::::::::::::::::::::::::: {#ref-30}
+30. EUROSION. (2005). *Vivir con la erosión costera en Europa, Sedimentos y espacios para la sostenibilidad*. Luxembourg: Office for Official Publications of the European Communities.  http://www.eurosion.org/project/eurosion_en.pdf
+
+    </div>
+
+:::::::::::::::::::::::: {#ref-31}
+31. GREENPEACE. (1999). *El cambio climático y los arrecifes coralinos del planeta*. Recuperado de http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/el-cambio-climatico-y-los-arre.pdf.
+
+    </div>
+
+::::::::::::::::::::::: {#ref-32}
+32. Romero Rodríguez, D. A. (2014). *Variables ambientales durante eventos de blanqueamiento coralino en el Caribe colombiano*. Universidad Nacional de Colombia, Medellín. https://doi.org/
+
+    </div>
+
+:::::::::::::::::::::: {#ref-33}
+33. Westmacott, S., Teleki, K., Wells, S and West, J. M. (2000). *Manejo de arrecifes de coral blanqueados o severamente dañados*. UICN, Gland, Suiza y Cambridge, Reino Unido. VII + 36 pp.
+
+    </div>
+
+::::::::::::::::::::: {#ref-34}
+34. Riveron-Enzastiga, M. L., Carbajal, N., y Salas-Monreal, D. (2016). Tropical coral reef system hydrodynamics in the western Gulf of Mexico. *Scientia Marina*, 802, 237-246. https://doi.org/
+
+    </div>
+
+:::::::::::::::::::: {#ref-35}
+35. Noor, T., Batool, N., Mazhar, N., Ilyas, N. (2015). Effects of siltation, temperature and salinity on mangrove plants. European Academic Research, 2, 14172-14179.
+
+    </div>
+
+::::::::::::::::::: {#ref-36}
+36. Ahmed, N. Amir, R. y Talat, M. (1993). Salt-tolerance in mangrove soil bacteria. *Pakistan Journal of Marine Sciences*, 2(2), 129-135.
+
+    </div>
+
+:::::::::::::::::: {#ref-37}
+37. Sánchez-Páez, H., Ulloa-Delgado, G. A., Tavera-Escobar, H. A., Gil-Torres, W. O. (2005). *Plan de manejo integral de los manglares de la zona de uso sostenible del sector estuarino de la Bahía de Cispatá: Departamento de Córdoba No. 333.91809861 S211p*. OIMT, Santa Fé de Bogotá Colombia. Proyecto Conservación y Manejo para el Desarrollo de los Manglares en Colombia Corporación Autónoma Regional de los Valles del Sinú y del San Jorge, Córdoba Colombia Corporación Nacional de Investigación y Fomento Forestal, Bogotá Colombia Proyecto PD 60/01 Rev. 1 F Manejo Sostenible y Restauración de los Manglares por Comunidades Locales del Caribe de Colombia, Bogotá Colombia Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Bogotá Colombia.
+
+    </div>
+
+::::::::::::::::: {#ref-38}
+38. Giri, C., Ochieng, E., Tieszen, L. L., Zhu, Z., Singh, A., Loveland, T., Duke, N. (2011). Status and distribution of mangrove forests of the world using earth observation satellite data. *Global Ecology and Biogeography*, 201, 154-159. https://doi.org/
+
+    </div>
+
+:::::::::::::::: {#ref-39}
+39. Arellano, V.A. 2011. *Arrecifes artificiales de enrocamiento para protección de playas*.  Tesis de grado para obtener el título de Maestro en Ingeniería Civil. Instituto Politécnico Nacional. México. 132 p.
+
+    </div>
+
+::::::::::::::: {#ref-40}
+40. Consejo Comunitario La Barra. (2015*). Plan de Etnodesarrollo 2014 – 2017*. Consejo Comunitario Comunidad Negra de La Barra, Buenaventura, Colombia. Buenaventura, Colombia: Fundación Suiza de cooperación al desarrollo SWISSAID.
+
+    </div>
+
+:::::::::::::: {#ref-41}
+41. Rangel-Buitrago, N., de Jongeb, V., Nealc, W., (2018). How to make Integrated Coastal Erosion Management a reality. *Ocean and Coastal Management*, 156, 290-299.
+
+    </div>
+
+::::::::::::: {#ref-42}
+42. Williams, A.T., Rangel-Buitrago, N., Pranzini, E., Anfuso, G. (2018). The management of coastal erosion. *Ocean and Coastal Management*, 156, 4-20. https://doi.org/10.1016/j.ocecoaman.2017.03.022
+
+    </div>
+
+:::::::::::: {#ref-43}
+43. Pranzini, E. (2018) Shore protection in Italy: From hard to soft engineering … and back. *Ocean and Coastal Management,* 156, 43-57.
+
+    </div>
+
+::::::::::: {#ref-44}
+44. Isla, F., Cortizo, L., Merlotto, A., Bertola, G., Pontrelli, M., Finocchietti, C. (2018). Erosion in Buenos Aires province: Coastal-management policy revisited. *Ocean and Coastal Management*,156, 107-116. https://doi.org/10.1016/j.ocecoaman.2017.09.008
+
+    </div>
+
+:::::::::: {#ref-45}
+45. Neelamani, S. (2018). Coastal erosion and accretion in Kuwait e Problems and management strategies. *Ocean and Coastal Management*, 156, 76-91.
+
+    </div>
+
+::::::::: {#ref-46}
+46. Gracia, A., Rangel-Buitrago, N., Oakley, J., Williams, A.T. (2018). Use of ecosystems in coastal erosion management. *Ocean and Coastal Management*, 156, 277-289. https://doi.org/10.1016/j.ocecoaman.2017.07.009
+
+    </div>
+
+:::::::: {#ref-47}
+47. Neal, W., Pilkey, O., Cooper, A., Longo, N. (2018). Why coastal regulations fail. *Ocean and Coastal Management*, 156, 21-34. https://doi.org/10.1016/j.ocecoaman.2017.05.003
+
+    </div>
+
+::::::: {#ref-48}
+48. Leatherman, S. (2018). Coastal Erosion and the United States National Flood Insurance Program. *Ocean and Coastal Management*, 156, 35-42.
+
+    </div>
+
+:::::: {#ref-49}
+49. Ndour, Raoul, A. Laïbi, Sadio, M., Degbe, C., Diaw, A., Oy, M., Anthony, E., Dussouillez, P., Sambou, H., Balla Di, E. (2018). Management strategies for coastal erosion problems in west Africa: Analysis, issues, and constraints drawn from the examples of Senegal and Benin. Abdoulaye. *Ocean and Coastal Management*, 156, 92-106. https://doi.org/10.1016/j.ocecoaman.2017.09.001
+
+    </div>
+
+::::: {#ref-50}
+50. Psuty, N., Ames, K., Habeck, A., Schmelz, W.  (2018). Responding to coastal change: Creation of a regional approach to monitoring and management, northeastern region, U.S.A. *Ocean and Coastal Management*, 156, 170-182. https://doi.org/10.1016/j.ocecoaman.2017.08.004
+
+    </div>
+
+:::: {#ref-51}
+51. Pikelja, K., Ružić, I., Ilića, S., Jamesa, M., Kordićd, B. (2018). Implementing an efficient beach erosion monitoring system for coastal management in Croatia. *Ocean and Coastal Management*, 156, 223-238.
+
+    </div>
+
+::: {#ref-52}
+52. Gutiérrez, J., Carvajal, A., Pabón, J., Ruiz, F., Cusva, A., Verdugo, F., Nieto, V., Lecanda, A., Rodríguez, J., Mendoza, J., Álvarez, J., Quimbayo, G., Dorado, J., Camacho, A., Sierra, P., Zamora, A., Ricaurte-Villota, C., Bastidas-Salamanca, M., Ordóñez, S., Navia, j., Coca-Domínguez, O., Andrade, C., Tigreros, P., Rojas, X., Hernández, D., Hernández, T., Vega, A., Romero, D., Pizarro, J. (2017). Capítulo 4: Vulnerabilidad y riesgo por cambio climático. En: IDEAM, PNUD, MADS, DNP, CANCILLERÍA. (2017). *Tercera Comunicación Nacional de Colombia a la Convención Marco De Las Naciones Unidas Sobre Cambio Climático (CMNUCC).* Tercera Comunicación Nacional de Cambio Climático. IDEAM, PNUD, MADS, DNP, CANCILLERÍA, FMAM. Bogotá D.C., Colombia.
+
+    </div>
 
 14
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::

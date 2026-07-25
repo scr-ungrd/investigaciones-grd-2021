@@ -389,82 +389,238 @@ Los autores agradecen en primer lugar al Banco Mundial y en particular al equipo
 
 **BIBLIOGRÁFIA**
 
-<div id="ref-1">1. ICC (International Code Council). (2017). *2018 International Building Code*. International Code Council, Incorporated.</div>
+::::::::::::::::::::::::::::::::::::::::: {#ref-1}
+1.  ICC (International Code Council). (2017). *2018 International Building Code*. International Code Council, Incorporated.
 
-<div id="ref-2">2. EERI (Earthquake Engineering Research Institute). (2019). *Concrete Buildings Damaged in Earthquakes*. Recuperado de</div>
+    </div>
 
-<div id="ref-3">3. Chen, H., Xie, Q., Lan, R., Li, Z., Xu , C., & Yu, S. (2017). Seismic damage to schools subjected to Nepal earthquakes, 2015. *Natural Hazards*, 88(1), 247–84.</div>
+:::::::::::::::::::::::::::::::::::::::: {#ref-2}
+2.  EERI (Earthquake Engineering Research Institute). (2019). *Concrete Buildings Damaged in Earthquakes*. Recuperado de
 
-<div id="ref-4">4. GEER. (2017). Geotechnical engineering reconnaissance of the 19 September 2017 mw 7.1 Puebla-Mexico City earthquake (September). *Geotechnical Extreme Events Reconnaissance Association*.</div>
+    </div>
 
-<div id="ref-5">5. GEER. (2016). GEER-ATC earthquake reconnaissance April 16th 2016, Muisne, Ecuador. *Geotechnical Extreme Events reconnaissance Association Report* GEER-049. 604. Recuperado de</div>
+::::::::::::::::::::::::::::::::::::::: {#ref-3}
+3.  Chen, H., Xie, Q., Lan, R., Li, Z., Xu , C., & Yu, S. (2017). Seismic damage to schools subjected to Nepal earthquakes, 2015. *Natural Hazards*, 88(1), 247–84.
 
-<div id="ref-6">6. Valcárcel, J.A., Mora, M.G., Cardona, O.D., Pujades, L.G., Barbat, A.H., & Bernal, G.A. (2013) Methodology and applications for the benefit cost analysis of the seismic risk reduction in building portfolios at broadscale. *Natural Hazards*, 69(1), 845–68.</div>
+    </div>
 
-<div id="ref-7">7. Mora. M.G., Valcárcel, J. A., Cardona, O.D., Pujades, L. G., Barbat, A. H., & Bernal, G. A. (2015) Prioritizing interventions to reduce seismic vulnerability in school facilities in Colombia. *Earthquake Spectra*, 31(4), 2535–52.</div>
+:::::::::::::::::::::::::::::::::::::: {#ref-4}
+4.  GEER. (2017). Geotechnical engineering reconnaissance of the 19 September 2017 mw 7.1 Puebla-Mexico City earthquake (September). *Geotechnical Extreme Events Reconnaissance Association*.
 
-<div id="ref-8">8. Chrysostomou, C. Z., Kyriakides, N., Papanikolaou. V. K., Kappos, A. J., Dimitrakopoulos, E. G., & Giouvanidis, A. I. (2015). Vulnerability assessment and feasibility analysis of seismic strengthening of school buildings. *Bulletin of Earthquake Engineering*, 13, 3809–40.</div>
+    </div>
 
-<div id="ref-9">9. Jaimes, M. A., & Niño, M. (2017) Cost-benefit analysis to assess seismic mitigation options in Mexican public-school buildings. *Bulletin of Earthquake Engineering*, 15(9), 3919–42.</div>
+::::::::::::::::::::::::::::::::::::: {#ref-5}
+5.  GEER. (2016). GEER-ATC earthquake reconnaissance April 16th 2016, Muisne, Ecuador. *Geotechnical Extreme Events reconnaissance Association Report* GEER-049. 604. Recuperado de
 
-<div id="ref-10">10. Samadian, D., Ghafory-Ashtiany, M., Naderpour, H., & Eghbali, M. (2019). Seismic resilience evaluation based on vulnerability curves for existing and retrofitted typical RC school buildings. *Soil Dynamics and Earthquake Engineering*, 127, 105844.</div>
+    </div>
 
-<div id="ref-11">11. Amini Hosseini, K., & Izadkhah, Y.O. (2020). From “Earthquake and safety” school drills to “safe school-resilient communities”: A continuous attempt for promoting community-based disaster risk management in Iran. *International Journal of Disaster Risk Reduction*, 45,101512.</div>
+:::::::::::::::::::::::::::::::::::: {#ref-6}
+6.  Valcárcel, J.A., Mora, M.G., Cardona, O.D., Pujades, L.G., Barbat, A.H., & Bernal, G.A. (2013) Methodology and applications for the benefit cost analysis of the seismic risk reduction in building portfolios at broadscale. *Natural Hazards*, 69(1), 845–68.
 
-<div id="ref-12">12. World Bank, Universidad de los Andes, UCL. (2019). *Global Library of School Infrastructure - Taxonomy Guide. Global Program for Safer Schools*. Recuperado de</div>
+    </div>
 
-<div id="ref-13">13. World Bank, Universidad de los Andes, UCL. (2019). *Global Library for School Infrastructure - Fragility and Vulnerability Assessment Guide. Global Program for Safer Schools*. Recuperado de</div>
+::::::::::::::::::::::::::::::::::: {#ref-7}
+7.  Mora. M.G., Valcárcel, J. A., Cardona, O.D., Pujades, L. G., Barbat, A. H., & Bernal, G. A. (2015) Prioritizing interventions to reduce seismic vulnerability in school facilities in Colombia. *Earthquake Spectra*, 31(4), 2535–52.
 
-<div id="ref-14">14. Yamin, L., Ghesquiere, F., Cardona, O., & Ordaz, M. (2013). *Modelación probabilista para la gestión del riesgo de desastre, El caso de Bogotá, Colombia*. Banco Mundial, Universidad de los Andes.</div>
+    </div>
 
-<div id="ref-15">15. Yang, T. Y. (2013). Assessing seismic risks for new and existing buildings using performance-based earthquake engineering (PBEE) methodology. *Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems*, 307–33.</div>
+:::::::::::::::::::::::::::::::::: {#ref-8}
+8.  Chrysostomou, C. Z., Kyriakides, N., Papanikolaou. V. K., Kappos, A. J., Dimitrakopoulos, E. G., & Giouvanidis, A. I. (2015). Vulnerability assessment and feasibility analysis of seismic strengthening of school buildings. *Bulletin of Earthquake Engineering*, 13, 3809–40.
 
-<div id="ref-16">16. Baker, J. W. (2013). *Introduction to Probabilistic Seismic Hazard Analysis*. White Paper version 201.</div>
+    </div>
 
-<div id="ref-17">17. Yamin. L. E, Reyes, J. C, Rueda, R., Prada, E., Rincón, R., Herrera, C., et al. (2018). Practical seismic microzonation in complex geological environments. *Soil Dynamics and Earthquake Engineering*, 114, 480–94.</div>
+::::::::::::::::::::::::::::::::: {#ref-9}
+9.  Jaimes, M. A., & Niño, M. (2017) Cost-benefit analysis to assess seismic mitigation options in Mexican public-school buildings. *Bulletin of Earthquake Engineering*, 15(9), 3919–42.
 
-<div id="ref-18">18. AIS (Asociación Colombiana de Ingeniería Sísmica). (2010). *Norma de construcción Sismo Resistente - NSR10*. 530–827. Bogotá: Asociación Colombiana de Ingeniería Sísmica</div>
+    </div>
 
-<div id="ref-19">19. FEMA (Federal Emergency Management Agency). (2017). *Hazus: FEMA’s Methodology for Estimating Potential Losses from Disasters*. Recuperado de https://www.fema.gov/hazus-mh-user-technical-manuals</div>
+:::::::::::::::::::::::::::::::: {#ref-10}
+10. Samadian, D., Ghafory-Ashtiany, M., Naderpour, H., & Eghbali, M. (2019). Seismic resilience evaluation based on vulnerability curves for existing and retrofitted typical RC school buildings. *Soil Dynamics and Earthquake Engineering*, 127, 105844.
 
-<div id="ref-20">20. Yamin, L. E., Hurtado, A. I, Barbat, A.H., & Cardona, O.D. (2014). Seismic and wind vulnerability assessment for the GAR-13 global risk assessment. *International Journal of Disaster Risk Reduction*, 10(PB), 452–60.</div>
+    </div>
 
-<div id="ref-21">21. D’Ayala, D., Meslem, A., Vamvatsikos, D., Porter, K., Rossetto, T., Crowley, H., et al. (2013). Guidelines for Analytical Vulnerability Assessment - Low/Mid-Rise. *Global Earthquake Model Technical Report.*</div>
+::::::::::::::::::::::::::::::: {#ref-11}
+11. Amini Hosseini, K., & Izadkhah, Y.O. (2020). From “Earthquake and safety” school drills to “safe school-resilient communities”: A continuous attempt for promoting community-based disaster risk management in Iran. *International Journal of Disaster Risk Reduction*, 45,101512.
 
-<div id="ref-22">22. Yamin, L.E., Hurtado, A., Rincon, R., Dorado, J. F., & Reyes, J. C. (2017) Probabilistic seismic vulnerability assessment of buildings in terms of economic losses. *Engineering Structures*, 138, 30 8–23.</div>
+    </div>
 
-<div id="ref-23">23. Aroquipa, H., Rincón, R., & Fernandez, R. (2017). Evaluación de alternativas de reforzamiento sísmico incremental para edificaciones escolares características en el Perú. En* VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla, Colombia.</div>
+:::::::::::::::::::::::::::::: {#ref-12}
+12. World Bank, Universidad de los Andes, UCL. (2019). *Global Library of School Infrastructure - Taxonomy Guide. Global Program for Safer Schools*. Recuperado de
 
-<div id="ref-24">24. American Society of Civil Engineers, Structural Engineering Institute. (2013*). Seismic evaluation and retrofit of existing buildings* (41-13). 1275 p.</div>
+    </div>
 
-<div id="ref-25">25. FEMA (Federal Emergency Management Agency) & ATC (Applied Technology Council). (2012). *Reducing the risks of nonstructural earthquake damage – A practical guide.* FEMA. 885 p.</div>
+::::::::::::::::::::::::::::: {#ref-13}
+13. World Bank, Universidad de los Andes, UCL. (2019). *Global Library for School Infrastructure - Fragility and Vulnerability Assessment Guide. Global Program for Safer Schools*. Recuperado de
 
-<div id="ref-26">26. British Columbia University. (2017). *The Seismic Retrofit Guidelines SGR-3*.</div>
+    </div>
 
-<div id="ref-27">27. ATC (Applied Technology Council). (1998). *Repair of Earthquake Damaged Concrete and Masonry Wall buildings.* Washington, D.C.: U.S. Dept. of Homeland Security, Federal Emergency Management Agency.</div>
+:::::::::::::::::::::::::::: {#ref-14}
+14. Yamin, L., Ghesquiere, F., Cardona, O., & Ordaz, M. (2013). *Modelación probabilista para la gestión del riesgo de desastre, El caso de Bogotá, Colombia*. Banco Mundial, Universidad de los Andes.
 
-<div id="ref-28">28. Rincón, R., Yamin, L., & Becerra, A. (2017). Seismic Risk Assessment of Public Schools and Prioritization Strategy for Risk Mitigation. En *16th World Conference on Earthquake*. Santiago Chile.</div>
+    </div>
 
-<div id="ref-29">29. Fernández, R. I., Rincón. R., & Yamin, L. E. (2019). Incertidumbre en el Beneficio Obtenido para Opciones de Reforzamiento Sísmico. En *IX Congreso Nacional de Ingeniería Sísmica*. Cali, Colombia.</div>
+::::::::::::::::::::::::::: {#ref-15}
+15. Yang, T. Y. (2013). Assessing seismic risks for new and existing buildings using performance-based earthquake engineering (PBEE) methodology. *Handbook of Seismic Risk Analysis and Management of Civil Infrastructure Systems*, 307–33.
 
-<div id="ref-30">30. Mechler, R. (2016). Reviewing estimates of the economic efficiency of disaster risk management: opportunities and limitations of using risk-based cost–benefit analysis. *Natural Hazards*, 81(3), 2121–47.</div>
+    </div>
 
-<div id="ref-31">31. Guevara, L. T., & García, L. E. (2005). The captive- and short-column effects. *Earthquake Spectra*, 21(1), 141–60.</div>
+:::::::::::::::::::::::::: {#ref-16}
+16. Baker, J. W. (2013). *Introduction to Probabilistic Seismic Hazard Analysis*. White Paper version 201.
 
-<div id="ref-32">32. Villar-Vega, M., Silva, V., Crowley, H., Yepes, C., Tarque, N., Acevedo, A. B., … María, H. S. (2017). Development of a Fragility Model for the Residential Building Stock in South America. *Earthquake Spectra*, 33(2), 581–604.</div>
+    </div>
 
-<div id="ref-33">33. Adhikari, R. K., D’Ayala, D., Ferreira, C. F., & Famirez, F. (2018). Structural classification system for load bearing masonry school buildings. En *16th European Conference on Earthquake Engineering*. 1–12.</div>
+::::::::::::::::::::::::: {#ref-17}
+17. Yamin. L. E, Reyes, J. C, Rueda, R., Prada, E., Rincón, R., Herrera, C., et al. (2018). Practical seismic microzonation in complex geological environments. *Soil Dynamics and Earthquake Engineering*, 114, 480–94.
 
-<div id="ref-34">34. Fuentes, G. A., Garcia, A, Yamin, L. E, Reyes, J. C. (2019). Funciones de fragilidad para muros de mampostería confinada ante cargas fuera del plano. En *IX Congreso Nacional de Ingeniería Sísmica*. Cali, Colombia.</div>
+    </div>
 
-<div id="ref-35">35. World Bank, Universidad de los Andes, UCL. (2018). *Información Técnica para el Plan de Mitigación del Riesgo Sísmico de las Edificaciones Escolares en El Salvador*. Bogotá: Universidad de los Andes.</div>
+:::::::::::::::::::::::: {#ref-18}
+18. AIS (Asociación Colombiana de Ingeniería Sísmica). (2010). *Norma de construcción Sismo Resistente - NSR10*. 530–827. Bogotá: Asociación Colombiana de Ingeniería Sísmica
 
-<div id="ref-36">36. CIMOC & Universidad de los Andes. (2019). *GPSS Informe técnico Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali Plan Piloto 2019*. Bogotá: Universidad de los Andes.</div>
+    </div>
 
-<div id="ref-37">37. Yamin, L. E., Garcia, A., Fuentes, G. A., Lopez, C., & Velez, L. (2019). Seismic performance assessment of representative school buildings. En *IX Congreso Nacional de Ingeniería Sísmica*.</div>
+::::::::::::::::::::::: {#ref-19}
+19. FEMA (Federal Emergency Management Agency). (2017). *Hazus: FEMA’s Methodology for Estimating Potential Losses from Disasters*. Recuperado de https://www.fema.gov/hazus-mh-user-technical-manuals
 
-<div id="ref-38">38. AMVA & Universidad de los Andes. (2017). Aunar Esfuerzos para la Armonización de la Microzonificación Sísmica de los Municipios del Valle de Aburrá, al Reglamento NSR-10 e Inclusión de los Cinco Corregimientos del Municipio de Medellín. Convenio marco de asociación 168 de 2015, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.</div>
+    </div>
 
-<div id="ref-39">39. AMVA & Universidad de los Andes. (2018). Aunar esfuerzos para el desarrollo de los estudios de riesgo sísmico del Valle de Aburrá, continuación del Sistema de Información Sísmico del Valle de Aburrá, y la elaboración y formación de la metodología para la evaluación de edificaciones después de un sismo. Bogotá: Convenio de asociación 1108 de 2016, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.</div>
+:::::::::::::::::::::: {#ref-20}
+20. Yamin, L. E., Hurtado, A. I, Barbat, A.H., & Cardona, O.D. (2014). Seismic and wind vulnerability assessment for the GAR-13 global risk assessment. *International Journal of Disaster Risk Reduction*, 10(PB), 452–60.
+
+    </div>
+
+::::::::::::::::::::: {#ref-21}
+21. D’Ayala, D., Meslem, A., Vamvatsikos, D., Porter, K., Rossetto, T., Crowley, H., et al. (2013). Guidelines for Analytical Vulnerability Assessment - Low/Mid-Rise. *Global Earthquake Model Technical Report.*
+
+    </div>
+
+:::::::::::::::::::: {#ref-22}
+22. Yamin, L.E., Hurtado, A., Rincon, R., Dorado, J. F., & Reyes, J. C. (2017) Probabilistic seismic vulnerability assessment of buildings in terms of economic losses. *Engineering Structures*, 138, 30 8–23.
+
+    </div>
+
+::::::::::::::::::: {#ref-23}
+23. Aroquipa, H., Rincón, R., & Fernandez, R. (2017). Evaluación de alternativas de reforzamiento sísmico incremental para edificaciones escolares características en el Perú. En* VIII Congreso Nacional de Ingeniería Sísmica*. Barranquilla, Colombia.
+
+    </div>
+
+:::::::::::::::::: {#ref-24}
+24. American Society of Civil Engineers, Structural Engineering Institute. (2013*). Seismic evaluation and retrofit of existing buildings* (41-13). 1275 p.
+
+    </div>
+
+::::::::::::::::: {#ref-25}
+25. FEMA (Federal Emergency Management Agency) & ATC (Applied Technology Council). (2012). *Reducing the risks of nonstructural earthquake damage – A practical guide.* FEMA. 885 p.
+
+    </div>
+
+:::::::::::::::: {#ref-26}
+26. British Columbia University. (2017). *The Seismic Retrofit Guidelines SGR-3*.
+
+    </div>
+
+::::::::::::::: {#ref-27}
+27. ATC (Applied Technology Council). (1998). *Repair of Earthquake Damaged Concrete and Masonry Wall buildings.* Washington, D.C.: U.S. Dept. of Homeland Security, Federal Emergency Management Agency.
+
+    </div>
+
+:::::::::::::: {#ref-28}
+28. Rincón, R., Yamin, L., & Becerra, A. (2017). Seismic Risk Assessment of Public Schools and Prioritization Strategy for Risk Mitigation. En *16th World Conference on Earthquake*. Santiago Chile.
+
+    </div>
+
+::::::::::::: {#ref-29}
+29. Fernández, R. I., Rincón. R., & Yamin, L. E. (2019). Incertidumbre en el Beneficio Obtenido para Opciones de Reforzamiento Sísmico. En *IX Congreso Nacional de Ingeniería Sísmica*. Cali, Colombia.
+
+    </div>
+
+:::::::::::: {#ref-30}
+30. Mechler, R. (2016). Reviewing estimates of the economic efficiency of disaster risk management: opportunities and limitations of using risk-based cost–benefit analysis. *Natural Hazards*, 81(3), 2121–47.
+
+    </div>
+
+::::::::::: {#ref-31}
+31. Guevara, L. T., & García, L. E. (2005). The captive- and short-column effects. *Earthquake Spectra*, 21(1), 141–60.
+
+    </div>
+
+:::::::::: {#ref-32}
+32. Villar-Vega, M., Silva, V., Crowley, H., Yepes, C., Tarque, N., Acevedo, A. B., … María, H. S. (2017). Development of a Fragility Model for the Residential Building Stock in South America. *Earthquake Spectra*, 33(2), 581–604.
+
+    </div>
+
+::::::::: {#ref-33}
+33. Adhikari, R. K., D’Ayala, D., Ferreira, C. F., & Famirez, F. (2018). Structural classification system for load bearing masonry school buildings. En *16th European Conference on Earthquake Engineering*. 1–12.
+
+    </div>
+
+:::::::: {#ref-34}
+34. Fuentes, G. A., Garcia, A, Yamin, L. E, Reyes, J. C. (2019). Funciones de fragilidad para muros de mampostería confinada ante cargas fuera del plano. En *IX Congreso Nacional de Ingeniería Sísmica*. Cali, Colombia.
+
+    </div>
+
+::::::: {#ref-35}
+35. World Bank, Universidad de los Andes, UCL. (2018). *Información Técnica para el Plan de Mitigación del Riesgo Sísmico de las Edificaciones Escolares en El Salvador*. Bogotá: Universidad de los Andes.
+
+    </div>
+
+:::::: {#ref-36}
+36. CIMOC & Universidad de los Andes. (2019). *GPSS Informe técnico Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali Plan Piloto 2019*. Bogotá: Universidad de los Andes.
+
+    </div>
+
+::::: {#ref-37}
+37. Yamin, L. E., Garcia, A., Fuentes, G. A., Lopez, C., & Velez, L. (2019). Seismic performance assessment of representative school buildings. En *IX Congreso Nacional de Ingeniería Sísmica*.
+
+    </div>
+
+:::: {#ref-38}
+38. AMVA & Universidad de los Andes. (2017). Aunar Esfuerzos para la Armonización de la Microzonificación Sísmica de los Municipios del Valle de Aburrá, al Reglamento NSR-10 e Inclusión de los Cinco Corregimientos del Municipio de Medellín. Convenio marco de asociación 168 de 2015, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.
+
+    </div>
+
+::: {#ref-39}
+39. AMVA & Universidad de los Andes. (2018). Aunar esfuerzos para el desarrollo de los estudios de riesgo sísmico del Valle de Aburrá, continuación del Sistema de Información Sísmico del Valle de Aburrá, y la elaboración y formación de la metodología para la evaluación de edificaciones después de un sismo. Bogotá: Convenio de asociación 1108 de 2016, Área Metropolitana del Valle de Aburrá, Universidad de los Andes.
+
+    </div>
 
 **3**
+:::
+::::
+:::::
+::::::
+:::::::
+::::::::
+:::::::::
+::::::::::
+:::::::::::
+::::::::::::
+:::::::::::::
+::::::::::::::
+:::::::::::::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::
+::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+:::::::::::::::::::::::
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+::::::::::::::::::::::::::
+:::::::::::::::::::::::::::
+::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::
