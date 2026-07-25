@@ -34,6 +34,8 @@ La sequía es una amenaza de desarrollo lento que no causa pérdidas sobre el am
 
 ## 3.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 La gestión del riesgo comprende todo el conjunto de acciones que pueden ser ejecutadas con el fin de reducir el impacto negativo de los desastres. Ahora bien, el primer paso para una correcta gestión del riesgo es identificarlo y cuantificarlo. En el marco de desastres asociados con fenómenos meteorológicos, se presenta una metodología novedosa con un enfoque único a nivel mundial, para la construcción de modelos totalmente probabilistas de riesgo de sequía, que se puede extender a otras amenazas como inundación o heladas.
 
 La sequía es una amenaza de desarrollo lento, que genera daños elevados para las actividades agropecuarias y la población expuesta. La sequía degrada los principales medios de subsistencia, agua y cultivos, de las comunidades, aumentando sus condiciones de inseguridad y, en consecuencia, aumentando el riesgo a niveles que pueden exceder los impuestos por eventos catastróficos Hagman, 1984 en [\[1\]](#ref-1).
@@ -57,6 +59,8 @@ En la primera sección se presenta el marco conceptual de la evaluación de ries
 
 ## 3.2 EVALUACIÓN PROBABILISTA DEL RIESGO POR SEQUÍA
 
+------------------------------------------------------------------------
+
 La @fig-c3-01 muestra el marco conceptual adoptado en esta metodología para la evaluación del riesgo de sequía agrícola, dividida en sus componentes principales: amenaza, vulnerabilidad, exposición y riesgo. En primer lugar, se modela la amenaza a partir de los registros históricos de precipitación y temperatura, con el fin de generar series futuras correlacionadas de parámetros climáticos e identificar condiciones de sequía que podrían ocurrir con una baja frecuencia. Posteriormente, se crea una base de datos de elementos expuestos con información sobre ubicación, características de los cultivos (tipo y estacionalidad) y actividades pecuarias (características de pastizales y manadas bovinas y ovinas), área, productividad y costo de producción de cada unidad de tierra cultivada. Luego, la vulnerabilidad se evalúa como la diferencia entre el rendimiento óptimo (condiciones sin restricciones de agua o nutrientes) y producción bajo déficit hídrico. Dicha disminución en el rendimiento se evalúa mediante un modelo de crecimiento y desarrollo de cultivos [\[15\]](#ref-15), el cual es el estándar de evaluación de la FAO (Organización de las Naciones Unidas para la Alimentación y la Agricultura), y se ha adaptado a la evaluación del riesgo con enfoque probabilista. Por último, el riesgo de sequía agrícola se modela en términos de pérdidas económicas derivadas de la pérdida de rendimiento debido a la escasez de agua. El riesgo se expresa en términos de la curva de excedencia de pérdidas, la pérdida anual esperada y las pérdidas máximas probables; métricas de riesgo que son útiles para los procesos de toma de decisiones.
 
 ![Esquema general del modelo probabilista de evaluación de riesgo por sequía (Fuente: elaboración propia).](images/capitulo_3/img_47157221.png){#fig-c3-01}
@@ -70,6 +74,8 @@ Los componentes del riesgo son la amenaza, los elementos expuestos y su vulnerab
 :::
 
 ## 3.3 EVALUACIÓN PROBABILISTA DE LA AMENAZA POR SEQUÍA
+
+------------------------------------------------------------------------
 
 La metodología propuesta considera que los escenarios de amenaza corresponden a eventos de condiciones continúas y simultáneas de estrés hídrico y alta temperatura. Para la evaluación prospectiva del riesgo por fenómenos meteorológicos, el componente de amenaza se define como un conjunto de cientos de eventos estocásticos, derivados de la simulación de variables de precipitación y temperatura, que son colectivamente exhaustivos y mutuamente excluyentes. Estos escenarios describen la distribución espacial, la frecuencia de ocurrencia y la aleatoriedad de la intensidad de eventos extremos de sequía en la región de interés. En un marco más amplio, a partir de las simulaciones de series de precipitación y temperatura, la metodología permite identificar eventos extremos no sólo de sequía, sino también de inundación, olas de calor o heladas, aplicando en cada caso los indicadores pertinentes, y así poder comparar sus potenciales impactos en la zona de interés.
 
@@ -155,6 +161,8 @@ A partir de la serie de indicadores de sequía se puede caracterizar cada evento
 
 ## 3.4 CASO DE ESTUDIO: SEQUÍA EN COLOMBIA
 
+------------------------------------------------------------------------
+
 Para el caso de la sequía, a partir de las series históricas y sintéticas de precipitación y temperatura se calculan los indicadores de sequía (SPI, SPEI, RDI y otros incluidos en la literatura especializada) para todas las estaciones y a diferentes escalas de tiempo en pasos mensuales. Una vez que se obtiene la serie temporal del indicador seleccionado en cada estación, se identifican los eventos de sequía, que ocurren cuando el indicador toma un valor por debajo de un umbral crítico. La descripción detallada de la metodología de indicadores de sequía se presenta en la sección de Materiales y Métodos al final de este documento.
 
 El siguiente paso es identificar los eventos de sequía que ocurren simultáneamente en varias estaciones de la región de estudio. Para cada mes, se identifican las estaciones con un valor de indicador por debajo del umbral definido para la evaluación. Si el número total de estaciones con valores por debajo del umbral es mayor que un cierto porcentaje (por ejemplo, 50%), entonces se identifica una sequía regional. Con cálculos consecutivos para todos los años de simulación, se pueden detectar múltiples sequías regionales, con su valor asociado de duración, severidad e intensidad en cada estación. Cada una de las sequías regionales es un escenario de sequía individual, con una frecuencia anual de ocurrencia igual a 1/N, en donde N es el número total de años de simulación. La @fig-c3-06 muestra esquemáticamente cómo se identifican las sequías regionales, de acuerdo con los criterios de selección definidos por un valor umbral de indicador y un número mínimo de estaciones que satisfacen dicha condición. Este procedimiento puede aplicarse para toda la región de estudio, o para subregiones definidas por otros criterios, como zonas climáticas, zonas productivas, entidades territoriales, etcétera.
@@ -172,6 +180,8 @@ Los mapas de severidad, duración e intensidad calculados para Colombia se muest
 Un resultado importante a resaltar son los valores de severidad de la sequía en la zona de La Guajira. Los mapas muestran que para la región caribe la severidad es menor que para el resto del país, al igual que algunas zonas de Cundinamarca y Boyacá. Es importante notar que el valor de severidad de la sequía se calcula a partir de los valores normales de la zona de evaluación, por lo que, aunque la región Caribe y en especial La Guajira son de climas secos o desérticos, los mapas que aquí se presentan muestran que en estas zonas las sequías meteorológicas son potencialmente menos graves que en otras zonas del país. Sin embargo, los impactos reales del riesgo a la sequía se determinan al considerar no sólo la amenaza, desde el enfoque meteorológico, sino también condiciones de exposición y vulnerabilidad, tanto física como socioeconómica, que puede incrementar los efectos de la amenaza.
 
 ## 3.5 EXPOSICIÓN AGRÍCOLA
+
+------------------------------------------------------------------------
 
 La metodología propuesta considera los elementos expuestos como uno de los componentes de riesgo, junto con la amenaza y la vulnerabilidad. Un elemento expuesto es cualquier objeto, geográficamente referenciado, que es susceptible de ser afectado por la ocurrencia de un fenómeno amenazante. Los elementos expuestos para la actividad agrícola son los cultivos ubicados en el área donde se estima el riesgo asociado a eventos climáticos extremos. Los elementos expuestos son fundamentales dentro del análisis de riesgo, debido a que comprenden los objetos sobre los cuales se evalúan las pérdidas, es decir, son la fuente de las pérdidas potenciales debido al hecho de estar expuestos a una amenaza y ser susceptibles de sufrir un daño.
 
@@ -236,6 +246,8 @@ Ahora bien, en caso de no contar con información de tipo y textura de suelo, se
 
 ## 3.6 REPRESENTACIÓN DE LA VULNERABILIDAD PARA LA EVALUACIÓN DEL RIESGO
 
+------------------------------------------------------------------------
+
 La vulnerabilidad es una característica intrínseca de los elementos expuestos y que caracteriza el comportamiento de los elementos expuestos (cultivos) durante la ocurrencia de un evento peligroso (sequía, por ejemplo). Para la metodología aplicada en este estudio, no se considera la definición de vulnerabilidad mediante curvas en las que la pérdida en el elemento expuesto es función de la intensidad de amenaza que ocurra en su ubicación. Por el contrario, la metodología de vulnerabilidad de respuesta de los cultivos a eventos extremos climáticos está asociada a reducciones en el rendimiento del cultivo según el uso de parámetros específicos por especie que definen los procesos físicos, químicos y biológicos que intervienen en el modelo de desarrollo de la planta y sus interacciones con los sistemas de atmósfera y suelo.
 
 En el caso de la evaluación de riesgo por eventos climáticos extremos, el componente de vulnerabilidad se conforma por la metodología de respuesta de los cultivos a la disponibilidad de agua y estrés por temperatura, aplicada por la FAO y publicada en el Artículo 66 de la Unidad de Drenaje e Irrigación [\[15\]](#ref-15) y resumida en este documento en la sección de Materiales y Métodos. El resultado del módulo de vulnerabilidad cuantifica las diferencias entre el rendimiento óptimo alcanzado por la planta sin restricciones de agua y el rendimiento real logrado bajo condiciones de estrés hídrico o térmico.
@@ -243,6 +255,8 @@ En el caso de la evaluación de riesgo por eventos climáticos extremos, el comp
 Este enfoque permite calcular la biomasa de los cultivos con base en la cantidad de agua transpirada y el rendimiento del cultivo como la proporción de biomasa que entra en las partes cosechables de las plantas.
 
 ## 3.7 EVALUACIÓN DEL RIESGO POR SEQUÍA EN EL SECTOR AGROPECUARIO
+
+------------------------------------------------------------------------
 
 Como se muestra en la @fig-c3-11, la evaluación probabilista del riesgo se puede resumir en los siguientes pasos (más detalles en la sección de Materiales y Métodos):
 
@@ -333,6 +347,8 @@ Drought Pro calcula para múltiples escenarios de clima y cultivos las principal
 
 ## 3.8 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Con el objetivo de identificar y cuantificar la amenaza asociada a fenómenos hidrometeorológicos para el sector agropecuario, se presentó una metodología con enfoque probabilista para la simulación de eventos peligrosos mediante la simulación de condiciones climáticas que combinan eventos extremos de precipitación y temperatura durante un tiempo prolongado, sobre un área geográfica concreta. Como resultado se obtuvieron mapas de amenaza integrada por sequía para Colombia, caracterizados por condiciones de severidad, duración e intensidad del fenómeno para 50, 100, 250 y 500 años de periodo de retorno. A partir de estos mapas se pueden identificar las zonas más propensas a sufrir sequías graves.
 
 Como parte de este estudio se construyó un modelo de exposición de cultivos para Colombia, con una resolución de 10 km × 10 km para todo el territorio continental. Este modelo de exposición, derivado de información de censos y encuestas agrícolas, caracteriza la ubicación, densidad de siembra, estacionalidad del cultivo y avalúo del producto para la actividad agrícola y pecuaria del país.
@@ -357,6 +373,8 @@ Puntos Clave
 :::
 
 ## 3.9 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 En esta sección se describen en detalle las metodologías utilizadas para la generación estocástica de series climáticas, la evaluación de la amenaza por sequía y la evaluación de la respuesta de los cultivos a condiciones de estrés hídrico.
 
@@ -607,9 +625,13 @@ en donde $Pi$ es la pérdida económica para el escenario $i$ , $A$ es el área 
 
 ## 3.10 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 ## 3.11 IDENTIFICACIÓN DEL AUTOR
+
+------------------------------------------------------------------------
 
 Omar Darío Cardona &nbsp;&nbsp;[https://orcid.org/0000-0001-8233-5450](https://orcid.org/0000-0001-8233-5450)
 
@@ -618,6 +640,8 @@ Gabriel Bernal &nbsp;&nbsp;[https://scholar.google.com/citations?user=wYtazboAAA
 María Alejandra Escovar &nbsp;&nbsp;[https://scholar.google.com/citations?hl=en&user=Ac5JYNoAAAAJ](https://scholar.google.com/citations?hl=en&user=Ac5JYNoAAAAJ)
 
 ## 3.12 BIBLIOGRÁFIA
+
+------------------------------------------------------------------------
 
 ::::::::::::::::::::::::::::::::::::::::::::::: {#ref-1}
 1.  Wilhite, D. A. (1993). The Enigma of Drought. En: D. A. Wilhite (ed.), *Drought Assessment, Management, and Planning: Theory and Case Studies*. Boston, MA: Springer US; pp. 3-15. https://doi.org/10.1007/978-1-4615-3224-8_1

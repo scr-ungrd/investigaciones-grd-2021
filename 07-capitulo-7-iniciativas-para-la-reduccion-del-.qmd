@@ -30,6 +30,8 @@ Es necesario asumir desde la academia tareas encaminadas a disminuir el impacto 
 
 ## 7.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Como bien lo anota el Banco Mundial en su publicación *Análisis sobre la Gestión del Riesgo en Colombia* [[2]](#ref-2), nuestro país, como diversas regiones del mundo, enfrenta grandes retos que amenazan seriamente su desarrollo. Factores como el desplazamiento de población de las zonas rurales a las zonas urbanas, la degradación ambiental y el cambio acelerado del uso del suelo amplifican la magnitud de estos retos. Además, es posible observar en el estudio del Banco Mundial cómo las condiciones socioeconómicas que acompañan a distintos sectores de la población colombiana, junto con la propensión a la ocurrencia de fenómenos de origen natural tales como los sismos, inundaciones y deslizamientos confirman un proceso continuo de construcción y acumulación de riesgos. La vulnerabilidad socioeconómica y ambiental de gran parte de nuestra población se incrementa a su vez por las acciones humanas y las condiciones cada vez más variantes y rigurosas del clima. Es importante tener en cuenta que la materialización de estos riesgos muchas veces se convierte en desastres que afectan las condiciones normales de funcionamiento de una comunidad, impidiendo la ejecución de las actividades de su vida diaria, provocando la pérdida de bienes, y en muchas ocasiones de vidas humanas, trastornando el desarrollo de la región y retrasando el logro de las metas de bienestar social trazadas por el Estado. 
 
 De lo anterior es posible establecer que el riesgo se construye socialmente, y como anota Gallardo [[3]](#ref-3) en su documento sobre la visión social de la prevención, debe reconocerse al riesgo como un proceso dinámico donde cambian las condiciones porque cambian las prácticas de la sociedad. Es por esta razón que corresponde a la sociedad misma intervenirlo y gestionarlo para controlar y disminuir sus niveles, los cuales se relacionan más con la construcción social de la vulnerabilidad que con las mismas fuerzas de la naturaleza. La gestión del riesgo de desastres requiere entonces del concurso de todos los miembros de la sociedad en la búsqueda de mayor seguridad, bienestar y calidad de vida, sin olvidar velar por el mejoramiento de su relación con la naturaleza. Estas decisiones, al igual que las de orden sociopolítico, económico y ambiental son indispensables para avanzar hacia la reducción del riesgo y el incremento de la resiliencia de la comunidad, entendida esta como la capacidad del sistema social y de las instituciones para hacer frente a las adversidades. 
@@ -48,6 +50,8 @@ Todo esto sumado a la normatividad jurídica de la Universidad (Caja 1), que sir
 En este espacio académico nació la experiencia de extensión denominada “La gestión del riesgo, de la universidad a la comunidad” desde donde no solo se fortalece el conocimiento y lo que significa una buena relación del ser humano con la naturaleza, sino que también privilegia los principios y valores que caracterizan la educación lasallista y hacen parte de la responsabilidad social que hoy demanda el ejercicio de un buen profesional.
 
 ## 7.2 BREVE RESEÑA DE LOS DESASTRES EN COLOMBIA
+
+------------------------------------------------------------------------
 
 Solo hasta noviembre de 1985 –cuando la avalancha provocada por la activación del Volcán del Nevado del Ruiz generó la gran catástrofe que enlutó al pueblo colombiano afectando de manera directa los departamentos de Tolima y Caldas, provocando alrededor de 25,000 víctimas y perdidas económicas calculadas en 211.8 millones de dólares (cifras suministradas por el PNUD)–  se detectó la necesidad urgente de contar con un Sistema que coordinara las acciones encaminadas a la prevención y atención de desastres en el territorio nacional. En consecuencia, se crea en 1989 el Sistema Nacional de Prevención y Atención de Desastres (SNPAD), hoy Sistema Nacional para la Gestión del Riesgo de Desastres (SNGRD), red institucional que tiene como función la administración del riesgo. 
 
@@ -68,6 +72,8 @@ Además de las severas inundaciones que captaron la mayor atención por su exten
 Otros eventos como los derrames de petróleo, escapes o fugas de sustancias químicas peligrosas, incendios, explosiones y colapso de estructuras, todos ellos considerados de origen antrópico y/o tecnológico, completan la larga lista de las amenazas presentes en el país. Como un ejemplo de materialización de estas amenazas se pueden citar: el desplome de la torre 6 del edificio Space en la ciudad de Medellín el 12 de octubre de 2013, donde murieron 12 personas y centenares resultaron damnificadas; la caída del puente Chirajara en la vía Bogotá-Villavicencio el 15 de enero de 2018, donde 9 obreros perdieron la vida y hubo un inmenso impacto en el desarrollo social y económico de la región. 
 
 ## 7.3 LA GESTIÓN DEL RIESGO: DE LA UNIVERSIDAD A LA COMUNIDAD
+
+------------------------------------------------------------------------
 
 ### 7.3.1 Detalles de la experiencia
 
@@ -124,6 +130,8 @@ De otro lado, desde el 2010, la Defensa Civil apoya muy de cerca los procesos de
 
 ## 7.4 ALCANCES DE LA EXPERIENCIA
 
+------------------------------------------------------------------------
+
 ### 7.4.1 Desde los proyectos de aula
 
 Vallaeys François [[12]](#ref-12)  escribe “La universidad produce impactos sociales, en tanto que influye fuertemente en la sociedad y su desarrollo económico, cultural y político; no sólo tiene un impacto directo sobre el futuro del mundo en cuanto forma a sus profesionales y líderes, sino que ella es también un referente y un actor social que puede promover (o no) el progreso, que puede crear (o no) capital social, vincular (o no) la educación de los estudiantes con la realidad social exterior, hacer accesible (o no) el conocimiento a todos.” 
@@ -174,6 +182,8 @@ Es bueno anotar que muchos de los estudiantes que pasaron por el espacio académ
 
 ## 7.5 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 La responsabilidad social, en especial en lo que hace referencia a la gestión del riesgo, es un tema que apenas se está abordando en las instituciones de educación superior, donde se sabe se forman los futuros tomadores de decisiones. En este sentido, la universidad de La Salle reconoce, desde su misión, visión y política, la responsabilidad que, como institución, debe asumir para contribuir con el desarrollo humano e integralmente sostenible del país, es así que apoya los proyectos que se adelantan para incrementar la resiliencia de la población en distintos sectores del territorio nacional.
 
 La Universidad debe superar el enfoque de la extensión y la proyección social como apéndices bien intencionados de sus funciones como formadora de estudiantes y productora de conocimientos, para poder asumir la verdadera exigencia de la responsabilidad social universitaria. Es claro entonces que, la manera como se aborda el conocimiento sobre los factores de riesgo debe llevar al profesional lasallista a asumir con responsabilidad la tarea de mejorar la relación entre la población y las condiciones naturales y del entorno, lo que marca en buena medida la vida y el desarrollo del país.
@@ -194,17 +204,25 @@ Al revisar los resultados de los últimos informes del IPCC y lo escrito por Nol
 :::
 ## 7.6 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 El autor declara no tener conflicto de interés.
 
 ## 7.7 AGRADECIMIENTOS
+
+------------------------------------------------------------------------
 
 Quiero manifestar mis más sinceros agradecimientos a la UNGRD por abrir un espacio para dar a conocer las iniciativas orientadas a la reducción del riesgo de desastres que se adelantan en la Universidad de La Salle, las cuales se consideran relevantes en la construcción de caminos que llevan al fortalecimiento de las políticas relacionadas con la responsabilidad social de la institución. Es oportuno reconocer el esfuerzo y compromiso de los estudiantes que se vinculan semestre a semestre al semillero del grupo de investigación en gestión del riesgo y cambio climático (GRYCC) de la Universidad, ya que es a través de su trabajo y dedicación que se construyen junto con la comunidad las alternativas para la disminución del riesgo.
 
 ## 7.8 IDENTIFICACIÓN DE AUTOR
 
+------------------------------------------------------------------------
+
 Víctor Leonardo López Jiménez	
 
 ## 7.9 BIBLIOGRAFIA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. Gómez Restrepo, Fsc., H. G. (2010). La responsabilidad social de la universidad lasallista: elementos para la reflexión y el debate. *Revista de la Universidad de La Salle*, 51, 15-53.</div>
 

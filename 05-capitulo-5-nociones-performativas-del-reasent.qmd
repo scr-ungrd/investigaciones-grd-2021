@@ -21,24 +21,20 @@ doi: ""
 
 El reasentamiento se ha convertido en un generador de nuevos riesgos para las comunidades al no priorizar el marco social que le constituye. Así, el estudio tuvo como objetivo identificar y conceptualizar los componentes psicosociales estratégicos para la planificación, ejecución y seguimiento de procesos correctivos de reasentamiento social para el contexto colombiano, con el fin de fortalecer los modos de vida de las comunidades, el desarrollo sostenible y la ampliación de libertades humanas. Se utilizó un diseño de corte cualitativo con enfoque hermenéutico centrado en el estado de la cuestión, usando como método el análisis de contenido categorial. Se analizaron doscientos documentos realizados en países latinoamericanos en el periodo 1991–2015 a partir de la categoría de análisis: reasentamiento poblacional asociado a amenaza natural, se adelantaron seis grupos focales y siete entrevistas semiestructuradas. Los resultados evidencian diez componentes sociales claves en proyectos de reasentamiento: territorial, ambiental, económico, estrategias sociales de afrontamiento, salud mental y física, prácticas socio culturales, percepción social del riesgo, jurídico-político, participación y organización social, e institucional. Se propone en la discusión el carácter performativo de estos componentes sociales, en cuanto la planeación, ejecución y seguimiento de cada uno implica que sea reinventado según las tensiones, rupturas y sintonías del contexto. 
 
-
+**Palabras clave**: Reasentamiento social, acompañamiento psicosocial, reducción del riesgo de desastres, integridad socio-ambiental, sostenibilidad
 :::
 
-## 5.1 Palabras clave: Reasentamiento social, acompañamiento psicosocial, reducción del riesgo de desastres, integridad socio-ambiental, sostenibilidad
-
-**Performative notions of social resettlement as disaster risk reduction in Colombia: strategic psychosocial components for sustainability**
 
 ::: {#abstract}
 ## Abstract {.unnumbered}
+**Performative notions of social resettlement as disaster risk reduction in Colombia: strategic psychosocial components for sustainability** Resettlement has come through new risks for communities as its social framework has not been prioritized. Thus, the study aimed to identify and conceptualize the strategic psychosocial components for the planning, execution and monitoring of corrective processes of social resettlement for the Colombian context, in order to strengthen community livelihoods, sustainable development, and expansion of valuable freedoms. It was used a qualitative design with a hermeneutical approach focused on the state of the question, using categorical content analysis as a method. Two hundred documents made in Latin American countries in the period 1991–2015 were analyzed based on the category of analysis: population resettlement associated with natural hazards, six focus groups and seven semi-structured interviews were carried out. The results stress out ten key social components in resettlement projects: territorial, environmental, economic, social coping strategies, mental and physical health, socio-cultural practices, social risk perception, legal-political, social and institutional participation, and organization. In the discussion, the performative is embedded in these social components as the planning, execution and monitoring of each one should be reinvented according to the tensions, ruptures and tunings of the context.
 
-Resettlement has come through new risks for communities as its social framework has not been prioritized. Thus, the study aimed to identify and conceptualize the strategic psychosocial components for the planning, execution and monitoring of corrective processes of social resettlement for the Colombian context, in order to strengthen community livelihoods, sustainable development, and expansion of valuable freedoms. It was used a qualitative design with a hermeneutical approach focused on the state of the question, using categorical content analysis as a method. Two hundred documents made in Latin American countries in the period 1991–2015 were analyzed based on the category of analysis: population resettlement associated with natural hazards, six focus groups and seven semi-structured interviews were carried out. The results stress out ten key social components in resettlement projects: territorial, environmental, economic, social coping strategies, mental and physical health, socio-cultural practices, social risk perception, legal-political, social and institutional participation, and organization. In the discussion, the performative is embedded in these social components as the planning, execution and monitoring of each one should be reinvented according to the tensions, ruptures and tunings of the context.
-
-
+**Keywords**: Social resettlement, psychosocial support, disaster risk reduction, socio-environmental integrity, sustainability
 :::
 
-## 5.2 **Keywords**: Social resettlement, psychosocial support, disaster risk reduction, socio-environmental integrity, sustainability
-
 ## 5.3 INTRODUCCIÓN
+
+------------------------------------------------------------------------
 
 Los casos de reasentamiento correctivos asociados a amenazas socio-naturales se soportan en el diagnóstico de riesgo no mitigable en una zona específica, donde la vulnerabilidad construida puede desencadenar un conjunto de afectaciones negativas para la integridad física, mental, social, económica y cultural de los habitantes de la zona. Bajo este marco, el reasentamiento correctivo es un proceso que constituye la última alternativa para reducir los riesgos de un determinado grupo poblacional al considerarse su complejidad [[1]](#ref-1). 
 
@@ -74,6 +70,8 @@ Reconocer la sostenibilidad de los procesos de reasentamiento social como medida
 :::
 
 ## 5.4 RESULTADOS
+
+------------------------------------------------------------------------
 
 Los resultados del presente estudio se categorizaron en diez componentes psicosociales del reasentamiento social. La tabla 1 sintetiza los componentes encontrados en la revisión documental según país, por su parte la figura 1 condensa la relación encontrada entre los componentes psicosociales. 
 
@@ -238,6 +236,8 @@ Balazote [[49]](#ref-49) refiere la importancia de comunicar sentires frente a l
 
 ## 5.5 DISCUSIÓN Y CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Reubicación, relocalización y reasentamiento poblacional suelen ser categorías de estudio homologables en su abordaje e implementación a nivel latinoamericano [[2]](#ref-2), [[52]](#ref-52), [[53]](#ref-53), [[54]](#ref-54), sin embargo, el abordaje metodológico, político, administrativo, económico y social de cada uno de ellos, guarda significativas diferencias [[20]](#ref-20). Mientras que la reubicación y la relocalización implican ejercicios de menor impacto, en tanto pueden ser temporales, o darse en el mismo territorio, el reasentamiento, por el contrario, involucra una transformación de vínculos que afectan directamente el tejido social, conformado por cada una de las redes relacionales con el entorno, en consecuencia, amerita una mayor complejidad en su abordaje.
 
 Lograr un reasentamiento social implica un ejercicio de resignificación relacional, influenciado por la percepción social del riesgo, las estrategias sociales de afrontamiento y los canales de participación que las instituciones, familias y comunidades implicadas han construido. Así, el reasentamiento social tendría como propósito fortalecer los modos de vida y el desarrollo sostenible, a través de una relación de corresponsabilidad entre el Estado, las instituciones públicas y privadas, las organizaciones de sociedad civil y las comunidades.
@@ -264,6 +264,8 @@ El reasentamiento social como estrategia de reducción del riesgo de desastres, 
 :::
 ## 5.6 METODOLOGÍA
 
+------------------------------------------------------------------------
+
 La investigación fue de corte cualitativo en tanto permitía profundizar en elementos determinados de la realidad social desde dinámicas particulares del contexto [[56]](#ref-56). Siguió los principios del enfoque hermenéutico centrado en el estado de la cuestión, entendiéndose como
 
 \[…] la producción científica reciente en torno a la vivencia que se desea investigar. La 	cuestión, en una investigación cualitativa con enfoque hermenéutico, es una cosa que se 	pretende crear, y su existencia será posible si porta algo novedoso. Por eso se requiere ir 	al horizonte del pasado para indagarlo [[57]](#ref-57).
@@ -274,13 +276,19 @@ Los instrumentos empleados fueron: (1) matriz de análisis por medio de la cual 
 
 ## 5.7 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Las autoras y el autor no declaran conflicto de intereses
 
 ## 5.8 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 El presente proyecto de investigación fue posible gracias al convenio de asociación No. 9677-PPAL001-637-2015 celebrado entre el Fondo Nacional de Gestión del Riesgo de Desastres – FIDUPREVISORA S.A. y la Universidad de Manizales.
 
 ## 5.9 IDENTIFICACIÓN DE AUTOR
+
+------------------------------------------------------------------------
 
 William Oswaldo Gaviria Gutiérrez	
 
@@ -289,6 +297,8 @@ Viviana Ramírez Loaiza
 Lina Andrea Zambrano Hernández	
 
 ## 5.10 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. Correa, E., Sanahuja, H. y Ramírez, F. (2011). *Guía de Reasentamiento para poblaciones en riesgo de desastre.* Washington DC: Banco Mundial y GFDRR.</div>
 

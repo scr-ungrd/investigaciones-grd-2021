@@ -36,6 +36,8 @@ En este estudio se presenta la importancia de realizar estudios históricos de f
 
 ## 9.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 El presente trabajo sugiere que los estudios históricos –es decir la historicidad de los fenómenos naturales y de los desastres asociados– son de suma importancia en la gestión del riesgo y cobran preponderancia al tomarse como el primer paso para realizar estudios de predicción o valoración de la amenaza o tomar decisiones sobre medidas de prevención y mitigación en una región determinada. Los estudios historicos permitien el acercamiento a los procesos de conocimiento y reducción del riesgo de desastres como son definidos en la Ley 1523 de 2012 que adopta la política nacional de gestión del riesgo de desastres en el territorio colombiano. Por tanto, se plantea que dichos estudios se consideran como la llave que abre la puerta para la percepción del riesgo y la caracterización de los escenarios de riesgos ya que a través de ellos, en primera instancia, se pueden reconocer las zonas propensas o susceptibles a la ocurrencia de eventos amenazantes, la espacialidad, temporalidad y grado de afectación de los eventos ocurridos en el pasado.  
 
 En este estudio se muestran algunos de los resultados obtenidos en el marco de la caracterización de escenarios de riesgo para el Plan Municipal de Gestión del Riesgo de Santiago de Cali desarrollado en el año 2018 por profesionales adscritos al Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO) y el grupo de investigación Georiesgos de la Universidad del Valle, con recursos de la Alcaldía. Se presenta la información sobre la búsqueda documental para la obtención de noticias relacionadas con los diferentes eventos naturales amenazantes, su tipificación como evento específico, la frecuencia de ocurrencia y los respectivos inventarios o catálogos.  
@@ -43,6 +45,8 @@ En este estudio se muestran algunos de los resultados obtenidos en el marco de l
 Para el desarrollo de la historicidad del municipio de Santiago de Cali se consideran los fenómenos de sismos, movimientos en masa e inundaciones con el propósito de aportar información fundamental para la evaluación de la amenaza y caracterización del riesgo ante cada tipo de evento, y para la posterior implementación de estos conocimientos en la planificación del territorio. Estos fenómenos se definieron teniendo en cuenta que históricamente son aquellos que han generado mayor recurrencia y severidad en la ciudad. 
 
 ## 9.2 LOS ESTUDIOS HISTÓRICOS EN LA GESTION DEL RIESGO
+
+------------------------------------------------------------------------
 
 Los impactos que deja la ocurrencia de fenómenos naturales amenazantes como terremotos, erupciones volcánicas, deslizamientos e inundaciones, etc., han ocupado un papel preponderante en la historia de la humanidad, por cuanto los daños y efectos causados, en algunos casos, han destruido completa o parcialmente pueblos y civilizaciones y, en otros casos, han truncado el desarrollo de muchos países del mundo. Por tal razón, el riesgo y los desastres generados por estos fenómenos son materia de estudio de profesionales de diversas disciplinas, incluso del público en general, quienes, a partir de diferentes métodos y enfoques teóricos, analizan no solo los procesos físicos asociados con su ocurrencia sino también los aspectos relacionados con la distribución espacial, la frecuencia o regularidad temporal, la valoración socio económica de los daños y efectos, el diseño y construcción de obras resistentes a sus fuerzas, la planificación de medidas de mitigación y prevención, entre otros.  
 
@@ -82,6 +86,8 @@ Para que los estudios históricos sean de utilidad en gestión del riesgo deben 
 
 ## 9.3 APLICACIONES EN LA CIUDAD SANTIAGO DE CALI
 
+------------------------------------------------------------------------
+
 Como aplicación, en el presente trabajo se enseña el estudio de historicidad por sismos, movimientos en masa e inundaciones realizado para el municipio de Santiago de Cali en el marco de la formulación del Plan Municipal de Gestión del Riesgo, el cual fue desarrollado por el Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO) y el grupo de investigación Georiesgos de la Universidad del Valle, con recursos de la Alcaldía. 
 
 Como aplicación, el presente trabajo muestra algunos de los resultados obtenidos en el marco de la caracterización de escenarios de riesgo para el Plan Municipal de Gestión del Riesgo, desarrollado por profesionales adscritos al Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO) y el grupo de investigación Georiesgos de la Universidad del Valle, con recursos de la Alcaldía. 
@@ -101,6 +107,8 @@ A nivel hídrico, el sistema se conforma por ecosistemas acuáticos lóticos y l
 Además, como producto del contexto tectónico presente en el suroccidente del país y del fallamiento regional, la ciudad es definida con un nivel de amenaza sísmica alta con un valor de aceleración pico efectiva promedio por encima de los Aa = 2.84 m/s² donde, según el Estudio de Microzonificación Sísmica de Cali [[6]](#ref-6), la zona con mayor aceleración tiene un valor Aa = 3.92 m/s².
 
 ## 9.4 MÉTODOLOGÍA Y FUENTES DOCUMENTALES
+
+------------------------------------------------------------------------
 
 ### 9.4.1 Metodología
 
@@ -144,6 +152,8 @@ Se consultaron los principales diarios locales y regionales de acuerdo con el pe
 **Cuadro 1.** Listado de Fuentes de información utilizadas para el desarrollo del trabajo Bases de datos Red de Estudios Sociales en Prevención de Desastres en América Latina (LA RED). DesInventar. 1949-2018. En línea http://www.desinventar.org/es/ Servicio Geológico Colombiano (SGC). Sistema de Información de Movimientos en Masa (SIMMA). 2018. Versión electrónica disponible en: http://simma.sgc.gov.co Servicio Geológico Colombiano (SGC). Red Sismológica Nacional de Colombia- RSNC (2018). Sismicidad Histórica de Colombia. Versión electrónica disponible en: http://sish.sgc.gov.co/visor/ Defensa Civil Colombiana. Territorial Cali. 2018. Sistema Nacional de Información para la Prevención y Atención de Desastres – SINPAD. Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD. 2018. Consolidado de emergencias. Versión electrónica disponible en: http://portal.gestiondelriesgo.gov.co/Paginas/Consolidado-Atencion-de-Emergencias.aspx Gobierno Digital de Colombia.2018. Datos Abiertos Colombia. Versión electrónica disponible en: https://www.datos.gov.co/ Cuerpo de Bomberos Voluntarios de Cali. 2013-2018. Base de datos de incendios forestales.  Periódico Diario El País. 1949-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. Occidente. 1962-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Tiempo. 1980-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Caleño. 1976-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Pueblo. 1976-1986. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Relator. 1954-1961. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Constitucional del Cauca. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle. Correo ABC. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle. Correo del Cauca. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle Diario El Liberal. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle. Libros Centro Regional de Sismología para América del Sur. Colombia (CERESIS). 1985. Catálogo de terremotos para América del Sur. Datos de hipocentros e intensidades. Volumen 4. 136 p. Ramírez, J. E. 1975. Historia de los terremotos en Colombia. Bogotá: Instituto Geográfico Agustin Codazzi. 250 p. CD  Espinosa, A. 2012. Enciclopedia de desastres naturales históricos de Colombia. Volúmenes 1-7. Documentos INGEOMINAS-DAGMA. 2005. Informe No.1-4 Estudio de Sismicidad Histórica Regional. Capítulo 4.3. Características de los terremotos históricos importantes para la amenaza sísmica de la ciudad de Santiago de Cali. 86 p. Versión electrónica disponible en: https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=BusquedaPredefinida=DGAMicrZonSismSantiagoCali. Empresas Municipales de Cali (EMCALI). 2016-2018. Formato para evaluación de daños. Plan de emergencia y contingencias UENAA.  Cruz Roja. 2013-2018. Censo para damnificados. Talleres del Municipio. 2013-2018. Informe de talleres del municipio.
 :::
 ## 9.5 RESULTADOS
+
+------------------------------------------------------------------------
 
 A continuación, se presentan los principales resultados y conclusiones del estudio de historicidad de fenómenos naturales realizado para la caracterización de escenarios de riesgos dentro del Plan Municipal de Gestión del Riesgo del municipio Santiago de Cali, en el cual se tuvieron en cuenta los eventos sísmicos, movimientos en masa e inundaciones, aportando información fundamental para la evaluación de la amenaza y caracterización del riesgo en el municipio ante cada tipo de evento y, posteriormente, la implementación de estos conocimientos en la planificación del territorio.
 
@@ -288,6 +298,8 @@ Las @fig-c9-16, @fig-c9-17 y @fig-c9-18 muestran la representación cartográfic
 
 ## 9.6 GESTIÓN DEL RIESGO EN CALI Y SU RELACIÓN CON LA OCURRENCIA DE EVENTOS HISTÓRICOS
 
+------------------------------------------------------------------------
+
 El municipio de Santiago de Cali, específicamente su área urbana, fue un epicentro importante de recepción de flujos migratorios, convirtiéndose en un centro de actividades económicas para una vasta porción del eje comercial y en un polo de desarrollo para la región [[66]](#ref-66). Sin embargo, al mismo tiempo fue consolidando un desarrollo desordenado de su trama urbana. 
 
 En este contexto, debido a la carencia de instrumentos institucionales para una adecuada planificación de la ciudad, se conformaron asentamientos ilegales que derivaron posteriormente en conflictos por la tierra [[67]](#ref-67) y en la toma de acciones populares por parte de la población migrante para acceder a un predio y a la aplicación de políticas de desarrollo urbano, propiciando la dilatación físico-urbana y la ampliación del perímetro urbano entre 1950 y 1990 hacia el oriente de la ciudad [[68]](#ref-68). Se consolido un modelo de ciudad que muestra una expansión discontinua, dispersa e incontrolada, mediante la ocupación de terrenos aislados y sin urbanizar.
@@ -311,6 +323,8 @@ Con base a todo lo anterior, se debe mencionar que, de acuerdo al estudio de his
 Finalmente, dado que este trabajo hace parte de la formulación del Plan Municipal de Gestión del Riesgo de Santiago de Cali, desarrollado en el año 2018, resulta conveniente analizar en un futuro, su impacto en la frecuencia de ocurrencia y severidad de eventos. 
 
 ## 9.7 CONCLUSIONES
+
+------------------------------------------------------------------------
 
 En este estudio historicidad se encontraron 97 sismos que por sus características de localización y efectos, son importantes para entender la dinámica sísmica de la ciudad de Santiago de Cali; aunque muchos no dejaron grandes efectos negativos para la ciudad, siendo los de mayor intensidad y consecuencia los de 7 de junio de 1925, 30 julio de 1962, 23 de noviembre de 1979, 8 de febrero de 1995 y 15 de noviembre de 2004. 
 
@@ -336,13 +350,19 @@ Finalmente, la distribución espacial de los eventos históricos, específicamen
 :::
 ## 9.8 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses 
 
 ## 9.9 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 A la Alcaldía Municipal de Santiago de Cali por intermedio de la Secretaria Municipal de Gestión del Riesgo de Desastres y Emergencias quienes priorizaron dentro de sus proyectos el contrato interadministrativo 4163.00126.1.357 de 2018 cuya ejecución estuvo a cargo del Observatorio Sismológico de la Universidad del Valle y de la cual se derivan los resultados del PMGRD de Santiago de Cali.  
 
 ## 9.10 IDENTIFICACIÓN DE AUTORES
+
+------------------------------------------------------------------------
 
 Nathalie Garcia-Millan                  	
 
@@ -361,6 +381,8 @@ Jorge Andrés Diaz Renteria
 Elkin de J. Salcedo Hurtado             	
 
 ## 9.11 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. García-Acosta, V. (1996). El estudio histórico de los desastres. *Historia y Desastres en América Latina*, 1, 15–37.</div>
 

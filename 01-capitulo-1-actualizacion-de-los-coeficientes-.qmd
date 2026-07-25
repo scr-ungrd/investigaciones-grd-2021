@@ -31,9 +31,13 @@ Se presenta la propuesta de coeficientes sísmicos de diseño desarrollada desde
 
 ## 1.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 La Ley 400 de 1997 marca un hito en la historia del país al establecer el marco normativo que provee las exigencias mínimas para el diseño de edificaciones nuevas en Colombia. La Norma Colombiana de Construcción Sismo Resistente, NSR, está circunscrita en dicha ley y sus decretos reglamentarios, estableciendo las condiciones para la práctica de la ingeniería estructural en Colombia. Esta norma fue actualizada en el 2010 en diversos aspectos de la ingeniería estructural y sísmica, incluyendo la evaluación de la amenaza sísmica a nivel nacional y los coeficientes de diseño. En este momento, la Asociación Colombiana de Ingeniería Sísmica (AIS) se encuentra actualizando de nuevo la norma, buscando incorporarle elementos más modernos y ajustados al estado del conocimiento. Como parte de dicha actualización, el comité AIS-300, encargado de la Amenaza Sísmica Normativa dentro de la AIS, realizó una propuesta de coeficientes sísmicos de diseño que deberá ser estudiada por la Comisión Asesora del Régimen de construcciones Sismo Resistentes, creada por la Ley 400 de 1997, y máximo ente encargado de tomar las decisiones acerca de la sismo resistencia de edificaciones en el país. Este documento presenta los resultados del proceso de actualización de los coeficientes de diseño sismo resistente, basados en la evaluación probabilista de la amenaza sísmica de Colombia y en nuevos procedimientos para definir los movimientos de diseño.
 
 ## 1.2 MOVIMIENTOS SÍSMICOS DE DISEÑO
+
+------------------------------------------------------------------------
 
 Para la actualización de la norma sismo resistente de edificaciones NSR 22 se plantea el uso de las formas espectrales de los códigos ASCE 7 - 10 y 16 [\[1\]](#ref-1), las cuales se establecen en función de dos parámetros: SDS (aceleración espectral de diseño en periodo corto, 0.2 seg) y SD1 (espectral de diseño para un periodo de 1 segundo). La forma espectral se presenta en la @fig-c1-01.
 
@@ -70,6 +74,8 @@ Cabe anotar que en este trabajo se mantienen siempre los coeficientes de sitio, 
 :::
 
 ## 1.3 UN “NUEVO” ENFOQUE
+
+------------------------------------------------------------------------
 
 En vista tanto de las deficiencias como ventajas de la RTGM, se propone un enfoque diferente para la definición de los coeficientes sísmicos de diseño. Este enfoque se basa en la cuantificación de coeficientes *óptimos* de diseño, lo cual no es realmente un nuevo enfoque, no solo por haber sido ya empleado en otros códigos de construcción sismo resistente (como en el caso de México), sino porque su definición es tan antigua como la de la evaluación probabilista de la amenaza sísmica. En palabras de Luis Esteva, los coeficientes óptimos “son los que han de minimizar la suma de los costos asociados a la decisión de haber usado ese valor en el diseño de la edificación” [\[3\]](#ref-3). El padre de la evaluación probabilista nos ofrecía esta definición al mismo tiempo que planteaba su famosa ecuación para el cálculo de las tasas de excedencia de movimiento fuerte (de donde se obtienen los periodos de retorno, tan arraigados en nuestra concepción de seguridad en los diseños estructurales). Su maestro, Emilio Rosenblueth, lo definiría de la siguiente manera: “un diseño es óptimo si minimiza los costos iniciales de construcción y el valor presente neto de las pérdidas futuras debido a terremotos” [\[4\]](#ref-4). No es extraño entonces que estos conceptos hayan sido llevados a la práctica en México desde hace ya varios años.
 
@@ -139,6 +145,8 @@ El cálculo de la amenaza sísmica se desarrolló en el programa R-CRISIS, uno d
 
 ## 1.4 COEFICIENTES ÓPTIMOS
 
+------------------------------------------------------------------------
+
 Usando el software R-CRISIS [\[7\]](#ref-7), mismo usado en la evaluación de la amenaza sísmica del país y del proyecto ASLAC, se aplicó la metodología presentada anteriormente, buscando encontrar los coeficientes óptimos de diseño para diferentes aceleraciones espectrales. Como ejemplo, la @fig-c1-06 muestra los espectros de aceleraciones óptimas para Bogotá y Cúcuta, a nivel de roca firme. Se marcan en la imagen los valores de aceleración en 0.2 y 1 segundos (correspondientes a SDS y SD1 respectivamente). Se muestra también los periodos de retorno de las aceleraciones espectrales. Nótese como los menores periodos de retorno se asocian a periodos bajos (cercanos a 0.2 segundos), punto desde el cual el periodo de retorno es creciente con el periodo estructural.
 
 ::: {#fig-c1-06 layout-ncol="2"}
@@ -166,6 +174,8 @@ Este mismo tipo de resultados puede verse espacialmente. Las @fig-c1-07 y @fig-c
 :::
 
 ## 1.5 ESPECTROS DE DISEÑO
+
+------------------------------------------------------------------------
 
 De acuerdo con la especificación del ASCE 7 -10/16, los coeficientes de diseño se obtienen a partir de los coeficientes del sismo máximo considerado. Los coeficientes óptimos calculados y presentados anteriormente son para diseño estructural, por lo cual es necesario, buscando la adopción del reglamento ASCE, encontrar los coeficientes SSM y SS1 que deriven en los coeficientes de diseño óptimos encontrados. Estos coeficientes se encuentran usando la Ecuación 1. Sus respectivos periodos de retorno deben determinarse en las curvas de amenaza correspondientes a cada aceleración espectral (0.2 y 1 segundos).
 
@@ -224,6 +234,8 @@ El parámetro TL (@fig-c1-01) define el punto a partir del cual las aceleracione
 
 ## 1.6 ESPECTROS PROPUESTOS Y COMPARACIÓN CON LA NSR-10
 
+------------------------------------------------------------------------
+
 A continuación, se presentan los espectros de diseño propuestos en comparación con los correspondientes dados por la NSR-10, para Bogotá, Medellín y Cali. Los espectros propuestos para todas las capitales de departamento se incluyen en el Anexo 1. Sobre los espectros propuestos se indican los periodos de retorno de las aceleraciones en diferentes puntos, con el objetivo de hacer énfasis en que no se trata de espectros de diseño asociados a un periodo de retorno. Se indica también la zona de amenaza, y los parámetros de las formas espectrales, tanto de la NSR-10 como los nuevos propuestos.
 
 ![Comparación de espectros de diseño de NSR-10 y propuestos para Bogotá.](images/capitulo_1/img_7c4bb73a.png){#fig-c1-10}
@@ -233,6 +245,8 @@ A continuación, se presentan los espectros de diseño propuestos en comparació
 ![Comparación de espectros de diseño de NSR-10 y propuestos para Cali.](images/capitulo_1/img_50190aa1.png){#fig-c1-12}
 
 ## 1.7 CONCLUSIONES
+
+------------------------------------------------------------------------
 
 El diseño sismo resistente es una de las acciones de gestión del riesgo sísmico más efectivas, pues implica en esencia la reducción de la vulnerabilidad de las edificaciones futuras y, por lo tanto, del riesgo sísmico que afronta la sociedad. Esto es por lo que se requiere de una apropiada definición de los espectros de diseño sismo resistente, que permitan garantizar niveles de seguridad apropiados.
 
@@ -252,6 +266,8 @@ En caso de aprobarse esta propuesta de espectros de diseño, el país debe entra
 :::
 
 ## 1.8 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 ### 1.8.1 Risk Targeted Ground Motion (RTGM)
 
@@ -321,6 +337,8 @@ Los costos estimados de esta manera, tanto iniciales como futuros, son indicador
 
 ## 1.9 ANEXO 1: ESPECTROS DE DISEÑO PROPUESTOS PARA CAPITALES DE DEPARTAMENTO
 
+------------------------------------------------------------------------
+
 En este Anexo se presentan los espectros de diseño propuestos para todas las capitales de departamento en Colombia, comparados con los espectros actualmente vigentes en la NSR-10. Se listan las ciudades en orden alfabético. Las fichas presentadas contienen los valores de los coeficientes de diseño, zona de amenaza sísmica y periodos de retorno de las aceleraciones de diseño propuestas.
 
 ![](images/capitulo_1/img_2d7006b5.png)
@@ -383,19 +401,27 @@ En este Anexo se presentan los espectros de diseño propuestos para todas las ca
 
 ## 1.10 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses
 
 ## 1.11 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Se agradece a los ingenieros Eduardo Castell (presidente AIS), Luis Enrique García (expresidente AIS) y Carlos Eduardo Bernal (Expresidente AIS), así como a los miembros del comité AIS-300, por sus valiosas contribuciones y discusiones durante el desarrollo de este trabajo.
 
 ## 1.12 IDENTIFICACIÓN DEL AUTOR
+
+------------------------------------------------------------------------
 
 Gabriel Bernal
 
 Omar Darío Cardona
 
 ## 1.13 BIBLIOGRÁFIA
+
+------------------------------------------------------------------------
 
 :::::::::: {#ref-1}
 1.  American Society of Civil Engineers. *Minimum Design Loads for Buildings and Other Structures*. ASCE 7 - 10/16.

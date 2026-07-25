@@ -39,6 +39,8 @@ Históricamente las crecientes del río Unete han afectado el área urbana de Ag
 
 ## 11.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 En Colombia, la combinación entre las cordilleras y altas precipitaciones dan lugar a un alto nivel de amenaza por inundaciones y avenidas torrenciales, afectando especialmente algunos municipios y ciudades localizadas en zonas de piedemonte. Estas amenazas ocurren en Aguazul, en el departamento de Casanare, donde producto del desbordamiento del río Unete se registran frecuentes inundaciones sobre el área urbana que alberga alrededor de 29,000 habitantes.
 
 
@@ -65,6 +67,8 @@ Acorde con los antecedentes en el municipio de Aguazul, el esquema de ordenamien
 Para zonificar el nivel de amenaza al cual se encuentra expuesta el área urbana delmunicipio de Aguazul, resulta pertinente realizar una modelación hidráulica bidimensional que permita simular el flujo hacia zonas inundables, como vegas y planicies aluviales, para lo cual Iber ofrece esquemas numéricos especialmente estables y robustos para simular ﬂujos en cauces torrenciales y regímenes irregulares, donde predominan los flujos horizontales [[7]](#ref-7). Sin embargo, las carencias en la información topográfica implicaron realizar el levantamiento sobre el lecho del río y su posterior complemento con un modelo de elevación digital, estrategia que permitió un mejor desempeño del modelo y a su vez constituye la principal limitación de este estudio. De igual forma, se combinan métodos  tradicionales en estudios de gestión del riesgo con herramientas novedosas como son la  construcción de mapas a partir de encuestas y el análisis multitemporal de fotografías aéreas. 
 
 ## 11.2 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 Este proyecto se desarrolló en tres etapas. La primera incluyó la toma de datos en campo (topografía, aforo líquido, encuestas, registro fotográfico y georreferenciación de estructuras hidráulicas). La segunda etapa comprendió el procesamiento de la información (topografía, cálculo de coeficiente de rugosidad de Manning, modelos de distribución de probabilidad de precipitación, construcción de hidrogramas, análisis de encuestas, entre otros) y el modelo hidráulico empleando el software Iber 2D (versión 2.4) que de acuerdo a análisis geomorfológicos, del tipo de flujo y a la información disponible, ofrece el mejor desempeño en la simulación 2D del nivel del agua para eventos de inundación en ríos de piedemonte y planicie de inundación [[8]](#ref-8). Finalmente, se delimitaron y categorizaron las zonas de amenaza siguiendo los lineamientos de la UNGRD en la *Guía Metodológica Para la Elaboración de Planes Departamentales para la Gestión del Riesgo* [[9]](#ref-9).
 
@@ -221,6 +225,8 @@ Los resultados de las encuestas se contrastaron con las geoformas del río, obte
 
 ## 11.3 RESULTADOS Y DISCUSIÓN
 
+------------------------------------------------------------------------
+
 La modelación hidráulica considerando únicamente el DEM (12.5 × 12.5 metros) como el  relieve, no permitió definir con claridad el lecho del río y arrojó el desbordamiento del río por toda el área urbana, lo cual no resulta razonable a partir de los antecedentes históricos ni con las geoformas identificadas que incluyeron terrazas altas en donde se posiciona la mayor parte del área urbana (@fig-c11-15).
 
 
@@ -294,6 +300,8 @@ Igualmente, se evidencia que la afectación por inundación por la creciente con
 En los resultados obtenidos de la modelación hidráulica se observa que el río Unete no desborda por la margen del río opuesta al municipio, esto se justifica por la presencia de terrazas de acumulación alta (@fig-c11-07) con menor susceptibilidad a inundación y que funcionan como barreras protectoras, que impiden el desbordamiento hacia la margen derecha, por tanto, el río siempre va a desbordar hacia el área urbana en la margen izquierda, donde las geoformas de planicie aluvial, planicie aluvial, terraza baja y terraza de acumulación subreciente tienen una susceptibilidad alta y media ante inundaciones.
 
 ## 11.4 VALIDACIÓN DE RESULTADOS
+
+------------------------------------------------------------------------
 
 Aunque la modelización numérica es una de las herramientas más utilizadas para representar la amenaza por inundación, es preciso la búsqueda de soluciones dinámicas o evolutivas que permitan superar el déficit de información, siendo importante recurrir a registros históricos y datos geomorfológicos, entre otros, como lo recomienda la directiva europea 2007/60CE [[10]](#ref-10).
 
@@ -385,6 +393,8 @@ Comparando los resultados obtenidos de la modelación hidráulica por medio del 
 
 ## 11.5 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 El grado de amenaza encontrado en el casco urbano del municipio de Aguazul debido al desbordamiento del río Unete corresponde a 72.94% a amenaza alta, 13.92% a amenaza media y 13.13% a amenaza baja. Además de esto, a través de la modelación hidráulica fue posible evidenciar que los sistemas de contención y protección no son suficientes para contrarrestar el desbordamiento del río a partir de un periodo de retorno de 10 años.
 
 Particularmente, por medio de las encuestas realizadas a la población se evidenció que los habitantes de los barrios cercanos a la ribera del río Unete desconocen la posibilidad de una inundación producto de una creciente con periodo de retorno superior a 10 años, por lo tanto, en el momento en que ocurra una creciente de magnitud superior a esta, la población no estará preparada para la atención de esta amenaza. Se demuestra una memoria corta en la población respecto a la ocurrencia de fenómenos amenazantes que solo puede ser superada apoyándose en el uso de registros históricos (IDEAM, Desinventar, entre otros) y modelos hidráulicos.
@@ -403,6 +413,8 @@ Para la validación de resultados el análisis de susceptibilidad por geoformas,
 :::
 ## 11.6 CONFLICTO DE INTERES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 **IDENTIFICACIONES DE AUTORES**
@@ -416,6 +428,8 @@ Alejandro Franco Rojas
 Alexander Padilla González		 
 
 ## 11.7 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. El Tiempo. (2000). *Por segunda vez se cae el puente*. Consultado el 03 de octubre de 2017.</div>
 

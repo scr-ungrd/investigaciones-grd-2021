@@ -33,6 +33,8 @@ Los movimientos en masa se consideran uno de los peligros naturales que causan m
 
 ## 10.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Debido a los altos niveles de afectación de los movimientos en masa, a nivel mundial se ha generado una gran dinámica en el estudio de los fenómenos asociados en procura de entender los aspectos físicos [[1]](#ref-1)-[[6]](#ref-6) y económicos [[7]](#ref-7)-[[11]](#ref-11) relacionados con los movimientos en masa. En particular, se ha identificado la ocurrencia de procesos complejos en los cuales de movimientos en masa de suelo obstruyen corrientes de agua relativamente pequeños formando represamientos que al romperse generan avenidas torrenciales que terminan generando una gran afectación a las comunidades asentadas en las riberas y una gran afectación a la infraestructura.
 
 El suroeste antioqueño, y en particular las cuencas de esta subregión, son frecuentemente afectadas por movimientos en masa, los cuales han causado numerosas pérdidas de vidas, heridos, damnificados y cuantiosas pérdidas económicas. Muchos de ellos asociados a cuencas hidrográficas abastecedoras de acueductos como el río Tapartó, la quebrada La Liboriana y el cerro Las Nubes, por citar algunos de los más emblemáticos. Una fuente abastecedora, se entiende como una corriente de agua que se utiliza para el suministro de agua potable, riego de cultivos o para actividades industriales. Entendiendo que la estimación y evaluación del riesgo por movimientos en masa y su afectación a las fuentes de abastecimiento de agua es un problema complejo, en el marco del proyecto Piragua de la Corporación Autónoma Regional del Centro de Antioquia-Corantioquia, la Universidad de Medellín ha desarrollado una metodología para la evaluación de riesgos por movimientos en masa en fuentes hídricas abastecedoras de agua potable.
@@ -98,6 +100,8 @@ Para ampliar la información y obtener un análisis más concluyente sobre la oc
 
 ## 10.2 RESULTADOS DE LOS MODELOS DE ESTIMACIÓN
 
+------------------------------------------------------------------------
+
 ### 10.2.1 Amenaza
 
 Se aplicó la metodología mostrada en la @fig-c10-06 y descrita en la Sección 6, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de *H* = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.
@@ -126,6 +130,8 @@ Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se 
 ![Resultados de probabilidad total de falla en la cuenca del río San Juan (**A**). Vulnerabilidad (en término de “Intensidad”) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**B**). Riesgo anual ($) en una zona de influencia de 100 m a cada lado de la quebrada La Liboriana (**C**).](images/capitulo_10/img_d547d17b.png){#fig-c10-04}
 
 ## 10.3 DISCUSIÓN
+
+------------------------------------------------------------------------
 
 ### 10.3.1 Factor de seguridad
 
@@ -203,6 +209,8 @@ Los resultados indican que los valores más altos de riesgo corresponden a zonas
 
 ## 10.4 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Se realizó un análisis de ocurrencia de movimientos en masa en Antioquia usando la base de datos de Desinventar sin incluir el Valle de Aburrá, a partir del cual se ha identificado que la subregión de mayor afectación es el suroeste, en especial los municipios como Andes y Támesis. Igualmente, se identifica que los movimientos en masa se presentan más frecuentemente en los trimestres abril-junio y septiembre-noviembre meses que corresponden a las temporadas lluviosas de la región. Con base en los registros existentes es difícil identificar si todos los municipios tienen la misma calidad en la información. Con base en lo anterior se seleccionó la cuenca del rio San Juan como el caso de estudio para la metodología de evaluación de riesgo en cuencas abastecedoras. Es de anotar que la información de movimientos en masa en general es incompleta en cuanto a ubicación, tipología del movimiento y sus consecuencias. Por lo anterior es recomendable que se propenda por mejorar el sistema de recolección y gestión de esta información en el departamento. Una alternativa para mejorar esto registros, es usar imágenes de satélite de alta resolución espacial y temporal y herramientas informáticas que competen a la rama de la geomática como los Sistemas de Información Geográfica (SIG).
 
 Se presenta una metodología para evaluación de riesgo por movimientos en masa detonados por sismo y lluvias en cuencas abastecedoras. El módulo de amenaza ha mostrado la capacidad de identificar zonas inestables, usando para esto información secundaria. Con base en esto se evaluó la amenaza en la cuenca y se identificaron las zonas de mayor amenaza, se compararon las zonas de mayor amenaza con las áreas afectadas por movimientos en masa en la cuenca de la quebrada La Liboriana, evidenciándose una alta coincidencia de zonas afectadas con movimientos en masa, con áreas de alta probabilidad de falla, lo cual indica que el modelo es robusto para identificar zonas a ser estudiadas con mayor detalle.
@@ -223,6 +231,8 @@ Se analiza la ocurrencia de movimientos en masa en Antioquia a partir del cual s
 **Trabajo a futuro.** Para disminuir la incertidumbre en los parámetros usados y la inclusión del proceso de infiltración con base física, se deben efectuar caracterizaciones geotécnicas de los suelos superficiales en esta región tanto de parámetros de resistencia al cortante como hidráulicos en condiciones no saturadas.
 :::
 ## 10.5 MATERIALES Y MÉTODOS
+
+------------------------------------------------------------------------
 
 Se planteó una metodología que permite el cálculo del riesgo definido mediante la ecuación general:
 
@@ -351,6 +361,8 @@ $R=PAF×PEP$ 						(10)
 
 ## 10.6 CASO DE APLICACIÓN
 
+------------------------------------------------------------------------
+
 Para el desarrollo y explicación de la metodología propuesta, se tomó como caso de estudio la cuenca del río San Juan. Esta cuenca presenta unas condiciones geomorfológicas, geológicas y climáticas que la hacen particularmente susceptible a movimientos en masa, como lo demuestra la información existente en las bases de datos. En específico, las corrientes de agua han causado grandes avenidas torrenciales, que a su vez han estado ligadas a la ocurrencia previa de movimientos en masa debidos a las lluvias. Debido a la complejidad de cada proceso, la amenaza por movimiento en masa se determinó para la totalidad de la cuenca, mientras que la vulnerabilidad y el riesgo se determinaron en la subcuenca de la quebrada La Liboriana en jurisdicción del municipio de Salgar, la cual se encuentra bien documentada y facilitó el proceso de validación de los resultados obtenidos con el modelo propuesto. 
 
 
@@ -382,19 +394,27 @@ Parámetros geotécnicos: Bases de datos de los proyectos de la Universidad de M
 
 ## 10.7 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses
 
 ## 10.8 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Los autores agradecen a la Universidad de Medellín y a Corantioquia por el apoyo en la realización de la investigación que dio pie a este estudio.
 
 ## 10.9 IDENTIFICACIÓN DEL AUTOR
+
+------------------------------------------------------------------------
 
 Cesar Hidalgo 	
 
 Johnny Vega		
 
 ## 10.10 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. Jibson, R. W., Harp, E. L., & Michael, J. A. (1998). A method for producing digital probabilistic seismic landslide hazard maps. *Engineering Geology*, 58, 271-289.</div>
 

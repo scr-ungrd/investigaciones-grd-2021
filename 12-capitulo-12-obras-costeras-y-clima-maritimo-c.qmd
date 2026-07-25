@@ -33,6 +33,8 @@ Las estructuras costeras duras son el método preferido usado tanto para mitigar
 
 ## 12.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 Las costas del Caribe colombiano en gran parte están compuestas de material arenoso con poca fracción de los finos cohesivos. En su mayoría, estas arenas son resultado del aporte de los ríos, arroyos y, en menor medida, de la abrasión de acantilados. Para las áreas coralinas, el material es calcáreo resultado del ciclo de vida de arrecifes de coral y la erosión paulatina de las terrazas marinas. 
 
 La predominancia del oleaje sobre la marea astronómica (costa dominada por energía de olas) hace importantes las corrientes inducidas por olas en las zonas de rotura como el principal mecanismo de transporte litoral de arenas, conformación de playas o erosión costera. Por lo anterior, la estabilidad de una franja costera naturalmente depende de la disponibilidad de sedimentos de una fuente, pero también de la redistribución espacial de sedimentos a lo largo de la costa. Este último está relacionado con los procesos geológicos y geomorfología costera. Los efectos de las obras antrópicas, a su vez, compiten con los de las geoformas naturales y su influencia puede tener efectos dramáticos, si previamente no se estudian profundamente sus impactos. 
@@ -47,6 +49,8 @@ En el presente capítulo se describen algunos casos de efectos naturales y obras
 :::
 
 ## 12.2 OBRAS COSTERAS Y SU EFECTO
+
+------------------------------------------------------------------------
 
 El aumento global del nivel del mar es un hecho y para el futuro próximo tendrá un incremento más progresivo [[1]](#ref-1)-[[4]](#ref-4). También es conocido y cuantificable con una regla de Bruun [[5]](#ref-5) que las playas con menor pendiente sufren la erosión costera debido al aumento del nivel con mayor magnitud que las costas abruptas. Por lo anterior, los escenarios de riesgo podrían caracterizarse en una primera aproximación para todo el país con base en un relativamente simple análisis topográfico de los perfiles subacuáticos de las playas.
 
@@ -149,6 +153,8 @@ Resulta que el uso del agua del río en agricultura, la alteración de su caudal
 
 ## 12.3 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 La erosión se clasifica como una amenaza para la población, infraestructura y actividades humanas en la zona costera. Las obras de mitigación de la erosión en las costas del Caribe colombiano, en general, hasta la fecha se caracterizan como obras *duras*, generalmente de material pétreo y, con mayor frecuencia, éstas son espolones debido a su bajo costo de construcción y mantenimiento. 
 
 Sin embargo, es de resaltar la importancia de un diagnóstico detallado de las causas de erosión costera, antes de cualquier intervención mediante las obras. Las mismas estructuras podrían generar efectos negativos si las causas no fueron determinadas. 
@@ -173,15 +179,21 @@ En la erosión costera existen causas locales, regionales y globales. Usualmente
 :::
 ## 12.4 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 ## 12.5 IDENTIFICACIÓN DE AUTOR
+
+------------------------------------------------------------------------
 
 Serguei Lonin      
 
 Julio Monroy       
 
 ## 12.6 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. https://doi.org/10.1029/91JC00064</div>
 

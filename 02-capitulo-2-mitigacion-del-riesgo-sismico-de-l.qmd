@@ -45,6 +45,8 @@ El desarrollo de planes de mitigación del riesgo de estructuras del sector esco
 
 ## 2.1 INTRODUCCIÓN
 
+------------------------------------------------------------------------
+
 El sector escolar es uno de los más vulnerables frente a eventos naturales en particular para eventos sísmicos. Esto se debe a la vulnerabilidad física de edificaciones antiguas y a las características de sus ocupantes [[1]](#ref-1). Por otra parte, sus características arquitectónicas permiten que esta infraestructura se utilice como espacios de refugios para damnificados por eventos de desastre de gran magnitud. La alta vulnerabilidad de este tipo de infraestructura se ha evidenciado en eventos sísmicos recientes en los cuales se han visto colapsos parciales y totales de la infraestructura. En edificaciones de concreto reforzado se han evidenciado daños en diferentes territorios; en particular EERI ha identificado colapsos o daños graves en India, Indonesia, Perú, Turquía, Estados Unidos y Haití en edificaciones con sistemas de pórticos y muros [[2]](#ref-2). Construcciones en muros de mampostería también han sufrido daños importantes como lo evidencia Chen et al. [[3]](#ref-3), en donde se identifican casos de daños y colapsos de edificaciones escolares en el sismo de Ghorka, Nepal en el 2015. En Latinoamérica se han presentado daños importantes en el sector. Por ejemplo, en México, en el sismo de Puebla del 2017 alrededor de 280 escuelas sufrieron daños que necesitaron reparaciones [[4]](#ref-4) y en Ecuador en el sismo de Muisne 2016 se registraron colapsos totales o parciales de escuelas en Manta, Pedernales y Portoviejo [[5]](#ref-5).
 
 Teniendo en cuenta esta problemática, se han desarrollado diferentes iniciativas para el reforzamiento y mejoramiento de la infraestructura escolar a nivel mundial. Una de las iniciativas más importantes es el Programa Global para Escuelas Seguras (GPSS por sus siglas en inglés) del Banco Mundial que ha desarrollado proyectos en Perú, Colombia, El Salvador, República Dominicana, Kirguistán y Grecia, entre otros. Por otro lado, la ONG Build Change tiene un programa de mejoramiento de infraestructura escolar denominado Escuelas Seguras en donde se han desarrollado proyectos en Indonesia, Filipinas y Nepal. Existen también iniciativas gubernamentales que buscan reducir el riesgo sísmico, un ejemplo de este tipo de iniciativas es *Cali Resiliente* que se enfoca en mejorar la infraestructura escolar mediante reforzamientos estructurales en la infraestructura escolar de la capital del Valle del Cauca en Colombia o el desarrollo del *Plan Metropolitano del Riesgo Sísmico* desarrollado por el Área Metropolitana del Valle de Aburrá en Medellín y sus municipios aledaños.
@@ -56,6 +58,8 @@ Por otro lado, también existen trabajos detallados como el desarrollado por Chr
 Teniendo en cuenta este contexto, el objetivo de este capítulo es presentar una metodología general para el análisis y desarrollo de planes de mitigación del riesgo en el sector escolar. En la Sección 2 se presentará la metodología propuesta para abordar el problema. La sección 3 describe las tipologías escolares más comunes encontradas en diferentes proyectos. La sección 4 presenta dos casos de estudio de la metodología indicada desarrollados en Colombia por los autores. Por último, las secciones 5 y 6 presentan las recomendaciones y trabajo futuro y los agradecimientos respectivamente.  
 
 ## 2.2 METODOLOGÍA
+
+------------------------------------------------------------------------
 
 ### 2.2.1 Metodología para el desarrollo de planes de mitigación del riesgo
 
@@ -132,6 +136,8 @@ $$EC = \frac{(PAE_{Actual} - PAE_{Estado\ Mitigado}) \times N^{\circ}\ estudiant
 
 ## 2.3 TIPOLOGÍAS PREDOMINANTES EN EL SECTOR
 
+------------------------------------------------------------------------
+
 El primer paso para la reducción del riesgo en el sector es consolidar el portafolio de edificaciones. Por las características arquitectónicas de este tipo de edificaciones es común encontrar edificaciones cuyas características se repiten en diferentes países. En particular, se ha evidenciado que la mayor parte de estas edificaciones son de concreto reforzado o de mampostería [[6]](#ref-6). En este capítulo se presentan algunas de estas tipologías comunes en el sector escolar. En primer lugar, se presentan las tipologías cuyo sistema estructural es principalmente de concreto reforzado y en después se presentan las tipologías de muros de mampostería.
 
 ### 2.3.1 Tipologías de concreto reforzado
@@ -167,6 +173,8 @@ El primer paso para la reducción del riesgo en el sector es consolidar el porta
 :::
 
 ## 2.4 CASOS DE ESTUDIO
+
+------------------------------------------------------------------------
 
 ### 2.4.1 Cali, Colombia
 
@@ -320,6 +328,8 @@ Por último, con el objetivo de priorizar los recursos se utilizó el criterio d
 
 ## 2.5 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 Existen diferentes metodologías para el desarrollo de planes de mitigación del riesgo en el sector escolar. Para esto el primer paso es desarrollar una base de datos con información suficiente para caracterizar el portafolio de infraestructura expuesta. Este paso es uno de los más importantes pues su resolución y calidad determinarán la resolución y la calidad del plan de mitigación del riesgo. Se han identificado diferentes tipologías de concreto reforzado y mampostería en diferentes partes del mundo con deficiencias constructivas y estructurales similares. Entre estas se destacan las edificaciones de pórticos de concreto reforzado, de pórticos de concreto reforzado con muros de mampostería y pórticos de concreto reforzado con muros de mampostería generando columna corta. En las edificaciones de muros de mampostería se destacan las edificaciones de mampostería simple, mampostería confinada y mampostería reforzada. La documentación de estas deficiencias y también de técnicas de reforzamiento permite sentar las bases para futuros proyectos en los cuales se analicen edificaciones similares.
 
 Una vez se identifican el portafolio y las tipologías principales se debe desarrollar una evaluación del riesgo sísmico en el estado actual y a partir de este diseñar un sistema de reforzamiento sísmico para las tipologías vulnerables más relevantes o representativas. Una vez se tienen identificadas estas medidas se debe evaluar el riesgo en un escenario mitigado y a partir de esto diseñar planes de mitigación del riesgo ajustados a las limitaciones de cada caso de estudio. En este documento se presentan dos casos de estudio en Colombia, el primero en Cali y el segundo en el Valle de Aburrá. Se puede identificar que la reducción del riesgo para las estrategias de mitigación del Cali lleva a una reducción menor que el caso del Valle de Aburrá, reduciendo el riesgo en el primer caso al 50% del riesgo original y en el segundo al 20%. Así mismo, es posible identificar a partir de las gráficas de priorización que el riesgo en el portafolio de Cali se distribuye en todo el portafolio mientras que en el caso del Valle de Aburrá se concentra en alrededor de la mitad de las escuelas. Como se puedo identificar, cada caso presentado tiene sus particularidades sin embargo es posible identificar que el desarrollo comparte elementos comunes, en particular deficiencias en las tipologías constructivas y medidas de reforzamiento aplicables.
@@ -350,13 +360,19 @@ Los resultados de los casos de estudio presentados como ejemplo son el punto de 
 :::
 ## 2.6 CONFLICTO DE INTERESES
 
+------------------------------------------------------------------------
+
 Los autores no declaran conflicto de intereses.
 
 ## 2.7 AGRADECIMIENTOS
 
+------------------------------------------------------------------------
+
 Los autores agradecen en primer lugar al Banco Mundial y en particular al equipo de trabajo del Programa Global de Escuelas Seguras (GPSS) por impulsar iniciativas de reducción del riesgo en el sector escolar. Así mismo, agradecen a la Alcaldía de Santiago de Cali por el desarrollo de la Asistencia técnica para el diseño de una estrategia de intervención y un plan de inversión para la reducción de la vulnerabilidad sísmica de edificaciones educativas en el municipio de Cali, y al Área Metropolitana del Valle de Aburrá por el desarrollo conjunto del Convenio de Asociación 1108 del 2016. Adicionalmente, los agradecimientos se extienden a los integrantes del Centro de Investigación en Materiales y Obras Civiles de la Universidad de los Andes que participaron en el desarrollo de los proyectos mencionados anteriormente.
 
 ## 2.8 IDENTIFICACIÓN DEL AUTOR
+
+------------------------------------------------------------------------
 
 * Rafael Fernández
 <https://orcid.org/0000-0002-2585-1958>

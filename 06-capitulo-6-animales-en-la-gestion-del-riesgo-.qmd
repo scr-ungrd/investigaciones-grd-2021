@@ -42,6 +42,8 @@ El presente capitulo aborda la importancia de los animales en situaciones de eme
 
 ## 6.1 INTRODUCCION
 
+------------------------------------------------------------------------
+
 Colombia y el resto de los países de la región, tanto los gobiernos como sus pobladores han conocido muy bien los efectos y la devastación ocasionada por los diferentes eventos como inundaciones, terremotos, temporada de huracanes, erupciones volcánicas, deslizamientos, incendios y sequias entre otros. En la mayoría de los incidentes declarados emergencias o desastres, muchos animales domésticos y silvestres pierden sus vidas, son abandonados o dejan sus nichos naturales, lo que puede aumentar el riesgo de transmisión de enfermedades zoonóticas endémicas de las zonas afectadas, además de las consecuencias sobre la economía, la inocuidad y seguridad alimentaria. Tanto en el caso de animales de compañía, como animales de producción y especies silvestres en áreas rurales y urbanas. Históricamente en muchas emergencias los animales son abandonados para que se valgan por si mismos mientras que el bienestar del humano es la prioridad. Aplicando el concepto One Health se tienen en cuenta los recursos, el talento humano, la infraestructura física y la interdependencia entre la salud humana y la de los demás seres vivos animales y el ambiente [[1]](#ref-1).
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
@@ -56,6 +58,8 @@ Hay numerosos servicios de emergencias, organizaciones de rescate, organizacione
 Este capítulo examina algunas razones del porqué la gestión del riesgo de desastres con animales no debe ser una preocupación solo de sus propietarios, sino que debe ser de las producciones pecuarias, de las autoridades de manejo de emergencias y de la población en general. Se describe aspectos generales de salud pública en situaciones de desastres que incorporan diferentes factores que influyen cuando los animales son afectados. De esta manera ir integrando el componente animal dentro de los planes de respuesta de la nación y servir de guía para los países de la región que no lo hayan implementado.
 
 ## 6.2 IMPORTANCIA DE LOS ANIMALES EN SITUACIONES DE DESASTRE
+
+------------------------------------------------------------------------
 
 ### 6.2.1 El rol de los animales en la sociedad
 
@@ -121,6 +125,8 @@ Es muy difícil el mantenimiento de agua y comida limpia tanto para humanos y an
 También se requiere un conocimiento y entrenamiento en prevención de zoonosis y técnicas apropiadas de higiene personal. Provisiones de agua y comida para emergencias y desastres debe estar en un mantenimiento apropiado. El resumen diario de seguridad debe ser realizado con el fin de concientizar acerca de los riesgos ambientales en campo y tiempos de trabajo en cada incidente [[14]](#ref-14).
 
 ## 6.3 MANEJO DE ANIMALES
+
+------------------------------------------------------------------------
 
 ### 6.3.1 El comportamiento animal en incidentes
 
@@ -313,6 +319,8 @@ Bienestar de los residentes del refugio: Las preocupaciones incluyen lesiones, a
 
 ## 6.4 SALUD PÚBLICA Y EPIDEMIOLOGIA ALREDEDOR DE LA GESTION DEL RIESGO DE LOS ANIMALES EN DESASTRES
 
+------------------------------------------------------------------------
+
 Históricamente, la mayor preocupación con respecto a los animales en casos de desastres y emergencias se ha tratado de la salud pública.  Una especial preocupación por la salud pública incluye [[25]](#ref-25):
 
 Contaminación de alimentos y suministro de agua.
@@ -374,6 +382,8 @@ También hay posibilidad de contaminación de las aguas subterráneas y los malo
 
 ## 6.5 RECOMENDACIONES GENERALES
 
+------------------------------------------------------------------------
+
 Es importante destacar que el cuidado de los animales y el cuidado de las personas exige preparación técnica, planificación y una importante capacidad de coordinación entre quienes participan en ella. El mejoramiento del bienestar animal en situaciones de emergencias y desastres no siempre progresa a lo esperado, la mayor parte del tiempo son los humanos quienes causan la mayoría de los problemas de bienestar animal. Por lo tanto, es necesario garantizar que se tenga en cuenta los aspectos del bienestar humano para lograr mejoras efectivas en el bienestar animal [[30]](#ref-30). 
 
 Para facilitar la atención a las personas y a los animales, las autoridades de manejo de emergencias y la comunidad, debe realizar alianzas en esta etapa de planificación. Una vez hecho esto, es más probable que los asuntos importantes puedan atenderse durante el desastre. Además, los recursos o personas más calificadas o con más experiencia pueden hacerles frente a los asuntos pertinentes y hablar con el público. Hay funciones en asuntos públicos adicionales que pueden ser utilizados para construir un programa fuerte ante emergencias. Aquí están algunas sugerencias:
@@ -392,6 +402,8 @@ En el entrenamiento de preparación para desastres, se debe suponer que el perso
 
 ## 6.6 CONCLUSIONES
 
+------------------------------------------------------------------------
+
 En Colombia se encuentra una gran variedad de especies; entre animales silvestres y domésticos podemos encontrar una problemática basada en la interrelación de estos con el humano. En los últimos años se ha evidenciado un impacto mayor en los fenómenos de la naturaleza, afectando directamente poblaciones humanas y animales.  Pese a que algunas ciudades cuentan con censos no actualizados por especies en el caso de animales de compañía con dueño o habitantes de calle, no existe un dato real. En este capítulo, se socializan algunos aspectos de trabajo en la atención de animales en emergencias y desastres, además de brindarle al profesional y las demás personas interesadas, la información necesaria que les permita atender dichas situaciones de forma adecuada y segura. Direccionar aspectos de Salud pública, como un área de trabajo en desastres con animales que en algunas ocasiones se pasa por alto. Las enfermedades endémicas o enzootias, son condiciones que están constantemente presentes en poblaciones animales que tienen una morbilidad baja, pero son clínicamente reconocidos en sólo unos individuos. Es importante que el personal esté familiarizado con las enfermedades endémicas y su epidemiología en cualquier lugar en que ellos están trabajando. Muchas enfermedades son zoonóticas, pero se requieren condiciones particulares para su ocurrencia y debe tenerse cuidado en asegurar todo el personal de campo, estar pendiente señales clínicas, modos de transmisión y cualquier tratamiento terapéutico profiláctico disponible. 
 
 
@@ -408,9 +420,13 @@ No todos los profesionales en ciencias animales están familiarizados con la may
 :::
 ## 6.7 MATERIALES Y METODOS
 
+------------------------------------------------------------------------
+
 Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores. 
 
 ## 6.8 CONFLICTO DE INTERESES
+
+------------------------------------------------------------------------
 
 Los autores declaran no tener conflicto de interés.
 
@@ -427,6 +443,8 @@ Rodrigo Forero Carrillo
 Gonzalo Jiménez Alonso			 
 
 ## 6.9 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 <div id="ref-1">1. Barrett A., & Osofsky S. (2014). *Unprecedented challenges, holistic solutions. One Health: Interdependence of People, Other Species and the Planet*. New York: Cambridge University Press, págs. 364-365.</div>
 
