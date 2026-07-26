@@ -410,7 +410,7 @@ Para la validación de resultados el análisis de susceptibilidad por geoformas,
 
 Los autores no declaran conflicto de intereses.
 
-## 11.7 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -422,7 +422,7 @@ Alejandro Franco Rojas
 
 Alexander Padilla González
 
-## 11.8 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

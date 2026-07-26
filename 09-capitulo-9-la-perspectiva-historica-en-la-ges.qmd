@@ -380,7 +380,7 @@ Finalmente, la distribución espacial de los eventos históricos, específicamen
 **Recomendaciones para tomar decisiones.** Con el propósito de cumplir con los objetivos de los estudios históricos y que representen una herramienta útil en los procesos de gestión del riesgo y de la planificación del territorio, es fundamental que, desde las diferentes administraciones municipales e instituciones, se reconozca la importancia de llevar una adecuada sistematización de los eventos que ocurren en el territorio. Es común encontrar que en los diferentes municipios no se tiene registro de los eventos ocurridos o de las emergencias atendidas, y cuando lo tienen, no detallan las características del evento y sus efectos.
 :::
 
-## 9.8 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -392,7 +392,7 @@ Los autores no declaran conflicto de intereses
 
 A la Alcaldía Municipal de Santiago de Cali por intermedio de la Secretaria Municipal de Gestión del Riesgo de Desastres y Emergencias quienes priorizaron dentro de sus proyectos el contrato interadministrativo 4163.00126.1.357 de 2018 cuya ejecución estuvo a cargo del Observatorio Sismológico de la Universidad del Valle y de la cual se derivan los resultados del PMGRD de Santiago de Cali.  
 
-## 9.10 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -412,7 +412,7 @@ Jorge Andrés Diaz Renteria
 
 Elkin de J. Salcedo Hurtado             	
 
-## 9.11 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

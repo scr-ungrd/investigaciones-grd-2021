@@ -623,13 +623,13 @@ $$P_i = A \cdot PV \cdot (Y_x - Y_i) \tag{13}$$
 
 en donde $Pi$ es la pérdida económica para el escenario $i$ , $A$ es el área de la unidad de tierra cultivada, $PV$ es la valoración económica del cultivo, $Yx$ es el rendimiento máximo (calculado bajo condiciones óptimas) y $Yi$ es el rendimiento para el escenario $i$ bajo condiciones de déficit hídrico.
 
-## 3.10 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
 Los autores no declaran conflicto de intereses.
 
-## 3.11 IDENTIFICACIÓN DEL AUTOR
+## IDENTIFICACIÓN DEL AUTOR
 
 ------------------------------------------------------------------------
 

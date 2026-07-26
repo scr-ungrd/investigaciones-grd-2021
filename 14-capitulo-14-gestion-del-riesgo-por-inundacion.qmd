@@ -351,7 +351,7 @@ Al analizar los instrumentos de planeación para la gestión del riesgo por inun
 
 Se agradece a las comunidades de la Mojana que hicieron parte de este proyecto en San Marcos (Sucre), Nechí (Antioquia), Mompox (Bolívar), Magangué (Bolívar), Montelíbano (Córdoba). A Colciencias, entidad que otorgó la beca doctoral para el desarrollo de esta investigación, en el marco de la Convocatoria 567 de 2012. A la Unidad Nacional para la Gestión del Riesgo de Desastres, donde a través del proyecto “Evaluación probabilista del riesgo por inundación lenta en las cabeceras municipales de San Marcos (Sucre), Montelíbano (Córdoba), Mompox (Bolívar) y Magangué (Bolívar)”, se pudo complementar el trabajo de campo. A la Pontificia Universidad Javeriana, donde se desarrolló la tesis doctoral.
 
-## 14.8 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -359,7 +359,7 @@ Paula Andrea Villegas González
 
 Nelson Obregón Neira		
 
-## 14.9 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

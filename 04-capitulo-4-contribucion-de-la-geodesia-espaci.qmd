@@ -430,7 +430,7 @@ Retos </h2>
 Se recomienda la utilización de las señales de las constelaciones GNSS con propósitos múltiples tales como estudios ionosféricos, troposféricos y de nivel del mar, así como ampliar los análisis de fenómenos en la superficie terrestre de origen geológico empleando las técnicas de interferometría de radar de apertura sintética.
 :::
 
-## 4.5 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -442,7 +442,7 @@ Los autores no declaran conflicto de intereses.
 
 Al Servicio Geológico Colombiano por su apoyo en el desarrollo de GeoRED y en las aplicaciones de interferometría de radar de apertura sintética. A JICA por su contribución en el marco del proyecto SATREPS. A UNAVCO por el apoyo técnico y conceptual en las operaciones GPS del proyecto GeoRED. A CENICAÑA, Universidad Nacional de Colombia, Área Metropolitana del Valle de Aburrá y Empresa de Acueducto de Bogotá por su contribución en la expansión de GeoRED. A la Aeronáutica Civil, Fuerza Aérea Colombiana, Armada Nacional y DIMAR por su valioso apoyo para la instalación y puesta en operación de estaciones geodésicas permanentes GNSS. A Franck Audemard y un revisor anónimo, por sus valiosos comentarios y sugerencias que permitieron mejorar el artículo.
 
-## 4.7 IDENTIFICACIÓN DE AUTORES
+## IDENTIFICACIÓN DE AUTORES
 
 ------------------------------------------------------------------------
 
@@ -456,7 +456,7 @@ Yuli Corchuelo Cuervo   <https://orcid.org/0000-0001-6372-3642>
 
 Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
 
-## 4.8 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

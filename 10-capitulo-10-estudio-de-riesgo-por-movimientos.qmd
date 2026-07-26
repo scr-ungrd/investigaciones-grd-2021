@@ -379,7 +379,7 @@ De acuerdo a lo planteado mediante la Ecuación 1, es posible obtener el riesgo 
 - **Unidades Geológicas:** Corporación Regional CORANTIOQUIA, IGAC–Ingeominas. Planchas 1:25,000.
 - **Parámetros geotécnicos:** Bases de datos de los proyectos de la Universidad de Medellín.
 
-## 10.7 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -391,7 +391,7 @@ Los autores no declaran conflicto de intereses
 
 Los autores agradecen a la Universidad de Medellín y a Corantioquia por el apoyo en la realización de la investigación que dio pie a este estudio.
 
-## 10.9 IDENTIFICACIÓN DEL AUTOR
+## IDENTIFICACIÓN DEL AUTOR
 
 ------------------------------------------------------------------------
 
@@ -399,7 +399,7 @@ Cesar Hidalgo
 
 Johnny Vega		
 
-## 10.10 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

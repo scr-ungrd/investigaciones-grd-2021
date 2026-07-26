@@ -399,7 +399,7 @@ En este Anexo se presentan los espectros de diseño propuestos para todas las ca
 
 ![](images/capitulo_1/img_03b69a04.png)
 
-## 1.10 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -411,7 +411,7 @@ Los autores no declaran conflicto de intereses
 
 Se agradece a los ingenieros Eduardo Castell (presidente AIS), Luis Enrique García (expresidente AIS) y Carlos Eduardo Bernal (Expresidente AIS), así como a los miembros del comité AIS-300, por sus valiosas contribuciones y discusiones durante el desarrollo de este trabajo.
 
-## 1.12 IDENTIFICACIÓN DEL AUTOR
+## IDENTIFICACIÓN DEL AUTOR
 
 ------------------------------------------------------------------------
 

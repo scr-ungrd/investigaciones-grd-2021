@@ -52,15 +52,11 @@ En consecuencia, las autoras y el autor entienden el reasentamiento social como 
 
 La definición anterior, reconoce los llamados de atención identificados en la revisión bibliográfica, mismos que se sintetizan a continuación:  
 
-El análisis del contexto como principio para la planeación de cualquier proyecto de reasentamiento correctivo y sus fases [[2]](#ref-2). 
-
-La reducción del riesgo no puede ser la fuente de nuevos riesgos naturales o sociales en otros territorios [[2]](#ref-2), al respecto Serje [[21]](#ref-21) indica que “los proyectos de reasentamiento no pueden entenderse únicamente como medida de compensación o de mitigación, sino como una posibilidad de consolidar una cultura y una práctica política incluyente.” 
-
-Es necesaria la articulación institucional y comunitaria desde la planeación situada en procesos de participación ciudadana, proyectos productivos que fortalecen fuentes de ingresos a los habitantes, asesorías jurídicas para la regulación de avalúos y acompañamiento psicosocial. [[3]](#ref-3), [[4]](#ref-4), [[22]](#ref-22), [[47]](#ref-47).
-
-El reasentamiento implica un alto grado de incertidumbre para los actores sociales participantes [[18]](#ref-18), no solo por los cambios estructurales realizados, sino también por nuevas cotidianidades y formas de habitar el territorio destino. Por tal motivo, se requiere que cada una de las familias, organizaciones e instituciones vinculadas, se identifiquen con el plan de acción y trabajo del proyecto, a través de la concertación donde se discutan acciones realizadas y planeación de avances, de tal manera, que se solventen interrogantes, se reduzcan tensiones y conflictos desde las voces de todos los actores sociales [[2]](#ref-2), [[19]](#ref-19), [[20]](#ref-20), [[21]](#ref-21). 
-
-Es prioritario invertir en recursos humanos y materiales para el abordaje del enfoque social en los procesos de reasentamiento en sus fases de planificación, ejecución y seguimiento, “[…] siendo un soporte para la toma de decisiones en cada una de las fases del proceso de reasentamiento” [[18]](#ref-18).
+- El análisis del contexto como principio para la planeación de cualquier proyecto de reasentamiento correctivo y sus fases [[2]](#ref-2). 
+- La reducción del riesgo no puede ser la fuente de nuevos riesgos naturales o sociales en otros territorios [[2]](#ref-2), al respecto Serje [[21]](#ref-21) indica que “los proyectos de reasentamiento no pueden entenderse únicamente como medida de compensación o de mitigación, sino como una posibilidad de consolidar una cultura y una práctica política incluyente.” 
+- Es necesaria la articulación institucional y comunitaria desde la planeación situada en procesos de participación ciudadana, proyectos productivos que fortalecen fuentes de ingresos a los habitantes, asesorías jurídicas para la regulación de avalúos y acompañamiento psicosocial. [[3]](#ref-3), [[4]](#ref-4), [[22]](#ref-22), [[47]](#ref-47).
+- El reasentamiento implica un alto grado de incertidumbre para los actores sociales participantes [[18]](#ref-18), no solo por los cambios estructurales realizados, sino también por nuevas cotidianidades y formas de habitar el territorio destino. Por tal motivo, se requiere que cada una de las familias, organizaciones e instituciones vinculadas, se identifiquen con el plan de acción y trabajo del proyecto, a través de la concertación donde se discutan acciones realizadas y planeación de avances, de tal manera, que se solventen interrogantes, se reduzcan tensiones y conflictos desde las voces de todos los actores sociales [[2]](#ref-2), [[19]](#ref-19), [[20]](#ref-20), [[21]](#ref-21). 
+- Es prioritario invertir en recursos humanos y materiales para el abordaje del enfoque social en los procesos de reasentamiento en sus fases de planificación, ejecución y seguimiento, “[…] siendo un soporte para la toma de decisiones en cada una de las fases del proceso de reasentamiento” [[18]](#ref-18).
 
 Reconocer la sostenibilidad de los procesos de reasentamiento social como medida correctiva del riesgo, deviene en reconocer un marco referencial donde las acciones del presente permitan garantizar la existencia de las formas de vida del futuro, sosteniendo y posibilitando interacciones psico-socio-ecológicas [[68]](#ref-68), donde las prácticas relacionales que impactan el tejido socio-ambiental garanticen la permanencia del mismo sin llegar a fracturarlo, o afectarlo de maneras irreversibles [[66]](#ref-66). 
 
@@ -341,7 +337,7 @@ Aquellas vivencias, esto es, los efectos particulares de lo vivido que provocan 
 
 Los instrumentos empleados fueron: (1) matriz de análisis por medio de la cual se develaron tendencias y rupturas entre posibles unidades de significación, que llevaron a la conformación de categorías emergentes y, en consecuencia, a la organización de los hallazgos, (2) Fichas técnicas que en palabras de Hochman y Montero [[59]](#ref-59) constituyen “la memoria fiel del investigador…el depósito donde se acumulan los datos que obtiene en su trabajo” en consecuencia, es el instrumento donde se consignaron los principales elementos de los documentos revisados, con el fin de tener “una constante fuente de información, creciente y flexible” [[59]](#ref-59).
 
-## 5.7 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
@@ -353,7 +349,7 @@ Las autoras y el autor no declaran conflicto de intereses
 
 El presente proyecto de investigación fue posible gracias al convenio de asociación No. 9677-PPAL001-637-2015 celebrado entre el Fondo Nacional de Gestión del Riesgo de Desastres – FIDUPREVISORA S.A. y la Universidad de Manizales.
 
-## 5.9 IDENTIFICACIÓN DE AUTOR
+## IDENTIFICACIÓN DE AUTOR
 
 ------------------------------------------------------------------------
 
@@ -363,7 +359,7 @@ Viviana Ramírez Loaiza    <https://orcid.org/0000-0003-3203-2472>
 
 Lina Andrea Zambrano Hernández  <https://orcid.org/0000-0001-8675-3203>
 
-## 5.10 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 

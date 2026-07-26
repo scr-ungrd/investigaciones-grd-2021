@@ -48,6 +48,7 @@ Colombia y el resto de los países de la región, tanto los gobiernos como sus p
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 1.** **One Health**
+
 “El concepto de «One Health (Una salud)» corresponde al enfoque mundial creado para fortalecer la colaboración interdisciplinar y la comunicación y las alianzas entre médicos, veterinarios y otros profesionales de la salud en la promoción de fortalezas en el liderazgo y la gestión para trabajar coordinadamente en la salud humana y animal” [[2]](#ref-2).
 :::
 
@@ -91,14 +92,18 @@ En algunos desastres y emergencias puede identificarse la forma en que los anima
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Bienestar Animal “El bienestar animal en situaciones de desastres es una responsabilidad humana que abarca aspectos como un albergue adecuado, nutrición optima, prevención y tratamiento de enfermedades, cuidado responsable, manejo adecuado y cuando sea necesario, sacrificio humanitario” [[9]](#ref-9). La Organización Mundial de Sanidad Animal (OIE) define el bienestar animal como el término amplio que describe la manera en que los individuos se enfrentan con el medio ambiente y que incluye su sanidad, sus percepciones, su estado anímico y otros efectos positivos o negativos que influyen sobre los mecanismos físicos y psíquicos del animal. Últimamente, este tema ha tomado mayor importancia en el mundo entero, y particularmente en los países más desarrollados, así como en los que intercambian productos pecuarios con ellos [[10]](#ref-10).
+**Caja 2. Bienestar Animal.** 
+
+“El bienestar animal en situaciones de desastres es una responsabilidad humana que abarca aspectos como un albergue adecuado, nutrición optima, prevención y tratamiento de enfermedades, cuidado responsable, manejo adecuado y cuando sea necesario, sacrificio humanitario” [[9]](#ref-9). La Organización Mundial de Sanidad Animal (OIE) define el bienestar animal como el término amplio que describe la manera en que los individuos se enfrentan con el medio ambiente y que incluye su sanidad, sus percepciones, su estado anímico y otros efectos positivos o negativos que influyen sobre los mecanismos físicos y psíquicos del animal. Últimamente, este tema ha tomado mayor importancia en el mundo entero, y particularmente en los países más desarrollados, así como en los que intercambian productos pecuarios con ellos [[10]](#ref-10).
 :::
 
 Tanto la comunidad, como los organismos encargados de manejo de emergencias, deben trabajar juntos con el fin de establecer planes que involucren en cuidado de los animales y de los propietarios en caso de un desastre. Los planes deben respetar los intereses de los propietarios de animales y las preocupaciones de las personas que no poseen animales y que por razones médicas o psicológicas deben permanecer a distancia de los animales. Además de esto evitar la innecesaria exposición de personas con alergias o fobias a los animales. Estas razones, junto con la higiene de alimentos y otras preocupaciones de Salud Pública, son algunas de las razones de porque los animales no son permitidos en algunos de los albergues para humanos [[11]](#ref-11).
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 3.** Directriz sobre gestión de desastres en relación con la sanidad, bienestar y salud pública veterinaria.  Las directrices de la OIE emplean un planteamiento que engloba todos los riesgos en materia de gestión de desastres, ya sean naturales, causados por el hombre y tecnológicos, y sugieren una amplia participación de las partes interesadas tanto del gobierno como de la sociedad civil, adaptando sus intervenciones a las necesidades locales y regionales. Así mismo, defienden la integración de las medidas de gestión de desastres y reducción de los riesgos propias a los servicios veterinarios nacionales en redes y políticas de respuesta más amplias en términos de gestión de desastres y de resiliencia, es decir, aquellas que promueven la salud y el bienestar de los animales, protegen la salud humana y medioambiental y ayudan a los países miembros a restaurar y reforzar las condiciones económicas y sociales tras un desastre [[12]](#ref-12).
+**Caja 3. Directriz sobre gestión de desastres en relación con la sanidad, bienestar y salud pública veterinaria.**  
+
+Las directrices de la OIE emplean un planteamiento que engloba todos los riesgos en materia de gestión de desastres, ya sean naturales, causados por el hombre y tecnológicos, y sugieren una amplia participación de las partes interesadas tanto del gobierno como de la sociedad civil, adaptando sus intervenciones a las necesidades locales y regionales. Así mismo, defienden la integración de las medidas de gestión de desastres y reducción de los riesgos propias a los servicios veterinarios nacionales en redes y políticas de respuesta más amplias en términos de gestión de desastres y de resiliencia, es decir, aquellas que promueven la salud y el bienestar de los animales, protegen la salud humana y medioambiental y ayudan a los países miembros a restaurar y reforzar las condiciones económicas y sociales tras un desastre [[12]](#ref-12).
 :::
 
 ### 6.2.5 ¿Quién hace parte de la respuesta?
@@ -115,7 +120,9 @@ Es muy difícil el mantenimiento de agua y comida limpia tanto para humanos y an
 
 
 ::: {#box4 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 4.** Condiciones ambientales Las condiciones ambientales que favorecen la multiplicación de vectores también son un factor para considerar dentro de estos incidentes. Proteger la Salud pública también requiere la protección de los primeros respondedores y voluntarios. Todo el personal debe estar inmunizado apropiadamente de acuerdo con el riesgo de exposición a una enfermedad prevenible por vacunación y enfermedades endémicas en zona.
+**Caja 4. Condiciones ambientales **
+
+Las condiciones ambientales que favorecen la multiplicación de vectores también son un factor para considerar dentro de estos incidentes. Proteger la Salud pública también requiere la protección de los primeros respondedores y voluntarios. Todo el personal debe estar inmunizado apropiadamente de acuerdo con el riesgo de exposición a una enfermedad prevenible por vacunación y enfermedades endémicas en zona.
 :::
 
 También se requiere un conocimiento y entrenamiento en prevención de zoonosis y técnicas apropiadas de higiene personal. Provisiones de agua y comida para emergencias y desastres debe estar en un mantenimiento apropiado. El resumen diario de seguridad debe ser realizado con el fin de concientizar acerca de los riesgos ambientales en campo y tiempos de trabajo en cada incidente [[14]](#ref-14).
@@ -207,7 +214,9 @@ Durante situaciones de emergencia y desastre, el manejo de animales silvestres e
 
 
 ::: {#box5 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 5.** Especies silvestres  Aunque sería una práctica ilegal, muchos animales silvestres y en algunos casos mascotas exóticas están en casas y ciudades alrededor del mundo, pese a la prohibición existente de su tenencia; el escape de estos animales, especialmente durante los desastres puede presentar cambios preocupantes de seguridad pública, lo cual puede llegar a ser extremadamente peligroso e impredecible.
+**Caja 5. Especies silvestres**
+
+Aunque sería una práctica ilegal, muchos animales silvestres y en algunos casos mascotas exóticas están en casas y ciudades alrededor del mundo, pese a la prohibición existente de su tenencia; el escape de estos animales, especialmente durante los desastres puede presentar cambios preocupantes de seguridad pública, lo cual puede llegar a ser extremadamente peligroso e impredecible.
 :::
 
 De una manera similar, los animales domésticos, silvestres e incluso animales pertenecientes a colecciones zoológicas pueden escapar de sus lugares de contención, presentarse desorientados y en algunos casos se pueden tornar agresivos con las personas cuando se encuentran buscando refugio o comida [[26]](#ref-26).
@@ -228,7 +237,9 @@ De manera similar cuando un animal percibe una amenaza, real o imaginaria, su in
 
 
 ::: {#box6 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 6.** Seguridad en incidentes Vale la pena resaltar que cualquier incidente de emergencia debe incluir un sistema de administración que permita un adecuado manejo de los recursos y procedimientos que garanticen el cumplimiento de los objetivos establecidos. Es vital el conocimiento del Sistema Comando de Incidentes (SCI) como medio para manejo adecuado de la emergencia o desastre.
+**Caja 6. Seguridad en incidentes**
+
+ Vale la pena resaltar que cualquier incidente de emergencia debe incluir un sistema de administración que permita un adecuado manejo de los recursos y procedimientos que garanticen el cumplimiento de los objetivos establecidos. Es vital el conocimiento del Sistema Comando de Incidentes (SCI) como medio para manejo adecuado de la emergencia o desastre.
 :::
 
 ### 6.3.11 Preocupaciones de salud pública
@@ -249,7 +260,9 @@ Una de las áreas objetivo más reconocidos del enfoque de One Health es el de l
 
 
 ::: {#box7 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 7.** Zoonosis en situaciones de desastres Las zoonosis se refieren a enfermedades compartidas causados por una variedad de organismos biológicos, que pueden ser transmitidos bidireccionalmente a los humanos en condiciones naturales. La diseminación de la zoonosis es controlada a través de la salud pública y la inspección de los servicios de comida [[24]](#ref-24).
+**Caja 7. Zoonosis en situaciones de desastres**
+
+Las zoonosis se refieren a enfermedades compartidas causados por una variedad de organismos biológicos, que pueden ser transmitidos bidireccionalmente a los humanos en condiciones naturales. La diseminación de la zoonosis es controlada a través de la salud pública y la inspección de los servicios de comida [[24]](#ref-24).
 :::
 
 Algunos organismos que causan enfermedades zoonóticas se enumeran a continuación. Los seres humanos tienen más probabilidades de exponerse a patógenos con potencial zoonótico, cuando los residuos animales contaminan el agua potable. Esto puede ocurrir en las inundaciones y después de una falla en las plantas de tratamiento de aguas. El agua también se puede contaminar con materiales peligrosos a través del viento por el estiércol animal o los animales muertos que contaminan los pozos o embalses [[24]](#ref-24). Algunos organismos comunes que causan enfermedades zoonóticas son:
@@ -308,7 +321,9 @@ Mantener los animales y sus propietarios juntos es una forma de reducir el estr�
 
 
 ::: {#box8 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 8.** Sistema Comando de Incidentes Sistema eficiente y eficaz diseñado para la gestión de incidentes mediante la combinación de instalaciones, equipamiento, personal, comunicaciones, protocolos y procedimientos que operan bajo una estructura organizativa común y esta estructurado para facilitar actividades funcionales de comando, seguridad, información pública, enlace, planificación, operaciones, logística, administración y finanzas.
+**Caja 8. Sistema Comando de Incidentes**
+
+Sistema eficiente y eficaz diseñado para la gestión de incidentes mediante la combinación de instalaciones, equipamiento, personal, comunicaciones, protocolos y procedimientos que operan bajo una estructura organizativa común y esta estructurado para facilitar actividades funcionales de comando, seguridad, información pública, enlace, planificación, operaciones, logística, administración y finanzas.
 :::
 
 ### 6.4.2 Preocupaciones ambientales
@@ -319,14 +334,18 @@ Otros aspectos que han impactado a los animales dentro del marco ONE WELFARE, so
 
 
 ::: {#box9 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 9.** One Welfare De la misma forma que One Health, la iniciativa One Welfare “Un bienestar” encara una cooperación colaborativa que puede tener resultados y beneficios en cada una de las áreas que captura esta esencia. La aproximación al One Welfare puede ayudar a todas aquellas acciones en donde el bienestar animal hace parte de su enfoque y pensar en ellos como individuos susceptibles.
+**Caja 9. One Welfare**
+
+De la misma forma que One Health, la iniciativa One Welfare “Un bienestar” encara una cooperación colaborativa que puede tener resultados y beneficios en cada una de las áreas que captura esta esencia. La aproximación al One Welfare puede ayudar a todas aquellas acciones en donde el bienestar animal hace parte de su enfoque y pensar en ellos como individuos susceptibles.
 :::
 
 También hay posibilidad de contaminación de las aguas subterráneas y los malos olores. Animales que se escapan pueden contaminar el abastecimiento de agua, pueden causar una acumulación de estiércol y el pastoreo excesivo vuelve sensibles a los ecosistemas y causar daños a los cultivos [[28]](#ref-28). 
 
 
 ::: {#box10 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 10.** Proceso de planeación El proceso de planeación es tan importante como el plan final mismo. Durante el proceso de planeación, las personas y organizaciones aprenden a trabajar en equipo. Un plan de emergencias construido con estos principios puede resultar en un modelo de preparación comunitaria creado a partir de las necesidades identificadas en función de la emergencia.
+**Caja 10. Proceso de planeación**
+
+El proceso de planeación es tan importante como el plan final mismo. Durante el proceso de planeación, las personas y organizaciones aprenden a trabajar en equipo. Un plan de emergencias construido con estos principios puede resultar en un modelo de preparación comunitaria creado a partir de las necesidades identificadas en función de la emergencia.
 :::
 
 ## 6.5 RECOMENDACIONES GENERALES
@@ -353,13 +372,20 @@ En Colombia se encuentra una gran variedad de especies; entre animales silvestre
 
 
 ::: {#puntos-clave-1 .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
-<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos clave</h2>
 
-No todos los profesionales en ciencias animales están familiarizados con la mayoría de las situaciones de emergencias y como tratarlas. Los trabajadores del control de animales y de refugios humanitarios a menudo están familiarizados con la captura y rescate de animales, así como de las necesidades de vivienda y alimentación. Los educadores pueden estar familiarizados con los animales de granja, los recursos de la comunidad y sus cuestiones financieras.
+- No todos los profesionales en ciencias animales están familiarizados con la mayoría de las situaciones de emergencias y como tratarlas.
+- Los trabajadores del control de animales y de refugios humanitarios a menudo están familiarizados con la captura y rescate de animales, así como de las necesidades de vivienda y alimentación.
+- Los educadores pueden estar familiarizados con los animales de granja, los recursos de la comunidad y sus cuestiones financieras.
 :::
 
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Recomendaciones para tomar decisiones.** Fortalecer el control y vigilancia de los problemas de enfermedades compartidas entre animales y humanos, las cuales se reconocen como una amenaza creciente a la salud global, así como para las economías mundiales. Durante algunas emergencias y desastres hay un aumento de enfermedades relacionadas con el estrés. Esto incluye cambios en la respuesta inmune, disminución en la ingesta de alimento y de su metabolismo, y aumento de la susceptibilidad a determinadas enfermedades.    Entender adecuadamente el comportamiento y las respuestas de los animales en un incidente ayuda a los respondientes a predecir como el animal puede reaccionar en la escena.   Las personas encargadas del manejo del animal deben conocer los métodos o técnicas para disminuir el miedo o estrés de una víctima animal, esto puede definir el éxito en una respuesta.
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Recomendaciones para tomar decisiones</h2>
+
+- Fortalecer el control y vigilancia de los problemas de enfermedades compartidas entre animales y humanos, las cuales se reconocen como una amenaza creciente a la salud global, así como para las economías mundiales.
+- Durante algunas emergencias y desastres hay un aumento de enfermedades relacionadas con el estrés. Esto incluye cambios en la respuesta inmune, disminución en la ingesta de alimento y de su metabolismo, y aumento de la susceptibilidad a determinadas enfermedades.
+- Entender adecuadamente el comportamiento y las respuestas de los animales en un incidente ayuda a los respondientes a predecir como el animal puede reaccionar en la escena.
+- Las personas encargadas del manejo del animal deben conocer los métodos o técnicas para disminuir el miedo o estrés de una víctima animal, esto puede definir el éxito en una respuesta.
 :::
 ## 6.7 MATERIALES Y METODOS
 
@@ -367,25 +393,25 @@ No todos los profesionales en ciencias animales están familiarizados con la may
 
 Recopilación, búsqueda, selección, filtración de información y de datos de los últimos 10 años, revisión bibliográfica a partir de diferentes fuentes como documentos oficiales, textos escritos y digítales; nacionales e internacionales identificando los aspectos asociados al manejo, salud y seguridad de los animales en la gestión del riesgo de los desastres y su papel en la sociedad, que permiten llevar a cabo una adecuada guía para la toma de decisiones frente a los animales en emergencias y desastres, garantizando la seguridad del personal operativo que interviene. Se priorizan el análisis a las acciones que contemplan estándares asociados al enfoque One Health y se prepara el contenido de una manera significativa y agregándole contenido relevante por parte de cada uno de los autores. 
 
-## 6.8 CONFLICTO DE INTERESES
+## CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
 
 Los autores declaran no tener conflicto de interés.
 
-**IDENTIFICACIÓN POR AUTOR**
+## IDENTIFICACIÓN POR AUTOR
 
-Diego Alexander Hernández Pulido		 
+Diego Alexander Hernández Pulido	<https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001613874>	 
 
-Nicolás Hernández Gallo  			
+Nicolás Hernández Gallo  			<https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001318004>
 
-Leonardo Arias Bernal			 
+Leonardo Arias Bernal			 <https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000382086>
 
-Rodrigo Forero Carrillo			 
+Rodrigo Forero Carrillo			 <https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001711791>
 
-Gonzalo Jiménez Alonso			 
+Gonzalo Jiménez Alonso			 <https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000284300>
 
-## 6.9 BIBLIOGRAFÍA
+## BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 
