@@ -449,7 +449,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#ref-10}
-10. MADS-DELTARES-INVEMAR. (2013). *A quickscan of building-with-nature solutions to mitigate coastal erosión in Colombia. **Interim report*. Delft, Holanda. 85 p.
+10. MADS-DELTARES-INVEMAR. (2013). *A quickscan of building-with-nature solutions to mitigate coastal erosión in Colombia. Interim report*. Delft, Holanda. 85 p.
 
     </div>
 
@@ -459,7 +459,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::::::::::::::::::::::::::::: {#ref-12}
-12. Karl F. Nordstrom a, Bingyi Liang b, Emir S. Garilao b, Nancy L. Jackson b, (2018). Topography, vegetation cover and below ground biomass of spatially constrained and unconstrained foredunes in New Jersey, USA*. **Ocean & Coastal Management*. Vol 156.
+12. Karl F. Nordstrom a, Bingyi Liang b, Emir S. Garilao b, Nancy L. Jackson b, (2018). Topography, vegetation cover and below ground biomass of spatially constrained and unconstrained foredunes in New Jersey, USA. *Ocean & Coastal Management*. Vol 156.
 
     </div>
 
@@ -539,7 +539,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::::::::::::: {#ref-28}
-28. Thieler E. R. y Danforth W. (2005). Historical shoreline mapping: improving techniques and reducing positioning errors*. **Journal of Coastal Research*, 10(3), 549-563.
+28. Thieler E. R. y Danforth W. (2005). Historical shoreline mapping: improving techniques and reducing positioning errors. *Journal of Coastal Research*, 10(3), 549-563.
 
     </div>
 

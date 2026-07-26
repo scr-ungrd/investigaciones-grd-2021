@@ -268,7 +268,7 @@ Sumado a lo anterior, en Cuba, Olivera y González [[39]](#ref-39) evidencian c�
 
 
 ::: {#box10 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 10. Puntos orientadores para el componente de estrategias sociales de afrontamiento
+**Caja 10. Puntos orientadores para el componente de estrategias sociales de afrontamiento**
 - Acciones y escenarios que faciliten la liberación de tensiones por parte de la comunidad y de las instituciones involucradas.
 - Identificación de los mecanismos de adaptación que posee la comunidad reasentada y receptora a nuevas situaciones, con la finalidad de propiciar escenarios de resolución de conflictos.
 - Asignación de roles en actores institucionales y comunitarios para mediar conflictos y monitorear soluciones.
@@ -539,7 +539,7 @@ Lina Andrea Zambrano Hernández  <https://orcid.org/0000-0001-8675-3203>
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::: {#ref-36}
-36. Hurtado, J. (2010) *Análisis físico-espacial de la vivienda de interés social en los procesos de reasentamiento poblacional desde la perspectiva del hábitat: de los asentamientos **autogestionados vulnerables a las soluciones institucionales masivas de vivienda. Estudio de caso: barrio Altos de Santa Ana. Comuna Ciudadela del Norte, Manizales*. (Tesis 694 Maestría). Universidad Nacional de Colombia.
+36. Hurtado, J. (2010) *Análisis físico-espacial de la vivienda de interés social en los procesos de reasentamiento poblacional desde la perspectiva del hábitat: de los asentamientos autogestionados vulnerables a las soluciones institucionales masivas de vivienda. Estudio de caso: barrio Altos de Santa Ana. Comuna Ciudadela del Norte, Manizales*. (Tesis 694 Maestría). Universidad Nacional de Colombia.
 
     </div>
 
@@ -659,7 +659,7 @@ Lina Andrea Zambrano Hernández  <https://orcid.org/0000-0001-8675-3203>
     </div>
 
 :::::::::::::::::: {#ref-60}
-60. Botzen, W., Bouwer, L., Scussolini, P., Kuik, O., Haasnoot, M., Lawrence, J., Aerts, J. (2019). Integrated Disaster Risk Management and Adaptation. En R. Mechler, L. Bouwer, T. Schinko, S. Surminski & J. Linnerooth-Bayer (Eds.), *Loss and Damage from Climate Change. **Climate Risk Management, Policy and Governance*. Springer, Cham.
+60. Botzen, W., Bouwer, L., Scussolini, P., Kuik, O., Haasnoot, M., Lawrence, J., Aerts, J. (2019). Integrated Disaster Risk Management and Adaptation. En R. Mechler, L. Bouwer, T. Schinko, S. Surminski & J. Linnerooth-Bayer (Eds.), *Loss and Damage from Climate Change. Climate Risk Management, Policy and Governance*. Springer, Cham.
 
     </div>
 
