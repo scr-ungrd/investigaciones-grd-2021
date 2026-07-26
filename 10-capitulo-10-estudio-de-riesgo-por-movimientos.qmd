@@ -482,12 +482,12 @@ Johnny Vega
     </div>
 
 :::::::::::::::::::::::::: {#ref-14}
-14. Sepulveda, S. A., & Petley, D. N. (2015). Regional trends and controlling factors of fatal landslides in Latin America and the Caribbean. *Natural Hazards and Earth Systems Science*, 15, 1821–1833. https://doi.org/10.5194/nhess-15-1821-2015
+14. Sepulveda, S. A., & Petley, D. N. (2015). Regional trends and controlling factors of fatal landslides in Latin America and the Caribbean. *Natural Hazards and Earth Systems Science*, 15, 1821–1833. <https://doi.org/10.5194/nhess-15-1821-2015>
 
     </div>
 
 ::::::::::::::::::::::::: {#ref-15}
-15. Isaza-Restrepo, P. A., Martinez, H. E., & Hidalgo, C. A. (April de 2016). Methodology for quantitative landslide risk analysis in residential projects. Habitat International, 53, 403-412. https://doi.org/10.1016/j.habitatint.2015.12.012
+15. Isaza-Restrepo, P. A., Martinez, H. E., & Hidalgo, C. A. (April de 2016). Methodology for quantitative landslide risk analysis in residential projects. Habitat International, 53, 403-412. <https://doi.org/10.1016/j.habitatint.2015.12.012>
 
     </div>
 
@@ -502,7 +502,7 @@ Johnny Vega
     </div>
 
 :::::::::::::::::::::: {#ref-18}
-18. Chowdhury, R., Flentje, P., & Bhattacharya, G. (2010). *Geotechnical Slope Analysis*. London, England: Taylor & Francis, p. 737. https://doi.org/10.1201/9780203864203-f
+18. Chowdhury, R., Flentje, P., & Bhattacharya, G. (2010). *Geotechnical Slope Analysis*. London, England: Taylor & Francis, p. 737. <https://doi.org/10.1201/9780203864203-f>
 
     </div>
 
@@ -557,7 +557,7 @@ Johnny Vega
     </div>
 
 ::::::::::: {#ref-29}
-29. Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27, 861–874. https://doi:10.1016/j.patrec.2005.10.010
+29. Fawcett, T. (2006). An introduction to ROC analysis. Pattern Recognition Letters, 27, 861–874. <https://doi.org/10.1016/j.patrec.2005.10.010>
 
     </div>
 

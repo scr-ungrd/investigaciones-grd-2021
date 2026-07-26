@@ -480,7 +480,7 @@ Los autores agradecen en primer lugar al Banco Mundial y en particular al equipo
     </div>
 
 ::::::::::::::::::::::: {#ref-19}
-19. FEMA (Federal Emergency Management Agency). (2017). *Hazus: FEMA’s Methodology for Estimating Potential Losses from Disasters*. Recuperado de https://www.fema.gov/hazus-mh-user-technical-manuals
+19. FEMA (Federal Emergency Management Agency). (2017). *Hazus: FEMA’s Methodology for Estimating Potential Losses from Disasters*. Recuperado de <https://www.fema.gov/hazus-mh-user-technical-manuals>
 
     </div>
 

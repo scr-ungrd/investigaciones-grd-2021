@@ -474,17 +474,17 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::::::::::::::::::::::::: {#ref-16}
-16. Wang, L., Li, C., Ying Q., Cheng, X., Wang, X., Li, X., Hu, L., Liang, L., Yu, L., Huang, H., Gong, P. (2012). Urban expansion from 1990 to 2010 determined with satellite remote sensing. *Chinese Science Bulletin*, 57, 2802-2812. https://doi.org/10.1007/s11434-012-5235-7
+16. Wang, L., Li, C., Ying Q., Cheng, X., Wang, X., Li, X., Hu, L., Liang, L., Yu, L., Huang, H., Gong, P. (2012). Urban expansion from 1990 to 2010 determined with satellite remote sensing. *Chinese Science Bulletin*, 57, 2802-2812. <https://doi.org/10.1007/s11434-012-5235-7>
 
     </div>
 
 :::::::::::::::::::::::::::::::::::::: {#ref-17}
-17. Serrano-Suarez, B.E. (2004). The Sinú river delta on the northwestern Caribbean coast of Colombia: Bay infilling associated with delta development. *Journal of South American Earth Sciences*, 16, 623–631. https://doi.org/10.1016/j.jsames.2003.10.005
+17. Serrano-Suarez, B.E. (2004). The Sinú river delta on the northwestern Caribbean coast of Colombia: Bay infilling associated with delta development. *Journal of South American Earth Sciences*, 16, 623–631. <https://doi.org/10.1016/j.jsames.2003.10.005>
 
     </div>
 
 ::::::::::::::::::::::::::::::::::::: {#ref-18}
-18. Morris, R.L., Strain, M.A., Konlechner, T., Fest, B., Kennedy, D., Arndt, E., Swearer, E. (2018). Developing a nature-based coastal defence strategy for Australia. *Australian Journal of Civil Engineering*, 17(2), 167-176. https://doi.org/10.1080/14488353.2019.1661062
+18. Morris, R.L., Strain, M.A., Konlechner, T., Fest, B., Kennedy, D., Arndt, E., Swearer, E. (2018). Developing a nature-based coastal defence strategy for Australia. *Australian Journal of Civil Engineering*, 17(2), 167-176. <https://doi.org/10.1080/14488353.2019.1661062>
 
     </div>
 
@@ -529,7 +529,7 @@ David F. Morales Giraldo
     </div>
 
 :::::::::::::::::::::::::::: {#ref-27}
-27. Thieler E., Himmelstoss E., Zichichi J., Ergul, A. (2010). *The Digital Shoreline Analysis System (DSAS) Version 4.0 - An ArcGIS extension for calculating shoreline change (2008-1278). *https://doi.org/10.3133/ofr20081278
+27. Thieler E., Himmelstoss E., Zichichi J., Ergul, A. (2010). *The Digital Shoreline Analysis System (DSAS) Version 4.0 - An ArcGIS extension for calculating shoreline change (2008-1278). *<https://doi.org/10.3133/ofr20081278>
 
     </div>
 
@@ -544,17 +544,17 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::::::::::: {#ref-30}
-30. EUROSION. (2005). *Vivir con la erosión costera en Europa, Sedimentos y espacios para la sostenibilidad*. Luxembourg: Office for Official Publications of the European Communities.  http://www.eurosion.org/project/eurosion_en.pdf
+30. EUROSION. (2005). *Vivir con la erosión costera en Europa, Sedimentos y espacios para la sostenibilidad*. Luxembourg: Office for Official Publications of the European Communities.  <http://www.eurosion.org/project/eurosion_en.pdf>
 
     </div>
 
 :::::::::::::::::::::::: {#ref-31}
-31. GREENPEACE. (1999). *El cambio climático y los arrecifes coralinos del planeta*. Recuperado de http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/el-cambio-climatico-y-los-arre.pdf.
+31. GREENPEACE. (1999). *El cambio climático y los arrecifes coralinos del planeta*. Recuperado de <http://archivo-es.greenpeace.org/espana/Global/espana/report/cambio_climatico/el-cambio-climatico-y-los-arre.pdf>.
 
     </div>
 
 ::::::::::::::::::::::: {#ref-32}
-32. Romero Rodríguez, D. A. (2014). *Variables ambientales durante eventos de blanqueamiento coralino en el Caribe colombiano*. Universidad Nacional de Colombia, Medellín. https://doi.org/
+32. Romero Rodríguez, D. A. (2014). *Variables ambientales durante eventos de blanqueamiento coralino en el Caribe colombiano*. Universidad Nacional de Colombia, Medellín. <https://doi.org/10.18257/raccefyn.49>
 
     </div>
 
@@ -564,7 +564,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::::::: {#ref-34}
-34. Riveron-Enzastiga, M. L., Carbajal, N., y Salas-Monreal, D. (2016). Tropical coral reef system hydrodynamics in the western Gulf of Mexico. *Scientia Marina*, 802, 237-246. https://doi.org/
+34. Riveron-Enzastiga, M. L., Carbajal, N., y Salas-Monreal, D. (2016). Tropical coral reef system hydrodynamics in the western Gulf of Mexico. *Scientia Marina*, 802, 237-246. <https://doi.org/10.3989/scimar.04259.15B>
 
     </div>
 
@@ -584,7 +584,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::::::: {#ref-38}
-38. Giri, C., Ochieng, E., Tieszen, L. L., Zhu, Z., Singh, A., Loveland, T., Duke, N. (2011). Status and distribution of mangrove forests of the world using earth observation satellite data. *Global Ecology and Biogeography*, 201, 154-159. https://doi.org/
+38. Giri, C., Ochieng, E., Tieszen, L. L., Zhu, Z., Singh, A., Loveland, T., Duke, N. (2011). Status and distribution of mangrove forests of the world using earth observation satellite data. *Global Ecology and Biogeography*, 201, 154-159. <https://doi.org/10.1111/j.1466-8238.2010.00584.x>
 
     </div>
 
@@ -604,7 +604,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::::: {#ref-42}
-42. Williams, A.T., Rangel-Buitrago, N., Pranzini, E., Anfuso, G. (2018). The management of coastal erosion. *Ocean and Coastal Management*, 156, 4-20. https://doi.org/10.1016/j.ocecoaman.2017.03.022
+42. Williams, A.T., Rangel-Buitrago, N., Pranzini, E., Anfuso, G. (2018). The management of coastal erosion. *Ocean and Coastal Management*, 156, 4-20. <https://doi.org/10.1016/j.ocecoaman.2017.03.022>
 
     </div>
 
@@ -614,7 +614,7 @@ David F. Morales Giraldo
     </div>
 
 ::::::::::: {#ref-44}
-44. Isla, F., Cortizo, L., Merlotto, A., Bertola, G., Pontrelli, M., Finocchietti, C. (2018). Erosion in Buenos Aires province: Coastal-management policy revisited. *Ocean and Coastal Management*,156, 107-116. https://doi.org/10.1016/j.ocecoaman.2017.09.008
+44. Isla, F., Cortizo, L., Merlotto, A., Bertola, G., Pontrelli, M., Finocchietti, C. (2018). Erosion in Buenos Aires province: Coastal-management policy revisited. *Ocean and Coastal Management*,156, 107-116. <https://doi.org/10.1016/j.ocecoaman.2017.09.008>
 
     </div>
 
@@ -624,12 +624,12 @@ David F. Morales Giraldo
     </div>
 
 ::::::::: {#ref-46}
-46. Gracia, A., Rangel-Buitrago, N., Oakley, J., Williams, A.T. (2018). Use of ecosystems in coastal erosion management. *Ocean and Coastal Management*, 156, 277-289. https://doi.org/10.1016/j.ocecoaman.2017.07.009
+46. Gracia, A., Rangel-Buitrago, N., Oakley, J., Williams, A.T. (2018). Use of ecosystems in coastal erosion management. *Ocean and Coastal Management*, 156, 277-289. <https://doi.org/10.1016/j.ocecoaman.2017.07.009>
 
     </div>
 
 :::::::: {#ref-47}
-47. Neal, W., Pilkey, O., Cooper, A., Longo, N. (2018). Why coastal regulations fail. *Ocean and Coastal Management*, 156, 21-34. https://doi.org/10.1016/j.ocecoaman.2017.05.003
+47. Neal, W., Pilkey, O., Cooper, A., Longo, N. (2018). Why coastal regulations fail. *Ocean and Coastal Management*, 156, 21-34. <https://doi.org/10.1016/j.ocecoaman.2017.05.003>
 
     </div>
 
@@ -639,12 +639,12 @@ David F. Morales Giraldo
     </div>
 
 :::::: {#ref-49}
-49. Ndour, Raoul, A. Laïbi, Sadio, M., Degbe, C., Diaw, A., Oy, M., Anthony, E., Dussouillez, P., Sambou, H., Balla Di, E. (2018). Management strategies for coastal erosion problems in west Africa: Analysis, issues, and constraints drawn from the examples of Senegal and Benin. Abdoulaye. *Ocean and Coastal Management*, 156, 92-106. https://doi.org/10.1016/j.ocecoaman.2017.09.001
+49. Ndour, Raoul, A. Laïbi, Sadio, M., Degbe, C., Diaw, A., Oy, M., Anthony, E., Dussouillez, P., Sambou, H., Balla Di, E. (2018). Management strategies for coastal erosion problems in west Africa: Analysis, issues, and constraints drawn from the examples of Senegal and Benin. Abdoulaye. *Ocean and Coastal Management*, 156, 92-106. <https://doi.org/10.1016/j.ocecoaman.2017.09.001>
 
     </div>
 
 ::::: {#ref-50}
-50. Psuty, N., Ames, K., Habeck, A., Schmelz, W.  (2018). Responding to coastal change: Creation of a regional approach to monitoring and management, northeastern region, U.S.A. *Ocean and Coastal Management*, 156, 170-182. https://doi.org/10.1016/j.ocecoaman.2017.08.004
+50. Psuty, N., Ames, K., Habeck, A., Schmelz, W.  (2018). Responding to coastal change: Creation of a regional approach to monitoring and management, northeastern region, U.S.A. *Ocean and Coastal Management*, 156, 170-182. <https://doi.org/10.1016/j.ocecoaman.2017.08.004>
 
     </div>
 

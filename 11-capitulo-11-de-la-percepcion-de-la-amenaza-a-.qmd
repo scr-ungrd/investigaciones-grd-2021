@@ -437,12 +437,12 @@ Alexander Padilla González
     </div>
 
 :::::::::::::::::: {#ref-2}
-2.  Desinventar. (2018). *Sistema de inventario de efectos de desastres*. Consultado el 03 de octubre de 2017. https://online.desinventar.org/desinventar/#COL-1250694506-  colombia_inventario_historico_de_desastres.
+2.  Desinventar. (2018). *Sistema de inventario de efectos de desastres*. Consultado el 03 de octubre de 2017. <https://online.desinventar.org/desinventar/#COL-1250694506->  colombia_inventario_historico_de_desastres.
 
     </div>
 
 ::::::::::::::::: {#ref-3}
-3.  Caracol Radio. (2016). *Avalancha en el río Unete incomunica a Boyacá y Casanare*. Consultado el 03 de octubre de 2017. https://caracol.com.co/emisora/2016/09/01/tunja/1472737110_176330.html
+3.  Caracol Radio. (2016). *Avalancha en el río Unete incomunica a Boyacá y Casanare*. Consultado el 03 de octubre de 2017. <https://caracol.com.co/emisora/2016/09/01/tunja/1472737110_176330.html>
 
     </div>
 
@@ -507,7 +507,7 @@ Alexander Padilla González
     </div>
 
 :::: {#ref-16}
-16. ALOS PALSAR L 1.0: © JAXA / METI ALOS PALSAR [ALPSRS270523500] [2018] Accedido a través de ASF DAAC, https://j.mp/2ON8GK4 [28 de enero de 2018].
+16. ALOS PALSAR L 1.0: © JAXA / METI ALOS PALSAR [ALPSRS270523500] [2018] Accedido a través de ASF DAAC, <https://j.mp/2ON8GK4> [28 de enero de 2018].
 
     </div>
 

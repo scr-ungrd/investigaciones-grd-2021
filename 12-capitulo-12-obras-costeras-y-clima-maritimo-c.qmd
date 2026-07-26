@@ -196,7 +196,7 @@ Julio Monroy
 ------------------------------------------------------------------------
 
 ::::::::::::::::::::::: {#ref-1}
-1.  Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. https://doi.org/10.1029/91JC00064
+1.  Douglas, B. C. (1991). Global sea level rise. *Journal of Geophysical Research: Oceans*, 96(C4), 6981-6992. <https://doi.org/10.1029/91JC00064>
 
     </div>
 
@@ -206,7 +206,7 @@ Julio Monroy
     </div>
 
 ::::::::::::::::::::: {#ref-3}
-3.  Cazenave, A., & Llovel, W. (2010). Contemporary sea level rise. *Annual review of marine science*, 2, 145-173. https://doi.org/10.1146/annurev-marine-120308-081105
+3.  Cazenave, A., & Llovel, W. (2010). Contemporary sea level rise. *Annual review of marine science*, 2, 145-173. <https://doi.org/10.1146/annurev-marine-120308-081105>
 
     </div>
 

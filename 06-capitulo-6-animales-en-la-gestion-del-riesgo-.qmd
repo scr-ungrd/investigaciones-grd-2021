@@ -477,7 +477,7 @@ Gonzalo Jiménez Alonso
     </div>
 
 ::::::::::::::::::::::::: {#ref-7}
-7.  Myers, S., & Patz, J. (2009). Emerging threats to human health from global environmental change. *Annual Review of Environment Resource*. pages. 223-252. 5. https://doi.org/10.1146/annurev.environ.033108.102650
+7.  Myers, S., & Patz, J. (2009). Emerging threats to human health from global environmental change. *Annual Review of Environment Resource*. pages. 223-252. 5. <https://doi.org/10.1146/annurev.environ.033108.102650>
 
     </div>
 
@@ -492,7 +492,7 @@ Gonzalo Jiménez Alonso
     </div>
 
 :::::::::::::::::::::: {#ref-10}
-10. Rojas, H., Stuardo, L. (2005). Políticas y prácticas de bienestar animal en los países de América: estudio preliminar. *Revue scientifique et technique (International Office of Epizootics)*, *24*(2), 549-565. https://doi.org/10.20506/rst.24.2.1589
+10. Rojas, H., Stuardo, L. (2005). Políticas y prácticas de bienestar animal en los países de América: estudio preliminar. *Revue scientifique et technique (International Office of Epizootics)*, *24*(2), 549-565. <https://doi.org/10.20506/rst.24.2.1589>
 
     </div>
 
@@ -532,12 +532,12 @@ Gonzalo Jiménez Alonso
     </div>
 
 :::::::::::::: {#ref-18}
-18. Dickstein, S. (2019). *The Role of the Wildlife Rehabilitator in Disaster Preparedness and Response*. https://www.hsdl.org/?view&did=456385
+18. Dickstein, S. (2019). *The Role of the Wildlife Rehabilitator in Disaster Preparedness and Response*. <https://www.hsdl.org/?view&did=456385>
 
     </div>
 
 ::::::::::::: {#ref-19}
-19. Salcedo, S., & Guzmán, L. (2014). A*gricultura familiar en América Latina y el Caribe: recomendaciones de política*. Santiago de Chile, Chile. Food and Agriculture Organization of the United Nations FAO 2014. http://www.fao.org/3/i3788s/i3788s.pdf
+19. Salcedo, S., & Guzmán, L. (2014). A*gricultura familiar en América Latina y el Caribe: recomendaciones de política*. Santiago de Chile, Chile. Food and Agriculture Organization of the United Nations FAO 2014. <http://www.fao.org/3/i3788s/i3788s.pdf>
 
     </div>
 
@@ -547,12 +547,12 @@ Gonzalo Jiménez Alonso
     </div>
 
 ::::::::::: {#ref-21}
-21. Maudlin, I., Eisler, M. (2009). Neglected and endemic zoonoses. Philosophical Transactions of the Royal Society London B, 364(1530), 2777-2787. https://doi.org/10.1098/rstb.2009.0067.
+21. Maudlin, I., Eisler, M. (2009). Neglected and endemic zoonoses. Philosophical Transactions of the Royal Society London B, 364(1530), 2777-2787. <https://doi.org/10.1098/rstb.2009.0067>.
 
     </div>
 
 :::::::::: {#ref-22}
-22. Chatham House. (2010). *Shifting from emergency response to prevention of pandemic disease threats at source. Londres*, Chatham House. https://www.chathamhouse.org/publications/papers/view/109284
+22. Chatham House. (2010). *Shifting from emergency response to prevention of pandemic disease threats at source. Londres*, Chatham House. <https://www.chathamhouse.org/publications/papers/view/109284>
 
     </div>
 
@@ -567,7 +567,7 @@ Gonzalo Jiménez Alonso
     </div>
 
 ::::::: {#ref-25}
-25. Schoenbach, V. J. (1999). *Comprendiendo los Fundamentos de la Epidemiología-un texto en desarrollo*. University of North carolina. http://www.epidemiolog.net/es/endesarrollo/TablaDeContenidos.htm
+25. Schoenbach, V. J. (1999). *Comprendiendo los Fundamentos de la Epidemiología-un texto en desarrollo*. University of North carolina. <http://www.epidemiolog.net/es/endesarrollo/TablaDeContenidos.htm>
 
     </div>
 

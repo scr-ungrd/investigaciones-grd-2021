@@ -322,7 +322,7 @@ Julio Rubio
     </div>
 
 :::::::::::: {#ref-17}
-17. Renn, O. (1990). Risk perception and risk management: A review. Pt. 2, Lessons for risk management. *Risk Abstracts*, 8 (1), 1-9. https://doi.org/10.1007/978-1-4757-4891-8_6
+17. Renn, O. (1990). Risk perception and risk management: A review. Pt. 2, Lessons for risk management. *Risk Abstracts*, 8 (1), 1-9. <https://doi.org/10.1007/978-1-4757-4891-8_6>
 
     </div>
 
@@ -337,7 +337,7 @@ Julio Rubio
     </div>
 
 ::::::::: {#ref-20}
-20. Kals, Elisabeth; Schumacher, Daniel & Montada, Leo. (1999). Emotional affinity toward nature as motivational basis to protect nature. *Environment & Behavior*, 31(2), 178-202. https://doi.org/10.1177/00139169921972056
+20. Kals, Elisabeth; Schumacher, Daniel & Montada, Leo. (1999). Emotional affinity toward nature as motivational basis to protect nature. *Environment & Behavior*, 31(2), 178-202. <https://doi.org/10.1177/00139169921972056>
 
     </div>
 

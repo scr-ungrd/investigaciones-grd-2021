@@ -361,7 +361,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-13}
-13. Soledad, B.; Sigala, F.; Argueta, L.; Iglesias, V. (2015). Salud ambiental infantil en el contexto de la reubicación de familias de campamentos a viviendas sociales. *Revista Chilena de Pediatría*, 86(3), 152-160. https://doi.org/10.1016/j.rchipe.2015.06.001
+13. Soledad, B.; Sigala, F.; Argueta, L.; Iglesias, V. (2015). Salud ambiental infantil en el contexto de la reubicación de familias de campamentos a viviendas sociales. *Revista Chilena de Pediatría*, 86(3), 152-160. <https://doi.org/10.1016/j.rchipe.2015.06.001>
 
     </div>
 
@@ -416,7 +416,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-24}
-24. Rey, C. (2010). Pobreza en un reasentamiento voluntario de población desplazada: caso Patio Grande. *Palobra*, (11), 58-82.  http://doi.org/d4g8
+24. Rey, C. (2010). Pobreza en un reasentamiento voluntario de población desplazada: caso Patio Grande. *Palobra*, (11), 58-82.  <http://doi.org/d4g8>
 
     </div>
 
@@ -446,7 +446,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#ref-30}
-30. Sierra, A. (2009). La política de mitigación de los riesgos en las laderas de Quito: ¿qué vulnerabilidad combatir? *Bulletin de l'Institut français d'études andines*, 38(3), 737-753. https://doi.org/10.4000/bifea.2421
+30. Sierra, A. (2009). La política de mitigación de los riesgos en las laderas de Quito: ¿qué vulnerabilidad combatir? *Bulletin de l'Institut français d'études andines*, 38(3), 737-753. <https://doi.org/10.4000/bifea.2421>
 
     </div>
 
@@ -481,7 +481,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 ::::::::::::::::::::::::::::::::::::::::: {#ref-37}
-37. Mejía-Escalante, M. (2012). Habitabilidad en la vivienda social en edificios para población reasentada. El caso de Medellín, Colombia. *Revista Latinoamericana de Estudios Urbanos Regionales*, 38 (114), 203-227.  http://dx.doi.org/10.4067/S0250-12012000200008
+37. Mejía-Escalante, M. (2012). Habitabilidad en la vivienda social en edificios para población reasentada. El caso de Medellín, Colombia. *Revista Latinoamericana de Estudios Urbanos Regionales*, 38 (114), 203-227.  <http://dx.doi.org/10.4067/S0250-12012000200008>
 
     </div>
 
@@ -491,17 +491,17 @@ Lina Andrea Zambrano Hernández
     </div>
 
 ::::::::::::::::::::::::::::::::::::::: {#ref-39}
-39. Olivera, A. y González, G. (2010). Enfoque multidimensional de la reconstrucción post-desastre de la vivienda social y el hábitat en países en vías de desarrollo: estudios de casos en Cuba. *Revista de la construcción*, 9(2), 53-62. https://doi.org/10.4067/S0-915X2010000200006
+39. Olivera, A. y González, G. (2010). Enfoque multidimensional de la reconstrucción post-desastre de la vivienda social y el hábitat en países en vías de desarrollo: estudios de casos en Cuba. *Revista de la construcción*, 9(2), 53-62. <https://doi.org/10.4067/S0-915X2010000200006>
 
     </div>
 
 :::::::::::::::::::::::::::::::::::::: {#ref-40}
-40. Bijit, K. (2012). El proceso de integración social de los refugiados palestinos reasentados en región de Valparaíso, Chile. *Revista de Estudios Transfronterizos*, 12(1), 155-180.  https://doi.org/10.4067/S0-09482012000100007
+40. Bijit, K. (2012). El proceso de integración social de los refugiados palestinos reasentados en región de Valparaíso, Chile. *Revista de Estudios Transfronterizos*, 12(1), 155-180.  <https://doi.org/10.4067/S0-09482012000100007>
 
     </div>
 
 ::::::::::::::::::::::::::::::::::::: {#ref-41}
-41. Mandujano, F., Rodríguez, J., Reyes, S. y Medina P. (2015). La erupción del volcán Chaitén: Voyerismo, desconfianza, academia y Estado. Consecuencias urbanas y sociales en la comunidad. *UNIVERSUM*, 30(2), 153-177.  https://doi.org/10.4067/S0-23762015000200010
+41. Mandujano, F., Rodríguez, J., Reyes, S. y Medina P. (2015). La erupción del volcán Chaitén: Voyerismo, desconfianza, academia y Estado. Consecuencias urbanas y sociales en la comunidad. *UNIVERSUM*, 30(2), 153-177.  <https://doi.org/10.4067/S0-23762015000200010>
 
     </div>
 
@@ -526,12 +526,12 @@ Lina Andrea Zambrano Hernández
     </div>
 
 :::::::::::::::::::::::::::::::: {#ref-46}
-46. Sandoval, V., Boano,C., González, C., y Albornoz, C. (2015). Explorando potenciales vínculos entre resiliencia y Justicia ambiental: el caso  de  Chaitén,  Chile.  *MAGALLANIA*, 43(3), 37-49. https://doi.org/10.4067/S0-22442015000300004
+46. Sandoval, V., Boano,C., González, C., y Albornoz, C. (2015). Explorando potenciales vínculos entre resiliencia y Justicia ambiental: el caso  de  Chaitén,  Chile.  *MAGALLANIA*, 43(3), 37-49. <https://doi.org/10.4067/S0-22442015000300004>
 
     </div>
 
 ::::::::::::::::::::::::::::::: {#ref-47}
-47. Wilches-Chaux, G. (1993). *La reubicación de San Cayetano*. Bogotá: Editorial carrera 7ª Ltda. http://dx.doi.org/10.4067/S0-22442015000300004
+47. Wilches-Chaux, G. (1993). *La reubicación de San Cayetano*. Bogotá: Editorial carrera 7ª Ltda. <http://dx.doi.org/10.4067/S0-22442015000300004>
 
     </div>
 
@@ -541,7 +541,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 ::::::::::::::::::::::::::::: {#ref-49}
-49. Balazote, A. (2002). Reasentamiento forzoso de población y regularización territorial en el Interfluvio Teuco-Bermejito (Provincia de Chaco). *Cuadernos de antropología Social*, (16), 165-184.  https://doi.org/10.34096/cas.i16.4608
+49. Balazote, A. (2002). Reasentamiento forzoso de población y regularización territorial en el Interfluvio Teuco-Bermejito (Provincia de Chaco). *Cuadernos de antropología Social*, (16), 165-184.  <https://doi.org/10.34096/cas.i16.4608>
 
     </div>
 
@@ -616,7 +616,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 :::::::::::::: {#ref-64}
-64. Castro-Buitrago, E. y Vélez, J. (2018). Procesos de reasentamiento en Colombia: ¿una medida de adaptación y protección de derechos humanos de las víctimas del cambio climático? *Vniversitas*, (136), 1-23. https://doi.org/10.11144/Javeriana.vj136.prcm
+64. Castro-Buitrago, E. y Vélez, J. (2018). Procesos de reasentamiento en Colombia: ¿una medida de adaptación y protección de derechos humanos de las víctimas del cambio climático? *Vniversitas*, (136), 1-23. <https://doi.org/10.11144/Javeriana.vj136.prcm>
 
     </div>
 
@@ -626,7 +626,7 @@ Lina Andrea Zambrano Hernández
     </div>
 
 :::::::::::: {#ref-66}
-66. Ebel, Roland, & Kissmann, Susanne (2011). Desarrollo sostenible: la investigación en un contexto intercultural. *Ra Ximhai*, 7(1), 69-79. https://doi.org/10.35197/rx.07.01.2011.07.re
+66. Ebel, Roland, & Kissmann, Susanne (2011). Desarrollo sostenible: la investigación en un contexto intercultural. *Ra Ximhai*, 7(1), 69-79. <https://doi.org/10.35197/rx.07.01.2011.07.re>
 
     </div>
 

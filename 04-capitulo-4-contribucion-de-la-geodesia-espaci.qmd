@@ -477,7 +477,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-3}
-3.  Case, J.E., Duran, S., Lopez, R. A., & Moore, W. R. (1971). Tectonic investigations in western Colombia and eastern Panama. *Geological Society of America Bulletin*, 82, 2685-2712. http://doi.org/c69x89
+3.  Case, J.E., Duran, S., Lopez, R. A., & Moore, W. R. (1971). Tectonic investigations in western Colombia and eastern Panama. *Geological Society of America Bulletin*, 82, 2685-2712. <http://doi.org/c69x89>
 
     </div>
 
@@ -512,7 +512,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-10}
-10. Pindell, J.L., Higgs, R. & Dewey, J. F. (1998). Cenozoic palinspastic reconstruction, paleogeographic evolution, and hydrocarbon setting of the northern margin of South America, En J. L. Pindell & C. L. Drake (Eds.), *Paleogeographic Evolution and Non-glacial Eustasy, Northern South America.* Society for Sedimentary Geology (pp. 45-86). Tulsa, Oklahoma, Special Publication, 58. https://doi.org/10.2110/pec.98.58.0045
+10. Pindell, J.L., Higgs, R. & Dewey, J. F. (1998). Cenozoic palinspastic reconstruction, paleogeographic evolution, and hydrocarbon setting of the northern margin of South America, En J. L. Pindell & C. L. Drake (Eds.), *Paleogeographic Evolution and Non-glacial Eustasy, Northern South America.* Society for Sedimentary Geology (pp. 45-86). Tulsa, Oklahoma, Special Publication, 58. <https://doi.org/10.2110/pec.98.58.0045>
 
     </div>
 
@@ -532,7 +532,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-14}
-14. Audemard, F. E. & Audemard, F. A. (2002). Structure of the Mérida Andes, Venezuela: relations with the South America-Caribbean geodynamic interaction. Tectonophysics, 345 (1-4), 299-327. http://doi.org/bj9fgc
+14. Audemard, F. E. & Audemard, F. A. (2002). Structure of the Mérida Andes, Venezuela: relations with the South America-Caribbean geodynamic interaction. Tectonophysics, 345 (1-4), 299-327. <http://doi.org/bj9fgc>
 
     </div>
 
@@ -542,7 +542,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-16}
-16. Amante, C. & Eakins, B.W. (2009). ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24. National Geophysical Data Center, NOAA. https://doi:10.7289/V5C8276M
+16. Amante, C. & Eakins, B.W. (2009). ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24. National Geophysical Data Center, NOAA. <https://doi.org/10.7289/V5C8276M>
 
     </div>
 
@@ -562,7 +562,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: {#ref-20}
-20. Stein, S. & Sella, G. (2002). Plate Boundary Zones: Concepts and Approaches. En S. Stein, & J. Freymueller (Eds.), *Plate Boundary Zones* (pp. 1-26)*.* Geodynamics Series 30, American Geophysical Union, Washington, D.C. https://doi.org/10.1029/GD030p0001.
+20. Stein, S. & Sella, G. (2002). Plate Boundary Zones: Concepts and Approaches. En S. Stein, & J. Freymueller (Eds.), *Plate Boundary Zones* (pp. 1-26)*.* Geodynamics Series 30, American Geophysical Union, Washington, D.C. <https://doi.org/10.1029/GD030p0001>.
 
     </div>
 
@@ -697,7 +697,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 ::::::::::::::::::::::::: {#ref-47}
-47. OSO (Junio 11 de 2018). Onsala Space Observatory, Chalmers University of Technology. Recuperado de http://holt.oso.chalmers.se/loading/tidemodels.html
+47. OSO (Junio 11 de 2018). Onsala Space Observatory, Chalmers University of Technology. Recuperado de <http://holt.oso.chalmers.se/loading/tidemodels.html>
 
     </div>
 
@@ -732,7 +732,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 :::::::::::::::::: {#ref-54}
-54. Nocquet, J.M., Jarrin P., Vallée, M., Mothes, P. A., Grandin, R., Rolandone, F., B., Delouis, Yepes, H. , Font, Y. C., Fuentes, D., Régnier, M., Laurendeau, A., Cisneros, D., Hernandez, S., Sladen, A., Singaucho, J. C., Mora, H., Gomez, J., Monte L., Charvis, P., (2017). Supercycle at the Ecuadorian subduction zone revealed after the 2016 Pedernales earthquake. *Nature Geoscience*, 10, 145–149. https://doi:10.1038/ngeo2864
+54. Nocquet, J.M., Jarrin P., Vallée, M., Mothes, P. A., Grandin, R., Rolandone, F., B., Delouis, Yepes, H. , Font, Y. C., Fuentes, D., Régnier, M., Laurendeau, A., Cisneros, D., Hernandez, S., Sladen, A., Singaucho, J. C., Mora, H., Gomez, J., Monte L., Charvis, P., (2017). Supercycle at the Ecuadorian subduction zone revealed after the 2016 Pedernales earthquake. *Nature Geoscience*, 10, 145–149. <https://doi.org/10.1038/ngeo2864>
 
     </div>
 
@@ -742,7 +742,7 @@ Leidy Giraldo Londoño   <https://orcid.org/0000-0002-7892-1999>
     </div>
 
 :::::::::::::::: {#ref-56}
-56. Nocquet, J., Villegas-Lanza, J.C., Chlieh, M., Mothes, P. A., Rolandone, F., Jarrin, P., Cisneros, D., Alvarado, A., Audin, L., Bondoux, F., Martin, X., Font, Y., Régier, M., Vallée, M., Tran, T., Beauval, C., Maguiña, Mendoza J. M., Martinez, W., Tavera, H. & Yepes H., (2014). Motion of continental slivers and creeping subduction in the Northern Andes. *Nature Geoscience*, 7 (4), 287-291.https://doi.org/10.1038/ngeo2099
+56. Nocquet, J., Villegas-Lanza, J.C., Chlieh, M., Mothes, P. A., Rolandone, F., Jarrin, P., Cisneros, D., Alvarado, A., Audin, L., Bondoux, F., Martin, X., Font, Y., Régier, M., Vallée, M., Tran, T., Beauval, C., Maguiña, Mendoza J. M., Martinez, W., Tavera, H. & Yepes H., (2014). Motion of continental slivers and creeping subduction in the Northern Andes. *Nature Geoscience*, 7 (4), 287-291.<https://doi.org/10.1038/ngeo2099>
 
     </div>
 

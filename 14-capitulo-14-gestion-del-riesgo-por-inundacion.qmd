@@ -450,7 +450,7 @@ Nelson Obregón Neira
     </div>
 
 :::::::::::::::::: {#ref-15}
-15. Voinov, A., & Bousquet, F. (2010). Modelling with stakeholders. *Environmental Modelling & Software*, 25(11), 1268-1281. https://doi.org/10.1016/j.envsoft.2010.03.007
+15. Voinov, A., & Bousquet, F. (2010). Modelling with stakeholders. *Environmental Modelling & Software*, 25(11), 1268-1281. <https://doi.org/10.1016/j.envsoft.2010.03.007>
 
     </div>
 
@@ -470,7 +470,7 @@ Nelson Obregón Neira
     </div>
 
 :::::::::::::: {#ref-19}
-19. Wirasaet, D., Kubatko, E. J., Michoski, C. E., Tanaka, S., Westerink, J. J. & Dawson, C. (2014) Discontinuous Galerkin methods with nodal and hybrid modal/nodal triangular, quadrilateral, and polygonal elements for nonlinear shallow water flow. *Computer Methods in Applied Mechanics and Engineering*, 270(1), 113–49.  https://doi.org/10.1016/j.cma.2013.11.006
+19. Wirasaet, D., Kubatko, E. J., Michoski, C. E., Tanaka, S., Westerink, J. J. & Dawson, C. (2014) Discontinuous Galerkin methods with nodal and hybrid modal/nodal triangular, quadrilateral, and polygonal elements for nonlinear shallow water flow. *Computer Methods in Applied Mechanics and Engineering*, 270(1), 113–49.  <https://doi.org/10.1016/j.cma.2013.11.006>
 
     </div>
 
@@ -505,7 +505,7 @@ Nelson Obregón Neira
     </div>
 
 ::::::: {#ref-26}
-26. Wooldridge, M., Jennings, N. R., & Kinny, D. (2000). The Gaia Methodology for Agent-Oriented Analysis and Design. *Autonomous Agents and Multi-Agent Systems*, 3(3), 285-312. https://doi.org/10.1023/A:1010071910869
+26. Wooldridge, M., Jennings, N. R., & Kinny, D. (2000). The Gaia Methodology for Agent-Oriented Analysis and Design. *Autonomous Agents and Multi-Agent Systems*, 3(3), 285-312. <https://doi.org/10.1023/A:1010071910869>
 
     </div>
 

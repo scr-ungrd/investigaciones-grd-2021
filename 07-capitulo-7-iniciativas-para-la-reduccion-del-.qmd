@@ -235,7 +235,7 @@ Víctor Leonardo López Jiménez
     </div>
 
 :::::::::::::::: {#ref-3}
-3.  Gallardo O., Vega L. (2012). *Diplomado Geo-diversidad, Gestión de Riesgos y Cambio Climático en Centroamérica Modulo V: Visión Social de la prevención*. Consulta en: http://www. slideshare.net/comunicacionespfc/ visin-social-de-la-prevencin
+3.  Gallardo O., Vega L. (2012). *Diplomado Geo-diversidad, Gestión de Riesgos y Cambio Climático en Centroamérica Modulo V: Visión Social de la prevención*. Consulta en: <http://www>. slideshare.net/comunicacionespfc/ visin-social-de-la-prevencin
 
     </div>
 
@@ -250,7 +250,7 @@ Víctor Leonardo López Jiménez
     </div>
 
 ::::::::::::: {#ref-6}
-6.  Vallaeys François. (2007). *Responsabilidad Social Universitaria Propuesta para una definición madura y eficiente. Tecnológico de Monterrey – Programa para la Formación en Humanidades*. Consulta en octubre de 2016: http://www. bibliotecavirtual. info/2011/12/responsabilidad-social-universitaria-propuesta-para-una-definición-madura-y-eficiente/
+6.  Vallaeys François. (2007). *Responsabilidad Social Universitaria Propuesta para una definición madura y eficiente. Tecnológico de Monterrey – Programa para la Formación en Humanidades*. Consulta en octubre de 2016: <http://www>. bibliotecavirtual. info/2011/12/responsabilidad-social-universitaria-propuesta-para-una-definición-madura-y-eficiente/
 
     </div>
 
@@ -270,7 +270,7 @@ Víctor Leonardo López Jiménez
     </div>
 
 ::::::::: {#ref-10}
-10. Vallaeys, F. (2014). La Responsabilidad Social Universitaria: un nuevo modelo universitario contra la mercantilización. *Revista Iberoamericana de Educación Superior*, 5(12). https://doi.org/10.22201/iisue.20072872e.2014.12.112
+10. Vallaeys, F. (2014). La Responsabilidad Social Universitaria: un nuevo modelo universitario contra la mercantilización. *Revista Iberoamericana de Educación Superior*, 5(12). <https://doi.org/10.22201/iisue.20072872e.2014.12.112>
 
     </div>
 
