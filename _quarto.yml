@@ -4,7 +4,8 @@ project:
   output-dir: _book
 
 book:
-  title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia del 2021"
+  title: "Investigaciones en Gestión del Riesgo de Desastres para Colombia. Avances, Perspectivas y Casos de Estudio"
+  cover-image: images/libro-2021-portada.png
   repo-url: https://github.com/scr-ungrd/investigaciones-grd-2021
   repo-actions: [source, issue]
   chapters:

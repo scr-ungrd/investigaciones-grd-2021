@@ -8,6 +8,14 @@ title-block-banner-color: "#151550ff"
 [← Ver colección completa de la serie](https://scr-ungrd.github.io/investigaciones-grd-colombia/){.ungrd-btn}
 :::
 
+Bienvenidos al primer libro de la serie Investigaciones en Gestión del Riesgo de Desastres para Colombia. Este volumen reúne catorce investigaciones que abordan el riesgo de desastres desde perspectivas técnicas, sociales y territoriales, con casos de estudio que van desde la actualización de normas sismorresistentes hasta la gestión comunitaria del riesgo.
+
+La versión digital de este libro está disponible de manera libre y gratuita, con el propósito de fomentar la difusión del conocimiento generado por investigadores e instituciones que trabajan la gestión del riesgo en el país.
+
+A lo largo de sus capítulos, el lector encontrará avances en amenaza sísmica, geodesia espacial, sequía agrícola, movimientos en masa, erosión costera e inundaciones, entre otros temas. Agradecemos su interés en difundir este libro como un aporte a la gestión del riesgo de desastres en Colombia.
+
+------------------------------------------------------------------------
+
 ::: {.grid .indice-grid}
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card .h-100 .shadow-sm}
@@ -138,7 +146,7 @@ title-block-banner-color: "#151550ff"
 
 ::: {.card-body .pt-2 .pb-2}
 
-![](media/img_fa875e6a.png){height="130px" style="object-fit: cover;"}
+![](images/capitulo_7/Figura%207.1.png){height="130px" style="object-fit: cover;"}
 
 <p class="autores-text">**Autores:** Víctor Leonardo López Jiménez</p>
 
