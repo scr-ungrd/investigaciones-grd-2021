@@ -41,10 +41,9 @@ El suroeste antioqueño, y en particular las cuencas de esta subregión, son fre
 
 En este capítulo se presenta la metodología aplicada a un caso de estudio en la cuenca del río San Juan. En primer lugar, se presenta una evaluación de la información disponible para la elaboración de un inventario de movimientos en masa (@fig-c10-01). Segundo, se presenta la evaluación de amenaza por movimientos en masa detonados por sismos y lluvia a escala regional, se presentan los materiales usados y los resultados obtenidos; por último, se presenta el análisis de riesgo, y finalmente se presentan conclusiones y recomendaciones para futuros trabajos.
 
-**Tabla 1**. Se estima que los costos directos e indirectos de los movimientos en masa en pueden ser significativas en términos del producto interno bruto (PIB), incluso en países desarrollados [[16]](#ref-16).
+Se estima que los costos directos e indirectos de los movimientos en masa pueden ser significativas en términos del producto interno bruto (PIB), incluso en países desarrollados [[16]](#ref-16) (@tbl-c10-01).
 
-
-| País | Pérdidas anuales (USD miles de millones | Pérdidas (% PIB) |
+| País | Pérdidas anuales (USD miles de millones) | Pérdidas (% PIB) |
 | --- | --- | --- |
 | Estados Unidos | 2.1 - 4.3 | 0.01 - 0.03 |
 | Japón | 3.0 | 0.06 |
@@ -53,18 +52,16 @@ En este capítulo se presenta la metodología aplicada a un caso de estudio en l
 | China | 1.0 | 0.01 |
 | Alemania | 0.3 | 0.01 |
 
+: Pérdidas anuales asociadas a movimientos en masa como porcentaje del PIB en países seleccionados. {#tbl-c10-01}
+
 
 
 ![Pérdida de vidas (**A**) y daño a propiedades (**B**) por diversos fenómenos naturales en el Valle de Aburrá entre 1880–2007 (adaptado de [[19]](#ref-19)).](images/capitulo_10/img_873d26d6.png){#fig-c10-01}
 
-En recientes años, se han presentado varios movimientos en masa que han causado numerosas muertes y pérdidas económicas. La Tabla 2 muestra algunos movimientos en masa seleccionados por su gran impacto a nivel mundial y también en área en estudio. La mayoría de estos eventos ocurrieron en zonas de ocupación irregular; sin embargo, taludes en proyectos formales también han presentado problemas [[20]](#ref-20). 
+En recientes años, se han presentado varios movimientos en masa que han causado numerosas muertes y pérdidas económicas. La @tbl-c10-02 muestra algunos movimientos en masa seleccionados por su gran impacto a nivel mundial y también en área en estudio. La mayoría de estos eventos ocurrieron en zonas de ocupación irregular; sin embargo, taludes en proyectos formales también han presentado problemas [[20]](#ref-20).
 
-**Tabla 2.** Algunas tragedias debidas a movimientos en masa (Modificado de [[15]](#ref-15)).
-
-
-| Clasificación de los movimientos en masa | Fecha | Localización | Daños | Daños |
-| --- | --- | --- | --- | --- |
 | Clasificación de los movimientos en masa | Fecha | Localización | Muertes | Personas afectadas |
+| --- | --- | --- | --- | --- |
 | Flujo de lodos | Feb. 4, 2005 | El Barro (Bello-Colombia) | 42 | 60 |
 | Deslizamiento rotacional complejo | May 28, 2007 | La Cruz (Medellín-Colombia) | 8 | > 60 |
 | Flujo de escombros | May 31, 2008 | El Socorro (Medellín-Colombia) | 27 | > 60 |
@@ -79,6 +76,8 @@ En recientes años, se han presentado varios movimientos en masa que han causado
 | Avenida torrencial | May 18, 2015 | Salgar (Colombia) | 104 | 542 |
 | Deslizamiento | Oct 26, 2016 | Cabuyal, Copacabana | 16 | - |
 | Avenida torrencial | Abr 26, 1993 | Tapartó (Andes-Colombia) | 92 | - |
+
+: Algunas tragedias debidas a movimientos en masa (Modificado de [[15]](#ref-15)). {#tbl-c10-02}
 
 El control de estos eventos es una prioridad para las autoridades alrededor del mundo. Sin embargo, la ausencia de una delimitación racional y clara de las zonas susceptibles a movimientos en masa resulta en la ocupación de zonas inadecuadas creando escenarios de alto riesgo para la vida y pérdidas materiales [[13]](#ref-13), [[16]](#ref-16), [[21]](#ref-21). En este contexto, surge la necesidad de adaptar o desarrollar nuevas metodologías para entender mejor las condiciones que causan los movimientos en masa en zonas montañosas y crear herramientas de planeación que permitan un mejor manejo de los procesos de ocupación de laderas. 
 
@@ -104,7 +103,7 @@ Para ampliar la información y obtener un análisis más concluyente sobre la oc
 
 ### 10.2.1 Amenaza
 
-Se aplicó la metodología mostrada en la @fig-c10-06 y descrita en la Sección 6, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de *H* = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.
+Se aplicó la metodología mostrada en la @fig-c10-06 y descrita en la Sección 10.5.1, para calcular la probabilidad de falla, considerando que la superficie de falla se presenta a una profundidad media de *H* = 2 m, con coeficiente de variación de 25%, para simular un deslizamiento superficial, que corresponde al tipo característico de movimiento en masa en terrenos montañosos tropicales como la zona de estudio, los cuales suelen inducirse por lluvias de alta intensidad o larga duración principalmente. Los coeficientes de variación empleados para los demás parámetros corresponden a 5% para el peso específico del suelo, 10% para el ángulo de fricción interna, 30% para la cohesión, y finalmente, 50% para el coeficiente de aceleración horizontal de sismo. La lluvia usada para la evaluación de la probabilidad de saturación del suelo y la probabilidad anual de falla del terreno, tiene un periodo de retorno de 20 años.
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
@@ -121,9 +120,9 @@ En el proceso de estimación de la amenaza, se calculan los factores de segurida
 
 Se realizó el análisis de vulnerabilidad física calculando para esto la intensidad de acuerdo con las Ecuaciones 6 y 7. Analizando la intensidad de afectación de los cauces en una zona de 100 m a lado y lado de los mismos, se obtiene un valor promedio de 0.052 (grado de afectación del 5.2%) en las corrientes principales de la zona de estudio. Como ejemplo, en la @fig-c10-04 (panel B) se muestran los resultados de vulnerabilidad obtenidos para la quebrada La Liboriana.
 
-3.3 Riesgo
+### 10.2.3 Riesgo
 
-Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se estimó el riesgo en los cauces en una zona de 100 m a cada lado. Se realizó el análisis de riesgo calculando las perdidas probables de acuerdo con las ecuaciones 9 y 10. Como ejemplo, en la Figura se muestran los resultados de pérdidas estimadas obtenidos para la quebrada La Liboriana.
+Usando el procedimiento descrito en la Sección 10.5.4 e ilustrado en la @fig-c10-10, se estimó el riesgo en los cauces en una zona de 100 m a cada lado. Se realizó el análisis de riesgo calculando las perdidas probables de acuerdo con las ecuaciones 9 y 10. Como ejemplo, en la @fig-c10-04 (panel C) se muestran los resultados de pérdidas estimadas obtenidos para la quebrada La Liboriana.
 
 
 
@@ -135,10 +134,7 @@ Usando el procedimiento descrito en la Sección 6 e ilustrado en la Figura , se 
 
 ### 10.3.1 Factor de seguridad
 
-Se consideraron como zonas críticas de estabilidad, aquellas celdas con un valor de factor de seguridad (*FS)* < 1.1, obteniendo los resultados mostrados en la Tabla .
-
-**Tabla 3.** Comparativo celdas críticas de estabilidad del terreno en la cuenca de estudio.
-
+Se consideraron como zonas críticas de estabilidad, aquellas celdas con un valor de factor de seguridad (*FS)* < 1.1, obteniendo los resultados mostrados en la @tbl-c10-03.
 
 | Escenario/Condición suelo | Área (km2) | Área total de la cuenca  San Juan (%) |
 | --- | --- | --- |
@@ -146,6 +142,8 @@ Se consideraron como zonas críticas de estabilidad, aquellas celdas con un valo
 | Estático/Saturado | 221.6 | 15.8 |
 | Dinámico/Húmedo | 118.9 | 8.5 |
 | Dinámico /Saturado | 815.9 | 58.2 |
+
+: Comparativo celdas críticas de estabilidad del terreno en la cuenca de estudio. {#tbl-c10-03}
 
 En ambos escenarios se aprecia un incremento notable las áreas inestables en la eventual condición de saturación del suelo, puesto que la presencia de agua en la masa de suelo tiene un efecto negativo en la estabilidad dado que ésta reduce el esfuerzo cortante, disminuye la cohesión e incrementa la presión de poros, facilitando un potencial movimiento en masa.
 
@@ -179,10 +177,7 @@ Usando los datos del inventario de movimientos en masa para la subcuenca de vali
 
 De acuerdo con los resultados obtenidos con relación a las zonas críticas de estabilidad, el municipio de Andes presenta una alta ocurrencia de movimientos en masa en condición de saturación del suelo, lo cual es habitual en temporada de invierno. Esto se ve reflejado también, en la frecuencia de eventos geodinámicos registrados en la base de datos Desinventar, donde este municipio presenta el pico más alto de desastres registrados hasta el año 2019 (@fig-c10-02, panel E). Sin embargo, los eventos registrados en esta base de datos para municipios como Salgar y Ciudad Bolívar con gran porcentaje de su área en condición de inestabilidad, no reflejan las cifras reportadas, lo cual no necesariamente implica falta de correlación con el modelo propuesto, dado que no en todos los municipios se mantiene actualizado el inventario desastres y hay eventos ocurridos que no se reportaron.
 
-A continuación, en la Tabla  se presenta el análisis de resultados de la amenaza por municipios en la cuenca de estudio, y se hace énfasis en aquellas zonas consideradas como críticas por presentar niveles de potencial afectación altos.
-
-**Tabla 4.** Resultados de la amenaza por municipios en la cuenca de estudio.
-
+A continuación, en la @tbl-c10-04 se presenta el análisis de resultados de la amenaza por municipios en la cuenca de estudio, y se hace énfasis en aquellas zonas consideradas como críticas por presentar niveles de potencial afectación altos.
 
 | Municipio | Probabilidad anual de falla [[18]](#ref-18) | Zonas críticas por inestabilidad de taludes |
 | --- | --- | --- |
@@ -195,9 +190,11 @@ A continuación, en la Tabla  se presenta el análisis de resultados de la amena
 | Tarso | El municipio presenta una PAF promedio de 0.024957 (Alta). | ZONA 1. Corresponde a parte de la cuenca del río San Juan, al margen derecho del río, entre las veredas La Herradura y San Francisco. |
 | Pueblorrico | El municipio presenta una PAF promedio de 0.025107 (Alta). | ZONA 1. Corresponde a parte de la cuenca del río San Juan, al margen derecho del río, entre las desembocaduras del río Bolívar y el río Barroso con el río San Juan, jurisdicción de la vereda Hoyo Grande. |
 
+: Resultados de la amenaza por municipios en la cuenca de estudio. {#tbl-c10-04}
+
 ### 10.3.3 Vulnerabilidad
 
-Aplicando el procedimiento descrito en el Capítulo 6.2, se estimó la vulnerabilidad de la quebrada. Los valores más altos de vulnerabilidad (> 0.06) corresponden a zonas escarpadas de alta montaña con pendientes que superan los 30° en las riberas de los cauces, los cuales se presentan generalmente en la parte alta de las sub cuencas que conforman la cuenca del río San Juan. Esto implica que la masa deslizante proveniente de un movimiento en masa puede generar una mayor obstrucción en los cauces debido a la geomorfología encañonada de las corrientes de agua en estas zonas. 
+Aplicando el procedimiento descrito en la Sección 10.5.2, se estimó la vulnerabilidad de la quebrada. Los valores más altos de vulnerabilidad (> 0.06) corresponden a zonas escarpadas de alta montaña con pendientes que superan los 30° en las riberas de los cauces, los cuales se presentan generalmente en la parte alta de las sub cuencas que conforman la cuenca del río San Juan. Esto implica que la masa deslizante proveniente de un movimiento en masa puede generar una mayor obstrucción en los cauces debido a la geomorfología encañonada de las corrientes de agua en estas zonas. 
 
 De acuerdo a los resultados obtenidos, se debe prestar especial atención en la parte alta de las quebradas La Liboriana y el río Barroso en el municipio de Salgar; Santa Rosa, La Linda y Sucre en el Municipio de Ciudad Bolívar; quebrada San Antonio, Guadalejo y río Pedral en el municipio de Betania; quebradas Santa Rita, El Silencio, Santa Bárbara, ríos Chaparrala y San Agustín en el municipio de Andes; parte baja del río Dojurgo en el municipio de Jardín, y del río San Juan en la jurisdicción de los municipio de Salgar, Ciudad Bolívar y Pueblorrico.
 
@@ -227,16 +224,18 @@ Como una recomendación general para la evaluación de estos riesgos, se propone
 
 Se analiza la ocurrencia de movimientos en masa en Antioquia a partir del cual se ha identificado que la subregión de mayor afectación es el suroeste y municipios como Andes y Támesis. Se presenta una metodología para evaluación de riesgo por movimientos en masa detonados por sismo y lluvias en cuencas abastecedoras. El módulo de amenaza ha mostrado la capacidad de identificar zonas inestables, usando para esto información secundaria y un enfoque que considera modelos físicos y probabilísticos.  En cuanto al riesgo, se encontró que en un eventual sismo que genere aceleraciones del orden de 0.2 g, las pérdidas estimadas en la zona, sin considerar edificaciones, sería del orden de $3,782 millones, en las cuencas de la zona estudiada. Esta estimativa debe servir de referencia para evaluaciones más detalladas y la toma de decisiones para la gestión del riesgo.
 :::
+
 ::: {#trabajo-futuro-1 .callout-important style="background-color: #fffbebff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Trabajo a futuro.** Para disminuir la incertidumbre en los parámetros usados y la inclusión del proceso de infiltración con base física, se deben efectuar caracterizaciones geotécnicas de los suelos superficiales en esta región tanto de parámetros de resistencia al cortante como hidráulicos en condiciones no saturadas.
 :::
+
 ## 10.5 MATERIALES Y MÉTODOS
 
 ------------------------------------------------------------------------
 
 Se planteó una metodología que permite el cálculo del riesgo definido mediante la ecuación general:
 
-$R=P[T]×P[C/T]×u(C)$ 					(1)
+$$R = P[T] \times P[C|T] \times u(C) \tag{1}$$
 
 donde *R* es el riesgo, *P[T]* es la amenaza entendida como la probabilidad de que ocurra un evento amenazante, *P[C|T]* es la vulnerabilidad (*V*) entendida como la probabilidad condicional de que se produzcan daños considerando que ya ocurrió una falla y *u(C)* es el costo de las consecuencias. Para el caso de los movimientos en masa, la *P[T]* se entenderá como la probabilidad de falla, es decir la probabilidad de que un talud falle, que este caso corresponde a la *PTF*. Aunque la falla se podría dar solo por efecto de la gravedad, lo más común es que la falla sea desencadenada por un agente detonante como los sismos o la lluvia. La  Figura  muestra esquemáticamente el modelo propuesto.
 
@@ -249,15 +248,15 @@ donde *R* es el riesgo, *P[T]* es la amenaza entendida como la probabilidad de q
 
 ![Presentación esquemática del modelo de análisis de riesgo.](images/capitulo_10/img_42bfd6d2.png){#fig-c10-05}
 
-Como se observa en la Figura , la determinación de la amenaza se hace considerando la saturación del suelo y el efecto de los sismos, y la vulnerabilidad considera la exposición y las consecuencias de la falla.
+Como se observa en la @fig-c10-05, la determinación de la amenaza se hace considerando la saturación del suelo y el efecto de los sismos, y la vulnerabilidad considera la exposición y las consecuencias de la falla.
 
 ### 10.5.1 Amenaza
 
 El modelo de estimación de la amenaza fue implementado usando el software EPADYM, desarrollado por el Grupo de Investigación en Ingeniería Civil (GICI) de la Universidad de Medellín, y que calcula el índice de confiabilidad, la probabilidad de falla y el factor de seguridad del terreno bajo condiciones sísmicas y estáticas. 
 
-La metodología implementada para la estimación de la amenaza [[6]](#ref-6) y [[27]](#ref-27) se basa en el método FOSM. Esta metodología, que se muestra gráficamente en la Figura , permite calcular la probabilidad de falla del terreno (PTF) de acuerdo con teorema de probabilidad total por medio de la ecuación:
+La metodología implementada para la estimación de la amenaza [[6]](#ref-6) y [[27]](#ref-27) se basa en el método FOSM. Esta metodología, que se muestra gráficamente en la @fig-c10-06, permite calcular la probabilidad de falla del terreno (PTF) de acuerdo con teorema de probabilidad total por medio de la ecuación:
 
-$PT=PTF=Pfs×Ps+Pfns×(1-Ps)$  		(2)
+$$PTF = P_{fs} \times P_s + P_{fns} \times (1 - P_s) \tag{2}$$
 
 Donde *P**fs* es la probabilidad de falla del talud debido a la acción de un sismo en condición de saturación de suelos, *P**fns* es la probabilidad de falla en condición no saturada, *P**s* es la probabilidad marginal de que el suelo este saturado y (1 - *P**s*) representa la probabilidad marginal de que el suelo no esté saturado. La probabilidad de falla de los taludes las condiciones saturada y no saturada pueden ser calculadas independientemente, pero la determinación de la probabilidad que el suelo este saturado es difícil debido a la complejidad del fenómeno de variación de las condiciones del contenido de agua en el suelo. Una descripción detallada del modelo para la evaluación de probabilidad de falla se puede consultar en [[35]](#ref-35).
 
@@ -269,15 +268,14 @@ Donde *P**fs* es la probabilidad de falla del talud debido a la acción de un si
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Caja 3.** Datos estadísticos de las propiedades del suelo En análisis probabilistas es necesario disponer de información de las distribuciones de probabilidad de las variables, sin embargo, diversos estudios han mostrado que cuando no se dispone de un número suficiente de datos se pueden obtener buenas estimativas conociendo la media del parámetro y utilizando valores típicos del coeficiente de variación (desviación estándar sobre la media), que han mostrado tener poca sensibilidad temporal y espacial. En la siguiente tabla se presentan rangos típicos de coeficientes de variación de parámetros geotécnicos de interés para análisis de estabilidad de taludes medidos en suelos del Valle de Aburra. Con base en estos datos, se hizo la estimativa de los CV usados en la evaluación de amenaza en este trabajo. Resultados de ensayos de corte directo [[24]](#ref-24)
 :::
-| --- | --- |
 
-El cálculo de la probabilidad de saturación se efectuó usando la metodología descrita por [[35]](#ref-35) usando de precipitación diaria de la base de datos CHIRPS entre el año 1951 y 1996. Los registros se organizaron con ventanas móviles de lluvia acumulada de 15 y 3 días para cada fecha. Igualmente, para cada fecha se calculó la lluvia de 3 días usando la ecuación del umbral de falla de la Ecuación 4. La comparación de los valores reales con los valores estimados se realizó usando la Ecuación 3. Con el fin de establecer la probabilidad de excedencia del umbral, se determinó el número de veces que se excedió el umbral durante el tiempo de registros y luego este número de ocurrencias se dividió por el número total de registros. Con base en los análisis realizados, se estima que las precipitaciones que superan el umbral de falla, tienen un periodo de recurrencia de 20 años. La Figura  esquematiza el proceso seguido aquí.
+El cálculo de la probabilidad de saturación se efectuó usando la metodología descrita por [[35]](#ref-35) usando de precipitación diaria de la base de datos CHIRPS entre el año 1951 y 1996. Los registros se organizaron con ventanas móviles de lluvia acumulada de 15 y 3 días para cada fecha. Igualmente, para cada fecha se calculó la lluvia de 3 días usando la ecuación del umbral de falla de la Ecuación 4. La comparación de los valores reales con los valores estimados se realizó usando la Ecuación 3. Con el fin de establecer la probabilidad de excedencia del umbral, se determinó el número de veces que se excedió el umbral durante el tiempo de registros y luego este número de ocurrencias se dividió por el número total de registros. Con base en los análisis realizados, se estima que las precipitaciones que superan el umbral de falla, tienen un periodo de recurrencia de 20 años. La @fig-c10-06 esquematiza el proceso seguido aquí.
 
-$R3m≥R3$ 							(3)
+$$R_{3m} \geq R_3 \tag{3}$$
 
 Donde R3m es la lluvia acumulada de 3 días calculada a partir de registros de pluviómetros y R3 es la lluvia acumulada de 3 días calculada usando la ecuación del umbral de falla.
 
-$R3=75-0.5R15$ 						(4)
+$$R_3 = 75 - 0.5\,R_{15} \tag{4}$$
 
 Donde R15 es la lluvia acumulada precedente de 15 días y R3 la lluvia acumulada antecedente de 3 días.
 
@@ -285,13 +283,13 @@ Donde R15 es la lluvia acumulada precedente de 15 días y R3 la lluvia acumulada
 
 La vulnerabilidad (*V*) de un elemento puede ser entendida como la probabilidad de daño que ésta presenta cuando se somete al efecto particular de un fenómeno natural o antropogénico potencialmente dañino, pero en este caso se asocia a un movimiento en masa. Cuantitativamente se puede establecer como una función de la intensidad (*I*) de un movimiento en masa y de la fragilidad (*S*) de los elementos expuestos a tal movimiento, es decir:
 
-$V=f(I,S)$ 							(5)
+$$V = f(I,S) \tag{5}$$
 
 La intensidad se asocia al potencial destructivo de la masa de suelo que se desliza, la cual se influencia directamente por factores como la velocidad de la masa deslizante de suelo, volumen, energía cinética, energía cinemática, área de afectación, etc. La evaluación de este parámetro se encuentra ligada a la magnitud (volumen) de la masa potencialmente inestable y a su distancia de viaje, la cual depende de la configuración geométrica de la ladera.
 
-En este trabajo se calcula la intensidad en función de la altura de la obstrucción que se puede generar por el suelo deslizado en el cauce de una quebrada, en la Figura  puede apreciarse el esquema adoptado para el cálculo de la intensidad. La altura *h**T* de la obstrucción, depende del volumen del material removido, de la distancia que debe recorrer el material, de la pendiente del terreno y de la forma de la geometría del cauce de la corriente. El volumen movilizado se calcula como el producto del área de la celda y la profundidad de la superficie de falla asumida, en este caso *H* = 2 m. La distancia que recorre el material deslizante se determina como la longitud de la trayectoria más corta entre los centroides de la celda que falla y la celda donde se acumula. La obstrucción puede ser total como muestra en la Figura , o puede afectar solo una parte de la quebrada, caso en el cual el nivel de afectación cambia. El grado de obstrucción de la quebrada dependerá de factores como la cantidad y tipo de material deslizado, la forma del canal de la quebrada (altura, ancho, pendiente de los taludes). La afectación se considerará con la altura total de depositación del movimiento en masa actuante en la quebrada (*h**T*) calculada con la Ecuación 6:
+En este trabajo se calcula la intensidad en función de la altura de la obstrucción que se puede generar por el suelo deslizado en el cauce de una quebrada, en la @fig-c10-07 puede apreciarse el esquema adoptado para el cálculo de la intensidad. La altura *h**T* de la obstrucción, depende del volumen del material removido, de la distancia que debe recorrer el material, de la pendiente del terreno y de la forma de la geometría del cauce de la corriente. El volumen movilizado se calcula como el producto del área de la celda y la profundidad de la superficie de falla asumida, en este caso *H* = 2 m. La distancia que recorre el material deslizante se determina como la longitud de la trayectoria más corta entre los centroides de la celda que falla y la celda donde se acumula. La obstrucción puede ser total como muestra en la @fig-c10-08, o puede afectar solo una parte de la quebrada, caso en el cual el nivel de afectación cambia. El grado de obstrucción de la quebrada dependerá de factores como la cantidad y tipo de material deslizado, la forma del canal de la quebrada (altura, ancho, pendiente de los taludes). La afectación se considerará con la altura total de depositación del movimiento en masa actuante en la quebrada (*h**T*) calculada con la Ecuación 6:
 
-$hT=1nhi$ 							(6)
+$$h_T = \sum_{i=1}^{n} h_i \tag{6}$$
 
 donde *h**i* es la altura que puede ser generada por cada celda inestable. El proceso para estimar *h**i* se puede ver detalladamente en [[11]](#ref-11).
 
@@ -303,9 +301,9 @@ donde *h**i* es la altura que puede ser generada por cada celda inestable. El pr
 
 ![Esquema adoptado para el cálculo de la vulnerabilidad cuencas/cauces.](images/capitulo_10/img_5705655c.png){#fig-c10-08}
 
-La fragilidad (*S*) o probabilidad de daño se asocia a la resistencia de los elementos expuestos, para garantizar su funcionalidad e integridad física ante la interacción ejercida por la masa deslizante de suelo. En este trabajo se usó el concepto de las curvas de daño, las representan la probabilidad de que un elemento expuesto esté en un estado de daño determinado para un nivel de demanda dado. Se elaboraron curvas que describen la probabilidad de excedencia de un estado límite predeterminado de exposición de las quebradas ante la amenaza de un movimiento en masa, dada una medida de intensidad del mismo como se ilustra en la Figura , que depende de la altura de depositación del movimiento en masa (*h**T*). Para el cálculo de la intensidad (*I*) o *P[C|T]* que puede generar la masa de suelo deslizante sobre una quebrada se utilizó la Ecuación 7. Esta ecuación se obtuvo mediante la adaptación de curvas de fragilidad para vías usadas por el programa europeo de gestión de riesgo Safeland [[36]](#ref-36) mediante ajustes de regresión.
+La fragilidad (*S*) o probabilidad de daño se asocia a la resistencia de los elementos expuestos, para garantizar su funcionalidad e integridad física ante la interacción ejercida por la masa deslizante de suelo. En este trabajo se usó el concepto de las curvas de daño, las representan la probabilidad de que un elemento expuesto esté en un estado de daño determinado para un nivel de demanda dado. Se elaboraron curvas que describen la probabilidad de excedencia de un estado límite predeterminado de exposición de las quebradas ante la amenaza de un movimiento en masa, dada una medida de intensidad del mismo como se ilustra en la @fig-c10-09, que depende de la altura de depositación del movimiento en masa (*h**T*). Para el cálculo de la intensidad (*I*) o *P[C|T]* que puede generar la masa de suelo deslizante sobre una quebrada se utilizó la Ecuación 7. Esta ecuación se obtuvo mediante la adaptación de curvas de fragilidad para vías usadas por el programa europeo de gestión de riesgo Safeland [[36]](#ref-36) mediante ajustes de regresión.
 
-$PCT=I=11+αe-hTnm$ 					(7)
+$$P[C|T] = I = \frac{1}{\left(1 + \alpha\, e^{-h_T/n}\right)^m} \tag{7}$$
 
 Donde:
 
@@ -319,29 +317,23 @@ Donde:
 
 La afectación a la corriente debido a la obstrucción se puede considerar de varias formas:
 
-Interrupción de los acueductos y otros suministros que se obtienen aguas abajo de la obstrucción.
+- Interrupción de los acueductos y otros suministros que se obtienen aguas abajo de la obstrucción.
+- Afectación al ecosistema acuático.
+- Posible generación de avalanchas debido al embalse que se genera por la obstrucción.
 
-Afectación al ecosistema acuático.
+Como punto de partida para la evaluación del riesgo, se tiene la identificación de los elementos en riesgo (Elementos expuestos). En zonas rurales de Antioquia, los elementos físicos afectados por amenaza ante movimientos en masa pueden ser calificados dentro de las siguientes categorías principales:
 
-Posible generación de avalanchas debido al embalse que se genera por la obstrucción.
-
-Como punto de partida para la evaluación del riesgo, se tiene la identificación de los elementos en riesgo (Elementos expuestos). En zonas rurales de Antioquia, los elementos físicos afectados por amenaza ante movimientos en masa pueden ser calificados dentro de cuatro categorías principales:
-
-Edificaciones de diferentes categorías y tipologías.
-
-Líneas Vitales: Sistemas de transportes (incluidas autopistas, vías de tren, aeropuertos y accesos), líneas de conducción de agua potable, alcantarillado, gas natural, redes de energía eléctrica.
-
-Zonas de bosques.
-
-Cultivos arbustivos, cafetales y frutales.
-
-Pastizales ganaderos.
+- Edificaciones de diferentes categorías y tipologías.
+- Líneas Vitales: Sistemas de transportes (incluidas autopistas, vías de tren, aeropuertos y accesos), líneas de conducción de agua potable, alcantarillado, gas natural, redes de energía eléctrica.
+- Zonas de bosques.
+- Cultivos arbustivos, cafetales y frutales.
+- Pastizales ganaderos.
 
 En este caso, no se incluye el efecto de los elementos físicos sobre la población, excluyendo edificaciones.
 
 Los costos se determinaron para cada celda de 30 m en que fue dividida la zona de estudio, considerando la proporción de elementos expuestos existentes en ella. Con base en estas áreas y usando el método de las estimativas puntuales, se determinó el valor medio del costo de cada celda y la desviación estándar de ese costo considerando para ello una distribución triangular de los costos usando la siguiente ecuación:
 
-$Ccelda=Cvias+Czv+Cconst$ 				(8)
+$$C_{celda} = C_{vias} + C_{zv} + C_{const} \tag{8}$$
 
 Donde *C**celda* es el costo total de la celda ($), *C**vias* es el costo de las vías ($) que se obtiene como el costo de las vías por el área de vías en la celda, *C**zv* es el costo de las zonas verdes que se obtiene como el costo de las zonas verdes por el área de zonas verdes en la celda ($) y *C**const* es el costo de las construcciones ($).
 
@@ -349,11 +341,11 @@ Donde *C**celda* es el costo total de la celda ($), *C**vias* es el costo de las
 
 El riesgo se calcula en términos de las pérdidas económicas que pueden ser generadas en la corriente de agua debido a los movimientos en masa, de acuerdo a la ecuación:
 
-$R=TPF × I ×Ccelda$ 					(9)
+$$R = PTF \times I \times C_{celda} \tag{9}$$
 
 Se estimó el riesgo en cada celda localizada sobre la corriente de agua en las condiciones actuales. En la @fig-c10-10 se presenta la forma de cálculo de un índice de riesgo (*R*), obtenido como el producto de la probabilidad anual de falla (*PAF*), y la pérdida económica potencial (*PEP*) derivada de la vulnerabilidad de un cauce en términos de la intensidad y de la valoración económica del tipo de cobertura vegetal.
 
-$R=PAF×PEP$ 						(10)
+$$R = PAF \times PEP \tag{10}$$
 
 
 
@@ -376,21 +368,16 @@ Para el desarrollo y explicación de la metodología propuesta, se tomó como ca
 
 Para la aplicación de la metodología propuesta se tienen las siguientes consideraciones:
 
-El tamaño de las celdas de análisis es: 30 m (cuadradas).
-
-Los movimientos en masa probables en la zona tienen espesores del orden de 2 m. 
-
-Tipo de movimiento en masa: Movimiento en masa lento (descartados movimientos con desprendimientos de roca o tipo avalanchas).
+- El tamaño de las celdas de análisis es: 30 m (cuadradas).
+- Los movimientos en masa probables en la zona tienen espesores del orden de 2 m.
+- Tipo de movimiento en masa: Movimiento en masa lento (descartados movimientos con desprendimientos de roca o tipo avalanchas).
 
 De acuerdo a lo planteado mediante la Ecuación 1, es posible obtener el riesgo asociado a los daños que puede llegar a ocasionar un movimiento en masa accionado por un evento sísmico en las corrientes de agua de la zona de estudio. Para ello, fue preciso determinar un índice de riesgo (*R*), obtenido como el producto de la probabilidad anual de falla (*PAF*) para un periodo de retorno de la lluvia detonante de 20 años, y la pérdida económica potencial (*PEP*) derivada de la vulnerabilidad de un cauce en términos de la intensidad y de los costos suscitados por un eventual desastre a partir de los valores promedio de cada celda obtenidos a partir de precios comerciales y registros catastrales según el tipo de cobertura del suelo, y una valoración de la infraestructura. La información utilizada para este trabajo se obtuvo de las siguientes fuentes secundarias:
 
-Cartografía Base: Base de datos suministrada por la Corporación Regional CORANTIOQUIA.
-
-Precipitación: Registros diarios de lluvia obtenidos de la base de datos CHIRPS (US Geological Survey).
-
-Unidades Geológicas: Corporación Regional CORANTIOQUIA, IGAC–Ingeominas. Planchas 1:25,000.
-
-Parámetros geotécnicos: Bases de datos de los proyectos de la Universidad de Medellín. 
+- **Cartografía Base:** Base de datos suministrada por la Corporación Regional CORANTIOQUIA.
+- **Precipitación:** Registros diarios de lluvia obtenidos de la base de datos CHIRPS (US Geological Survey).
+- **Unidades Geológicas:** Corporación Regional CORANTIOQUIA, IGAC–Ingeominas. Planchas 1:25,000.
+- **Parámetros geotécnicos:** Bases de datos de los proyectos de la Universidad de Medellín.
 
 ## 10.7 CONFLICTO DE INTERESES
 

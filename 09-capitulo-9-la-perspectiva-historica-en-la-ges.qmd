@@ -149,8 +149,45 @@ Se consultaron los principales diarios locales y regionales de acuerdo con el pe
 
 
 ::: {#cuadro-box-1 .callout-important style="background-color: #f5f5f5ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Cuadro 1.** Listado de Fuentes de información utilizadas para el desarrollo del trabajo Bases de datos Red de Estudios Sociales en Prevención de Desastres en América Latina (LA RED). DesInventar. 1949-2018. En línea http://www.desinventar.org/es/ Servicio Geológico Colombiano (SGC). Sistema de Información de Movimientos en Masa (SIMMA). 2018. Versión electrónica disponible en: http://simma.sgc.gov.co Servicio Geológico Colombiano (SGC). Red Sismológica Nacional de Colombia- RSNC (2018). Sismicidad Histórica de Colombia. Versión electrónica disponible en: http://sish.sgc.gov.co/visor/ Defensa Civil Colombiana. Territorial Cali. 2018. Sistema Nacional de Información para la Prevención y Atención de Desastres – SINPAD. Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD. 2018. Consolidado de emergencias. Versión electrónica disponible en: http://portal.gestiondelriesgo.gov.co/Paginas/Consolidado-Atencion-de-Emergencias.aspx Gobierno Digital de Colombia.2018. Datos Abiertos Colombia. Versión electrónica disponible en: https://www.datos.gov.co/ Cuerpo de Bomberos Voluntarios de Cali. 2013-2018. Base de datos de incendios forestales.  Periódico Diario El País. 1949-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. Occidente. 1962-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Tiempo. 1980-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Caleño. 1976-2018. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Pueblo. 1976-1986. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Relator. 1954-1961. Hemeroteca Biblioteca Departamental de Santiago de Cali. El Constitucional del Cauca. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle. Correo ABC. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle. Correo del Cauca. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle Diario El Liberal. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle. Libros Centro Regional de Sismología para América del Sur. Colombia (CERESIS). 1985. Catálogo de terremotos para América del Sur. Datos de hipocentros e intensidades. Volumen 4. 136 p. Ramírez, J. E. 1975. Historia de los terremotos en Colombia. Bogotá: Instituto Geográfico Agustin Codazzi. 250 p. CD  Espinosa, A. 2012. Enciclopedia de desastres naturales históricos de Colombia. Volúmenes 1-7. Documentos INGEOMINAS-DAGMA. 2005. Informe No.1-4 Estudio de Sismicidad Histórica Regional. Capítulo 4.3. Características de los terremotos históricos importantes para la amenaza sísmica de la ciudad de Santiago de Cali. 86 p. Versión electrónica disponible en: https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=BusquedaPredefinida=DGAMicrZonSismSantiagoCali. Empresas Municipales de Cali (EMCALI). 2016-2018. Formato para evaluación de daños. Plan de emergencia y contingencias UENAA.  Cruz Roja. 2013-2018. Censo para damnificados. Talleres del Municipio. 2013-2018. Informe de talleres del municipio.
+**Cuadro 1.** Listado de Fuentes de información utilizadas para el desarrollo del trabajo
+
+**Bases de datos**
+
+- Red de Estudios Sociales en Prevención de Desastres en América Latina (LA RED). DesInventar. 1949-2018. En línea http://www.desinventar.org/es/
+- Servicio Geológico Colombiano (SGC). Sistema de Información de Movimientos en Masa (SIMMA). 2018. Versión electrónica disponible en: http://simma.sgc.gov.co
+- Servicio Geológico Colombiano (SGC). Red Sismológica Nacional de Colombia- RSNC (2018). Sismicidad Histórica de Colombia. Versión electrónica disponible en: http://sish.sgc.gov.co/visor/
+- Defensa Civil Colombiana. Territorial Cali. 2018. Sistema Nacional de Información para la Prevención y Atención de Desastres – SINPAD.
+- Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). 2018. Consolidado de emergencias. Versión electrónica disponible en: http://portal.gestiondelriesgo.gov.co/Paginas/Consolidado-Atencion-de-Emergencias.aspx
+- Gobierno Digital de Colombia. 2018. Datos Abiertos Colombia. Versión electrónica disponible en: https://www.datos.gov.co/
+- Cuerpo de Bomberos Voluntarios de Cali. 2013-2018. Base de datos de incendios forestales.
+
+**Periódico (Hemeroteca Biblioteca Departamental de Santiago de Cali, salvo donde se indique)**
+
+- Diario El País. 1949-2018.
+- Occidente. 1962-2018.
+- El Tiempo. 1980-2018.
+- El Caleño. 1976-2018.
+- El Pueblo. 1976-1986.
+- El Relator. 1954-1961.
+- El Constitucional del Cauca. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle.
+- Correo ABC. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle.
+- Correo del Cauca. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle.
+- Diario El Liberal. Observatorio Sismológico y Geofísico del Sur Occidente Colombiano- OSSO- Universidad del Valle.
+
+**Libros**
+
+- Centro Regional de Sismología para América del Sur. Colombia (CERESIS). 1985. Catálogo de terremotos para América del Sur. Datos de hipocentros e intensidades. Volumen 4. 136 p.
+- Ramírez, J. E. 1975. Historia de los terremotos en Colombia. Bogotá: Instituto Geográfico Agustín Codazzi. 250 p.
+- Espinosa, A. 2012. Enciclopedia de desastres naturales históricos de Colombia. Volúmenes 1-7.
+
+**Documentos**
+
+- INGEOMINAS-DAGMA. 2005. Informe No.1-4 Estudio de Sismicidad Histórica Regional. Capítulo 4.3. Características de los terremotos históricos importantes para la amenaza sísmica de la ciudad de Santiago de Cali. 86 p. Versión electrónica disponible en: https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=BusquedaPredefinida=DGAMicrZonSismSantiagoCali
+- Empresas Municipales de Cali (EMCALI). 2016-2018. Formato para evaluación de daños. Plan de emergencia y contingencias UENAA.
+- Cruz Roja. 2013-2018. Censo para damnificados.
+- Talleres del Municipio. 2013-2018. Informe de talleres del municipio.
 :::
+
 ## 9.5 RESULTADOS
 
 ------------------------------------------------------------------------
@@ -173,13 +210,7 @@ Reportes sobre eventos sísmicos
 
 En la búsqueda de información para la elaboración del documento de historicidad para eventos sísmicos, se recurrió a diferentes fuentes de información, cubriendo el periodo entre 1566 y 2018. Esto se hizo para abarcar un amplio periodo de tiempo y lograr identificar la mayor cantidad de eventos sísmicos que han sido relevantes para la ciudad de Santiago de Cali a lo largo de su historia.
 
-En la @fig-c9-04 se presenta un histograma que sintetiza el resultado del número de eventos sísmicos encontrados en el periodo señalado que dejaron algún tipo de afectación en la ciudad Santiago de Cali.  
-
-
-|  |
-| --- |
-
-
+En la @fig-c9-04 se presenta un histograma que sintetiza el resultado del número de eventos sísmicos encontrados en el periodo señalado que dejaron algún tipo de afectación en la ciudad Santiago de Cali.
 
 ![Distribución por año del número de sismos para el municipio de Santiago de Cali, ocurridos en el periodo 1566-2018. Fuente: elaboración propia.](images/capitulo_9/img_8f733017.png){#fig-c9-04}
 
@@ -348,6 +379,7 @@ Finalmente, la distribución espacial de los eventos históricos, específicamen
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Recomendaciones para tomar decisiones.** Con el propósito de cumplir con los objetivos de los estudios históricos y que representen una herramienta útil en los procesos de gestión del riesgo y de la planificación del territorio, es fundamental que, desde las diferentes administraciones municipales e instituciones, se reconozca la importancia de llevar una adecuada sistematización de los eventos que ocurren en el territorio. Es común encontrar que en los diferentes municipios no se tiene registro de los eventos ocurridos o de las emergencias atendidas, y cuando lo tienen, no detallan las características del evento y sus efectos.
 :::
+
 ## 9.8 CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------

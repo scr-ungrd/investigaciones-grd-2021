@@ -199,13 +199,10 @@ Taller Fanzine. Jamundí. Luego de las explicaciones sobre la importancia de la 
 
 Entendiendo lo anterior y reconociendo la flexibilidad enorme de esta herramienta, se subrayan una serie de rasgos o características que orientan la producción del fanzine, no solo en lo técnico, sino su labor y papel comunicativo. Las características más sobresalientes del fanzine son las siguientes [[8]](#ref-8):
 
-Una publicación independiente. El propósito es que los sujetos y/o comunidades tenga la libertad y oportunidad de comunicar sus saberes e interpretaciones sobre determinadas situaciones. No pretende la reproducción de un saber experto o institucional. Promueve la expresión de quienes participan en su elaboración.
-
-Un libro sin límites editoriales. Se parte del principio de creatividad, libertad y pluralidad en la comunicación y en el diseño que este puede tener. Ello supone la inexistencia de criterios editoriales fijos, porque depende de los sujetos singulares, pero al mismo tiempo pretende una circulación masiva y legible de los temas que aborda.
-
-Una comunicación ágil y viajera. Debe ser en su diseño un formato ágil que garantice, además de su legibilidad, su circulación o viaje sin contratiempos. Es vital que los lectores lo lleven consigo y lo puedan compartir con otras personas. 
-
-Expresión lúdica y didáctica. En su dimensión educativa, esta herramienta, que se produce en un taller de actores o sujetos ciudadanos, institucionales y académicos, debe propiciar el diálogo en un ambiente de respeto y goce del trabajo colectivo, que potencie la producción de la información y su comunicación de tal manera que sea entendible y replicable por el ciudadano o usuario de la herramienta.
+- **Una publicación independiente.** El propósito es que los sujetos y/o comunidades tenga la libertad y oportunidad de comunicar sus saberes e interpretaciones sobre determinadas situaciones. No pretende la reproducción de un saber experto o institucional. Promueve la expresión de quienes participan en su elaboración.
+- **Un libro sin límites editoriales.** Se parte del principio de creatividad, libertad y pluralidad en la comunicación y en el diseño que este puede tener. Ello supone la inexistencia de criterios editoriales fijos, porque depende de los sujetos singulares, pero al mismo tiempo pretende una circulación masiva y legible de los temas que aborda.
+- **Una comunicación ágil y viajera.** Debe ser en su diseño un formato ágil que garantice, además de su legibilidad, su circulación o viaje sin contratiempos. Es vital que los lectores lo lleven consigo y lo puedan compartir con otras personas.
+- **Expresión lúdica y didáctica.** En su dimensión educativa, esta herramienta, que se produce en un taller de actores o sujetos ciudadanos, institucionales y académicos, debe propiciar el diálogo en un ambiente de respeto y goce del trabajo colectivo, que potencie la producción de la información y su comunicación de tal manera que sea entendible y replicable por el ciudadano o usuario de la herramienta.
 
 ## 8.4 CONCLUSIONES
 
@@ -225,6 +222,7 @@ Finalmente, la comunicación del riesgo y las estrategias comunicativas son defi
 
 La comunicación del riesgo debe propender por construir, no sólo mayores niveles de consciencia social y política sobre los riesgos, sino una mayor simetría en la distribución global del riesgo.  La comunicación del riesgo no se puede separar artificialmente de aspectos como su visibilización, significación y percepción social de la gestión de la confianza institucional y social o nivel de indignación que se construye, y como producto de todas las anteriores, de la regulación que se produzca.  La comunicación del riesgo no puede ser efectiva sin una comprensión integral de cómo perciben, sienten, ponderan y evalúan los riesgos, los individuos, y cuáles son los factores que determinan la variación de la percepción del riesgo, sujeto a sujeto, comunidad por comunidad.  La comunicación del riesgo debe propiciar la formación de sujetos activos capaces de valorar la información disponible para formar juicios bien equilibrados, de acuerdo con la evidencia de los hechos, el peso de los diversos argumentos y sus propias necesidades, intereses y expectativas. El objetivo final de la comunicación de riesgos es reconciliar la experiencia, los intereses y las preferencias públicas, con las realidades políticas e institucionales de la sociedad, para así coadyuvar en la construcción de comunidades más informadas y conscientes y situaciones territoriales más equitativas y seguras. Es imprescindible que las diversas autoridades públicas incorporen en los procesos de comunicación del riesgo estrategias comunicativas participativas, plurales, contextuales y democráticas, donde se reconozcan y validen experiencias, saberes e intereses de las comunidades.
 :::
+
 ## 8.5 CONFLICTO DE INTERESES
 
 ------------------------------------------------------------------------
@@ -239,7 +237,9 @@ Javier Thomas
 
 Julio Rubio		
 
-**BIBLIOGRÁFIA**
+## 8.7 BIBLIOGRAFÍA
+
+------------------------------------------------------------------------
 
 :::::::::::::::::::::::::::: {#ref-1}
 1.  Carey, J. (1992). *Communication as Culture. Essays on Media and Society*. Nueva York, Routledge.

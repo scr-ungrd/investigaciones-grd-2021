@@ -69,19 +69,15 @@ Como en varios países de América Latina, el sector agropecuario en Colombia ti
 
 Tradicionalmente la preocupación primordial que involucra animales durante un desastre incluye:
 
-Deterioro en el suministro de agua y alimento.
-
-Accidentes por mordedura en caso de animales de compañía.
-
-Brotes de enfermedades zoonóticas.
-
-Interacción social entre los animales y el hombre.
+- Deterioro en el suministro de agua y alimento.
+- Accidentes por mordedura en caso de animales de compañía.
+- Brotes de enfermedades zoonóticas.
+- Interacción social entre los animales y el hombre.
 
 Otros problemas incluyen el significante impacto en la salud pública mental, debido a las emociones de los propietarios sobre sus animales.  Estos aspectos son particularmente evidentes en adultos de tercera edad y niños. Sentimientos de culpa, duelo e ira son los aspectos más significativos [[5]](#ref-5).  Algunas personas se preocupan más por sus animales durante una emergencia que por ellos mismos. Esto puede perjudicar seriamente su sensibilidad a su propia seguridad y la de los equipos de rescate. Algunos ejemplos incluyen:
 
-Fallas en los procesos de evacuación e intentos de retorno.
-
-Intentos inseguros de rescate.
+- Fallas en los procesos de evacuación e intentos de retorno.
+- Intentos inseguros de rescate.
 
 La aplicación de la ley 1774 del 2016 Por medio de la cual se modifican el Código Civil, la Ley 84 de 1989, el Código Penal, el Código de Procedimiento Penal y se dictan otras disposiciones, determina a los animales como seres sintientes y no como cosas, recibirán especial protección contra el sufrimiento y el dolor, en especial, el causado directa o indirectamente por los humanos, por lo cual en la presente ley se tipifican como punibles algunas conductas relacionadas con el maltrato a los animales, y se establece un procedimiento sancionatorio de carácter policivo y judicial, rompe el antiguo paradigma. Demográficamente los principales animales de compañía son perros, seguidas por gatos, aves, caballos y en una pequeña proporción otras especies. [[5]](#ref-5)
 
@@ -154,69 +150,45 @@ Para extraer un animal atrapado, el personal de rescate deberá acercarse para a
 
 Toda la documentación y formatos que se establezcan deben ser considerados documentos legales. Completar estos documentos ayudara a mantener un adecuado registro de actividades y procedimientos a través de los años. Cualquier incidente con animales debe ser documentado con fotografías o video y reportar por escrito toda actividad realizada durante el tiempo que se está en el incidente. Estos registros podrán ser la única prueba de lo que sucedió en el incidente una vez haya pasado, así se evitara alguna medida negativa por parte del propietario [[15]](#ref-15), [[27]](#ref-27). Los datos de referencia que se deben incluir en incidentes que involucran animales son [[15]](#ref-15), [[26]](#ref-26), [[27]](#ref-27):
 
-Documentar el origen del animal envuelto en la emergencia: Georreferenciación de la ubicación, descripción del lugar, ubicación de cómo fue encontrado el animal.
-
-Descripción física del o los animales.
-
-Registro fotográfico.
-
-Identificación del o los animales (raza, tatuajes, números de microchip, marcas, etc.)
-
-Alguna información médica y procedimiento medico realizado al animal.
-
-Autorización por escrito en caso de ser necesaria la eutanasia y bajo que método fue realizada.
-
-Manejo de carcasas acorde a procedimientos sanitarios establecidos para manejo de cadáveres animales.
-
-Destino de los animales en caso de que queden bajo su custodia.
-
-Anillos de miembro inferior para aves y foto identificación en reptiles.
-
-Marcadores no tóxicos para escribir sobre caparazones y algunas faneras de animales de granja.
-
-Collares de plástico con broches en los cuales se puede escribir sobre ellos.
-
-Pintura oscura para marcar el ganado.
-
-Bandas en los tobillos de algunos bovinos.
-
-Pintura en espray.
-
-Orejeras de identificación para cerdos y bovinos.
+- Documentar el origen del animal envuelto en la emergencia: Georreferenciación de la ubicación, descripción del lugar, ubicación de cómo fue encontrado el animal.
+- Descripción física del o los animales.
+- Registro fotográfico.
+- Identificación del o los animales (raza, tatuajes, números de microchip, marcas, etc.)
+- Alguna información médica y procedimiento medico realizado al animal.
+- Autorización por escrito en caso de ser necesaria la eutanasia y bajo que método fue realizada.
+- Manejo de carcasas acorde a procedimientos sanitarios establecidos para manejo de cadáveres animales.
+- Destino de los animales en caso de que queden bajo su custodia.
+- Anillos de miembro inferior para aves y foto identificación en reptiles.
+- Marcadores no tóxicos para escribir sobre caparazones y algunas faneras de animales de granja.
+- Collares de plástico con broches en los cuales se puede escribir sobre ellos.
+- Pintura oscura para marcar el ganado.
+- Bandas en los tobillos de algunos bovinos.
+- Pintura en espray.
+- Orejeras de identificación para cerdos y bovinos.
 
 Por otro lado, los propietarios de animales pueden proveer un positivo sistema de identificación, que podrá ayudar para el reconocimiento y encuentro con sus animales después de una emergencia o un desastre.
 
-Microchip documentado.
-
-Fotografías de sus animales.
-
-Registros de raza.
-
-Tatuajes de identificación y registro.
-
-Registros de producción de la finca.
-
-Marcas externas y certificados de vacunación.
+- Microchip documentado.
+- Fotografías de sus animales.
+- Registros de raza.
+- Tatuajes de identificación y registro.
+- Registros de producción de la finca.
+- Marcas externas y certificados de vacunación.
 
 ### 6.3.6 Fundamentos de bioseguridad para respuesta a animales
 
 El manejo de riesgos biológicos, en el contexto de la respuesta de los animales, se refiere a las medidas adoptadas para mantener agentes patógenos fuera de la población o grupos de animales en donde no existen y las medidas a tomar para evitar que los equipos de respuesta propaguen la enfermedad cuando abandonen el lugar de la emergencia. El principio de bioseguridad se centra en:
 
-Prevenir o disminuir la liberación de agentes infecciosos en el ambiente.
-
-Prevenir la propagación del agente infeccioso entre los huéspedes.
-
-Eliminación del agente infeccioso.
+- Prevenir o disminuir la liberación de agentes infecciosos en el ambiente.
+- Prevenir la propagación del agente infeccioso entre los huéspedes.
+- Eliminación del agente infeccioso.
 
 Por lo tanto, las medidas pueden incluir cualquiera de los puntos de la triada eco-epidemiológica y se basa en:
 
-Acceso controlado.
-
-Equipos de protección.
-
-Desinfección.
-
-Rebaños cerrados (minimizando el movimiento).
+- Acceso controlado.
+- Equipos de protección.
+- Desinfección.
+- Rebaños cerrados (minimizando el movimiento).
 
 ### 6.3.7 Importancia de la bioseguridad en las emergencias y desastres con animales
 
@@ -226,9 +198,8 @@ La bioseguridad es importante en el contexto del desastre. El agua puede estar c
 
 La bioseguridad se describe como un concepto que al igual que la reducción de riesgos puede aplicarse a través de una serie de medidas como:
 
-Medidas estructurales que se aplican, por ejemplo, en los equipos de protección para el personal, equipos de rescate, desinfección de corrales, contenedores para animales de compañía, etc.
-
-Prácticas de manejo, tales como poner en cuarentena o aislar los animales, cambiarse de ropa, desinfección de las botas cuando se asisten a diferentes grupos de animales (bio-contención) [[15]](#ref-15), [[26]](#ref-26). 
+- Medidas estructurales que se aplican, por ejemplo, en los equipos de protección para el personal, equipos de rescate, desinfección de corrales, contenedores para animales de compañía, etc.
+- Prácticas de manejo, tales como poner en cuarentena o aislar los animales, cambiarse de ropa, desinfección de las botas cuando se asisten a diferentes grupos de animales (bio-contención) [[15]](#ref-15), [[26]](#ref-26).
 
 ### 6.3.9 Manejo de especies silvestres
 
@@ -283,27 +254,17 @@ Una de las áreas objetivo más reconocidos del enfoque de One Health es el de l
 
 Algunos organismos que causan enfermedades zoonóticas se enumeran a continuación. Los seres humanos tienen más probabilidades de exponerse a patógenos con potencial zoonótico, cuando los residuos animales contaminan el agua potable. Esto puede ocurrir en las inundaciones y después de una falla en las plantas de tratamiento de aguas. El agua también se puede contaminar con materiales peligrosos a través del viento por el estiércol animal o los animales muertos que contaminan los pozos o embalses [[24]](#ref-24). Algunos organismos comunes que causan enfermedades zoonóticas son:
 
-Bacterias coliformes (diarrea).
-
-*Salmonella enteriditis, **S.entérica** serotipo Typhimurium (diarrea).*
-
-*Campylobacter jejuni, C. coli. (diarrea).*
-
-*Cryptosporidium parvun, **C.hominis**, **C.meliagridis*  (diarrea).
-
-Giardia *canis*, *G. lamblia, *genotipos A y B (diarrea).
-
-*Microsporum canis, M. gallinae, M. gypseum, M.* *equinum* (infección de la piel)
-
-Lyssavirus.
-
-Enfermedades transmitidas por vectores (por ejemplo, la encefalitis equina familia *Togaviridae*, Género *Alphavirus*).
-
-*Clostridium perfringens* (diarrea).
-
-*Clostridium botulinum* (debilidad y colapso).
-
-*Bacillus anthracis.* 
+- Bacterias coliformes (diarrea).
+- *Salmonella enteriditis*, ***S. entérica*** serotipo Typhimurium (diarrea).
+- *Campylobacter jejuni*, *C. coli* (diarrea).
+- *Cryptosporidium parvun*, ***C. hominis***, ***C. meliagridis*** (diarrea).
+- *Giardia canis*, *G. lamblia*, genotipos A y B (diarrea).
+- *Microsporum canis, M. gallinae, M. gypseum, M. equinum* (infección de la piel).
+- Lyssavirus.
+- Enfermedades transmitidas por vectores (por ejemplo, la encefalitis equina familia *Togaviridae*, Género *Alphavirus*).
+- *Clostridium perfringens* (diarrea).
+- *Clostridium botulinum* (debilidad y colapso).
+- *Bacillus anthracis.*
 
 Después de emergencias o desastres, el personal de búsqueda y rescate puede estar en riesgo y por lo tanto debe tener extrema precaución frente a la exposición de algunas de estas zoonosis [[14]](#ref-14). 
 
@@ -313,9 +274,8 @@ Algunos lugares aceptan animales en sus refugios, por ejemplo, en algunos paíse
 
 Algunas de las razones por las que los albergues no aceptan animales son los siguientes:
 
-Regulaciones de salud pública: Las autoridades locales pueden prohibir a los animales en las instalaciones públicas, tales como centros comerciales, restaurantes, iglesias, escuelas, etc., con excepción de los animales que ayudan a las personas con discapacidad. Los albergues en los desastres requieren operar con conformidad con los reglamentos de salud pública existentes en la localidad en la que se prestan servicios.
-
-Bienestar de los residentes del refugio: Las preocupaciones incluyen lesiones, ansiedad y la falta de privacidad que sufren los residentes del refugio con las mascotas ya que pueden morder o causar reacciones alérgicas, fobias y ruido [[15]](#ref-15).
+- Regulaciones de salud pública: Las autoridades locales pueden prohibir a los animales en las instalaciones públicas, tales como centros comerciales, restaurantes, iglesias, escuelas, etc., con excepción de los animales que ayudan a las personas con discapacidad. Los albergues en los desastres requieren operar con conformidad con los reglamentos de salud pública existentes en la localidad en la que se prestan servicios.
+- Bienestar de los residentes del refugio: Las preocupaciones incluyen lesiones, ansiedad y la falta de privacidad que sufren los residentes del refugio con las mascotas ya que pueden morder o causar reacciones alérgicas, fobias y ruido [[15]](#ref-15).
 
 ## 6.4 SALUD PÚBLICA Y EPIDEMIOLOGIA ALREDEDOR DE LA GESTION DEL RIESGO DE LOS ANIMALES EN DESASTRES
 
@@ -323,11 +283,9 @@ Bienestar de los residentes del refugio: Las preocupaciones incluyen lesiones, a
 
 Históricamente, la mayor preocupación con respecto a los animales en casos de desastres y emergencias se ha tratado de la salud pública.  Una especial preocupación por la salud pública incluye [[25]](#ref-25):
 
-Contaminación de alimentos y suministro de agua.
-
-Suministro limitado de alimentos.
-
-Transmisión de enfermedades zoonóticas. 
+- Contaminación de alimentos y suministro de agua.
+- Suministro limitado de alimentos.
+- Transmisión de enfermedades zoonóticas.
 
 Independientemente de su naturaleza, generalmente la demanda de recursos en un desastre, supera la capacidad de oferta por lo que es fundamental establecer cuáles son las necesidades prioritarias de acuerdo con los objetivos establecidos. Para lograr este propósito es importante l aplicación de una evaluación de daños y análisis de necesidades (EDAN o DANA, por sus siglas en inglés “Damage Assessment and needs Analysis”) como instrumento de campo impulsado por los Estados Unidos, permitiendo diagnosticar, priorizar y planificar las principales acciones asistenciales pos-desastre [[26]](#ref-26).  
 
@@ -335,25 +293,16 @@ Independientemente de su naturaleza, generalmente la demanda de recursos en un d
 
 La salud mental es un componente de Salud pública que es preocupante por el impacto sicológico de las personas durante o post desastres. Varias publicaciones sobre la sicología de los humanos víctimas de los desastres han reportado que las personas que están separadas de sus animales pueden experimentar [[27]](#ref-27):
 
-Reintentos de entrada.
-
-Fallos en la evacuación.
-
-Ansiedad por la separación.
-
-Pena. 
-
-Duelo. 
-
-Ira.
-
-Culpa. 
-
-Síntomas sicosomáticos.
-
-Estrés por separación y fatiga compacional. 
-
-Tomar decisiones irracionales sobre su propia salud.
+- Reintentos de entrada.
+- Fallos en la evacuación.
+- Ansiedad por la separación.
+- Pena.
+- Duelo.
+- Ira.
+- Culpa.
+- Síntomas sicosomáticos.
+- Estrés por separación y fatiga compacional.
+- Tomar decisiones irracionales sobre su propia salud.
 
 Mantener los animales y sus propietarios juntos es una forma de reducir el estrés sobre las víctimas de los desastres. Tratar con propietarios que están separados de sus animales puede llegar a convertirse en una situación de cuidado, muchas personas arriesgan sus vidas entrando a zonas de peligrosas intentando rescatar a sus animales. Para evitar que esto suceda se puede considerar una evacuación a gran escala que incluya tanto animales de compañía, como animales de granja [[27]](#ref-27). Estos son problemas reales que los trabajadores en manejo de emergencias tienen que tratar. Esto ya no es una cuestión de si este comportamiento es adecuado o no. Es simplemente una cuestión de la mejor manera de manejarlo. Incluso en ausencia de un plan formal de preparación para desastres, veterinarios locales y los directores de control de animales pueden coordinar las evacuaciones y rescates de animales en formas que son compatibles con los procedimientos del Sistema Comando de Incidentes (SCI).
 
@@ -388,15 +337,11 @@ Es importante destacar que el cuidado de los animales y el cuidado de las person
 
 Para facilitar la atención a las personas y a los animales, las autoridades de manejo de emergencias y la comunidad, debe realizar alianzas en esta etapa de planificación. Una vez hecho esto, es más probable que los asuntos importantes puedan atenderse durante el desastre. Además, los recursos o personas más calificadas o con más experiencia pueden hacerles frente a los asuntos pertinentes y hablar con el público. Hay funciones en asuntos públicos adicionales que pueden ser utilizados para construir un programa fuerte ante emergencias. Aquí están algunas sugerencias:
 
-Concientizar a los grupos comunitarios
-
-Brindar formación a grupos humanitarios locales, tiendas de animales, asociaciones y federaciones. Se deben asignar roles y funciones a diferentes entidades de manejo de emergencias, veterinarios, trabajadores de alberges y educadores para lograr un trabajo conjunto. 
-
-Desarrollar relaciones personales con los medios de comunicaciones locales y no solo a través de llamadas o correos electrónicos para los comunicados públicos. 
-
-Ofrecer presentaciones en las escuelas locales primarias y secundarias sobre cómo mejorar el cuidado de los animales en situaciones de emergencias y desastres.
-
-Invitar a los medios de comunicaciones a participar cuando se realicen ejercicios de simulación o simulacros, ya sea como participante o como evaluador.
+- Concientizar a los grupos comunitarios.
+- Brindar formación a grupos humanitarios locales, tiendas de animales, asociaciones y federaciones. Se deben asignar roles y funciones a diferentes entidades de manejo de emergencias, veterinarios, trabajadores de alberges y educadores para lograr un trabajo conjunto.
+- Desarrollar relaciones personales con los medios de comunicaciones locales y no solo a través de llamadas o correos electrónicos para los comunicados públicos.
+- Ofrecer presentaciones en las escuelas locales primarias y secundarias sobre cómo mejorar el cuidado de los animales en situaciones de emergencias y desastres.
+- Invitar a los medios de comunicaciones a participar cuando se realicen ejercicios de simulación o simulacros, ya sea como participante o como evaluador.
 
 En el entrenamiento de preparación para desastres, se debe suponer que el personal de manejo de emergencias está familiarizado con sus derechos y responsabilidades, y que los proveedores de cuidado animal son competentes para tratar los asuntos relacionados con animales. Ningún agente infeccioso, podría explicar las diferencias existentes entre humanos y animales, sin embargo, los gobiernos, las instituciones académicas, los profesionales de la salud y las entidades que se deberían ocupar de ello, se han mantenido separados entre ramas de la misma ciencia médica, separando entre médicos humanos y médicos veterinarios saberes, experiencias y soluciones.
 
@@ -412,8 +357,6 @@ En Colombia se encuentra una gran variedad de especies; entre animales silvestre
 
 No todos los profesionales en ciencias animales están familiarizados con la mayoría de las situaciones de emergencias y como tratarlas. Los trabajadores del control de animales y de refugios humanitarios a menudo están familiarizados con la captura y rescate de animales, así como de las necesidades de vivienda y alimentación. Los educadores pueden estar familiarizados con los animales de granja, los recursos de la comunidad y sus cuestiones financieras.
 :::
-|  |
-
 
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Recomendaciones para tomar decisiones.** Fortalecer el control y vigilancia de los problemas de enfermedades compartidas entre animales y humanos, las cuales se reconocen como una amenaza creciente a la salud global, así como para las economías mundiales. Durante algunas emergencias y desastres hay un aumento de enfermedades relacionadas con el estrés. Esto incluye cambios en la respuesta inmune, disminución en la ingesta de alimento y de su metabolismo, y aumento de la susceptibilidad a determinadas enfermedades.    Entender adecuadamente el comportamiento y las respuestas de los animales en un incidente ayuda a los respondientes a predecir como el animal puede reaccionar en la escena.   Las personas encargadas del manejo del animal deben conocer los métodos o técnicas para disminuir el miedo o estrés de una víctima animal, esto puede definir el éxito en una respuesta.

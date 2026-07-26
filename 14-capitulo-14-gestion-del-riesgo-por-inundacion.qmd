@@ -99,15 +99,15 @@ El sistema de ecuaciones consta de las correspondientes al movimiento horizontal
 
 Donde H es la profundidad promedio del agua, h la perturbación de la superficie libre y u, v las velocidades horizontales, g la gravedad, Sx y Sy representan los términos fuente (fricción, viento coriolis, etc) [[9]](#ref-9).
 
-$$∂u∂t+u∂u∂x+v∂u∂y+zu,v=-g ∂h∂x+Sx              (1)$$
+$$\frac{\partial u}{\partial t} + u\frac{\partial u}{\partial x} + v\frac{\partial u}{\partial y} = -g\frac{\partial h}{\partial x} + S_x \tag{1}$$
 
 
 
-$$∂v∂t+u∂v∂x+v∂v∂y+zu,v=-g ∂h∂y   +Sy           (2)$$
+$$\frac{\partial v}{\partial t} + u\frac{\partial v}{\partial x} + v\frac{\partial v}{\partial y} = -g\frac{\partial h}{\partial y} + S_y \tag{2}$$
 
 
 
-$$∂h∂t+∂u∂xH+h+∂∂yH+hv=0                       3$$
+$$\frac{\partial h}{\partial t} + \frac{\partial}{\partial x}\big[(H+h)u\big] + \frac{\partial}{\partial y}\big[(H+h)v\big] = 0 \tag{3}$$
 
 
 
@@ -142,17 +142,13 @@ Además de la relación de la inundación con las actividades productivas, tambi
 
 
 
-![](images/capitulo_14/img_58950b2a.jpeg)
+![Calendario estacional en el municipio de Magangué (Bolívar) [[22]](#ref-22).](images/capitulo_14/img_58950b2a.jpeg){#fig-c14-04}
 
-**Figura 4.** Calendario estacional en el municipio de Magangué (Bolívar) [[22]](#ref-22).
-
-En los talleres llevados a cabo en la UNGRD durante el año 2018 [[22]](#ref-22), se pudo identificar la cooperación como una fortaleza de las comunidad que la hace menos vulnerable. Durante la inundación, las personas se unen para vigilar las viviendas evacuadas, hay personas transmitiendo comunicados de la situación con el apoyo de megáfonos, se hacen monitoreos en el río, y también se unen para hacer la comida y trabajar en equipo en los campamentos (albergues). Diferentes entidades apoyan la situación de emergencia, y allí se destaca el papel de los organismos de socorro y aquellos relacionados con la gestión del riesgo en el municipio como: La Policía, La Defensa Civil, La Iglesia, La Alcaldía y La Emisora. Del procesamiento del trabajo de campo, resultan relatos y análisis que son el insumo para el metamodelo [[20]](#ref-20), y las variables que resultan claves para el análisis de la vulnerabilidad se presentan en la  Figura 5. 
+En los talleres llevados a cabo en la UNGRD durante el año 2018 [[22]](#ref-22), se pudo identificar la cooperación como una fortaleza de las comunidad que la hace menos vulnerable. Durante la inundación, las personas se unen para vigilar las viviendas evacuadas, hay personas transmitiendo comunicados de la situación con el apoyo de megáfonos, se hacen monitoreos en el río, y también se unen para hacer la comida y trabajar en equipo en los campamentos (albergues). Diferentes entidades apoyan la situación de emergencia, y allí se destaca el papel de los organismos de socorro y aquellos relacionados con la gestión del riesgo en el municipio como: La Policía, La Defensa Civil, La Iglesia, La Alcaldía y La Emisora. Del procesamiento del trabajo de campo, resultan relatos y análisis que son el insumo para el metamodelo [[20]](#ref-20), y las variables que resultan claves para el análisis de la vulnerabilidad se presentan en la @fig-c14-05.
 
 
 
-![](images/capitulo_14/img_03a154a4.jpeg)
-
-**Figura 5.** Elementos claves para el diseño del metamodelo a partir del trabajo de campo en la ecorregión de la Mojana.
+![Elementos claves para el diseño del metamodelo a partir del trabajo de campo en la ecorregión de la Mojana.](images/capitulo_14/img_03a154a4.jpeg){#fig-c14-05}
 
 La metodología utilizada para el análisis y diseño del metamodelo se titula GAIA [[23]](#ref-23). Esta metodología se enfoca en una visión de sistemas multiagentes como una organización computacional consistente en la interacción de varios roles. Los agentes representan un avance en la abstracción, dado que pueden ser usados para entender naturalmente los modelos y desarrollar sistemas complejos distribuidos. A través de esta metodología se realiza un análisis que va desde unos requerimientos del diseño que es suficientemente detallado y que se pueden implementar directamente. El principal modelo usado en GAIA incluye dos modelos, el primero de roles y el segundo de interacciones. El rol se define por cuatro atributos: funcionalidad, permisos, actividades y protocolos. Las responsabilidades determinan la funcionalidad. Los permisos son los derechos u obligaciones asociados con el rol. Se relacionan directamente con los recursos que se encuentran disponibles para realizar sus responsabilidades. Las actividades son las acciones privadas de los agentes, sin interactuar con otros agentes. El rol se identifica con un número de protocolos, que se definen por la interacción con otros roles [[23]](#ref-23). 
 
@@ -170,9 +166,6 @@ En el metamodelo diseñado en esta investigación son identificados dos roles, l
 
 Para el caso del metamodelo se tienen dos roles: anfibios y agrícolas. A continuación, se presenta un ejemplo de uno de ellos. El operador w significa infinitas repeticiones:
 
-**Tabla 3. **Esquema para el rol del anfibio.
-
-
 | Esquema del rol Anfibio | Anfibio |
 | --- | --- |
 | Descripción | Este rol se relaciona con garantizar que durante los períodos de inundación se realice una adaptación en términos de habitabilidad y actividades productivas. Además, que se lleven a cabo actividades de cooperación para disminuir las condiciones de vulnerabilidad social |
@@ -185,7 +178,9 @@ Para el caso del metamodelo se tienen dos roles: anfibios y agrícolas. A contin
 | Seguridad | Riqueza >0 |
 | Seguridad | edad <esperanza de vida |
 
-Un ejemplo de los protocolos presentados en los modelos se presenta en la Figura 5 [[24]](#ref-24). 
+: Esquema para el rol del anfibio. {#tbl-c14-03}
+
+Un ejemplo de los protocolos presentados en los modelos se presenta en la @fig-c14-06 [[24]](#ref-24).
 
 Clase baja: cuando está rodeado de agentes clase alta (A), media (M) o no tiene vecinos (N) en su vecindad de Moore [[28]](#ref-28),  el agente decide tomar todos los recursos de la tierra para su beneficio individual. Cuando está rodeado de algún agente clase baja (B) en su vecindad de Moore, el agente decide cooperar con el agente de clase baja, pues este basado en el concepto de la igualdad ayuda a sus semejantes.
 
@@ -195,9 +190,7 @@ Clase alta: cuando está rodeado de agentes clase alta (A) o no tiene vecinos (N
 
 
 
-![](images/capitulo_14/img_930118a8.jpeg)
-
-**Figura 6.** Modelos de interacción. a reglas clase baja. b y c reglas clase media. d y e reglas clase alta. Para la estructura de un autómata celular se puede definir una vecindad establecida para cada celda, la que consiste en un conjunto contiguo de celdas. Esta vecindad puede estar formada por las celdas inmediatamente contiguas a la celda en cuestión (vecindad de Von Neuman , cuatro celdas, o vecindad de Moore, ocho celdas).
+![Modelos de interacción. a reglas clase baja. b y c reglas clase media. d y e reglas clase alta. Para la estructura de un autómata celular se puede definir una vecindad establecida para cada celda, la que consiste en un conjunto contiguo de celdas. Esta vecindad puede estar formada por las celdas inmediatamente contiguas a la celda en cuestión (vecindad de Von Neuman , cuatro celdas, o vecindad de Moore, ocho celdas).](images/capitulo_14/img_930118a8.jpeg){#fig-c14-06}
 
 ## 14.4 RESULTADOS
 
@@ -217,27 +210,24 @@ Fueron desarrollados diferentes modelos que generaron artefactos, esto a partir 
 
 
 
-![](images/capitulo_14/img_af59a2ff.jpeg)
+![Componentes modelo MOJANA [[25]](#ref-25).](images/capitulo_14/img_af59a2ff.jpeg){#fig-c14-07}
 
-**Figura 7. **Componentes modelo MOJANA [[25]](#ref-25).
+**Disponibilidad de códigos:** integra una jerarquía de tres submodelos (@fig-c14-07). Estos toman como base a los aplicativos: NetLogo wealth distribution model (Wilensky, 1998), NetLogo Urban Suite-Sprawl Effect model (Felsen y Wilensky, 2007) y NetLogo Erosion model (Dunham, Tisue y Wilensky, 2004) [[25]](#ref-25).
 
-**Disponibilidad de códigos:** integra una jerarquía de tres submodelos (Fig. 7). Estos toman como base a los aplicativos: NetLogo wealth distribution model (Wilensky, 1998), NetLogo Urban Suite-Sprawl Effect model (Felsen y Wilensky, 2007) y NetLogo Erosion model (Dunham, Tisue y Wilensky, 2004) [[25]](#ref-25).
+**Implementación:** se hizo en la plataforma NetLogo y los detalles se pueden encontrar en [[25]](#ref-25). En la @fig-c14-08 se observa la interfase del artefacto construido en NetLogo.
 
-**Implementación:** se hizo en la plataforma NetLogo y los detalles se pueden encontrar en [[25]](#ref-25) . En la Figura 8 se observa la interfase del artefacto construido en NetLogo.
-
-
-
-![](images/capitulo_14/img_43b98829.jpeg)
-
-**Figura 8.** Interfase del modelo MOJANA [[25]](#ref-25)*.*
+![Interfase del modelo MOJANA [[25]](#ref-25).](images/capitulo_14/img_43b98829.jpeg){#fig-c14-08}
 
 
-|  |  |
-| --- | --- |
+::: {#fig-c14-09 layout-ncol="2"}
+![](images/capitulo_14/Figura%209a.jpg){#fig-c14-09-a}
 
-**Figura 9.** Resultados del modelo MOJANA (izquierda) Cantidad de agentes por clases sociales. (derecha) Cantidad de agentes por tipos de agentes.
+![](images/capitulo_14/Figura%209b.jpg){#fig-c14-09-b}
 
-Se observa en la Figura 9 (izquierda), como la clase social baja predomina. Las presiones del entorno son representadas en la cantidad de grano, que seleccionan las clases existentes. En la Figura 9 (derecha) se observa cómo predominan los agrícolas asentados, dado que existe mayor cantidad de territorio sin agua. Un comportamiento similar tiene actualmente la región, donde los niveles de pobreza son muy altos, reflejados en un NBI promedio de: 64.4 y la cantidad de terratenientes es baja. 
+Resultados del modelo MOJANA (izquierda) Cantidad de agentes por clases sociales. (derecha) Cantidad de agentes por tipos de agentes.
+:::
+
+Se observa en la @fig-c14-09 (izquierda), como la clase social baja predomina. Las presiones del entorno son representadas en la cantidad de grano, que seleccionan las clases existentes. En la @fig-c14-09 (derecha) se observa cómo predominan los agrícolas asentados, dado que existe mayor cantidad de territorio sin agua. Un comportamiento similar tiene actualmente la región, donde los niveles de pobreza son muy altos, reflejados en un NBI promedio de: 64.4 y la cantidad de terratenientes es baja.
 
 ### 14.4.2 MOJANACOOP: Modelo Organizacional Jerárquico de Agentes Naturales del Agua Cooperativos
 
@@ -253,16 +243,11 @@ Las poblaciones humanas se representan por un sistema de agentes que toman prove
 
 
 
-![](images/capitulo_14/img_1cf1d7a5.jpeg)
-
-**Figura 10.** Interfase del modelo MOJANACOOP [[20]](#ref-20) .
+![Interfase del modelo MOJANACOOP [[20]](#ref-20).](images/capitulo_14/img_1cf1d7a5.jpeg){#fig-c14-10}
 
 **Disponibilidad de códigos:** usa los incluidos en MOJANA y además, integra un modelo de cooperación [[24]](#ref-24).
 
-**Implementación:** la implementación del modelo se hizo en la plataforma NetLogo y los detalles se pueden encontrar en [[20]](#ref-20). En la Figura 10 se observa la interface del artefacto construido en NetLogo. Las reglas para el cálculo de la vulnerabilidad se presentan en la Tabla 4:
-
-**Tabla 4. **Reglas de cálculo para la vulnerabilidad social.
-
+**Implementación:** la implementación del modelo se hizo en la plataforma NetLogo y los detalles se pueden encontrar en [[20]](#ref-20). En la @fig-c14-10 se observa la interface del artefacto construido en NetLogo. Las reglas para el cálculo de la vulnerabilidad se presentan en la @tbl-c14-04:
 
 | Variables por agente | Condición | Nivel de vulnerabilidad | Valores |
 | --- | --- | --- | --- |
@@ -285,13 +270,17 @@ Las poblaciones humanas se representan por un sistema de agentes que toman prove
 | Vulnerabilidad social | Corresponde a la sumatoria de las variables anteriores | Vulnerabilidad social media | 1.5-4.49 |
 | Vulnerabilidad social | Corresponde a la sumatoria de las variables anteriores | Vulnerabilidad social baja | 0-1.49 |
 
+: Reglas de cálculo para la vulnerabilidad social. {#tbl-c14-04}
 
-|  |  |
-| --- | --- |
+::: {#fig-c14-11 layout-ncol="2"}
+![](images/capitulo_14/Figura%2011a.png){#fig-c14-11-a}
 
-**Figura 11.** Resultados del modelo MOJANACOOP. Cantidad de agentes por clases sociales (izquierda). Cantidad de agentes acorde a los niveles de vulnerabilidad social (derecha).
+![](images/capitulo_14/Figura%2011b.png){#fig-c14-11-b}
 
-Se observa en la Figura 11 (izquierda), como la clase social baja predomina, seguida de la media y la alta. Las presiones del entorno son representadas en la cantidad de grano, que seleccionan las clases existentes. En la Figura 11 (derecha) se observa como la vulnerabilidad media es la predominante. Este resultado fue similar en el proyecto generado por la Unidad Nacional para la Gestión del Riesgo de Desastres [[27]](#ref-27). Los factores que inciden en este valor son: las condiciones de habitabilidad, las actividades productivas, la capacidad de cooperación y, el acceso a educación y salud.
+Resultados del modelo MOJANACOOP. Cantidad de agentes por clases sociales (izquierda). Cantidad de agentes acorde a los niveles de vulnerabilidad social (derecha).
+:::
+
+Se observa en la @fig-c14-11 (izquierda), como la clase social baja predomina, seguida de la media y la alta. Las presiones del entorno son representadas en la cantidad de grano, que seleccionan las clases existentes. En la @fig-c14-11 (derecha) se observa como la vulnerabilidad media es la predominante. Este resultado fue similar en el proyecto generado por la Unidad Nacional para la Gestión del Riesgo de Desastres [[27]](#ref-27). Los factores que inciden en este valor son: las condiciones de habitabilidad, las actividades productivas, la capacidad de cooperación y, el acceso a educación y salud.
 
 ### 14.4.3 MOJANAREAL: Modelo Organizacional Jerárquico de Agentes Naturales del Agua en tiempo real
 
@@ -305,15 +294,9 @@ Se observa en la Figura 11 (izquierda), como la clase social baja predomina, seg
 
 **Disponibilidad de códigos:** MOJANAREAL utiliza un ejercicio de juego de rol como metodología.
 
-**Implementación:** la implementación del modelo se hizo en tiempo real, como se observa en la
+**Implementación:** la implementación del modelo se hizo en tiempo real, como se observa en la @fig-c14-12.
 
-Figura 12.
-
-
-
-![](images/capitulo_14/img_d18a4540.jpeg)
-
-**Figura 12.** MOJANAREAL.
+![MOJANAREAL.](images/capitulo_14/img_d18a4540.jpeg){#fig-c14-12}
 
 Respecto a la resolución del modelo, hay cuatro formas de aproximación para la generación de salidas de modelos. La usada en este caso es: escenarios, donde el modelo es desarrollado para analizar los cambios en la vulnerabilidad social de la población, generados por la inundación y los usos del suelo. Se usó el análisis tipo ¿y si? para explorar resultados de diferentes acciones y sus efectos.
 
@@ -361,6 +344,7 @@ Al analizar los instrumentos de planeación para la gestión del riesgo por inun
 ::: {#trabajo-futuro-1 .callout-important style="background-color: #fffbebff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Trabajo a futuro.** A futuro, resulta interesante realizar ejercicios de modelado participativo con actores vinculados a Entidades Nacionales y analizar cómo la imagen que tienen del territorio interactúa con la imagen que tienen las comunidades que allí habitan. El hecho de tener diferentes enfoques sobre “desarrollo” o “buen vivir” genera aún mayores retos en términos de valores, convivencia y generación de acuerdos. La integración de los tres modelos también es un reto y puede ser viable como trabajo futuro. Por ejemplo, se podrían procesar imágenes y videos de MOJANAREAL para extraer patrones, reglas y atributos que se pudieran integrar en MOJANA y MOJANACOOP. Esto evidencia que la integración puede ser viable no solo al interior de cada artefacto, sino también entre los artefactos.  Uno de los principales retos a futuro, es trabajar en la incorporación de la vulnerabilidad social en la evaluación de riesgo por inundación. Abordándola de manera integrada con la amenaza y los demás componentes de la vulnerabilidad. En este trabajo se demostró que las condiciones de vulnerabilidad social pueden aumentar o disminuir el riesgo por inundación. Actualmente, si esto no se tienen en cuenta, muchas de las intervenciones podrían estar sobreestimándose o subestimándose. Lo que afecta directamente los procesos de gestión presupuestal del riesgo y la calidad de vida de la población.
 :::
+
 ## 14.7 AGRADECIMIENTOS
 
 ------------------------------------------------------------------------

@@ -68,7 +68,14 @@ El Plan de Acción para la Gestión del Riesgo y la Erosión Costera en el depar
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Medidas blandas y duras de acuerdo con escenarios de riesgo De acuerdo con el análisis de los escenarios de riesgo por erosión costera en el departamento de Córdoba, como medidas de mitigación se sugiere la implementación de medidas blandas y duras de la siguiente forma:  Siembra y restauración ecológica del ecosistema de manglar, corales, entre otros. Diseño de relleno artificial de arena y restauración de playas. Obras de disminución de la pendiente de acantilados. Construcción de estructuras duras para la recuperación de las puntas.
+**Caja 1.** Medidas blandas y duras de acuerdo con escenarios de riesgo
+
+De acuerdo con el análisis de los escenarios de riesgo por erosión costera en el departamento de Córdoba, como medidas de mitigación se sugiere la implementación de medidas blandas y duras de la siguiente forma:
+
+- Siembra y restauración ecológica del ecosistema de manglar, corales, entre otros.
+- Diseño de relleno artificial de arena y restauración de playas.
+- Obras de disminución de la pendiente de acantilados.
+- Construcción de estructuras duras para la recuperación de las puntas.
 :::
 
 Para el desarrollo del Plan de Acción 2016–2020 se identificaron actores de relevancia tales como MADS (Ministerio de Ambiente y Desarrollo Sostenible), DIMAR (Dirección General Marítima de la armada), SGC (Servicio Geológico Colombiano), CIOH (Centro de Investigaciones Oceanográficas e Hidrográficas), INVEMAR (Instituto de Investigaciones Marinas y Costeras, IDEAM (Instituto de Hidrología, Meteorología y Estudios Ambientales), IAVH (Instituto Alexander Von Humboldt), ASOCARS (Asociación de Corporaciones Autónomas Regionales), entes territoriales (alcaldías, gobernaciones), IGAC (Instituto Geográfico Agustín Codazzi), ANLA (Autoridad de Licencias Ambientales), y DNP (Departamento Nacional de Planeación), entre otros. 
@@ -127,10 +134,7 @@ El Monitoreo se hace a partir de la toma de datos estacionales, levantados *in s
 
 La línea de costa se adquirió en campo a través de recorridos paralelos al mar, delineando la zona de cambio de pendiente en las playas, es decir el límite entre el frente de playa y la playa trasera, igualmente se tomó en la zona de acantilados el borde alto, esta definición es usada como variación morfodinámica y permite determinar la variación estacional [[26]](#ref-26). Esta adquisición se realizó mediante tecnología GNSS con corrección diferencial post-proceso, posteriormente se estimaron los cálculos de los cambios cuantitativos (acumulación y/o erosión) de las líneas de costa, obteniendo su evolución.
 
-Las variaciones se midieron empleando la extensión Digital Shoreline Analysis System (DSAS) [[27]](#ref-27) en el software ArcGIS 10.5. Esta extensión permite calcular estadísticas para analizar el comportamiento o los cambios en la línea de costa, dentro de un intervalo de tiempo estudiado [[28]](#ref-28). Se tomaron como datos estadísticos el Linear Regression (LRR), el cual permite determinar la tasa de regresión lineal según la posición de la línea de costa con respecto al tiempo o fecha, tomando todas las líneas de costa del monitoreo y calculando bajo ecuación, donde la pendiente describe las tasas de cambio de la línea, dada en metros por año. Se clasificaron los resultados así: Muy Alta (LRR<-1 m/año), Alta (-1>LRR<-0.5), Estable (-0.5<LRR>0.5) y Acreción (LRR>0.5). Este resultado nos ayuda a entender cómo y cuál es la tendencia de la línea de costa, teniendo en cuenta las épocas climáticas, las cuales modulan su comportamiento. Resultados y análisis en la Tabla 1.
-
-**Tabla 1. **Resultados de los cambios en la línea de costa para cada sector.
-
+Las variaciones se midieron empleando la extensión Digital Shoreline Analysis System (DSAS) [[27]](#ref-27) en el software ArcGIS 10.5. Esta extensión permite calcular estadísticas para analizar el comportamiento o los cambios en la línea de costa, dentro de un intervalo de tiempo estudiado [[28]](#ref-28). Se tomaron como datos estadísticos el Linear Regression (LRR), el cual permite determinar la tasa de regresión lineal según la posición de la línea de costa con respecto al tiempo o fecha, tomando todas las líneas de costa del monitoreo y calculando bajo ecuación, donde la pendiente describe las tasas de cambio de la línea, dada en metros por año. Se clasificaron los resultados así: Muy Alta (LRR<-1 m/año), Alta (-1>LRR<-0.5), Estable (-0.5<LRR>0.5) y Acreción (LRR>0.5). Este resultado nos ayuda a entender cómo y cuál es la tendencia de la línea de costa, teniendo en cuenta las épocas climáticas, las cuales modulan su comportamiento. Resultados y análisis en la @tbl-c13-01.
 
 | Lugar | Resultado |
 | --- | --- |
@@ -144,30 +148,25 @@ Las variaciones se midieron empleando la extensión Digital Shoreline Analysis S
 | Playas de San Bernardo del Viento | La tendencia en La Y es de acreción (4.66 m/año), con algunos tramos de estabilidad (@fig-c13-05, panel f).  En Brisas del Mar la tendencia es hacia la acreción (4.2 m/año) (@fig-c13-05, panel g).  En Los Tambos la tendencia es hacia la acreción costera, la cual alcanzo los 12.18 m/año (@fig-c13-05, panel h). ACRECIÓN. |
 | Santander de la Cruz | Presenta una tendencia general hacia la erosión costera con tasas de hasta -4 m/año (@fig-c13-05, panel i). MUY ALTA. |
 
-
+: Resultados de los cambios en la línea de costa para cada sector. {#tbl-c13-01}
 
 ![Cambios en línea de costa tendenciales para las zonas de monitoreo del departamento. (**a**) Minuto de Dios y Puerto Rey, (**b**) playa El Bolivitar, (**c**) playa Brisas del Caribe, (**d**) Moñitos, (**e**) La Rada, (**f**) La Y, (**g**) Brisas del Mar, (**h**) Los Tambos, (**i**) Santander de la Cruz. Clasificación: Muy Alta (LRR<-1 m/año), Alta (-1>LRR<-0.5), Estable (-0.5<LRR>0.5) y Acreción (LRR>0.5).](images/capitulo_13/img_d38d2bab.png){#fig-c13-05}
 
 ### 13.3.3 Priorización de áreas o definición de puntos críticos por erosión costera
 
-La priorización de áreas o definición de puntos críticos de erosión costera, corresponde con los sitios donde dicho fenómeno podría generar daños en población o pérdida de ecosistemas, lo que permite identificar las áreas que requieren medidas a corto, mediano y largo plazo. Para la priorización de áreas, inicialmente se relacionaron los resultados de amenaza y vulnerabilidad mediante una matriz, donde se tomaron la clasificación media, alta y muy alta. Se asignaron valores a cada clase: media (1), alta (3) y muy alta (5), siendo en sumatoria el máximo valor 10 y el mínimo 2, clasificando con intervalos iguales se tuvo: media <4.6, alta 7.3 > 2.6 y muy alta >7.3 (Tabla 2).
+La priorización de áreas o definición de puntos críticos de erosión costera, corresponde con los sitios donde dicho fenómeno podría generar daños en población o pérdida de ecosistemas, lo que permite identificar las áreas que requieren medidas a corto, mediano y largo plazo. Para la priorización de áreas, inicialmente se relacionaron los resultados de amenaza y vulnerabilidad mediante una matriz, donde se tomaron la clasificación media, alta y muy alta. Se asignaron valores a cada clase: media (1), alta (3) y muy alta (5), siendo en sumatoria el máximo valor 10 y el mínimo 2, clasificando con intervalos iguales se tuvo: media <4.6, alta 7.3 > 2.6 y muy alta >7.3 (@tbl-c13-02).
 
-Adicionalmente se tomaron en cuenta los resultados del monitoreo de erosión costera, para lo cual se asignaron tres clasificaciones: los que mostraban una tendencia hacia la erosión costera (Alta y Muy Alta) o hacia procesos de acreción. Con valores asignados de acreción (1), erosión Alta (4) y Muy Alta (5). Posteriormente se cruzó con los resultados de la matriz A*V y se usó la misma clasificación de intervalos de la Tabla 2 para obtener las zonas prioritarias (Tabla 3).
+Adicionalmente se tomaron en cuenta los resultados del monitoreo de erosión costera, para lo cual se asignaron tres clasificaciones: los que mostraban una tendencia hacia la erosión costera (Alta y Muy Alta) o hacia procesos de acreción. Con valores asignados de acreción (1), erosión Alta (4) y Muy Alta (5). Posteriormente se cruzó con los resultados de la matriz A*V y se usó la misma clasificación de intervalos de la @tbl-c13-02 para obtener las zonas prioritarias (@tbl-c13-03).
 
-**Tabla 2. **Relación entre amenaza y vulnerabilidad para priorización de áreas.
+| Grado de Amenaza / Grado de Vulnerabilidad | Media (1) | Alta (3) | Muy Alta (5) |
+| --- | --- | --- | --- |
+| Media (1) | Media (2) | Media (4) | Alta (6) |
+| Alta (3) | Media (4) | Alta (6) | Muy Alta (8) |
+| Muy Alta (5) | Alta (6) | Muy Alta (8) | Muy Alta (10) |
 
+: Relación entre amenaza (A) y vulnerabilidad (V) para priorización de áreas (A × V Zona Prioritaria). {#tbl-c13-02}
 
-|  |  | Grado de vulnerabilidad | Grado de vulnerabilidad | Grado de vulnerabilidad |  |
-| --- | --- | --- | --- | --- | --- |
-|  |  | Media (1) | Alta (3) | Muy Alta (5) |  |
-| Grado de Amenaza | Media (1) | Media (2) | Media (4) | Alta (6) | A * V Zona Prioritaria |
-| Grado de Amenaza | Alta (3) | Media (4) | Alta (6) | Muy Alta (8) | A * V Zona Prioritaria |
-| Grado de Amenaza | Muy Alta (5) | Alta (6) | Muy Alta (8) | Muy Alta (10) | A * V Zona Prioritaria |
-
-Los poblados que tienen prioridad Muy Alta para intervención son Puerto Rey, Minuto de Dios, La Rada, Santander de la Cruz y Broqueles. El resto del departamento estudiado se encuentra en prioridad Alta, lo que significa que se debe intervenir de corto a mediano plazo, ya que, si no se toman medidas, los riesgos pueden ir en aumento (Tabla 3).
-
-**Tabla 3**. Tabla de priorización de áreas. Información derivada del monitoreo*.
-
+Los poblados que tienen prioridad Muy Alta para intervención son Puerto Rey, Minuto de Dios, La Rada, Santander de la Cruz y Broqueles. El resto del departamento estudiado se encuentra en prioridad Alta, lo que significa que se debe intervenir de corto a mediano plazo, ya que, si no se toman medidas, los riesgos pueden ir en aumento (@tbl-c13-03).
 
 | Municipio | Localidad | Erosión costera* | Amenaza X Vulnera | Prioridad |
 | --- | --- | --- | --- | --- |
@@ -183,16 +182,15 @@ Los poblados que tienen prioridad Muy Alta para intervención son Puerto Rey, Mi
 | San Bernardo del Viento | Playas del viento | Acreción (1) | Media (1) | Media (2) |
 | San Antero | Playa Blanca y El Porvenir | (0) | Alta (3) | Media (3) |
 
+: Tabla de priorización de áreas. Información derivada del monitoreo. {#tbl-c13-03}
+
 ## 13.4 MODELO CONCEPTUAL DE ALTERNATIVAS DE MITIGACIÓN: SANTANDER DE LA CRUZ.
 
 ------------------------------------------------------------------------
 
 ### 13.4.1 Alternativas propuestas
 
-Las alternativas propuestas se adaptaron a partir del trabajo desarrollado por MADS-DELTARES-INVEMAR. (2013) [[10]](#ref-10), con base en la iniciativa *Building with Nature, *tomando en cuenta en el caso específico de Santander de la Cruz otras necesidades derivadas de trabajos con la comunidad y estudios previos. Para cada zona se elaboraron dos modelos, uno del estado actual y el segundo con las alternativas de mitigación propuestas, estos se desarrollaron a través de cartografía social, en talleres con la comunidad e imágenes de sensores remotos. Las propuestas principales son las siguientes (Tabla 4):
-
-**Tabla 4** Alternativas propuestas.
-
+Las alternativas propuestas se adaptaron a partir del trabajo desarrollado por MADS-DELTARES-INVEMAR. (2013) [[10]](#ref-10), con base en la iniciativa *Building with Nature, *tomando en cuenta en el caso específico de Santander de la Cruz otras necesidades derivadas de trabajos con la comunidad y estudios previos. Para cada zona se elaboraron dos modelos, uno del estado actual y el segundo con las alternativas de mitigación propuestas, estos se desarrollaron a través de cartografía social, en talleres con la comunidad e imágenes de sensores remotos. Las propuestas principales son las siguientes (@tbl-c13-04):
 
 | Alternativa | Descripción |
 | --- | --- |
@@ -200,6 +198,8 @@ Las alternativas propuestas se adaptaron a partir del trabajo desarrollado por M
 | Alimentación de playas | Consiste en provocar en la playa un aumento artificial del volumen de arena a través de un suministro externo de arena en el segmento de la misma que se pretende proteger. Puede colocarse la arena en un solo tramo aguas arriba de la playa o renovarse en varios puntos a lo largo de ella, cerca de la línea de costa. Para que el transporte de deriva se encargue de distribuir los sedimentos (Esta técnica exige mantenimiento periódico) [[29]](#ref-29). |
 | Reubicación de viviendas | Esta alternativa no pretende ser la única para una zona en particular, primordialmente esta solución se usa con otras de manera integral, y solo se propuso para casos extremos. La reubicación de viviendas en muchos casos es costosa, pero la solución es a largo plazo. En la medida de lo posible la relocalización de viviendas se presenta haciendo énfasis en los aspectos socio-económicos y de zonas seguras. |
 | Estabilización de acantilados y perfilamiento | El objetivo de esta técnica es definir el ángulo adecuado y aumentar la estabilidad del talud, la cual está en función del tipo de roca, la estructura geológica, el contenido de agua y la altura, el perfilador no es sin embargo aplicable a todos los tipos de rocas y requiere que haya espacio suficiente para que el talud pueda extenderse; además, debe ir acompañada de obras complementarias de drenaje y regeneración de cobertura vegetal [[19]](#ref-19). |
+
+: Alternativas propuestas. {#tbl-c13-04}
 
 ### 13.4.2 Santander de la Cruz
 
@@ -215,10 +215,7 @@ Debido a la proximidad de las casas con el mar, se hace necesario un plan de reu
 
 ------------------------------------------------------------------------
 
-A partir del análisis de las alternativas de mitigación definidas en la sección anterior, de los resultados del monitoreo de erosión costera y los componentes de investigación, se establecieron los estudios base requeridos para la evaluación de factibilidad de las estrategias de mitigación planteadas. Los estudios contemplaron ocho componentes o disciplinas científicas, los cuales a su vez poseen unas variables o sub-disciplinas que permitieron desarrollar el tipo de muestreo o adquisición de información general. Teniendo en cuenta lo anterior, las alternativas de mitigación se relacionaron con los componentes o disciplinas, los cuales a su vez permitieron identificar la información específica a levantar (Tabla 5). 
-
-**Tabla 5.** Relación de las alternativas de mitigación con los componentes principales, mostrando la información a levantar.
-
+A partir del análisis de las alternativas de mitigación definidas en la sección anterior, de los resultados del monitoreo de erosión costera y los componentes de investigación, se establecieron los estudios base requeridos para la evaluación de factibilidad de las estrategias de mitigación planteadas. Los estudios contemplaron ocho componentes o disciplinas científicas, los cuales a su vez poseen unas variables o sub-disciplinas que permitieron desarrollar el tipo de muestreo o adquisición de información general. Teniendo en cuenta lo anterior, las alternativas de mitigación se relacionaron con los componentes o disciplinas, los cuales a su vez permitieron identificar la información específica a levantar (@tbl-c13-05).
 
 | # | Alternativas | Componentes | Información |
 | --- | --- | --- | --- |
@@ -228,6 +225,8 @@ A partir del análisis de las alternativas de mitigación definidas en la secci�
 | 4 | Ninguna construcción de obras duras sobre la línea de costa de Santander, el sistema puede tener la capacidad en la producción de sedimento para la evolución acumulativa de la playa, pero se debe revisar que sucede con la fuente de sedimentos. | Dinámica litoral | Transporte de sedimentos, sedimentología. |
 | 5 | Control de la extracción de arena que padecen las playas actualmente y los procesos de desforestación sobre los ríos, cada una de estas intervenciones aportan al desequilibrio del sistema | Sedimentológico, biótico | Áreas deforestadas y fuentes de material |
 | 6 | Al igual que La Rada, los representantes de Santander proponen la implantación y recuperación de las puntas de la bahía. | Hidrodinámica y Morfodinámica | Oleaje, corrientes, Transporte de sedimentos |
+
+: Relación de las alternativas de mitigación con los componentes principales, mostrando la información a levantar. {#tbl-c13-05}
 
 **Reubicación**
 
@@ -267,10 +266,7 @@ En Santander de La Cruz la arena es también una materia prima cuyo uso es desti
 
 **Alternativas basadas en ecosistemas**
 
-En cuanto a medidas blandas que incluyen ecosistemas, se realizó una revisión bibliográfica correspondiente a los ecosistemas de manglares y arrecifes por estar relacionados con las alternativas de mitigación propuestas y se identificaron las condiciones oceanográficas *in situ* (Tabla 6). Además, la oceanografía del área en estudios anteriores ha identificado que la zona costera del departamento de Córdoba está directamente influenciada por el oleaje [[17]](#ref-17), lo cual indica que los vientos y el oleaje son factores importantes en la configuración de la costa. En la zona marina frente a Santander de La Cruz, Ricaurte-Villota y Bastidas-Salamanca [[25]](#ref-25) emplearon datos del Reanálisis Regional de América del Norte (NARR) y realizaron la caracterización de los vientos en una estación a 35 km de Santander de la Cruz llamada BV_03. Estos autores encontraron que la mayor magnitud del viento se registra entre los meses de diciembre a abril, alcanzando máximos para el mes de febrero con una dirección predominante norte-noroeste. En contraste, de mayo a noviembre disminuye la velocidad del viento, registrando mínimos en el mes de octubre y una dominancia de la dirección proveniente del oeste. 
-
-**Tabla 6**. Características deseadas en los ecosistemas propuestos como medida de mitigación.
-
+En cuanto a medidas blandas que incluyen ecosistemas, se realizó una revisión bibliográfica correspondiente a los ecosistemas de manglares y arrecifes por estar relacionados con las alternativas de mitigación propuestas y se identificaron las condiciones oceanográficas *in situ* (@tbl-c13-06). Además, la oceanografía del área en estudios anteriores ha identificado que la zona costera del departamento de Córdoba está directamente influenciada por el oleaje [[17]](#ref-17), lo cual indica que los vientos y el oleaje son factores importantes en la configuración de la costa. En la zona marina frente a Santander de La Cruz, Ricaurte-Villota y Bastidas-Salamanca [[25]](#ref-25) emplearon datos del Reanálisis Regional de América del Norte (NARR) y realizaron la caracterización de los vientos en una estación a 35 km de Santander de la Cruz llamada BV_03. Estos autores encontraron que la mayor magnitud del viento se registra entre los meses de diciembre a abril, alcanzando máximos para el mes de febrero con una dirección predominante norte-noroeste. En contraste, de mayo a noviembre disminuye la velocidad del viento, registrando mínimos en el mes de octubre y una dominancia de la dirección proveniente del oeste. 
 
 | Ecosistema | Parámetro | Intervalo | Medición en campo |
 | --- | --- | --- | --- |
@@ -283,6 +279,8 @@ En cuanto a medidas blandas que incluyen ecosistemas, se realizó una revisión 
 | Manglares | Temperatura | 20 a 35 °C [[35]](#ref-35) | Sonda portátil |
 | Manglares | Salinidad | 33 a 38.5 [[36]](#ref-36) | Sonda portátil |
 | Manglares | Tipo sustrato | Sustratos arcillosos u arenosos, según especie. [[37]](#ref-37) | Muestra de sedimentos con pala. |
+
+: Características deseadas en los ecosistemas propuestos como medida de mitigación. {#tbl-c13-06}
 
 El comportamiento del oleaje a partir de la serie sintética de la boya virtual (BV_03) ubicada a 35 km al noroeste de Santander de la Cruz, mostró que para la época seca (diciembre marzo) el oleaje presenta máximos con alturas de ola promedio de 1.35 ± 0.56 m con un periodo de 6.5 s y una probabilidad del 37% de ocurrencia de olas provenientes del NNO, seguido de direcciones al NO y O-NO. En contraste, para los meses de abril a noviembre (época húmeda), la altura de la ola disminuye hasta un promedio de 1.08 ± 0.56 m, un periodo de 6.4 s y la dirección predominante proviene del tercer cuadrante (entre 180° y 270°), con mayor probabilidad del oeste-noroeste [[25]](#ref-25). Durante los días de muestreo, la altura de ola osciló entre 0.67 y 0.28 m con un promedio de 0.45 ± 0.12 m. La dirección predominante en la zona fue de 306.00º (provenientes del Noroeste) (@fig-c13-10).
 
@@ -314,7 +312,7 @@ Boca del arroyo Culebra y quebrada San Martín.
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Conceptos clave Cambio de coberturas: permiten evidenciar cambios en extensión, tipo de especie y aumento de la frontera agrícola. Características fisicoquímicas: determinan el asentamiento o no de determinada especie.
+**Caja 2.** Conceptos clave Cambio de coberturas: permiten evidenciar cambios en extensión, tipo de especie y aumento de la frontera agrícola. Características fisicoquímicas: determinan el asentamiento o no de determinada especie.
 :::
 
 **Intervención con arrecifes artificiales**
@@ -331,7 +329,7 @@ En el modelo batimétrico y el perfil transversal se puede observar una franja r
 
 
 ::: {#box3 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Conceptos clave Sustrato: Está relacionado con la disponibilidad de superficie favorable para el asentamiento de especies sedentarias y larvales.  Oleaje: su magnitud y dirección son los factores que más inciden en la dinámica litoral. Permitirá determinar la ubicación de estructuras de protección costera.  Temperatura: cumple un papel imprescindible para el asentamiento y crecimiento de los reclutas coralinos; mientras que la Turbidez hace referencia a la disponibilidad de luz solar para realizar fotosíntesis de las zooxantelas (simbiontes).
+**Caja 3.** Conceptos clave Sustrato: Está relacionado con la disponibilidad de superficie favorable para el asentamiento de especies sedentarias y larvales.  Oleaje: su magnitud y dirección son los factores que más inciden en la dinámica litoral. Permitirá determinar la ubicación de estructuras de protección costera.  Temperatura: cumple un papel imprescindible para el asentamiento y crecimiento de los reclutas coralinos; mientras que la Turbidez hace referencia a la disponibilidad de luz solar para realizar fotosíntesis de las zooxantelas (simbiontes).
 :::
 
 Se encontró que no es posible hacer siembra de corales en la bahía, ya que la temperatura sobrepasa el rango permitido para un estado óptimo de estos organismos. Lo mismo pasa con la salinidad, la cual se encuentra por debajo del intervalo adecuado para su crecimiento. Esto explica la ausencia de este ecosistema en cercanías a la zona de estudio. Con respecto a la turbidez, los mayores valores de SST se encontraron al norte de la bahía; mientras que los menores (correspondientes con las mayores transparencias), se encontraron en la parte más alejada de la costa, donde la influencia continental es menor. Se procede con otro tipo de ecosistemas que sirvan como barreras vivas (@fig-c13-15).
@@ -356,8 +354,15 @@ Entre las alternativas de adaptación analizadas se determinó que: la estabilid
 
 
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Recomendaciones para tomar decisiones.** La problemática de la erosión costera en el departamento de Córdoba requiere abordarse de forma prioritaria por parte de las entidades del orden nacional y regional pertenecientes al SINA. Como corrección prospectiva, se proponen los lineamientos de ordenamiento local del territorio de Santander de la Cruz, los cuales tendrán los siguientes puntos como factores de hoja de ruta para su formulación: El desarrollo deberá tener principalmente la participación de todos los actores locales: comunidad, privados, industria (cultivos y ganadería) e instituciones. De igual manera, también la participación de instituciones regionales y nacionales. Ordenar la ocupación de las microcuencas (quebrada Pequín, arroyo Culebra y quebrada San Martín) y restaurar los ecosistemas presentes, partiendo de la conservación de la ronda hídrica, lo que permitirá restablecer flujos y descargas de sedimentos. Formular proyectos comunitarios alternativos que permitan el manejo de la extracción del material de playa con un enfoque de desarrollo sostenible. En cuanto a investigación, diferentes estudios se enfocan en los diferentes componentes de la gestión, sin llegar a ser integrales, aunque se han realizado algunos esfuerzos [[41]](#ref-41), mostrando solo las alternativas de mitigación, sus efectos y problemáticas [[42]](#ref-42), [[43]](#ref-43), [[44]](#ref-44), obras de ingeniería [[45]](#ref-45) u obras basada en ecosistemas presentes [[12]](#ref-12), [[46]](#ref-46). Otros estudios se enfocan en las políticas, programas o regulaciones [[47]](#ref-47), [[48]](#ref-48), o las deficiencias de estas herramientas [[49]](#ref-49). Por último, otros se basan en el monitoreo de playas o línea de costa [[50]](#ref-50), [[51]](#ref-51), de ahí la importancia de realizar estudios de carácter integral.
+**Recomendaciones para tomar decisiones.** La problemática de la erosión costera en el departamento de Córdoba requiere abordarse de forma prioritaria por parte de las entidades del orden nacional y regional pertenecientes al SINA. Como corrección prospectiva, se proponen los lineamientos de ordenamiento local del territorio de Santander de la Cruz, los cuales tendrán los siguientes puntos como factores de hoja de ruta para su formulación:
+
+- El desarrollo deberá tener principalmente la participación de todos los actores locales: comunidad, privados, industria (cultivos y ganadería) e instituciones. De igual manera, también la participación de instituciones regionales y nacionales.
+- Ordenar la ocupación de las microcuencas (quebrada Pequín, arroyo Culebra y quebrada San Martín) y restaurar los ecosistemas presentes, partiendo de la conservación de la ronda hídrica, lo que permitirá restablecer flujos y descargas de sedimentos.
+- Formular proyectos comunitarios alternativos que permitan el manejo de la extracción del material de playa con un enfoque de desarrollo sostenible.
+
+En cuanto a investigación, diferentes estudios se enfocan en los diferentes componentes de la gestión, sin llegar a ser integrales, aunque se han realizado algunos esfuerzos [[41]](#ref-41), mostrando solo las alternativas de mitigación, sus efectos y problemáticas [[42]](#ref-42), [[43]](#ref-43), [[44]](#ref-44), obras de ingeniería [[45]](#ref-45) u obras basada en ecosistemas presentes [[12]](#ref-12), [[46]](#ref-46). Otros estudios se enfocan en las políticas, programas o regulaciones [[47]](#ref-47), [[48]](#ref-48), o las deficiencias de estas herramientas [[49]](#ref-49). Por último, otros se basan en el monitoreo de playas o línea de costa [[50]](#ref-50), [[51]](#ref-51), de ahí la importancia de realizar estudios de carácter integral.
 :::
+
 ## 13.7 MATERIALES Y MÉTODOS
 
 ------------------------------------------------------------------------

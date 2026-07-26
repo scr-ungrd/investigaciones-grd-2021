@@ -49,7 +49,7 @@ En Colombia, la combinación entre las cordilleras y altas precipitaciones dan l
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** 1. Antecedentes El 30 de noviembre del 2000 se cayó nuevamente el puente sobre el río Unete en la vía Boyacá Casanare. Este puente estaba en reparación hace más de tres meses cuando colapsó por acción del río [[1]](#ref-1). El 17 de agosto de 2002 se presentó el desbordamiento del río Unete, inundando los barrios El Porvenir, Porvipaz, Villaluz, Seila, Los Esteros y Los Guaduales dejando por la fuerte corriente del río 645 familias damnificadas, 19 viviendas destrozadas y 20 viviendas afectadas [[2]](#ref-2). El 12 de septiembre de 2012 se presentó el desbordamiento del río Unete, afectando las veredas de Guadualito, Manoguia, San José del Bubuy, Vegana, Cachiza, Los Lirios, Bella Vista, Guaduales, Sabanales y el casco urbano además de siete vías principales, se registran 800 familias damnificadas y 160 viviendas afectadas [[2]](#ref-2). El 1 de septiembre de 2016, una avalancha del río Unete ocasionó la caída de la banca en el kilómetro 7 hacia el municipio de Pajarito en Boyacá. Dos viviendas también resultaron afectadas y los organismos de socorro tuvieron que rescatar a sus habitantes [[3]](#ref-3).
+**Caja 1.** Antecedentes El 30 de noviembre del 2000 se cayó nuevamente el puente sobre el río Unete en la vía Boyacá Casanare. Este puente estaba en reparación hace más de tres meses cuando colapsó por acción del río [[1]](#ref-1). El 17 de agosto de 2002 se presentó el desbordamiento del río Unete, inundando los barrios El Porvenir, Porvipaz, Villaluz, Seila, Los Esteros y Los Guaduales dejando por la fuerte corriente del río 645 familias damnificadas, 19 viviendas destrozadas y 20 viviendas afectadas [[2]](#ref-2). El 12 de septiembre de 2012 se presentó el desbordamiento del río Unete, afectando las veredas de Guadualito, Manoguia, San José del Bubuy, Vegana, Cachiza, Los Lirios, Bella Vista, Guaduales, Sabanales y el casco urbano además de siete vías principales, se registran 800 familias damnificadas y 160 viviendas afectadas [[2]](#ref-2). El 1 de septiembre de 2016, una avalancha del río Unete ocasionó la caída de la banca en el kilómetro 7 hacia el municipio de Pajarito en Boyacá. Dos viviendas también resultaron afectadas y los organismos de socorro tuvieron que rescatar a sus habitantes [[3]](#ref-3).
 :::
 
 Históricamente en Colombia, la principal amenaza hidrometereológica generadora de daños económicos y población afectada es la inundación [[4]](#ref-4), muestra de ello, es que el 28% del territorio está en alto potencial de inundación y el 8% en amenaza alta por movimientos en masa [[5]](#ref-5), como se demuestra con los casos de Mocoa (marzo 2017), Choachí (octubre 2018), Canal del Dique (diciembre 2010) y los continuos cierres de la vía Bogotá-Villavicencio.
@@ -78,20 +78,17 @@ Este proyecto se desarrolló en tres etapas. La primera incluyó la toma de dato
 
 Gracias a las actuales herramientas SIG, los resultados de la modelización numérica se pueden combinar con datos georreferenciados para realizar una cuantificación  sistemática del riesgo de inundación [[9]](#ref-9). Iber 2D se desarrolló por el Instituto Flumen y GEAMA, el cual aporta mayor precisión respecto a un software de modelación hidráulica en una dimensión debido a que permite construir la topografía mediante una malla no estructurada de elementos finitos [[10]](#ref-10), tiene en cuenta la dirección del vector de velocidad, resuelve las ecuaciones de Saint Vennat 2D que son la expresión matemática de las leyes de conservación de masa y de la cantidad de movimiento [[11]](#ref-11) y predice de forma más precisa las zonas de inundación y su profundidad. Adicionalmente, es de uso libre (www.iberaula.es), ofrece documentación adicional y soporte a través de un foro de discusión y cursos de formación [[7]](#ref-7). 
 
-**Tabla 1.** Calificación de la frecuencia. La frecuencia determina cada cuanto se presentan eventos amenazantes a partir de la cronología de eventos ocurridos. UNGRD, 2012, p. 28.
-
+La frecuencia determina cada cuanto se presentan eventos amenazantes a partir de la cronología de eventos ocurridos (@tbl-c11-01).
 
 | Descripción | Valor | Calificación |
 | --- | --- | --- |
 | Evento que se presenta una vez aproximadamente cada 10 años. | 3 | Alta |
 | Evento que se presenta por lo menos una vez en un período de tiempo aproximado de 50 años. | 2 | Media |
 | Evento que se presenta al menos una vez en un período de tiempo aproximado a 100 años. | 1 | Baja |
-|  |  |  |
+
+: Calificación de la frecuencia. UNGRD, 2012, p. 28. {#tbl-c11-01}
 
 Para el río Unete la modelación se realizó en dos dimensiones sin considerar flujos hiperconcentrados, por cuanto no se evidencian geoformas asociadas a este tipo de flujos, como son conos de deyección y abanicos aluviales. Como resultado de la modelación hidráulica se obtuvieron mapas de intensidad de inundación para distintos periodos de retorno, que son un insumo indispensable para definir el nivel de amenaza como la sumatoria de frecuencia, territorio afectado e intensidad. Cada indicador se evalúa en escala de 1 a 3, de tal forma que la sumatoria fluctúa entre 3 (amenaza mínima) y 9 (amenaza máxima) [[9]](#ref-9). Para evaluar la intensidad de la inundación en términos del territorio afectado, se adopta como 100% la mancha de inundación con período de retorno de 200 años.
-
-**Tabla 2.** Porcentaje y calificación del territorio afectado. Fuente: UNGRD, 2012, p. 29.
-
 
 | Descripción | Valor | Calificación |
 | --- | --- | --- |
@@ -99,27 +96,27 @@ Para el río Unete la modelación se realizó en dos dimensiones sin considerar 
 | Entre el 50% y 80% del territorio afectado por la inundación | 2 | Media |
 | Menos del 50% del territorio afectado por la inundación | 1 | Baja |
 
+: Porcentaje y calificación del territorio afectado. Fuente: UNGRD, 2012, p. 29. {#tbl-c11-02}
+
 La intensidad representa el nivel potencial de daños materiales y de pérdida de vidas humanas, valorada igualmente en escala de 1 a 3, según la profundidad y velocidad de  flujo, siendo conveniente diferenciar entre inundaciones estáticas y dinámicas [[12]](#ref-12). Si la inundación es estática, la velocidad del flujo es inferior a 0.50 m/s y la variable a tener en cuenta es la profundidad; mientras que si es dinámica, se tendrá en cuenta el producto de la velocidad por la profundidad de flujo, y es este el criterio adoptado en Aguazul, para lo cual los resultados de la simulación en Iber 2D se exportaron al software Arcgis y se reclasificaron estableciendo tres rangos: profundidad baja (0 – 1.0 m), profundidad media (1.0 – 1.5 m) y profundidad alta (1.5 m – profundidad máxima).
-
-**Tabla 3.** Criterios valoración intensidad de inundación. Fuente: Instituto Nicaragüense de Estudios Territoriales, 2005, p. 16.
-
 
 | Nivel de intensidad | Valor | Profundidad del flujo (H) (m) (inundaciones estáticas) | Profundidad × vol. de flujo (m/s) (inundaciones dinámicas) |
 | --- | --- | --- | --- |
-| Alto | 3 |  |  |
-| Medio | 2 |  |  |
-| Bajo | 1 |  |  |
+| Alto | 3 | 1.5 – profundidad máxima |  |
+| Medio | 2 | 1.0 – 1.5 |  |
+| Bajo | 1 | 0 – 1.0 |  |
+
+: Criterios valoración intensidad de inundación. Fuente: Instituto Nicaragüense de Estudios Territoriales, 2005, p. 16. {#tbl-c11-03}
 
 Para los mapas de velocidad se siguió un proceso similar para cada uno de los periodos de retorno (200 años, 50 años, 10 años y 1.3 años), los cuales se exportaron y reclasificaron en el software Arcgis estableciendo tres rangos: velocidad baja (0 – 1.0 m/s), velocidad (1.0 – 1.5 m/s) y velocidad alta (1.5m/s –  velocidad máxima). Finalmente, la amenaza es el resultado de sumar frecuencia, territorio afectado e intensidad, cuyo resultado se reclasifica en tres intervalos.
-
-**Tabla 4.** Calificación de amenazas. Fuente: UNGRD, 2012, p. 29.
-
 
 | Intervalo | Calificación de la amenaza |
 | --- | --- |
 | 7-9 | Alta |
 | 4-6 | Media |
 | 1-3 | Baja |
+
+: Calificación de amenazas. Fuente: UNGRD, 2012, p. 29. {#tbl-c11-04}
 
 Previo a la modelación hidráulica, se realizó una visita de campo donde se realizó el aforo líquido y levantamiento topográfico. Esta información se utilizó para calcular el coeficiente de rugosidad de Manning, definir la geometría del modelo y sus condiciones de control.
 
@@ -135,7 +132,9 @@ En el sitio del aforo se obtuvo una pendiente del lecho del río (S) del 3.0%, �
 
 Con estos valores, se llegó a un coeficiente de rugosidad de Manning (n) de 0.048, que concuerda con la clasificación dada en la literatura técnica [[13]](#ref-13), cuya descripción corresponde a un cauce con presencia de gravas, cantos rodados y algunas rocas grandes.
 
-$n= 1Q*A53P23*S$            $n= 1107.09*46.175390.7423*0.03=0.048$            (1)
+$$n = \frac{A^{5/3} \sqrt{S}}{Q \, P^{2/3}} \tag{1}$$
+
+$$n = \frac{46.17^{5/3} \times \sqrt{0.03}}{107.09 \times 90.74^{2/3}} = 0.048$$
 
 En la @fig-c11-06 se observa el lecho del río Unete, incluyendo una barra de sedimento compuesta por arenas, gravas y cantos rodados, así como, espolones y una estructura de contención construida con rocas y hexápodos posicionada sobre la margen izquierda del río y una terraza en la margen derecha.
 
@@ -151,31 +150,29 @@ Las geoformas identificadas en el río Unete en proximidad al área urbana de Ag
 
 La susceptibilidad hace referencia a la facilidad con que un fenómeno puede ocurrir sobre la base de las condiciones locales del terreno, en este caso la susceptibilidad es una propiedad del terreno que indica qué tan favorables son las condiciones de éste, para que pueda ocurrir una inundación, en función de las geoformas, que son indicador del tipo de material, origen, granulometría y edad del depósito, condición que es validada con el análisis de amenaza.
 
-**Tabla 5.** Susceptibilidad de inundación según geoformas.
+| Geoforma | Símbolo | Descripción | Susceptibilidad |
+| --- | --- | --- | --- |
+| Cauce activo | Fr | Depósitos aluviales conformado por suelo transportado, con tamaño desde arenas hasta bloques | Alta |
+| Vega aluvial | Fv | Depósitos aluviales conformado por suelo transportado subreciente, con tamaño desde limos hasta arenas, inundado periódicamente | Alta |
+| Planicie de inundación | Fi | Depósitos aluviales conformado por suelo transportado, matriz soportados con arenolimosa, afectados por inundaciones periódicas y/o excepcionales | Alta |
+| Barra de sedimento | Fb | Depósitos aluviales conformado por suelo transportado reciente, con tamaño desde gravas hasta arenas, generalmente inestable, que bajo ciertas condiciones puede llegar a ser estabilizada por la vegetación | Alta |
+| Terraza de acumulación baja | Ft1 | Depósitos fluviotorrenciales transportado reciente con tamaño desde gravas hasta arenas, matriz soportados con arenolimosa | Media |
+| Terraza de acumulación subreciente | Ft2 | Depósitos fluviotorrenciales matriz soportados con tamaño desde gravas hasta guijarros, la matriz es arenolimosa | Media |
+| Terraza de acumulación alta | Ft3 | Suelos transportados limoarenosos generados a partir de acumulación de materiales de lavado de laderas | Baja |
+| Escarpe de terraza | Fs | Depósitos fluviotorrenciales matriz soportados con tamaño desde gravas hasta bloques, de formas redondeadas, la matriz es arenolimosa | Media |
 
-
-| Geoforma | Símbolo | Tipo | Tipo | Susceptibilidad |
-| --- | --- | --- | --- | --- |
-| Cauce activo | Fr | Depósitos aluviales conformado por suelo transportado, con tamaño desde arenas hasta bloques | Alta | Alta |
-| Vega aluvial | Fv | Depósitos aluviales conformado por suelo transportado subreciente, con tamaño desde limos hasta arenas, inundado periódicamente | Alta | Alta |
-| Planicie de inundación | Fi | Depósitos aluviales conformado por suelo transportado, matriz soportados con arenolimosa, afectados por inundaciones periódicas y/o excepcionales | Alta | Alta |
-| Barra de sedimento | Fb | Depósitos aluviales conformado por suelo transportado reciente, con tamaño desde gravas hasta arenas, generalmente inestable, que bajo ciertas condiciones puede llegar a ser estabilizada por la vegetación | Alta | Alta |
-| Terraza de acumulación baja | Ft1 | Depósitos fluviotorrenciales transportado reciente con tamaño desde gravas hasta arenas, matriz soportados con arenolimosa | Media | Media |
-| Terraza de acumulación subreciente | Ft2 | Depósitos fluviotorrenciales matriz soportados con tamaño desde gravas hasta guijarros, la matriz es arenolimosa | Media | Media |
-| Terraza de acumulación alta | Ft3 | Suelos transportados limoarenosos generados a partir de acumulación de materiales de lavado de laderas | Baja | Baja |
-| Escarpe de terraza | Fs | Depósitos fluviotorrenciales matriz soportados con tamaño desde gravas hasta bloques, de formas redondeadas, la matriz es arenolimosa | Media | Media |
+: Susceptibilidad de inundación según geoformas. {#tbl-c11-05}
 
 Para la caracterización del régimen de precipitación se utilizaron los registros de 15 estaciones hidrológicas, entre ellas la estación Aguazul (3519530) posicionada en el piedemonte de la cordillera oriental, está última con registros continuos desde 1974 y un 10.7% de datos faltantes. Una vez la serie de datos suministrada por el IDEAM fue validada y completada, se obtuvo un régimen monomodal con periodo húmedo entre abril y octubre, precipitación anual de 2,796 mm, distribuidos en promedio en 158 días al año.
 
-**Tabla 6.** Resumen registro de precipitación en la estación Aguazul (3519530) del IDEAM.
-
-
-| Parámetro | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic |  |
+| Parámetro | Ene | Feb | Mar | Abr | May | Jun | Jul | Ago | Sep | Oct | Nov | Dic | Anual |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Precipitación media mensual (mm) | 12.8 | 41.0 | 125.2 | 286.1 | 426.2 | 410.2 | 357.0 | 310.7 | 329.3 | 287.5 | 163.0 | 46.9 | 2796 |
 | Precipitación mínima mensual (mm) | 0 | 0 | 3.6 | 68.2 | 191.4 | 204 | 169.1 | 100.4 | 73.4 | 151.3 | 2.7 | 0 | 0 |
 | Precipitación máxima en 24 horas (mm) | 35 | 105 | 146 | 131 | 136.3 | 136.2 | 170.1 | 121.4 | 134.6 | 155 | 187 | 85 | 187 |
 | Promedio No de días con precipitación | 2 | 4 | 9 | 17 | 20 | 20 | 21 | 18 | 16 | 16 | 12 | 4 | 158 |
+
+: Resumen registro de precipitación en la estación Aguazul (3519530) del IDEAM. {#tbl-c11-06}
 
 A nivel regional, la menor precipitación tiene lugar en la parte alta de la cuenca hacia la zona de páramo (1,313.7 mm en la estación Toquilla), mientras que las máximas precipitaciones se desarrollan en el piedemonte (4,806.1 mm en la estación Chameza), de tal forma que la cuenca del río Unete se posiciona en el corredor de máximas precipitaciones, con valores entre 2,500 y 3,500 mm anuales.
 
@@ -263,10 +260,7 @@ En la @fig-c11-18 (panel A) se observa que la intensidad correspondiente a un pe
 
 ![Mapa de intensidad de amenaza por inundación en el río Unete según período de retorno.](images/capitulo_11/img_e6d83e00.jpeg){#fig-c11-18}
 
-Considerando que el 100% del área afectada corresponde al periodo de retorno de 200 años con un área 460.97 hectáreas, se determinó el porcentaje de afectación para cada periodo de retorno, según se indica a continuación (Tabla 7).
-
-**Tabla 7.** Clasificación de territorio afectado por inundación del río Unete.
-
+Considerando que el 100% del área afectada corresponde al periodo de retorno de 200 años con un área 460.97 hectáreas, se determinó el porcentaje de afectación para cada periodo de retorno, según se indica a continuación (@tbl-c11-07).
 
 | Periodo de retorno (años) | Territorio afectado (ha) | Porcentaje respecto a Tr 200 (%) | Calificación |
 | --- | --- | --- | --- |
@@ -274,6 +268,8 @@ Considerando que el 100% del área afectada corresponde al periodo de retorno de
 | 50 | 400.58 | 86.9 | 3 |
 | 10 | 347.64 | 75.4 | 2 |
 | 1.3 | 163.39 | 35.5 | 1 |
+
+: Clasificación de territorio afectado por inundación del río Unete. {#tbl-c11-07}
 
 
 
@@ -309,12 +305,8 @@ Para la validación de los resultados del modelo hidráulico y ante la falta de 
 
 De acuerdo con los resultados obtenidos en la @fig-c11-07 en la delimitación de geoformas se calculó el porcentaje de cada una respecto a la @fig-c11-21 correspondiente al mapa definitivo de amenaza del municipio de Aguazul.
 
-**Tabla 8.** Porcentaje de área en amenaza por geoforma.
-
-
-| Geoforma | Porcentaje de amenaza | Porcentaje de amenaza | Porcentaje de amenaza |
+| Geoforma | Porcentaje de amenaza Alta | Porcentaje de amenaza Media | Porcentaje de amenaza Baja |
 | --- | --- | --- | --- |
-|  | Alta | Media | Baja |
 | Cauce activo | 100 | 0 | 0 |
 | Barras de sedimentos | 100 | 0 | 0 |
 | Vega | 78.16 | 11.35 | 10.49 |
@@ -322,6 +314,8 @@ De acuerdo con los resultados obtenidos en la @fig-c11-07 en la delimitación de
 | Terraza baja | 52.87 | 25.90 | 21.23 |
 | Terraza intermedia | 70.06 | 15.68 | 14.25 |
 | Terraza alta | 70.74 | 11.75 | 17.51 |
+
+: Porcentaje de área en amenaza por geoforma. {#tbl-c11-08}
 
 Debido a que el municipio de Aguazul no cuenta con un mapa de eventos históricos de inundación y que el mapa de riesgos e inundaciones del EOT de Aguazul del año 2010 [[17]](#ref-17) tan solo identifica un área susceptible a inundaciones sin delimitar las zonas de amenaza alta, media y baja, fue preciso incorporar para la validación de los resultados del modelo: encuestas a pobladores ribereños, análisis multitemporal de fotografías aéreas y valoración de susceptibilidad según geoformas.
 
@@ -341,39 +335,35 @@ En contraste, en la fotografía aérea del año 1995 no existían los barrios El
 
 Las encuestas establecen que el 72.5% de la muestra encuestada ha sufrido inundaciones por el río Unete, las cuales han alcanzado profundidades superiores a los 50 cm correspondiendo a una intensidad alta. En cuanto a la frecuencia, se asigna categoría alta debido al predominio de inundaciones una vez cada dos años, que corresponde a un periodo de retorno inferior a 10 años.
 
-**Tabla 9.** Resultados encuestas municipio de Aguazul.
-
-
 | Pregunta | Respuesta | Porcentaje% |
 | --- | --- | --- |
 | ¿Se le ha inundado su casa? | Si | 72.5 |
 | ¿Se le ha inundado su casa? | No | 27.5 |
-|  | Menos de 3 veces | 62.1 |
+| ¿Cuántas veces se ha inundado? | Menos de 3 veces | 62.1 |
 | ¿Cuántas veces se ha inundado? | 4 a 8 veces | 34.5 |
-|  | Más de 10 veces | 3.4 |
-|  | Más de una vez por año | 13.8 |
+| ¿Cuántas veces se ha inundado? | Más de 10 veces | 3.4 |
+| ¿Cada cuánto se inunda? | Más de una vez por año | 13.8 |
 | ¿Cada cuánto se inunda? | Una vez por año | 17.2 |
 | ¿Cada cuánto se inunda? | Una vez cada dos años | 58.6 |
-|  | otro | 10.3 |
-| ¿Se	inundó	el	patio	o	la vivienda? | Patio | 37.9 |
-| ¿Se	inundó	el	patio	o	la vivienda? | Vivienda | 17.3 |
-| ¿Se	inundó	el	patio	o	la vivienda? | Ambos | 44.8 |
-|  | Menos de 10 cm | 6.9 |
+| ¿Cada cuánto se inunda? | otro | 10.3 |
+| ¿Se inundó el patio o la vivienda? | Patio | 37.9 |
+| ¿Se inundó el patio o la vivienda? | Vivienda | 17.3 |
+| ¿Se inundó el patio o la vivienda? | Ambos | 44.8 |
+| ¿Hasta qué altura llego el agua? | Menos de 10 cm | 6.9 |
 | ¿Hasta qué altura llego el agua? | Entre 10 y 30 cm | 20.7 |
 | ¿Hasta qué altura llego el agua? | Entre 30 cm y 50 cm | 13.8 |
-|  | Más de 50 cm | 58.6 |
+| ¿Hasta qué altura llego el agua? | Más de 50 cm | 58.6 |
 | ¿Ha tenido pérdidas? | Si | 100 |
 | ¿Ha tenido pérdidas? | No | 0 |
-|  | Año anterior | 41.4 |
-| ¿Cuándo	fue	la	última inundación? | Hace 2 años | 34.5 |
-| ¿Cuándo	fue	la	última inundación? | Hace 5 años | 10.3 |
-| ¿Cuándo	fue	la	última inundación? | Hace 10 años | 13.8 |
-|  | Más de 10 años | 0 |
+| ¿Cuándo fue la última inundación? | Año anterior | 41.4 |
+| ¿Cuándo fue la última inundación? | Hace 2 años | 34.5 |
+| ¿Cuándo fue la última inundación? | Hace 5 años | 10.3 |
+| ¿Cuándo fue la última inundación? | Hace 10 años | 13.8 |
+| ¿Cuándo fue la última inundación? | Más de 10 años | 0 |
+
+: Resultados encuestas municipio de Aguazul. {#tbl-c11-09}
 
 Para calificar la amenaza a partir de estos atributos, se definieron 3 indicadores (frecuencia, profundidad y última vez que ocurrió el evento), teniendo en cuenta la severidad de cada uno de los parámetros se asignó un valor que varía entre 1 y 5, siendo 5 el más crítico y 1 el menos crítico, tal y como se muestra a continuación:
-
-**Tabla 10.** Clasificación de amenaza por inundación según resultados de encuestas.
-
 
 | Profundidad | Valor | Frecuencia | Valor | Ultima vez | Valor |
 | --- | --- | --- | --- | --- | --- |
@@ -382,6 +372,8 @@ Para calificar la amenaza a partir de estos atributos, se definieron 3 indicador
 | Entre 10 y 30cm | 3 | Una vez cada dos años | 3 | Entre 6 y 8 años | 3 |
 | Entre 30 y 50cm | 4 | Una vez por año | 4 | Entre 3 y 5 años | 4 |
 | Mayor 50cm | 5 | Más de una vez por año | 5 | Entre 1 y 2 años | 5 |
+
+: Clasificación de amenaza por inundación según resultados de encuestas. {#tbl-c11-10}
 
 Los umbrales de la tabla anterior se determinaron de acuerdo al planteamiento de preguntas abiertas, las respectivas respuestas se reclasificaron conservando una escala de 1 a 5 de tal manera que los rangos son particulares para cada área específica, especialmente para la profundidad de inundación. A partir de los indicadores definidos se categorizó la amenaza en tres rangos: Baja (1 – 2.5), Media (2.5 – 4) y Alta (> 4). Para esto se sumaron los valores obtenidos en los indicadores de profundidad, última vez que ocurrió el evento y frecuencia, posteriormente, el número resultante se dividió en 3, obteniendo una escala de amenaza entre 1 y 5. Con estos resultados se realizó un mapa de amenaza por inundación del río Unete en el cual a partir del color de los puntos obtenidos y siguiendo las geoformas del río se delimitaron áreas homogéneas según cada nivel de amenaza (@fig-c11-24).
 
@@ -411,23 +403,26 @@ Para la validación de resultados el análisis de susceptibilidad por geoformas,
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
 **Recomendaciones para tomar decisiones.** Validar los criterios de diseño para las estructuras de contención y mitigación (muros de contención, hexápodos, otros), en caso de no contar con dicha información se recomienda modelarlos y verificar si aún cumplen las características de diseño debido al tiempo en el cual fueron diseñados y el cambio da las condiciones hidrometeorológicas. Realizar análisis multitemporales por medio de sensores remotos (fotografías aéreas e imágenes satelitales) para proyectos que se desarrollen en zonas aledañas a las riberas con el fin de identificar antiguas áreas sujetas a inundación, la dinámica de los cauces y geoformas con mayor susceptibilidad a desastres naturales. En busca de un mejor planeamiento municipal, es indispensable apoyar la identificación de áreas sujetas a amenazas naturales mediante trabajo de campo, información primaria y modelamiento numérico, cuyos resultados deben validarse con la percepción y conocimiento experto de la comunidad. Los resultados obtenidos reflejan la amenaza a la cual se encuentra expuesto el municipio de Aguazul, sin embargo, reconociendo como principal limitación de este estudio la falta de topografía de detalle en el área urbana y zona inundables, es pertinente realizar estudios de detalle en las zonas identificadas con amenaza para obtener resultados más precisos, condición que no es única del municipio de Aguazul, si no que resulta común en la mayoría del contexto colombiano. Ante los escenarios de cambio climático es recomendable modelar escenarios de amenaza por el desbordamiento del río Unete considerando el cambio climático, ya que el IPCC pronostica aumento de precipitaciones.
 :::
+
 ## 11.6 CONFLICTO DE INTERES
 
 ------------------------------------------------------------------------
 
 Los autores no declaran conflicto de intereses.
 
-**IDENTIFICACIONES DE AUTORES**
+## 11.7 IDENTIFICACIÓN DE AUTORES
 
-Rafael Muñoz Quintero		
+------------------------------------------------------------------------
 
-Daniela Jácome Hernández		
+Rafael Muñoz Quintero
 
-Alejandro Franco Rojas		 
+Daniela Jácome Hernández
 
-Alexander Padilla González		 
+Alejandro Franco Rojas
 
-## 11.7 BIBLIOGRAFÍA
+Alexander Padilla González
+
+## 11.8 BIBLIOGRAFÍA
 
 ------------------------------------------------------------------------
 
