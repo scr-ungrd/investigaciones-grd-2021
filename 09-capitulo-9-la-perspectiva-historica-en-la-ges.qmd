@@ -56,29 +56,27 @@ Es así como podemos afirmar que la ocurrencia de desastres causados por fenóme
 
 El principal objetivo de un estudio histórico o de historicidad sobre fenómenos naturales o de los desastres es aumentar el grado de conocimiento de su ocurrencia en una región, aspecto que se materializa con la identificación y tipificación del mayor número de eventos ocurridos y la determinación precisa de sus parámetros físicos y efectos socioeconómicos, logrando con ello tener mejores elementos para la toma de decisiones en cuanto a las medidas de mitigación o prevención, e insumos fundamentales para la calibración de los modelos de amenaza. Sin embargo, acorde con Salcedo-Hurtado [[3]](#ref-3) se puede decir que la importancia real de los estudios históricos sobre los fenómenos naturales amenazantes o de desastres depende de la aplicación para la cual se desarrolla el estudio, conforme a objetivos prácticos, los cuales pueden ser directos o indirectos (@fig-c9-01).
 
-
-
 ![Objetivos de los estudios históricos para la gestión del riesgo. Fuente**: **elaboración propia.](images/capitulo_9/img_2c2d9f20.png){#fig-c9-01}
 
 Los objetivos directos se relacionan con el conocimiento necesario que debe tenerse sobre los diferentes eventos ocurridos en un sitio y periodo específicos para determinar todas las circunstancias de tiempo, modo y lugar, como para establecer sus posibles causas y efectos que haya dejado. En este caso, los objetivos directos se pueden agrupar de la siguiente manera:
 
-Geo-Históricos: se refieren a la necesidad de precisar el lugar y fecha del evento, detallando los nombres de los sitios y elementos geográficos de ocurrencia o de afectación. Contribuyen a la determinación de los parámetros del evento, intensidades y aportan información que alimenta los catálogos o inventarios de eventos en una región determinada.
+**Geo-Históricos:** se refieren a la necesidad de precisar el lugar y fecha del evento, detallando los nombres de los sitios y elementos geográficos de ocurrencia o de afectación. Contribuyen a la determinación de los parámetros del evento, intensidades y aportan información que alimenta los catálogos o inventarios de eventos en una región determinada.
 
-Geomorfológicos: sirven para asociar o correlacionar la ocurrencia de los diferentes eventos con unidades geomorfológicas o geológicas, tal como la ocurrencia de terremotos con el tipo de estructura tectónica, fallas activas y terreno geológico que pudo estar involucrado en su origen. También pueden ser útiles para establecer la relación que guarda la ocurrencia de un determinado evento con otros fenómenos geológicos, por ejemplo, la correlación entre, terremotos con movimientos en masa, erupciones volcánicas, o avenidas torrenciales, etc. 
+**Geomorfológicos:** sirven para asociar o correlacionar la ocurrencia de los diferentes eventos con unidades geomorfológicas o geológicas, tal como la ocurrencia de terremotos con el tipo de estructura tectónica, fallas activas y terreno geológico que pudo estar involucrado en su origen. También pueden ser útiles para establecer la relación que guarda la ocurrencia de un determinado evento con otros fenómenos geológicos, por ejemplo, la correlación entre, terremotos con movimientos en masa, erupciones volcánicas, o avenidas torrenciales, etc. 
 
-Estadísticos: a partir de la asignación de intensidades y otros parámetros físicos que describan los diversos fenómenos naturales amenazantes, los estudios de historicidad permiten identificar zonas susceptibles, en las cuales es posible definir variables estadísticas (frecuencia de ocurrencia, período de recurrencia o de retorno para eventos extremos o máximos) y la elaboración de inventarios o catálogos.
+**Estadísticos:** a partir de la asignación de intensidades y otros parámetros físicos que describan los diversos fenómenos naturales amenazantes, los estudios de historicidad permiten identificar zonas susceptibles, en las cuales es posible definir variables estadísticas (frecuencia de ocurrencia, período de recurrencia o de retorno para eventos extremos o máximos) y la elaboración de inventarios o catálogos.
 
-Socio-Económicos: un aspecto interesante de los estudios históricos de fenómenos naturales consiste en la evaluación socioeconómica de los efectos y daños causados en una región determinada. Es una forma de valorar el impacto o severidad de los efectos no deseados de los fenómenos naturales o desastres sobre los humanos y el medio ambiente. Además, aportan información valiosa para los tomadores de decisión en torno a la dimensión presupuestal asociada a las pérdidas y daños causados por estos eventos.  
+**Socio-Económicos:** un aspecto interesante de los estudios históricos de fenómenos naturales consiste en la evaluación socioeconómica de los efectos y daños causados en una región determinada. Es una forma de valorar el impacto o severidad de los efectos no deseados de los fenómenos naturales o desastres sobre los humanos y el medio ambiente. Además, aportan información valiosa para los tomadores de decisión en torno a la dimensión presupuestal asociada a las pérdidas y daños causados por estos eventos.  
 
 Los objetivos indirectos  se orientan a la aplicación social de los estudios históricos de fenómenos naturales y los desastres, es decir, muestran la utilidad práctica y el servicio que prestan estos estudios en la planificación territorial y urbana, planes de emergencia y en los estudios de zonificación de amenazas a diferentes escalas. Así, los objetivos indirectos de los estudios históricos de fenómenos naturales y desastres, muestran ser útiles en áreas como:
 
-Percepción del riesgo: permitiendo que los individuos y la comunidad en general interpreten y comprendan donde pueden ocurrir eventos o fenómenos naturales amenazantes, que pueden causarles daños.
+**Percepción del riesgo:** permitiendo que los individuos y la comunidad en general interpreten y comprendan donde pueden ocurrir eventos o fenómenos naturales amenazantes, que pueden causarles daños.
 
-Planificación territorial y urbanismo: permitiendo establecer las restricciones de actividades socio-económicas en torno a los eventos amenazantes recurrentes en el territorio o en una zona determinada.
+**Planificación territorial y urbanismo:** permitiendo establecer las restricciones de actividades socio-económicas en torno a los eventos amenazantes recurrentes en el territorio o en una zona determinada.
 
-Definición de planes de emergencia: la definición de zonas susceptibles a presentar eventos amenazantes, identificados a partir de la frecuencia de ocurrencia, permite establecer medidas para los planes de emergencia.
+**Definición de planes de emergencia:** la definición de zonas susceptibles a presentar eventos amenazantes, identificados a partir de la frecuencia de ocurrencia, permite establecer medidas para los planes de emergencia.
 
-Zonificación de amenazas: Con la elaboración de catálogos homogéneos sobre determinado tipo de fenómeno natural, se establecen periodos de recurrencia de fenómenos y posibles funciones de probabilidad que expliquen el régimen de su ocurrencia, información necesaria para los estudios de zonificación de amenazas.  
+**Zonificación de amenazas:** Con la elaboración de catálogos homogéneos sobre determinado tipo de fenómeno natural, se establecen periodos de recurrencia de fenómenos y posibles funciones de probabilidad que expliquen el régimen de su ocurrencia, información necesaria para los estudios de zonificación de amenazas.  
 
 Es necesario plantear que en los estudios históricos de los fenómenos naturales o de los desastres producidos deben proponerse objetivos sociales que apunten no sólo al hecho de saber qué tipos de eventos ocurren en una zona determinada, sino que a través de ellos se logre avanzar en la determinación de los diversos escenarios de riesgos que conduzcan a la formulación de los planes de gestión del riesgo y su correspondiente apoyo en la planeación y ordenación del territorio en diversas escalas para los tipos de suelo urbano, de expansión urbana y rural.  
 
@@ -120,45 +118,37 @@ Después de reunir la mayor cantidad de información, se analiza individualmente
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Método extensivista Existe otro método para el desarrollo de estudios históricos denominado extensivista. Se refiere a la búsqueda de fuentes de información que den cuenta de la ocurrencia de eventos que no aparecen registrados en bases de datos, ni catálogos oficialmente conocidos. Con este método extiende el conocimiento de eventos históricos ocurridos.
+**Caja 1. Método extensivista**
+
+Existe otro método para el desarrollo de estudios históricos denominado extensivista. Se refiere a la búsqueda de fuentes de información que den cuenta de la ocurrencia de eventos que no aparecen registrados en bases de datos, ni catálogos oficialmente conocidos. Con este método extiende el conocimiento de eventos históricos ocurridos.
 :::
-
-
 
 ![Diseño metodológico intensivista. Se representa esquemáticamente el tratamiento de la información histórica desde su búsqueda hasta la elaboración de catálogos y cartografía. Fuente: elaboración propia.](images/capitulo_9/img_9fa00ce4.png){#fig-c9-03}
 
 ### 9.4.2 Fuentes y documentos consultados
 
-Bases de datos y catálogos 
+**Bases de datos y catálogos.** En la actualidad se dispone de inventarios de desastres no solo a escala global, sino también a escala local y regional, que permiten dar cuenta de eventos históricos. Se realizó la revisión de bases de datos como Sistema de Inventario de Efectos de Desastres (Desinventar), Sistema de Información de Movimientos en Masa (SIMMA) –SGC, Catálogo Sismicidad Histórica de Colombia–SGC, Catálogo de Terremotos para América del Sur- Colombia (CERESIS), Consolidado de emergencias – UNGRD y Datos Abiertos Colombia– UNGRD. Además, se obtuvo información de las bases de datos de la Defensa Civil Colombiana y Cuerpo de Bomberos Voluntarios de Cali.
 
-En la actualidad se dispone de inventarios de desastres no solo a escala global, sino también a escala local y regional, que permiten dar cuenta de eventos históricos. Se realizó la revisión de bases de datos como Sistema de Inventario de Efectos de Desastres (Desinventar), Sistema de Información de Movimientos en Masa (SIMMA) –SGC, Catálogo Sismicidad Histórica de Colombia–SGC, Catálogo de Terremotos para América del Sur- Colombia (CERESIS), Consolidado de emergencias – UNGRD y Datos Abiertos Colombia– UNGRD. Además, se obtuvo información de las bases de datos de la Defensa Civil Colombiana y Cuerpo de Bomberos Voluntarios de Cali.
+**Archivos.** Como archivo se designa el lugar que tiene como finalidad la recopilación y conservación de documentos. En los archivos se localizan una serie de documentos no publicados, donde se registra la información de la entidad y se utiliza como evidencia de las acciones realizadas y eventos ocurridos. Estos documentos pueden ser actas de visitas, fotografías, fotocopias, documentos de administración, legislación, etc. Dentro de esta categoría se consultaron los documentos de las oficinas de la Cruz Roja, Empresas Municipales de Cali- EMCALI y de los Talleres del Municipio.
 
-Archivos
+**Fuentes bibliográficas.** Las fuentes bibliográficas se refieren a documentos de  puntual especializada de un tema específico. En esta categoría se encuentran  , informes técnicos de investigaciones, etc. Algunos de los documentos bibliográficos consultados son Historia de los Terremotos en Colombia (Ramírez, 1975), el informe de sismicidad histórica regional del Estudio de Microzonificación Sísmica de Cali (INGEOMINAS-DAGMA, 2005) y la Historia Sísmica de Colombia 1550–1830 (Espinosa, 2012).
 
-Como archivo se designa el lugar que tiene como finalidad la recopilación y conservación de documentos. En los archivos se localizan una serie de documentos no publicados, donde se registra la información de la entidad y se utiliza como evidencia de las acciones realizadas y eventos ocurridos. Estos documentos pueden ser actas de visitas, fotografías, fotocopias, documentos de administración, legislación, etc. Dentro de esta categoría se consultaron los documentos de las oficinas de la Cruz Roja, Empresas Municipales de Cali- EMCALI y de los Talleres del Municipio.
-
-Fuentes bibliográficas
-
-Las fuentes bibliográficas se refieren a documentos de  puntual especializada de un tema específico. En esta categoría se encuentran  , informes técnicos de investigaciones, etc. Algunos de los documentos bibliográficos consultados son Historia de los Terremotos en Colombia (Ramírez, 1975), el informe de sismicidad histórica regional del Estudio de Microzonificación Sísmica de Cali (INGEOMINAS-DAGMA, 2005) y la Historia Sísmica de Colombia 1550–1830 (Espinosa, 2012).
-
-Hemerográficas
-
-La fuente hemerográfica se refiere a los documentos de  como  s y periódicos, en ellos se registran los hechos y sucesos a nivel local, regional, nacional y mundial.  Los documentos hemerográficos consultados se localizan en la Hemeroteca de la Biblioteca Departamental Jorge Garcés Borrero y en el Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO) de la Universidad del Valle. 
+**Hemerográficas.** La fuente hemerográfica se refiere a los documentos de  como  s y periódicos, en ellos se registran los hechos y sucesos a nivel local, regional, nacional y mundial.  Los documentos hemerográficos consultados se localizan en la Hemeroteca de la Biblioteca Departamental Jorge Garcés Borrero y en el Observatorio Sismológico y Geofísico del Suroccidente Colombiano (OSSO) de la Universidad del Valle. 
 
 Se consultaron los principales diarios locales y regionales de acuerdo con el periodo trabajado y a la temporalidad de circulación, entre estos El Tiempo, Diario El País, Diario Occidente, El Caleño, El Espectador, El Relator, El Pueblo, El Constitucional del Cauca, Correo ABC, Correo del Cauca y Diario El Liberal. La síntesis de las fuentes de información utilizadas para abordar el estudio de historicidad para los diferentes fenómenos trabajados en el presente Plan, se describen en el Cuadro 1.
 
 
 ::: {#cuadro-box-1 .callout-important style="background-color: #f5f5f5ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Cuadro 1.** Listado de Fuentes de información utilizadas para el desarrollo del trabajo
+**Cuadro 1. Listado de Fuentes de información utilizadas para el desarrollo del trabajo.**
 
 **Bases de datos**
 
-- Red de Estudios Sociales en Prevención de Desastres en América Latina (LA RED). DesInventar. 1949-2018. En línea http://www.desinventar.org/es/
-- Servicio Geológico Colombiano (SGC). Sistema de Información de Movimientos en Masa (SIMMA). 2018. Versión electrónica disponible en: http://simma.sgc.gov.co
-- Servicio Geológico Colombiano (SGC). Red Sismológica Nacional de Colombia- RSNC (2018). Sismicidad Histórica de Colombia. Versión electrónica disponible en: http://sish.sgc.gov.co/visor/
+- Red de Estudios Sociales en Prevención de Desastres en América Latina (LA RED). DesInventar. 1949-2018. En línea [http://www.desinventar.org/es/](http://www.desinventar.org/es/)
+- Servicio Geológico Colombiano (SGC). Sistema de Información de Movimientos en Masa (SIMMA). 2018. Versión electrónica disponible en: [http://simma.sgc.gov.co](http://simma.sgc.gov.co)
+- Servicio Geológico Colombiano (SGC). Red Sismológica Nacional de Colombia- RSNC (2018). Sismicidad Histórica de Colombia. Versión electrónica disponible en: [http://sish.sgc.gov.co/visor/](http://sish.sgc.gov.co/visor/)
 - Defensa Civil Colombiana. Territorial Cali. 2018. Sistema Nacional de Información para la Prevención y Atención de Desastres – SINPAD.
-- Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). 2018. Consolidado de emergencias. Versión electrónica disponible en: http://portal.gestiondelriesgo.gov.co/Paginas/Consolidado-Atencion-de-Emergencias.aspx
-- Gobierno Digital de Colombia. 2018. Datos Abiertos Colombia. Versión electrónica disponible en: https://www.datos.gov.co/
+- Unidad Nacional de Gestión del Riesgo de Desastres (UNGRD). 2018. Consolidado de emergencias. Versión electrónica disponible en: [http://portal.gestiondelriesgo.gov.co/Paginas/Consolidado-Atencion-de-Emergencias.aspx](http://portal.gestiondelriesgo.gov.co/Paginas/Consolidado-Atencion-de-Emergencias.aspx)
+- Gobierno Digital de Colombia. 2018. Datos Abiertos Colombia. Versión electrónica disponible en: [https://www.datos.gov.co/](https://www.datos.gov.co/)
 - Cuerpo de Bomberos Voluntarios de Cali. 2013-2018. Base de datos de incendios forestales.
 
 **Periódico (Hemeroteca Biblioteca Departamental de Santiago de Cali, salvo donde se indique)**
@@ -182,7 +172,7 @@ Se consultaron los principales diarios locales y regionales de acuerdo con el pe
 
 **Documentos**
 
-- INGEOMINAS-DAGMA. 2005. Informe No.1-4 Estudio de Sismicidad Histórica Regional. Capítulo 4.3. Características de los terremotos históricos importantes para la amenaza sísmica de la ciudad de Santiago de Cali. 86 p. Versión electrónica disponible en: https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=BusquedaPredefinida=DGAMicrZonSismSantiagoCali
+- INGEOMINAS-DAGMA. 2005. Informe No.1-4 Estudio de Sismicidad Histórica Regional. Capítulo 4.3. Características de los terremotos históricos importantes para la amenaza sísmica de la ciudad de Santiago de Cali. 86 p. Versión electrónica disponible en: [https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=BusquedaPredefinida=DGAMicrZonSismSantiagoCali](https://miig.sgc.gov.co/Paginas/Resultados.aspx?k=BusquedaPredefinida=DGAMicrZonSismSantiagoCali)
 - Empresas Municipales de Cali (EMCALI). 2016-2018. Formato para evaluación de daños. Plan de emergencia y contingencias UENAA.
 - Cruz Roja. 2013-2018. Censo para damnificados.
 - Talleres del Municipio. 2013-2018. Informe de talleres del municipio.
@@ -198,17 +188,13 @@ A continuación, se presentan los principales resultados y conclusiones del estu
 
 La búsqueda documental para la identificación de los sismos históricos ocurridos en Santiago de Cali, contempló una ventana de tiempo que abarca los eventos registrados por diferentes fuentes desde 1566 hasta el 2018. La principal consigna fue evidenciar los factores de ocurrencia, frecuencia y las consecuencias sufridas por el municipio frente a la ocurrencia de estos fenómenos, siendo un insumo fundamental para la caracterización de escenarios de riesgo de la ciudad. A continuación, se muestran los resultados obtenidos de la búsqueda documental a partir de la consulta en bases de datos, informes técnicos, periódicos y libros, correspondientes a la aplicación rigurosa de la metodología abordada en los primeros apartes del capítulo.
 
-Conceptualización de sismos
-
-Un terremoto es la vibración de la Tierra producida por una rápida liberación de energía. Los terremotos se producen por la interacción de las placas tectónicas que componen la corteza y por la liberación de esfuerzos de las fallas geológicas presente en el interior del continente. Los sismos se propagan en todas direcciones en forma de ondas [[8]](#ref-8). Los esfuerzos en los límites de placa producen numerosas fracturas, dando lugar a grandes fallas con desplazamientos importantes, y a lo largo de estas zonas de falla se producen movimientos repetidamente, por lo que la mayoría de los sismos se concentran en dichos límites de placa [[9]](#ref-9). 
+**Conceptualización de sismos.** Un terremoto es la vibración de la Tierra producida por una rápida liberación de energía. Los terremotos se producen por la interacción de las placas tectónicas que componen la corteza y por la liberación de esfuerzos de las fallas geológicas presente en el interior del continente. Los sismos se propagan en todas direcciones en forma de ondas [[8]](#ref-8). Los esfuerzos en los límites de placa producen numerosas fracturas, dando lugar a grandes fallas con desplazamientos importantes, y a lo largo de estas zonas de falla se producen movimientos repetidamente, por lo que la mayoría de los sismos se concentran en dichos límites de placa [[9]](#ref-9). 
 
 Los principales parámetros de un evento sísmico son los de localización y tamaño [[10]](#ref-10), los cuales, son esenciales para definir las fuentes sismogénicas presentes en un determinado territorio. Estos pueden ser representados en niveles de magnitud, intensidad, aceleración, velocidad y desplazamiento del suelo. La magnitud se relaciona con la energía liberada en el foco del terremoto, la intensidad con los efectos ocasionados por el evento y la aceleración, velocidad y desplazamiento del suelo se relaciona con la energía recibida en un punto cualquiera de la superficie.  
 
 La sismicidad en Colombia se relaciona con la actividad en la zona de subducción del pacífico colombiano y con sus principales fallas geológicas.
 
-Reportes sobre eventos sísmicos 
-
-En la búsqueda de información para la elaboración del documento de historicidad para eventos sísmicos, se recurrió a diferentes fuentes de información, cubriendo el periodo entre 1566 y 2018. Esto se hizo para abarcar un amplio periodo de tiempo y lograr identificar la mayor cantidad de eventos sísmicos que han sido relevantes para la ciudad de Santiago de Cali a lo largo de su historia.
+**Reportes sobre eventos sísmicos.** En la búsqueda de información para la elaboración del documento de historicidad para eventos sísmicos, se recurrió a diferentes fuentes de información, cubriendo el periodo entre 1566 y 2018. Esto se hizo para abarcar un amplio periodo de tiempo y lograr identificar la mayor cantidad de eventos sísmicos que han sido relevantes para la ciudad de Santiago de Cali a lo largo de su historia.
 
 En la @fig-c9-04 se presenta un histograma que sintetiza el resultado del número de eventos sísmicos encontrados en el periodo señalado que dejaron algún tipo de afectación en la ciudad Santiago de Cali.
 
@@ -224,29 +210,19 @@ En la @fig-c9-05 se presenta la distribución espacial de los eventos sísmicos 
 
 Se puede observar que los sismos que han generado algún impacto sobre el municipio se concentran en gran medida en la zona límite del Valle del Cauca con el Chocó, Quindío y Risaralda [[25]](#ref-25)–[[34]](#ref-34). 
 
-
-
 ![Mapa histórico de eventos sísmicos de influencia en Santiago de Cali. Se representan los eventos sísmicos en diferente tamaño y color de acuerdo con su magnitud. Fuente: elaboración propia.](images/capitulo_9/img_a9c711d6.jpeg){#fig-c9-05}
 
 ### 9.5.2 Movimientos en Masa históricos en Santiago de Cali
 
 A continuación, se presentan los resultados sobre los eventos por movimientos en masa ocurridos en la ciudad Santiago de Cali en el periodo entre 1949 y 2018, obtenidos de la búsqueda documental en bases de datos, informes técnicos, periódicos y libros. 
 
-Conceptualización de movimientos en masa
+**Conceptualización de movimientos en masa.** Los movimientos en masa o movimientos de ladera, se definen como "todo desplazamiento hacia abajo (vertical o inclinado en dirección del pie de una ladera) de un volumen de material litológico importante, en el que el principal agente es la gravedad" [[35]](#ref-35). Para Calvo [[36]](#ref-36), los movimientos de ladera son eventos que suelen asociarse a otros procesos, como los terremotos, lluvias extraordinarias, procesos morfológicos (que no incluyen riesgo necesariamente, como puede ser la erosión fluvial) y la acción antrópica la cual tiene un papel de primer orden al modificar las características del terreno. Los elementos que permiten definir el grado de peligrosidad de un deslizamiento de terreno son la velocidad del fenómeno y la superficie afectada.
 
-Los movimientos en masa o movimientos de ladera, se definen como "todo desplazamiento hacia abajo (vertical o inclinado en dirección del pie de una ladera) de un volumen de material litológico importante, en el que el principal agente es la gravedad" [[35]](#ref-35). Para Calvo [[36]](#ref-36), los movimientos de ladera son eventos que suelen asociarse a otros procesos, como los terremotos, lluvias extraordinarias, procesos morfológicos (que no incluyen riesgo necesariamente, como puede ser la erosión fluvial) y la acción antrópica la cual tiene un papel de primer orden al modificar las características del terreno. Los elementos que permiten definir el grado de peligrosidad de un deslizamiento de terreno son la velocidad del fenómeno y la superficie afectada.
-
-Reportes sobre eventos por movimientos en masa 
-
-Con respecto al número de noticias por movimientos en masa encontrados para el área urbana y rural del municipio Santiago de Cali, en el periodo 1949–2018 se encontraron 342 noticias, siendo los años 2016 y 2017 los que presentan la mayor cantidad de reportes (@fig-c9-06). En 1999 se muestra un número representativo de 21 noticias, que se relacionan con un periodo de lluvia que afectó significativamente las zonas de ladera de la zona urbana de la ciudad y sus corregimientos. Para los años más recientes las noticias corresponden principalmente a información referente a trabajos de recolección de deslizamientos en todo el municipio [[37]](#ref-37)–[[46]](#ref-46).
+**Reportes sobre eventos por movimientos en masa.** Con respecto al número de noticias por movimientos en masa encontrados para el área urbana y rural del municipio Santiago de Cali, en el periodo 1949–2018 se encontraron 342 noticias, siendo los años 2016 y 2017 los que presentan la mayor cantidad de reportes (@fig-c9-06). En 1999 se muestra un número representativo de 21 noticias, que se relacionan con un periodo de lluvia que afectó significativamente las zonas de ladera de la zona urbana de la ciudad y sus corregimientos. Para los años más recientes las noticias corresponden principalmente a información referente a trabajos de recolección de deslizamientos en todo el municipio [[37]](#ref-37)–[[46]](#ref-46).
 
 El histograma del número de eventos por año denota tres periodos marcados en los cuales el promedio de noticias se duplica o triplica con respecto al primer periodo (@fig-c9-07). El primer periodo va desde 1949 a 1983, donde el promedio de eventos es 2. El segundo comprende los años 1984 a 1992 con promedio de 4 eventos por año, y finalmente, el tercero corresponde al periodo 1991–2018, donde se aprecian en promedio 9 eventos por año [[47]](#ref-47)–[[53]](#ref-53).
 
-
-
 ![Distribución anual del número de noticias de movimientos en masa por año en el municipio de Santiago de Cali, periodo 1949–2018. Fuente: elaboración propia.](images/capitulo_9/img_5e503e47.png){#fig-c9-06}
-
-
 
 ![Distribución anual del número de eventos por año de movimientos en masa en el municipio Santiago de Cali en periodo 1949–2018. Fuente: elaboración propia.](images/capitulo_9/img_ad3510dc.png){#fig-c9-07}
 
@@ -258,23 +234,13 @@ De la historicidad revisada se encontró, que las zonas más afectadas correspon
 
 ![Distribución del número por movimientos en masa (MM) por localización en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Representa la distribución de eventos entre el área urbana y rural (izquierda), y la distribución del número de eventos por comunas (derecha). Fuente: elaboración propia.](images/capitulo_9/img_6d7311f7.png){#fig-c9-08}
 
-
-
 ![Distribución de eventos de movimientos en masa por barrios en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Fuente: elaboración propia.](images/capitulo_9/img_824259ac.png){#fig-c9-09}
-
-
 
 ![Número de eventos de movimientos en masa por corregimiento en el municipio de Santiago de Cali, durante el periodo 1949 -2018. Fuente: elaboración propia.](images/capitulo_9/img_3a29c4c1.png){#fig-c9-10}
 
-Cartografía de movimientos en masa
-
-Con la información obtenida y debidamente espacializada se presentan a continuación los mapas de movimientos en masa para la zona urbana y rural del municipio de Santiago de Cali (@fig-c9-11 y @fig-c9-12).
-
-
+**Cartografía de movimientos en masa.** Con la información obtenida y debidamente espacializada se presentan a continuación los mapas de movimientos en masa para la zona urbana y rural del municipio de Santiago de Cali (@fig-c9-11 y @fig-c9-12).
 
 ![Historicidad de movimiento en masa zona urbana. Los colores representan la frecuencia de eventos en cada barrio. Fuente**:** elaboración propia.](images/capitulo_9/img_5cecaf00.png){#fig-c9-11}
-
-
 
 ![Historicidad de movimientos en masa zona rural. Los colores y tamaños de los círculos representan la cantidad de registros por movimientos en masa. Fuente: elaboración propia.](images/capitulo_9/img_335a501b.png){#fig-c9-12}
 
@@ -282,15 +248,15 @@ Con la información obtenida y debidamente espacializada se presentan a continua
 
 A continuación, se muestran los resultados obtenidos de la búsqueda documental a partir de la consulta en bases de datos, informes técnicos, periódicos y libros, correspondientes a la aplicación rigurosa de la metodología abordada en los primeros apartes del capítulo.
 
-Conceptualización de inundación
-
-Una inundación es un evento natural y recurrente que se produce como resultado de la acumulación de agua causada por intensas o continuas lluvias sobre áreas planas o llanuras de inundación que, al sobrepasar la capacidad de retención del suelo y de los cauces se desbordan e inundan los terrenos aledaños a los cursos de agua [[54]](#ref-54). Para el Ministerio de Ambiente y Desarrollo Sostenible – Universidad Nacional de Colombia [[55]](#ref-55), las inundaciones son parte de un proceso natural como respuesta a eventos climáticos de autorregulación del propio ciclo hidrológico. 
+**Conceptualización de inundación.** Una inundación es un evento natural y recurrente que se produce como resultado de la acumulación de agua causada por intensas o continuas lluvias sobre áreas planas o llanuras de inundación que, al sobrepasar la capacidad de retención del suelo y de los cauces se desbordan e inundan los terrenos aledaños a los cursos de agua [[54]](#ref-54). Para el Ministerio de Ambiente y Desarrollo Sostenible – Universidad Nacional de Colombia [[55]](#ref-55), las inundaciones son parte de un proceso natural como respuesta a eventos climáticos de autorregulación del propio ciclo hidrológico. 
 
 El territorio colombiano se caracteriza por tener un régimen bimodal, es decir, temporadas alternadas de bajas precipitaciones y altas precipitaciones, en estas últimas hay probabilidad de que se presenten crecientes de los afluentes y cuerpos de agua generando inundaciones que pueden ocasionar afectaciones en la población.
 
-
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Definiciones para la clasificación de las inundaciones fluviales y pluviales: Inundaciones fluviales por desbordamientos de los ríos: son causadas por los desbordamientos de los ríos y los arroyos, lo cual se atribuye, en primera instancia, a un excedente de agua. El aumento brusco del volumen de agua que un lecho o cauce es capaz de transportar sin desbordarse produce lo que se denomina como avenida o riada, un mayor aumento del volumen es la causa de la inundación [[56]](#ref-56).  Inundaciones pluviales por precipitaciones in situ: son las que se producen por la acumulación de agua de lluvia en un determinado lugar o área geográfica sin que ese fenómeno coincida necesariamente con el desbordamiento de un cauce fluvial. Este tipo de inundación se genera tras un régimen de precipitaciones intensas o persistentes, es decir, por la concentración de un elevado volumen de lluvia en un intervalo de tiempo muy breve o por la incidencia de una precipitación moderada y persistente durante un amplio período de tiempo. Lógicamente, es el primero de estos casos el que conlleva el mayor peligro para la población y sus bienes y el que plantea los principales inconvenientes a los servicios de coordinación e intervención para prevenir y controlar sus daños. Las precipitaciones torrenciales, que se acumulan peligrosamente en un lapso muy breve de tiempo, hacen que el tiempo de respuesta de los servicios de emergencia sea más reducido [[56]](#ref-56).
+**Caja 2. Definiciones para la clasificación de las inundaciones fluviales y pluviales:** 
+
+- Inundaciones fluviales por desbordamientos de los ríos: son causadas por los desbordamientos de los ríos y los arroyos, lo cual se atribuye, en primera instancia, a un excedente de agua. El aumento brusco del volumen de agua que un lecho o cauce es capaz de transportar sin desbordarse produce lo que se denomina como avenida o riada, un mayor aumento del volumen es la causa de la inundación [[56]](#ref-56).
+- Inundaciones pluviales por precipitaciones in situ: son las que se producen por la acumulación de agua de lluvia en un determinado lugar o área geográfica sin que ese fenómeno coincida necesariamente con el desbordamiento de un cauce fluvial. Este tipo de inundación se genera tras un régimen de precipitaciones intensas o persistentes, es decir, por la concentración de un elevado volumen de lluvia en un intervalo de tiempo muy breve o por la incidencia de una precipitación moderada y persistente durante un amplio período de tiempo. Lógicamente, es el primero de estos casos el que conlleva el mayor peligro para la población y sus bienes y el que plantea los principales inconvenientes a los servicios de coordinación e intervención para prevenir y controlar sus daños. Las precipitaciones torrenciales, que se acumulan peligrosamente en un lapso muy breve de tiempo, hacen que el tiempo de respuesta de los servicios de emergencia sea más reducido [[56]](#ref-56).
 :::
 
 Reportes sobre eventos por inundación
@@ -396,21 +362,21 @@ A la Alcaldía Municipal de Santiago de Cali por intermedio de la Secretaria Mun
 
 ------------------------------------------------------------------------
 
-Nathalie Garcia-Millan                  	
+Nathalie Garcia-Millan &nbsp;&nbsp;[https://orcid.org/0000-0002-0002-3881](https://orcid.org/0000-0002-0002-3881)
 
-Jorge Andrés Velez Correa          	
+Jorge Andrés Velez Correa &nbsp;&nbsp;[https://orcid.org/0000-0003-2314-4253](https://orcid.org/0000-0003-2314-4253)
 
-Karen Sanchez Estupiñan                	
+Karen Sanchez Estupiñan &nbsp;&nbsp;[https://orcid.org/0000-0002-3308-1340](https://orcid.org/0000-0002-3308-1340)
 
-Nisley Zuñiga Estacio                      	
+Nisley Zuñiga Estacio &nbsp;&nbsp;[https://orcid.org/0000-0002-6211-3196](https://orcid.org/0000-0002-6211-3196)
 
-Yeli C Castillo Gonzales                  	
+Yeli C. Castillo Gonzales &nbsp;&nbsp;[https://orcid.org/0000-0002-0563-3056](https://orcid.org/0000-0002-0563-3056)
 
-Alba Nidia Castaño Castaño            	
+Alba Nidia Castaño Castaño &nbsp;&nbsp;[https://orcid.org/0000-0002-8126-255X](https://orcid.org/0000-0002-8126-255X)
 
-Jorge Andrés Diaz Renteria             	
+Jorge Andrés Diaz Renteria &nbsp;&nbsp;[https://orcid.org/0000-0002-0503-6737](https://orcid.org/0000-0002-0503-6737)
 
-Elkin de J. Salcedo Hurtado             	
+Elkin de J. Salcedo Hurtado &nbsp;&nbsp;[https://orcid.org/0000-0002-6753-7094](https://orcid.org/0000-0002-6753-7094)
 
 ## BIBLIOGRAFÍA
 
