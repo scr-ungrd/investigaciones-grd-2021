@@ -4,475 +4,282 @@ title-block-banner-color: "#151550ff"
 
 # Índice temático {.unnumbered}
 
-A
-
-Abrasión de acantilados, 417
-
-Acompañamiento psicosocial, 201
-
-Actividades agropecuarias, 232
-
-Adaptación basada en ecosistemas, 434
-
-Adaptación basados en ecosistemas, 436
-
-*Adaptación socio-económica*, 272
-
-AIS-300, 4
-
-Alternativas de mitigación y control, 434
-
-Amenaza, 340, 378, 448, 474
-
-Amenaza probabilista, 51
-
-Amenaza sísmica, 4
-
-Amenaza y vulnerabilidad, 434
-
-Amenaza y vulnerabilidad por erosión costera, 436
-
-Análisis de riesgo, 342
-
-Animales, 230
-
-Animales en la sociedad, 232
-
-Artefactos, 500
-
-Aumento del nivel del mar, 416
-
-B
-
-Bienestar animal, 234
-
-Bioseguridad para respuesta a animales, 240
-
-Bloque Norte de los Andes, 161, 167
-
-Buen vivir, 476
-
-C
-
-Cambio climático, 106
-
-Clima extremo, 106
-
-Clima marítimo, 414
-
-COCONet, 167
-
-Coeficientes óptimos de diseño, 4
-
-Coeficientes sísmicos de diseño, 4
-
-Componentes psicosociales, 202, 205, 207, 221, 222
-
-Comportamiento animal
-
-Comportamiento animal bajo condiciones de stress, 238
-
-Comportamiento animal en incidentes, 237
-
-Comunicación del riesgo, 279
-
-Comunición del riesgo, 284
-
-Comunición humana, 282
-
-Comunidades, 474
-
-Concentración de animales, 236
-
-Concreto reforzado, 58
-
-Cuencas, 340
-
-Cuidado de los animales y manejo de emergencias, 234
-
-Cultivo de maíz, 91
-
-D
-
-Degradación ambiental, 257
-
-Deslizamientos, 340
-
-Diseño, 479
-
-E
-
-Enfermedades zoonóticas, 233
-
-Equilibro ecosistémico, 203
-
-Erosión costera, 414, 416, 435
-
-Escenario de riesgo, 439
-
-Especies silvestres, 231
-
-Espectros de diseño, 4
-
-Espolones, 414, 415
-
-Estrategias comunicativas, 279
-
-Estructuras organizativas, 209
-
-Estudios históricos, 301, 302, 303, 304
-
-historicidad por sismos, 301
-
-objetivos directos, 305
-
-objetivos indirectos, 306
-
-planificación territorial, 306
-
-Evaluación de amenaza por movimientos en masa, 341
-
-Evaluación de riesgo por inundación., 503
-
-evaluación probabilista de la amenaza por sequía, 97
-
-Evaluación probabilista del riesgo, 92
-
-evaluación probabilista del riesgo por sequía, 95
-
-Evaluación prospectiva del riesgo, 91
-
-Eventos hidrometeorológicos, 92
-
-Experiencia educativa, 256
-
-Experiencias locales, 279
-
-Exposición agrícola, 111
-
-Exposición de edificaciones, 51
-
-F
-
-Factor de seguridad, 350
-
-Factores detonantes, 344
-
-Factores para manejar animales, 238
-
-Floculación, 417
-
-Frecuencia en el nivel de amenaza, 384
-
-Frente halino, 417
-
-G
-
-Generador de clima estocástico, 92
-
-Geoamenazas, 434
-
-Geodesia de imágenes, 177
-
-Geodesia espacial GPS, 163
-
-Geodinámica, 161
-
-Geoformas, 406
-
-Geomática, 360
-
-GeoRED, 167
-
-Gestión del riesgo, 91
-
-Gestión integral del riesgo, 92
-
-GNSS, 161
-
-Gobernanza del riesgo, 287
-
-GPS De-ramping, 187
-
-H
-
-Historicidad, 302, 304, 315, 321, 332
-
-I
-
-Iber 2D, 378
-
-Infraestructura escolar, 45
-
-InSAR, 161, 177
-
-Integración de resultados GPS-InSAR, 189
-
-Integridad socio-ambiental, 201
-
-Intensidad en el nivel de amenaza, 384
-
-Interferograma diferencial, 178
-
-Intervención correctiva, 439
-
-Intervención prospectiva, 439
-
-Inundación, 324, 474
-
-Inundaciones, 302, 325, 327, 333, 377, 378
-
-M
-
-Mampostería, 58
-
-Mampostería confinada, 62
-
-Mampostería no reforzada, 61
-
-Mampostería reforzada, 63
-
-Manejo de animales, 237
-
-Manejo de especies silvestres, 241
-
-Mantenimiento de la salud pública, 236
-
-Mapas de amenaza integrada por sequía, 91
-
-Marco de Referencia Terrestre, 168
-
-Marco de Sendai, 218
-
-Marco global de referencia, 164
-
-Medidas blandas y duras o mixtas, 436
-
-Medidas de Bioseguridad, 241
-
-Medios de vida, 232
-
-Metodología intensivista, 301
-
-Mitigación, 378, 439
-
-Mitigación del riesgo, 49
-
-Mitigación del riesgo sísmico, 45
-
-Modelación, 474
-
-Modelación hidráulica, 378
-
-Modelación integrada, 500
-
-Modelo de elevación digital (DEM), 393
-
-Modelo hidráulico 2D, 377
-
-Modelos basados en agentes, 481
-
-Modelos de bloques cinemáticos, 164
-
-Modelos probabilistas, 91
-
-Modos de habitar, 217
-
-Modos de vida, 203, 204, 221
-
-Monitoreo, 439
-
-Movimientos en masa, 301, 302, 319, 321, 322, 340, 341, 380
-
-Movimientos en masa e inundaciones, 301
-
-N
-
-Nivel del mar, 414
-
-Norma Colombiana de Construcción Sismo Resistente, 4
-
-NSR 10, 4
-
-O
-
-Obras costeras, 416
-
-Oleaje, 417
-
-One Health, 231
-
-Optimización de costos totales, 4
-
-P
-
-Paisaje, 435
-
-Participación ciudadana, 204
-
-Participación comunitaria, 267
-
-Participación y organización social, 207, 209, 214
-
-Percepción de la comunidad, 395
-
-Percepción del riesgo, 286
-
-Pérdida anual esperada, 91
-
-Pérdidas probables, 349
-
-Performativo, 221
-
-Periodo de retorno, 4, 377
-
-Planes de mitigación del riesgo, 56
-
-Planificación costera, 435
-
-Políticas de los albergues, 246
-
-Polo de Euler, 169, 175
-
-Pórticos de concreto reforzado, 58
-
-Pórticos de concreto reforzado con muros de mamposteria, 59
-
-Pórticos de concreto reforzado con muros de mampostería generando columna corta, 60
-
-Preocupaciones medioambientales., 248
-
-Priorización de edificaciones, 57
-
-Protección costera, 414
-
-Proyección social, 265
-
-Psicosocial, 203
-
-R
-
-Radar  de Apertura Sintética, 187
-
-Radar Interferométrico de Apertura Sintética, 187
-
-Reasentamiento social, 201, 204
-
-Reducción del riesgo de desastres, 201
-
-Reforzamiento estructural, 45, 55
-
-Registro e identificación de animales, 239
-
-Responsabilidad social, 255, 256
-
-Responsabilidad social universitaria, 265
-
-Respuesta de las personas a los animales en desastres, 233
-
-Riesgo, 349, 359, 474
-
-Riesgo por sequía, 91
-
-Riesgo por sequía para el cultivo de maíz, 120
-
-Riesgo sísmico, 50
-
-RINEX, 168
-
-Risk Targeted Ground Motion, 4
-
-S
-
-Salud física y mental, 220
-
-Salud mental, 247
-
-Salud pública, 234
-
-Salud pública y epidemiologia de los animales en desastres, 247
-
-Sector agropecuario, 91, 92
-
-Sector escolar, 46
-
-Seguridad alimentaria, 231
-
-Sequía, 91
-
-Sequía en Colombia, 108
-
-Series climáticas, 101
-
-Servicio Geológico Colombiano, 167
-
-Sismos, 301, 302, 314, 315, 316, 317, 332
-
-Sistema Terrestre de Referencia, 168
-
-Sistemas de Información Geográfica, 360
-
-Sistemas socio-ecológicos, 475, 476
-
-Sostenibilidad, 201, 221
-
-Subsidencia, 161, 177
-
-T
-
-Tajamares, 414, 417
-
-Taller comunitario, 279
-
-Tectónica de placas, 161
-
-Tejido social, 255
-
-Teoría de la comunicación, 279
-
-Territorio, 435, 475
-
-Territorio afectado, 384
-
-Tipologías de concreto reforzado, 58
-
-Tipologías de construcción escolar, 57
-
-Tipologías de mampostería, 61
-
-Trabajo colaborativo, 256
-
-U
-
-Una salud, 230
-
-V
-
-vectores de velocidad geodésica, 171
-
-Vientos alisios, 415
-
-Vulnerabilidad, 91, 340, 349, 359, 448, 474
-
-Vulnerabilidad de cultivos, 92
-
-Vulnerabilidad de los animales en la agricultura, 245
-
-*Vulnerabilidad hídrica*, 272
-
-Vulnerabilidad sísmica, 54
-
-Vulnerabilidad social, 503
-
-Vulnerabilidad socioeconómica y ambiental, 257
-
-Z
-
-Zona de Convergencia Intertropical, 264
-
-Zonas de deformación en límites de placas, 164
-
-Zoonosis, 237
-
-Zootecnia, 232
-
+Esta página contiene los términos clave utilizados a lo largo del libro con enlaces directos a donde aparecen.
+
+---
+
+## A
+
+- **Abrasión de acantilados**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Acompañamiento psicosocial**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Actividades agropecuarias**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Adaptación basada en ecosistemas**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Adaptación socio-económica**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **AIS-300**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+- **Alternativas de mitigación y control**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Amenaza**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd), [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd), [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Amenaza probabilista**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Amenaza sísmica**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+- **Amenaza y vulnerabilidad**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Amenaza y vulnerabilidad por erosión costera**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Análisis de riesgo**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Animales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Animales en la sociedad**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Artefactos**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Aumento del nivel del mar**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+
+## B
+
+- **Bienestar animal**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Bioseguridad para respuesta a animales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Bloque Norte de los Andes**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Buen vivir**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+
+## C
+
+- **Cambio climático**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Clima extremo**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Clima marítimo**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **COCONet**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Coeficientes óptimos de diseño**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+- **Coeficientes sísmicos de diseño**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+- **Componentes psicosociales**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Comportamiento animal**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+  - Comportamiento animal bajo condiciones de estrés
+  - Comportamiento animal en incidentes
+- **Comunicación del riesgo**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Comunicación humana**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Comunidades**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Concentración de animales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Concreto reforzado**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Cuencas**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Cuidado de los animales y manejo de emergencias**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Cultivo de maíz**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+
+## D
+
+- **Degradación ambiental**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Deslizamientos**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Diseño**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+
+## E
+
+- **Enfermedades zoonóticas**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Equilibrio ecosistémico**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Erosión costera**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd), [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Escenario de riesgo**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Especies silvestres**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Espectros de diseño**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+- **Espolones**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Estrategias comunicativas**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Estructuras organizativas**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Estudios históricos**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd)
+  - Historicidad por sismos
+  - Objetivos directos
+  - Objetivos indirectos
+  - Planificación territorial
+- **Evaluación de amenaza por movimientos en masa**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Evaluación de riesgo por inundación**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Evaluación probabilista de la amenaza por sequía**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Evaluación probabilista del riesgo**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Evaluación probabilista del riesgo por sequía**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Evaluación prospectiva del riesgo**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Eventos hidrometeorológicos**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Experiencia educativa**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Experiencias locales**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Exposición agrícola**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Exposición de edificaciones**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+
+## F
+
+- **Factor de seguridad**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Factores detonantes**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Factores para manejar animales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Floculación**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Frecuencia en el nivel de amenaza**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Frente halino**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+
+## G
+
+- **Generador de clima estocástico**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Geoamenazas**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Geodesia de imágenes**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Geodesia espacial GPS**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Geodinámica**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Geoformas**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Geomática**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **GeoRED**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Gestión del riesgo**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Gestión integral del riesgo**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **GNSS**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Gobernanza del riesgo**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **GPS De-ramping**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+
+## H
+
+- **Historicidad**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd)
+
+## I
+
+- **Iber 2D**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Infraestructura escolar**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **InSAR**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Integración de resultados GPS-InSAR**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Integridad socio-ambiental**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Intensidad en el nivel de amenaza**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Interferograma diferencial**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Intervención correctiva**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Intervención prospectiva**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Inundación**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd), [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Inundaciones**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd), [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+
+## M
+
+- **Mampostería**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Mampostería confinada**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Mampostería no reforzada**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Mampostería reforzada**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Manejo de animales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Manejo de especies silvestres**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Mantenimiento de la salud pública**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Mapas de amenaza integrada por sequía**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Marco de Referencia Terrestre**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Marco de Sendai**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Marco global de referencia**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Medidas blandas y duras o mixtas**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Medidas de bioseguridad**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Medios de vida**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Metodología intensivista**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd)
+- **Mitigación**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd), [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Mitigación del riesgo**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Mitigación del riesgo sísmico**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Modelación**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Modelación hidráulica**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Modelación integrada**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Modelo de elevación digital (DEM)**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Modelo hidráulico 2D**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Modelos basados en agentes**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Modelos de bloques cinemáticos**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Modelos probabilistas**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Modos de habitar**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Modos de vida**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Monitoreo**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Movimientos en masa**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd), [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Movimientos en masa e inundaciones**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd)
+
+## N
+
+- **Nivel del mar**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Norma Colombiana de Construcción Sismo Resistente**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+- **NSR 10**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+
+## O
+
+- **Obras costeras**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Oleaje**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **One Health**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Optimización de costos totales**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+
+## P
+
+- **Paisaje**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Participación ciudadana**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Participación comunitaria**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Participación y organización social**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Percepción de la comunidad**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Percepción del riesgo**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Pérdida anual esperada**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Pérdidas probables**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Performativo**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Periodo de retorno**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd), [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Planes de mitigación del riesgo**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Planificación costera**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd)
+- **Políticas de los albergues**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Polo de Euler**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Pórticos de concreto reforzado**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Pórticos de concreto reforzado con muros de mampostería**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Pórticos de concreto reforzado con muros de mampostería generando columna corta**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Preocupaciones medioambientales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Priorización de edificaciones**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Protección costera**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Proyección social**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Psicosocial**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+
+## R
+
+- **Radar de Apertura Sintética**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Radar Interferométrico de Apertura Sintética**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Reasentamiento social**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Reducción del riesgo de desastres**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Reforzamiento estructural**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Registro e identificación de animales**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Responsabilidad social**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Responsabilidad social universitaria**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Respuesta de las personas a los animales en desastres**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Riesgo**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd), [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Riesgo por sequía**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Riesgo por sequía para el cultivo de maíz**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Riesgo sísmico**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **RINEX**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Risk Targeted Ground Motion**: [Capítulo 1](01-capitulo-1-actualizacion-de-los-coeficientes-.qmd)
+
+## S
+
+- **Salud física y mental**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Salud mental**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Salud pública**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Salud pública y epidemiología de los animales en desastres**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Sector agropecuario**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Sector escolar**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Seguridad alimentaria**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Sequía**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Sequía en Colombia**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Series climáticas**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Servicio Geológico Colombiano**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Sismos**: [Capítulo 9](09-capitulo-9-la-perspectiva-historica-en-la-ges.qmd)
+- **Sistema Terrestre de Referencia**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Sistemas de Información Geográfica**: [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd)
+- **Sistemas socio-ecológicos**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Sostenibilidad**: [Capítulo 5](05-capitulo-5-nociones-performativas-del-reasent.qmd)
+- **Subsidencia**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+
+## T
+
+- **Tajamares**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Taller comunitario**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Tectónica de placas**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Tejido social**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Teoría de la comunicación**: [Capítulo 8](08-capitulo-8-comunicacion-del-riesgo-reflexione.qmd)
+- **Territorio**: [Capítulo 13](13-capitulo-13-modelo-de-gestion-y-analisis-del-.qmd), [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Territorio afectado**: [Capítulo 11](11-capitulo-11-de-la-percepcion-de-la-amenaza-a-.qmd)
+- **Tipologías de concreto reforzado**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Tipologías de construcción escolar**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Tipologías de mampostería**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Trabajo colaborativo**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+
+## U
+
+- **Una salud**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+
+## V
+
+- **Vectores de velocidad geodésica**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Vientos alisios**: [Capítulo 12](12-capitulo-12-obras-costeras-y-clima-maritimo-c.qmd)
+- **Vulnerabilidad**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd), [Capítulo 10](10-capitulo-10-estudio-de-riesgo-por-movimientos.qmd), [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Vulnerabilidad de cultivos**: [Capítulo 3](03-capitulo-3-evaluacion-probabilista-del-riesgo.qmd)
+- **Vulnerabilidad de los animales en la agricultura**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Vulnerabilidad hídrica**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Vulnerabilidad sísmica**: [Capítulo 2](02-capitulo-2-mitigacion-del-riesgo-sismico-de-l.qmd)
+- **Vulnerabilidad social**: [Capítulo 14](14-capitulo-14-gestion-del-riesgo-por-inundacion.qmd)
+- **Vulnerabilidad socioeconómica y ambiental**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+
+## Z
+
+- **Zona de Convergencia Intertropical**: [Capítulo 7](07-capitulo-7-iniciativas-para-la-reduccion-del-.qmd)
+- **Zonas de deformación en límites de placas**: [Capítulo 4](04-capitulo-4-contribucion-de-la-geodesia-espaci.qmd)
+- **Zoonosis**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+- **Zootecnia**: [Capítulo 6](06-capitulo-6-animales-en-la-gestion-del-riesgo-.qmd)
+
+---
+
+**Nota**: En la versión PDF del libro encontrará un índice temático completo con números de página al final del documento.

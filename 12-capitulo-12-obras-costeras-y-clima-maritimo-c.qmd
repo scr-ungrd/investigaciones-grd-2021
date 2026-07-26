@@ -146,7 +146,9 @@ Resulta que el uso del agua del río en agricultura, la alteración de su caudal
 
 
 ::: {#box2 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 2.** Causas del transporte litoral de sedimentos El transporte litoral de sedimentos bajo el régimen micro-mareal está causado por la rotura de olas de viento en la zona costera, donde el frente de oleaje se refracta buscando llegar de forma normal a las isóbatas. Un pequeño ángulo entre la incidencia de las olas y los contornos batimétricos provoca un movimiento de aguas y sedimentos a lo largo de la costa. En presencia de una desembocadura, el aporte sedimentario del río es capaz de producir una acreción y hasta una formación deltaica. El crecimiento del delta de un río, por causa natural o antrópica, puede obstaculizar el transporte litoral debido al cambio de incidencia del oleaje sobre esta costa deformada. El proceso es progresivo en la medida de que a mayor crecimiento del delta, mayor alteración de la deriva litoral se produce y menor cantidad de sedimento flujo abajo aporta este río.
+**Caja 2. Causas del transporte litoral de sedimentos.**
+
+El transporte litoral de sedimentos bajo el régimen micro-mareal está causado por la rotura de olas de viento en la zona costera, donde el frente de oleaje se refracta buscando llegar de forma normal a las isóbatas. Un pequeño ángulo entre la incidencia de las olas y los contornos batimétricos provoca un movimiento de aguas y sedimentos a lo largo de la costa. En presencia de una desembocadura, el aporte sedimentario del río es capaz de producir una acreción y hasta una formación deltaica. El crecimiento del delta de un río, por causa natural o antrópica, puede obstaculizar el transporte litoral debido al cambio de incidencia del oleaje sobre esta costa deformada. El proceso es progresivo en la medida de que a mayor crecimiento del delta, mayor alteración de la deriva litoral se produce y menor cantidad de sedimento flujo abajo aporta este río.
 :::
 
 ¿Cuál es entonces el impacto de los cambios climáticos en la erosión costera, manifestados al menos en el aumento del nivel del mar, en comparación con las causas antrópicas locales? Definitivamente, el aumento del nivel del mar está causando siempre una erosión, nunca acreción en una costa dada. Estos cambios de escala global, al sumarse con aquellos de escala local y regional, incrementan el proceso de erosión costera, cuya dinámica sería menos pronunciada con un buen manejo de las costas.  
@@ -175,7 +177,9 @@ Además, es relevante quitar la brecha entre la teoría y la práctica, el conoc
 ::: {#puntos-clave-1 .callout-important style="background-color: #f8f0ddff; border-left: 4px solid #f7eed3ff;" appearance="minimal" icon="false"}
 <h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Puntos Clave</h2>
 
-En la erosión costera existen causas locales, regionales y globales. Usualmente las causas globales se relacionan con el aumento de nivel del mar y probablemente con alteraciones de otros parámetros del sistema climático de la Tierra. Las causas locales y regionales generalmente se deben a las intervenciones de los sistemas marítimos y fluviales mediante estructuras costeras, las cuales pueden tener un propósito para protección o aprovechamiento del litoral. Una obra de protección mal diseñada puede causar erosión en las áreas adyacentes a ella. A lo largo de las costas del Caribe colombiano se ubican varias construcciones con diferentes fines, que causan impactos negativos de retroceso de la costa a mediano y largo plazo, comparables con el efecto paulatino de aumento del nivel del mar. Con el fin de tomar decisiones más acertadas sobre la gestión de riesgos costeros, se debe contar con la participación de personal capacitado, herramientas científicas y capacidades tecnológicas, específicamente enfocadas en esta problemática.
+1. En la erosión costera existen causas locales, regionales y globales. Usualmente las causas globales se relacionan con el aumento de nivel del mar y probablemente con alteraciones de otros parámetros del sistema climático de la Tierra. Las causas locales y regionales generalmente se deben a las intervenciones de los sistemas marítimos y fluviales mediante estructuras costeras, las cuales pueden tener un propósito para protección o aprovechamiento del litoral. Una obra de protección mal diseñada puede causar erosión en las áreas adyacentes a ella.
+2. A lo largo de las costas del Caribe colombiano se ubican varias construcciones con diferentes fines, que causan impactos negativos de retroceso de la costa a mediano y largo plazo, comparables con el efecto paulatino de aumento del nivel del mar.
+3. Con el fin de tomar decisiones más acertadas sobre la gestión de riesgos costeros, se debe contar con la participación de personal capacitado, herramientas científicas y capacidades tecnológicas, específicamente enfocadas en esta problemática.
 :::
 
 ## CONFLICTO DE INTERESES
@@ -188,9 +192,9 @@ Los autores no declaran conflicto de intereses.
 
 ------------------------------------------------------------------------
 
-Serguei Lonin      
+Serguei Lonin      <https://orcid.org/0000-0001-9561-0554>
 
-Julio Monroy       
+Julio Monroy       <https://orcid.org/0000-0002-3981-7486>
 
 ## BIBLIOGRAFÍA
 

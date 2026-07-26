@@ -49,14 +49,21 @@ En Colombia, la combinación entre las cordilleras y altas precipitaciones dan l
 
 
 ::: {#box1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Caja 1.** Antecedentes El 30 de noviembre del 2000 se cayó nuevamente el puente sobre el río Unete en la vía Boyacá Casanare. Este puente estaba en reparación hace más de tres meses cuando colapsó por acción del río [[1]](#ref-1). El 17 de agosto de 2002 se presentó el desbordamiento del río Unete, inundando los barrios El Porvenir, Porvipaz, Villaluz, Seila, Los Esteros y Los Guaduales dejando por la fuerte corriente del río 645 familias damnificadas, 19 viviendas destrozadas y 20 viviendas afectadas [[2]](#ref-2). El 12 de septiembre de 2012 se presentó el desbordamiento del río Unete, afectando las veredas de Guadualito, Manoguia, San José del Bubuy, Vegana, Cachiza, Los Lirios, Bella Vista, Guaduales, Sabanales y el casco urbano además de siete vías principales, se registran 800 familias damnificadas y 160 viviendas afectadas [[2]](#ref-2). El 1 de septiembre de 2016, una avalancha del río Unete ocasionó la caída de la banca en el kilómetro 7 hacia el municipio de Pajarito en Boyacá. Dos viviendas también resultaron afectadas y los organismos de socorro tuvieron que rescatar a sus habitantes [[3]](#ref-3).
+**Caja 1. Antecedentes del área de estudio.**
+
+1. El 30 de noviembre del 2000 se cayó nuevamente el puente sobre el río Unete en la vía Boyacá Casanare. Este puente estaba en reparación hace más de tres meses cuando colapsó por acción del río [[1]](#ref-1).
+2. El 17 de agosto de 2002 se presentó el desbordamiento del río Unete, inundando los barrios El Porvenir, Porvipaz, Villaluz, Seila, Los Esteros y Los Guaduales dejando por la fuerte corriente del río 645 familias damnificadas, 19 viviendas destrozadas y 20 viviendas afectadas [[2]](#ref-2). 
+3. El 12 de septiembre de 2012 se presentó el desbordamiento del río Unete, afectando las veredas de Guadualito, Manoguia, San José del Bubuy, Vegana, Cachiza, Los Lirios, Bella Vista, Guaduales, Sabanales y el casco urbano además de siete vías principales, se registran 800 familias damnificadas y 160 viviendas afectadas [[2]](#ref-2). 
+4. El 1 de septiembre de 2016, una avalancha del río Unete ocasionó la caída de la banca en el kilómetro 7 hacia el municipio de Pajarito en Boyacá. Dos viviendas también resultaron afectadas y los organismos de socorro tuvieron que rescatar a sus habitantes [[3]](#ref-3).
 :::
 
 Históricamente en Colombia, la principal amenaza hidrometereológica generadora de daños económicos y población afectada es la inundación [[4]](#ref-4), muestra de ello, es que el 28% del territorio está en alto potencial de inundación y el 8% en amenaza alta por movimientos en masa [[5]](#ref-5), como se demuestra con los casos de Mocoa (marzo 2017), Choachí (octubre 2018), Canal del Dique (diciembre 2010) y los continuos cierres de la vía Bogotá-Villavicencio.
 
 
-::: {#cuadro-box-1 .callout-important style="background-color: #f5f5f5ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Cuadro 2.** Antecedentes Los eventos geológicos ocasionan grandes pérdidas concentradas en un territorio y en un lapso relativamente corto de tiempo los fenómenos hidrometereológicos generan impactos más localizados, pero de alta frecuencia, lo cual de manera acumulativa significa pérdidas, incluso mayores a las asociadas a los eventos sísmicos y erupciones volcánicas. La posición de Colombia en la zona de confluencia intertropical hace que se presente un patrón de lluvias unimodal en las regiones Amazonía, Orinoquía y en la mayor parte del Caribe, y una distribución bimodal en la región Andina, en donde los valores extremos de precipitación y sequía se exacerban fuertemente por la influencia de los fenómenos de El Niño y La Niña [[5]](#ref-5).
+::: {#cuadro-box-1 .callout-important style="background-color: #e3f0fbff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
+**Cuadro 2. Antecedentes.**
+
+Los eventos geológicos ocasionan grandes pérdidas concentradas en un territorio y en un lapso relativamente corto de tiempo los fenómenos hidrometereológicos generan impactos más localizados, pero de alta frecuencia, lo cual de manera acumulativa significa pérdidas, incluso mayores a las asociadas a los eventos sísmicos y erupciones volcánicas. La posición de Colombia en la zona de confluencia intertropical hace que se presente un patrón de lluvias unimodal en las regiones Amazonía, Orinoquía y en la mayor parte del Caribe, y una distribución bimodal en la región Andina, en donde los valores extremos de precipitación y sequía se exacerban fuertemente por la influencia de los fenómenos de El Niño y La Niña [[5]](#ref-5).
 :::
 Acorde con los antecedentes en el municipio de Aguazul, el esquema de ordenamiento territorial (EOT) en el mapa riesgos y amenazas delimita una zona con riesgo por inundación sin definir ni delimitar el nivel de amenaza (alto, medio o bajo) y sin una aparente correlación con las  geoformas (@fig-c11-02). En el plan municipal de gestión de riesgos de desastres actualizado en el año 2012 se proponen medidas estructurales y no estructurales, incluyendo la reubicación de familias en alto riesgo, así como la delimitación de las zonas de expansión acorde con la zonificación de amenazas, aunque persiste la carencia de zonificación según el nivel de amenaza [[6]](#ref-6), razón por la cual se consideró pertinente mejorar el conocimiento de riesgo por inundación en el municipio mediante la modelación hidráulica y la construcción de mapas de inundación. 
 
@@ -71,8 +78,6 @@ Para zonificar el nivel de amenaza al cual se encuentra expuesta el área urbana
 ------------------------------------------------------------------------
 
 Este proyecto se desarrolló en tres etapas. La primera incluyó la toma de datos en campo (topografía, aforo líquido, encuestas, registro fotográfico y georreferenciación de estructuras hidráulicas). La segunda etapa comprendió el procesamiento de la información (topografía, cálculo de coeficiente de rugosidad de Manning, modelos de distribución de probabilidad de precipitación, construcción de hidrogramas, análisis de encuestas, entre otros) y el modelo hidráulico empleando el software Iber 2D (versión 2.4) que de acuerdo a análisis geomorfológicos, del tipo de flujo y a la información disponible, ofrece el mejor desempeño en la simulación 2D del nivel del agua para eventos de inundación en ríos de piedemonte y planicie de inundación [[8]](#ref-8). Finalmente, se delimitaron y categorizaron las zonas de amenaza siguiendo los lineamientos de la UNGRD en la *Guía Metodológica Para la Elaboración de Planes Departamentales para la Gestión del Riesgo* [[9]](#ref-9).
-
-
 
 ![Diagrama de flujo para la cuantificación de la amenaza.](images/capitulo_11/img_1728fcd1.png){#fig-c11-03}
 
@@ -120,15 +125,11 @@ Para los mapas de velocidad se siguió un proceso similar para cada uno de los p
 
 Previo a la modelación hidráulica, se realizó una visita de campo donde se realizó el aforo líquido y levantamiento topográfico. Esta información se utilizó para calcular el coeficiente de rugosidad de Manning, definir la geometría del modelo y sus condiciones de control.
 
-
-
 ![Trabajo de batimetría efectuado en el río Unete en enero de 2018 (izq) y (der).](images/capitulo_11/img_07c924f2.png){#fig-c11-04}
 
 En el sitio del aforo se obtuvo una pendiente del lecho del río (S) del 3.0%, área (A) de 46.17 m2 y perímetro (P) de 90.74 m. Seguidamente se calculó el caudal (Q) por el método área – velocidad, para ello, la sección transversal se dividió en 18 secciones, en cada una se registra el área y la velocidad, cuyo producto es el caudal, que en este caso fue de 107.09 m3/s, caudal aforado en noviembre de 2017 tras precipitaciones la noche anterior.	
 
-
-
-![Aforo líquido del río Unete realizado el 04-11-2017.](images/capitulo_11/img_2dfeadea.png){#fig-c11-05}
+![Aforo líquido del río Unete realizado el 04-11-2017.](images/capitulo_11/Figura_5.png){#fig-c11-05}
 
 Con estos valores, se llegó a un coeficiente de rugosidad de Manning (n) de 0.048, que concuerda con la clasificación dada en la literatura técnica [[13]](#ref-13), cuya descripción corresponde a un cauce con presencia de gravas, cantos rodados y algunas rocas grandes.
 
@@ -143,8 +144,6 @@ En la @fig-c11-06 se observa el lecho del río Unete, incluyendo una barra de se
 ![Vista panorámica del río Unete tomada con drone. Trabajo de campo efectuado en el río Unete en enero de 2018. (**A**) Espolones en concreto, (**B**) Estructura de contención con hexápodos, (**C**) Barra de sedimentos y (**D**) Terraza.](images/capitulo_11/img_c76b34ea.jpeg){#fig-c11-06}
 
 Las geoformas identificadas en el río Unete en proximidad al área urbana de Aguazul, incluyen barras de sedimento, vega, terrazas de distintos niveles y planicie de inundación (@fig-c11-07), su identificación y delimitación permite establecer la susceptibilidad del terreno ante el desbordamiento del río.
-
-
 
 ![Geoformas río Unete.](images/capitulo_11/img_a8683a73.jpeg){#fig-c11-07}
 
@@ -182,17 +181,13 @@ A nivel regional, la menor precipitación tiene lugar en la parte alta de la cue
 
 Los caudales para cada periodo de retorno (200 años, 50 años, 10 años y 1.3 años) se analizaron a partir de registros históricos de la estación limnigráfica Los Esteros (35197030) del IDEAM [[14]](#ref-14), con estos se realizaron las distribuciones de probabilidad tipo Gumbel y Pearson tipo III, obteniendo los respectivos caudales máximos y el cálculo de los hidrogramas. Así, el caudal de diseño para cada periodo de retorno fue de 361.78 m3/s (1.3 años), de 1,161.3 m3/s (10 años), de 1,645.65 m3/s (50 años) y de 2,054.43 m3/s (200 años) (@fig-c11-09).
 
-![Hidrograma del río Unete para distintos periodos de retorno; elaborado a partir de registros históricos de la estación Los Esteros (35197030) del IDEAM del año 2018](images/capitulo_11/img_6ee3b4a7.png){#fig-c11-09}
+![Hidrograma del río Unete para distintos periodos de retorno; elaborado a partir de registros históricos de la estación Los Esteros (35197030) del IDEAM del año 2018](images/capitulo_11/Figura_9.png){#fig-c11-09}
 
 Por otro lado, se realizó el levantamiento de 13 secciones transversales del lecho del río Unete (@fig-c11-10), en el tramo próximo al área urbana de Aguazul, abarcando una longitud de 3.7 km sobre el eje del cauce. Cada sección incluyó las terrazas de margen  derecha e izquierda, barras de sedimento intermedias, así como el canal principal y secundarios. En la @fig-c11-11 se observar la sección número 6 del río Unete, con poca profundidad (1.05 m) respecto a su ancho.
 
-
-
 ![Localización de secciones topográficas en el río Unete. Las secciones transversales obtenidas del río Unete se representaron en una imagen de Google Earth de 2018.](images/capitulo_11/img_2c471e03.jpeg){#fig-c11-10}
 
-
-
-![Sección transversal del río Unete. El perfil se utiliza como ejemplo para representar como es la vista transversal de las secciones tomadas.](images/capitulo_11/img_e204403d.png){#fig-c11-11}
+![Sección transversal del río Unete. El perfil se utiliza como ejemplo para representar como es la vista transversal de las secciones tomadas.](images/capitulo_11/Figura_11.png){#fig-c11-11}
 
 Es importante mencionar que la metodología utilizada para la integración de las dos fuentes de información no es propia de este estudio. Se ha visto implementada en trabajos como Modelación Hidráulica 2D de Inundaciones en Regiones con Escasez de Datos. Tal es el caso del Delta del Río Ranchería, Riohacha-Colombia, donde se digitalizó la elevación disponible en Google Earth y está se integró con secciones levantadas en el río y datos topográficos, obteniendo una nube de puntos topográfica, la cual fue interpolada a una red de triángulos irregular, y finalmente, transformada en un Modelo Digital del Terreno [[15]](#ref-15).
 
@@ -200,13 +195,9 @@ Utilizando el software Arcgis, se integraron las 13 secciones transversales leva
 
 En campo se realizó la georreferenciación con GPS de las estructuras hidráulicasexistentes en el cauce del río Unete para el control de procesos de socavación y de la dinámica fluvial, incluyendo gaviones o espigones de hexápodos en concreto, muros de contención y muros de gavión (@fig-c11-12). Igualmente se realizó el reconocimiento y georreferenciación de taludes con erosión en las dos márgenes del río.
 
-
-
-![Estructuras hidráulicas para control de socavación en el río Unete. Trabajo de campo de topografía e identificación de estructuras hidráulicas efectuado en el río Unete en enero de 2018 (izq) y (der).](images/capitulo_11/img_83abfe3a.png){#fig-c11-12}
+![Estructuras hidráulicas para control de socavación en el río Unete. Trabajo de campo de topografía e identificación de estructuras hidráulicas efectuado en el río Unete en enero de 2018 (izq) y (der).](images/capitulo_11/Figura_12.png){#fig-c11-12}
 
 La información anteriormente descrita se incorporó al modelo hidráulico en el software Iber. Se tuvieron en cuenta tres usos de suelo, con su respectivo coeficiente de rugosidad: 0.048 para el lecho calculado a partir de datos experimentales con la Ecuación 1 (0.15 para el área urbana y 0.05 para praderas y terrazas aluviales) estos últimos corresponden a valores predeterminados por el software Iber. Como condición inicial se adoptó una profundidad media de 0.55 m con base en el caudal medio de 27.57 m3/s, este último a partir de los registros históricos del IDEAM y lo observado durante las visitas de campo (@fig-c11-13)
-
-
 
 ![Usos de suelo en Iber. Los usos de suelo se determinaron a partir de las imágenes satelitales y las visitas realizadas a la zona del proyecto. (A) Usos de suelo identificados a partir de malla triangular no estructurada en el software Iber, (B) Terraza aluvial y (C) Material del lecho del río Unete.](images/capitulo_11/img_31090da3.jpeg){#fig-c11-13}
 
@@ -214,9 +205,7 @@ Para realizar los mapas de amenaza por inundación se definió una reclasificaci
 
 Para validación de resultados, se realizaron 40 encuestas a los habitantes de los barrios El Porvenir, Las Vegas y Los Esteros en el municipio de Aguazul, de forma que se contara con un periodo de residencia en el sector superior a 10 años, con el fin de garantizar el conocimiento del entorno, estrategia utilizada en estudios similares en la etapa de validación [[8]](#ref-8). Las preguntas realizadas fueron: ¿Se le ha inundado su casa? ¿Se inundó el patio o la vivienda? ¿Cada cuánto se inunda? ¿Cuántas veces se ha inundado? ¿Hasta qué altura llego el agua? ¿Cuándo fue la última inundación? ¿Ha tenido pérdidas? ¿Qué tipo de pérdidas?
 
-
-
-![Registro fotográfico de encuestas. Las fotografías muestran evidencia de la realización de las encuestas, para este caso, en los barrios Los Esteros y Las Vegas (izq) y (der).](images/capitulo_11/img_acfac800.png){#fig-c11-14}
+![Registro fotográfico de encuestas. Las fotografías muestran evidencia de la realización de las encuestas, para este caso, en los barrios Los Esteros y Las Vegas (izq) y (der).](images/capitulo_11/Figura_14.png){#fig-c11-14}
 
 Los resultados de las encuestas se contrastaron con las geoformas del río, obteniendo un mapa de amenaza por inundación según la percepción de la comunidad. Finalmente, este mapa se comparó con los resultados de modelación hidráulica y con fotografías aéreas de distintos años, permitiendo validar e interpretar el mapa final de amenaza por inundación.
 
@@ -285,8 +274,6 @@ En la figura anterior (@fig-c11-20, panel A), la amenaza correspondiente a un pe
 
 De acuerdo con los resultados obtenidos de los mapas de amenaza parciales se construyó el mapa de amenaza definitivo a partir del promedio de la amenaza en cada periodo de retorno, reflejando la situación del municipio Aguazul debido al desbordamiento del río Unete (@fig-c11-21).
 
-
-
 ![Mapa de amenaza por inundación en el municipio de Aguazul. La clasificación de amenaza por inundación se realizó a partir de los periodos de retorno de 10, 50 y 200 años.](images/capitulo_11/img_16bf4c65.jpeg){#fig-c11-21}
 
 De esta manera se concluye que Los barrios Los Esteros, Las Vegas y El Porvenir obtuvieron una calificación de amenaza alta, por otro lado, el barrio Villaluz presenta una transición entre los tres niveles de amenaza, mientras que barrios como San Agustín y El Centro solo alcanzan una amenaza baja.
@@ -321,13 +308,9 @@ Debido a que el municipio de Aguazul no cuenta con un mapa de eventos histórico
 
 Cabe resaltar en el caso del barrio El Porvenir que en la fotografía aérea del año 2004 el caño El Samán atravesaba el barrio El Porvenir, coincidiendo con la mancha deinundación con periodo de retorno de 10 años que rodea el barrio El Porvenir y afecta directamente el barrio Villaluz (@fig-c11-22).
 
-
-
 ![Cruce del caño Samán por el barrio Porvenir. Fotografía aérea de Aguazul del año 2004. Modificado a partir del vuelo C-2710, n°. 207, 2004.](images/capitulo_11/img_682afe9f.jpeg){#fig-c11-22}
 
 A su vez, en la fotografía aérea del año 1995 se observa que el caño El Samán y el canal de estiaje se encuentran activos y no estaba construido el muro de contención, demostrando que ante una posible creciente que supere la cresta del muro, la zona de Las Vegas y Los Esteros se inundan siguiendo la geoforma natural del río. De igual forma, se observa que para 1995 el barrio El Porvenir se empieza a desarrollar, ocupando áreas en condición de amenaza por inundación, ignorando la presencia del caño El Samán (@fig-c11-23).
-
-
 
 ![Canal de estiaje en el sector Las Vegas. Fotografía aérea de Aguazul del año 1995. Modificado a partir del vuelo C-2564, n°. 3, 1995.](images/capitulo_11/img_eb6b5bd3.jpeg){#fig-c11-23}
 
@@ -377,8 +360,6 @@ Para calificar la amenaza a partir de estos atributos, se definieron 3 indicador
 
 Los umbrales de la tabla anterior se determinaron de acuerdo al planteamiento de preguntas abiertas, las respectivas respuestas se reclasificaron conservando una escala de 1 a 5 de tal manera que los rangos son particulares para cada área específica, especialmente para la profundidad de inundación. A partir de los indicadores definidos se categorizó la amenaza en tres rangos: Baja (1 – 2.5), Media (2.5 – 4) y Alta (> 4). Para esto se sumaron los valores obtenidos en los indicadores de profundidad, última vez que ocurrió el evento y frecuencia, posteriormente, el número resultante se dividió en 3, obteniendo una escala de amenaza entre 1 y 5. Con estos resultados se realizó un mapa de amenaza por inundación del río Unete en el cual a partir del color de los puntos obtenidos y siguiendo las geoformas del río se delimitaron áreas homogéneas según cada nivel de amenaza (@fig-c11-24).
 
-
-
 ![Mapa de amenaza por inundación en el municipio de Aguazul a partir de encuestas. Las zonas de amenaza corresponden a las áreas que la comunidad identifico y los límites se trazaron a partir de las geoformas.](images/capitulo_11/img_957c6ea4.jpeg){#fig-c11-24}
 
 Comparando los resultados obtenidos de la modelación hidráulica por medio del software Iber y las encuestas realizadas a la población en el municipio de Aguazul, se encontró que las manchas de inundación del periodo de retorno 1.3 años coinciden con los testimonios de los habitantes de los barrios encuestados. Sin embargo, evaluando periodos de retorno superiores, los resultados difieren entre la modelación hidráulica y las encuestas, debido a que la construcción de mapas de inundación a partir de encuestas solo logra reproducir eventos recientes, con alta frecuencia y poca magnitud, permitiendo afirmar la necesidad de apoyarse en modelación hidráulica y registros históricos de caudal para determinar los mapas de amenaza por inundación, mientras que las encuestas son una herramienta útil para validar los resultados del modelo para los eventos de menor frecuencia.
@@ -401,7 +382,13 @@ Para la validación de resultados el análisis de susceptibilidad por geoformas,
 
 
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Recomendaciones para tomar decisiones.** Validar los criterios de diseño para las estructuras de contención y mitigación (muros de contención, hexápodos, otros), en caso de no contar con dicha información se recomienda modelarlos y verificar si aún cumplen las características de diseño debido al tiempo en el cual fueron diseñados y el cambio da las condiciones hidrometeorológicas. Realizar análisis multitemporales por medio de sensores remotos (fotografías aéreas e imágenes satelitales) para proyectos que se desarrollen en zonas aledañas a las riberas con el fin de identificar antiguas áreas sujetas a inundación, la dinámica de los cauces y geoformas con mayor susceptibilidad a desastres naturales. En busca de un mejor planeamiento municipal, es indispensable apoyar la identificación de áreas sujetas a amenazas naturales mediante trabajo de campo, información primaria y modelamiento numérico, cuyos resultados deben validarse con la percepción y conocimiento experto de la comunidad. Los resultados obtenidos reflejan la amenaza a la cual se encuentra expuesto el municipio de Aguazul, sin embargo, reconociendo como principal limitación de este estudio la falta de topografía de detalle en el área urbana y zona inundables, es pertinente realizar estudios de detalle en las zonas identificadas con amenaza para obtener resultados más precisos, condición que no es única del municipio de Aguazul, si no que resulta común en la mayoría del contexto colombiano. Ante los escenarios de cambio climático es recomendable modelar escenarios de amenaza por el desbordamiento del río Unete considerando el cambio climático, ya que el IPCC pronostica aumento de precipitaciones.
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Recomendaciones para tomar decisiones</h2>
+
+1. Validar los criterios de diseño para las estructuras de contención y mitigación (muros de contención, hexápodos, otros), en caso de no contar con dicha información se recomienda modelarlos y verificar si aún cumplen las características de diseño debido al tiempo en el cual fueron diseñados y el cambio da las condiciones hidrometeorológicas.
+2. Realizar análisis multitemporales por medio de sensores remotos (fotografías aéreas e imágenes satelitales) para proyectos que se desarrollen en zonas aledañas a las riberas con el fin de identificar antiguas áreas sujetas a inundación, la dinámica de los cauces y geoformas con mayor susceptibilidad a desastres naturales.
+3. En busca de un mejor planeamiento municipal, es indispensable apoyar la identificación de áreas sujetas a amenazas naturales mediante trabajo de campo, información primaria y modelamiento numérico, cuyos resultados deben validarse con la percepción y conocimiento experto de la comunidad.
+4. Los resultados obtenidos reflejan la amenaza a la cual se encuentra expuesto el municipio de Aguazul, sin embargo, reconociendo como principal limitación de este estudio la falta de topografía de detalle en el área urbana y zona inundables, es pertinente realizar estudios de detalle en las zonas identificadas con amenaza para obtener resultados más precisos, condición que no es única del municipio de Aguazul, si no que resulta común en la mayoría del contexto colombiano.
+5. Ante los escenarios de cambio climático es recomendable modelar escenarios de amenaza por el desbordamiento del río Unete considerando el cambio climático, ya que el IPCC pronostica aumento de precipitaciones.
 :::
 
 ## 11.6 CONFLICTO DE INTERES
@@ -414,13 +401,13 @@ Los autores no declaran conflicto de intereses.
 
 ------------------------------------------------------------------------
 
-Rafael Muñoz Quintero
+Rafael Muñoz Quintero   <https://orcid.org/0000-0002-6359-3347>
 
-Daniela Jácome Hernández
+Daniela Jácome Hernández   <https://orcid.org/0000-0002-1295-1116>
 
-Alejandro Franco Rojas
+Alejandro Franco Rojas   [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000033572)
 
-Alexander Padilla González
+Alexander Padilla González   [CvLAC](https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0001416023)
 
 ## BIBLIOGRAFÍA
 

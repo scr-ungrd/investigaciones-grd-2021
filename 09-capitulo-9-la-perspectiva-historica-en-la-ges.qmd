@@ -343,7 +343,9 @@ Finalmente, la distribución espacial de los eventos históricos, específicamen
 
 
 ::: {#recomendaciones-1 .callout-important style="background-color: #fff0f3ff; padding:20px; border: none !important;" appearance="minimal" icon="false"}
-**Recomendaciones para tomar decisiones.** Con el propósito de cumplir con los objetivos de los estudios históricos y que representen una herramienta útil en los procesos de gestión del riesgo y de la planificación del territorio, es fundamental que, desde las diferentes administraciones municipales e instituciones, se reconozca la importancia de llevar una adecuada sistematización de los eventos que ocurren en el territorio. Es común encontrar que en los diferentes municipios no se tiene registro de los eventos ocurridos o de las emergencias atendidas, y cuando lo tienen, no detallan las características del evento y sus efectos.
+<h2 style="font-size: 1.5rem; margin-top: 0; margin-bottom: 0;">Recomendaciones para tomar decisiones</h2>
+
+Con el propósito de cumplir con los objetivos de los estudios históricos y que representen una herramienta útil en los procesos de gestión del riesgo y de la planificación del territorio, es fundamental que, desde las diferentes administraciones municipales e instituciones, se reconozca la importancia de llevar una adecuada sistematización de los eventos que ocurren en el territorio. Es común encontrar que en los diferentes municipios no se tiene registro de los eventos ocurridos o de las emergencias atendidas, y cuando lo tienen, no detallan las características del evento y sus efectos.
 :::
 
 ## CONFLICTO DE INTERESES
