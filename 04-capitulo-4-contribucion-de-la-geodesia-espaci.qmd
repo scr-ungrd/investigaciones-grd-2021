@@ -436,7 +436,7 @@ Se recomienda la utilización de las señales de las constelaciones GNSS con pro
 
 Los autores no declaran conflicto de intereses.
 
-## 4.6 AGRADECIMIENTOS
+## AGRADECIMIENTOS
 
 ------------------------------------------------------------------------
 

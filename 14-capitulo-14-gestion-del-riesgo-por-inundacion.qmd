@@ -345,7 +345,7 @@ Al analizar los instrumentos de planeación para la gestión del riesgo por inun
 **Trabajo a futuro.** A futuro, resulta interesante realizar ejercicios de modelado participativo con actores vinculados a Entidades Nacionales y analizar cómo la imagen que tienen del territorio interactúa con la imagen que tienen las comunidades que allí habitan. El hecho de tener diferentes enfoques sobre “desarrollo” o “buen vivir” genera aún mayores retos en términos de valores, convivencia y generación de acuerdos. La integración de los tres modelos también es un reto y puede ser viable como trabajo futuro. Por ejemplo, se podrían procesar imágenes y videos de MOJANAREAL para extraer patrones, reglas y atributos que se pudieran integrar en MOJANA y MOJANACOOP. Esto evidencia que la integración puede ser viable no solo al interior de cada artefacto, sino también entre los artefactos.  Uno de los principales retos a futuro, es trabajar en la incorporación de la vulnerabilidad social en la evaluación de riesgo por inundación. Abordándola de manera integrada con la amenaza y los demás componentes de la vulnerabilidad. En este trabajo se demostró que las condiciones de vulnerabilidad social pueden aumentar o disminuir el riesgo por inundación. Actualmente, si esto no se tienen en cuenta, muchas de las intervenciones podrían estar sobreestimándose o subestimándose. Lo que afecta directamente los procesos de gestión presupuestal del riesgo y la calidad de vida de la población.
 :::
 
-## 14.7 AGRADECIMIENTOS
+## AGRADECIMIENTOS
 
 ------------------------------------------------------------------------
 
