@@ -51,7 +51,9 @@ Subdirección para el Conocimiento del Riesgo: Hugo Niño, Alejandro Herrera, Hu
 **Proceso de arbitraje**\
 Revisión por pares doble ciega para cada capítulo
 
-**ISBN obra digital**: 978-958-5509-19-1
+**ISBN obra digital**
+
+DOI: <https://doi.org/10.5281/zenodo.21627069>: 978-958-5509-19-1
 
 Copyright: © Unidad Nacional para la Gestión del Riesgo de Desastres, abril de 2021\
 Bogotá, Colombia

@@ -22,7 +22,7 @@ author:
 title-block-banner: "images/banner_2021.png"
 title-block-banner-color: "#151550ff"
 date: ""
-doi: ""
+doi: "10.5281/zenodo.21627106"
 ---
 
 ::: {#resumen}
