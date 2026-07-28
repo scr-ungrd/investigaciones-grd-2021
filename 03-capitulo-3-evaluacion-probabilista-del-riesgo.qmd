@@ -420,8 +420,7 @@ Es importante señalar que la evapotranspiración de referencia ( $ET0$ ) es dif
 
 El método de Penman-Monteith (ver (2) para el cálculo de la evapotranspiración de referencia permite cuantificar los procesos de evaporación (vaporización de agua desde una superficie: suelo, vegetación húmeda) y transpiración (vaporización del agua contenida en los tejidos vegetales), que ocurren simultáneamente. Los parámetros necesarios para el cálculo son el brillo solar, la temperatura, la humedad, la velocidad del viento, el flujo de vapor y la resistencia aerodinámica.
 
-|     | \(2\) |
-|-----|-------|
+$$ET_0 = \frac{0.408\Delta(R_n - G) + \gamma\dfrac{900}{T + 273}u_2(e_s - e_a)}{\Delta + \gamma(1 + 0.34u_2)} \tag{2}$$
 
 En donde $Rn$ es la radiación neta, $G$ es el flujo de calor del suelo, $γ$ es la constante psicrométrica, $T$ es la temperatura promedio diaria, $u2$ es la velocidad del viento (a 2m de la superficie), $es-ea$ representa el déficit de presión de vapor y $Δ$ es la pendiente de la curva de presión de vapor. La aplicación de la metodología de Penman-Monteith implica la recopilación de información meteorológica que puede no estar disponible en todos los casos. Los parámetros meteorológicos faltantes se establecen a partir de criterio de expertos, información meteorológica general de la región y las reglas de cálculo recomendadas por la FAO [\[33\]](#ref-33).
 
