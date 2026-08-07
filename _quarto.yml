@@ -8,6 +8,13 @@ book:
   cover-image: images/libro-2021-portada.png
   repo-url: https://github.com/scr-ungrd/investigaciones-grd-2021
   repo-actions: [source, issue]
+  sidebar:
+    tools:
+      - icon: diagram-3-fill
+        href: "https://scr-ungrd.github.io/hub/"
+        aria-label: "HUB SCR — portal de proyectos"
+        target: _blank
+        rel: noopener noreferrer
   chapters:
     - index.qmd
     - prelim-presentacion.qmd
